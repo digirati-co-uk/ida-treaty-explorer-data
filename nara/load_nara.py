@@ -3,6 +3,8 @@ import os
 import dateparser
 import datetime
 import en_core_web_sm
+import csv
+import uuid
 
 
 def summarise(record):
@@ -157,6 +159,88 @@ def run(nara_file=None):
             if ent.label_ == "DATE":
                 r["other_dates"].append(f"{dateparser.parse(ent.text)}")
         print(json.dumps(r, indent=4))
+
+
+def run_iiif(nara_file):
+    if not nara_file:
+        nara_file = os.path.abspath(os.path.join(
+            os.path.dirname(__file__), "nara-export-86625.json"
+        )
+        )
+    with open(nara_file, "r") as f:
+        nara_json = json.load(f)
+    digitised_objects = []
+    for record in nara_json:
+        r = dict(arc_id=record.get("arcIdentifier"), title=record.get("title"))
+        if record.get("objects"):
+            objects = record.get("objects")
+            item_objects = objects["object"]
+            r["jpegs"] = [x["file"]["@url"] for x in item_objects if ".jpg" in x["file"][
+                "@url"].lower() and "thumb" not in x["file"]["@url"].lower() and ".tif" not
+                in x["file"]["@url"].lower()]
+            r["gifs"] = [x["file"]["@url"] for x in item_objects if ".gif" in x["file"][
+                "@url"].lower() and "thumb" not in x["file"]["@url"].lower()]
+            # if r["arc_id"] == "299799":
+            #     print(json.dumps(item_objects, indent=2))
+            digitised_objects.append(r)
+    return digitised_objects
+
+
+def gen_csvs(digitised):
+    for d in digitised:
+        # print(json.dumps(d, indent=3))
+        series = "ratified-indian-treaties"
+        origins = []
+        if len(d["jpegs"])>0:
+            for c, j in enumerate(d["jpegs"]):
+                number_reference = None
+                if "_ac.jpg" in j:
+                    url = j.lower()
+                    number_reference = url.replace("_ac.jpg", "").split("-")[-1]
+                elif "-ac.jpg" in j:
+                    url = j.lower()
+                    number_reference = url.replace("-ac.jpg", "").split("-")[-1]
+                elif "AC.jpg" in j:
+                    url = j.lower()
+                    number_reference = url.replace("_ac.jpg", "").split("_")[-1]
+                elif "PR.jpg" in j:
+                    url = j.lower()
+                    number_reference = url.replace("_pr.jpg", "").split("_")[-1]
+                if number_reference:
+                    origins.append(
+                        {
+                            "Origin": j,
+                            "NumberReference1": int(number_reference),
+                            "Reference1": series,
+                            "Reference2": d["arc_id"],
+                            "ID": str(uuid.uuid4()),
+                            "Space": 1,
+                            "Line": int(c),
+                            "Type": "Image",
+                            "MaxUnauthorised": -1
+                        }
+                    )
+            origins.sort(key=lambda result: result["Line"])
+            print(json.dumps(origins, indent=2))
+            csv_file = series + "_" + d["arc_id"] + ".csv"
+            with open(csv_file, 'w') as csvfile:
+                fieldnames = ['Type', 'Line', 'Space', 'ID', 'Origin', 'InitialOrigin',
+                              'Reference1', 'Reference2', 'Reference3', 'Tags', 'Roles',
+                              'MaxUnauthorised',
+                              'NumberReference1', 'NumberReference2', 'NumberReference3']
+                writer = csv.DictWriter(csvfile, fieldnames=fieldnames, quotechar='"',
+                                        quoting=csv.QUOTE_ALL)
+                writer.writeheader()
+                for origin in origins:
+                    writer.writerow(origin)
+
+
+
+
+
+gen_csvs(digitised=run_iiif(nara_file="/Users/mmcg/Documents/Work/Github/ida-treaty-explorer-data/nara/nara-export"
+                  "-86625.json"))
+
 
 
 
