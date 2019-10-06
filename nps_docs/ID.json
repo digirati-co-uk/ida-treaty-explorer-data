@@ -1,0 +1,594 @@
+[
+    {
+        "MAP #": "441",
+        "MAP Name": "Idaho, Oregon 1, Washington 1",
+        "State": "ID",
+        "County": "Adams",
+        "Tribe Named in Treaty": "Nez Perc\u00e9",
+        "Present-Day Tribe": "Nez Perce Tribe of Idaho"
+    },
+    {
+        "MAP #": "444",
+        "MAP Name": "Utah 1, Nevada, California 2, Oregon 1, Idaho",
+        "State": "ID",
+        "County": "Adams",
+        "Tribe Named in Treaty": "Shoshoni (Western bands)",
+        "Present-Day Tribe": "Te-Moak Tribe of Western Shoshone Indians of Nevada"
+    },
+    {
+        "MAP #": "524",
+        "MAP Name": "Idaho",
+        "State": "ID",
+        "County": "Bannock",
+        "Tribe Named in Treaty": "Bannock",
+        "Present-Day Tribe": "Shoshone-Bannock Tribes of the Fort Hall Reservation of Idaho"
+    },
+    {
+        "MAP #": "552",
+        "MAP Name": "Idaho",
+        "State": "ID",
+        "County": "Benewah",
+        "Tribe Named in Treaty": "Benewah",
+        "Present-Day Tribe": "Coeur d'Al\u00e8ne"
+    },
+    {
+        "MAP #": "553",
+        "MAP Name": "Idaho, Washington 1",
+        "State": "ID",
+        "County": "Benewah",
+        "Tribe Named in Treaty": "Coeur d'Al\u00e8ne",
+        "Present-Day Tribe": "Coeur D'Alene Tribe of the Coeur D'Alene Reservation, Idaho"
+    },
+    {
+        "MAP #": "524",
+        "MAP Name": "Idaho",
+        "State": "ID",
+        "County": "Bingham",
+        "Tribe Named in Treaty": "Bannock",
+        "Present-Day Tribe": "Shoshone-Bannock Tribes of the Fort Hall Reservation of Idaho"
+    },
+    {
+        "MAP #": "444",
+        "MAP Name": "Utah 1, Nevada, California 2, Oregon 1, Idaho",
+        "State": "ID",
+        "County": "Blaine",
+        "Tribe Named in Treaty": "Shoshoni (Western bands)",
+        "Present-Day Tribe": "Te-Moak Tribe of Western Shoshone Indians of Nevada"
+    },
+    {
+        "MAP #": "444",
+        "MAP Name": "Utah 1, Nevada, California 2, Oregon 1, Idaho",
+        "State": "ID",
+        "County": "Boise",
+        "Tribe Named in Treaty": "Shoshoni (Western bands)",
+        "Present-Day Tribe": "Te-Moak Tribe of Western Shoshone Indians of Nevada"
+    },
+    {
+        "MAP #": "373",
+        "MAP Name": "Montana 1, Idaho",
+        "State": "ID",
+        "County": "Bonner",
+        "Tribe Named in Treaty": "Flathead",
+        "Present-Day Tribe": "Confederated Salish & Kootenai Tribes of the Flathead Reservation, Montana"
+    },
+    {
+        "MAP #": "373",
+        "MAP Name": "Montana 1, Idaho",
+        "State": "ID",
+        "County": "Bonner",
+        "Tribe Named in Treaty": "Flathead",
+        "Present-Day Tribe": "Confederated Tribes of the Colville Reservation, Washington"
+    },
+    {
+        "MAP #": "373",
+        "MAP Name": "Montana 1, Idaho",
+        "State": "ID",
+        "County": "Bonner",
+        "Tribe Named in Treaty": "Kootenay",
+        "Present-Day Tribe": "Confederated Salish & Kootenai Tribes of the Flathead Reservation, Montana"
+    },
+    {
+        "MAP #": "373",
+        "MAP Name": "Montana 1, Idaho",
+        "State": "ID",
+        "County": "Bonner",
+        "Tribe Named in Treaty": "Bonner",
+        "Present-Day Tribe": "Kootenay"
+    },
+    {
+        "MAP #": "532",
+        "MAP Name": "Montana 1, Idaho, Washington 1",
+        "State": "ID",
+        "County": "Bonner",
+        "Tribe Named in Treaty": "Methow",
+        "Present-Day Tribe": "Confederated Tribes of the Colville Reservation, Washington"
+    },
+    {
+        "MAP #": "532",
+        "MAP Name": "Montana 1, Idaho, Washington 1",
+        "State": "ID",
+        "County": "Bonner",
+        "Tribe Named in Treaty": "Okanagan",
+        "Present-Day Tribe": "Confederated Tribes of the Colville Reservation, Washington"
+    },
+    {
+        "MAP #": "373",
+        "MAP Name": "Montana 1, Idaho",
+        "State": "ID",
+        "County": "Bonner",
+        "Tribe Named in Treaty": "Upper Pend d'Orelles",
+        "Present-Day Tribe": "Confederated Salish & Kootenai Tribes of the Flathead Reservation, Montana"
+    },
+    {
+        "MAP #": "373",
+        "MAP Name": "Montana 1, Idaho",
+        "State": "ID",
+        "County": "Boundary",
+        "Tribe Named in Treaty": "Flathead",
+        "Present-Day Tribe": "Confederated Salish & Kootenai Tribes of the Flathead Reservation, Montana"
+    },
+    {
+        "MAP #": "373",
+        "MAP Name": "Montana 1, Idaho",
+        "State": "ID",
+        "County": "Boundary",
+        "Tribe Named in Treaty": "Flathead",
+        "Present-Day Tribe": "Confederated Tribes of the Colville Reservation, Washington"
+    },
+    {
+        "MAP #": "373",
+        "MAP Name": "Montana 1, Idaho",
+        "State": "ID",
+        "County": "Boundary",
+        "Tribe Named in Treaty": "Kootenay",
+        "Present-Day Tribe": "Confederated Salish & Kootenai Tribes of the Flathead Reservation, Montana"
+    },
+    {
+        "MAP #": "373",
+        "MAP Name": "Montana 1, Idaho",
+        "State": "ID",
+        "County": "Boundary",
+        "Tribe Named in Treaty": "Kootenay",
+        "Present-Day Tribe": "Confederated Tribes of the Colville Reservation, Washington"
+    },
+    {
+        "MAP #": "532",
+        "MAP Name": "Montana 1, Idaho, Washington 1",
+        "State": "ID",
+        "County": "Boundary",
+        "Tribe Named in Treaty": "Boundary",
+        "Present-Day Tribe": "Methow"
+    },
+    {
+        "MAP #": "532",
+        "MAP Name": "Montana 1, Idaho, Washington 1",
+        "State": "ID",
+        "County": "Boundary",
+        "Tribe Named in Treaty": "Okanagan",
+        "Present-Day Tribe": "Confederated Tribes of the Colville Reservation, Washington"
+    },
+    {
+        "MAP #": "373",
+        "MAP Name": "Montana 1, Idaho",
+        "State": "ID",
+        "County": "Boundary",
+        "Tribe Named in Treaty": "Upper Pend d'Orelles",
+        "Present-Day Tribe": "Confederated Salish & Kootenai Tribes of the Flathead Reservation, Montana"
+    },
+    {
+        "MAP #": "444",
+        "MAP Name": "Utah 1, Nevada, California 2, Oregon 1, Idaho",
+        "State": "ID",
+        "County": "Canyon",
+        "Tribe Named in Treaty": "Shoshoni (Western bands)",
+        "Present-Day Tribe": "Te-Moak Tribe of Western Shoshone Indians of Nevada"
+    },
+    {
+        "MAP #": "524",
+        "MAP Name": "Idaho",
+        "State": "ID",
+        "County": "Caribou",
+        "Tribe Named in Treaty": "Bannock",
+        "Present-Day Tribe": "Shoshone-Bannock Tribes of the Fort Hall Reservation of Idaho"
+    },
+    {
+        "MAP #": "444",
+        "MAP Name": "Utah 1, Nevada, California 2, Oregon 1, Idaho",
+        "State": "ID",
+        "County": "Cassia",
+        "Tribe Named in Treaty": "Shoshoni (Western bands)",
+        "Present-Day Tribe": "Te-Moak Tribe of Western Shoshone Indians of Nevada"
+    },
+    {
+        "MAP #": "441",
+        "MAP Name": "Idaho, Oregon 1, Washington 1",
+        "State": "ID",
+        "County": "Clearwater",
+        "Tribe Named in Treaty": "Nez Perc\u00e9",
+        "Present-Day Tribe": "Nez Perce Tribe of Idaho"
+    },
+    {
+        "MAP #": "442",
+        "MAP Name": "Idaho",
+        "State": "ID",
+        "County": "Clearwater",
+        "Tribe Named in Treaty": "Nez Perc\u00e9",
+        "Present-Day Tribe": "Nez Perce Tribe of Idaho"
+    },
+    {
+        "MAP #": "444",
+        "MAP Name": "Utah 1, Nevada, California 2, Oregon 1, Idaho",
+        "State": "ID",
+        "County": "Custer",
+        "Tribe Named in Treaty": "Custer",
+        "Present-Day Tribe": "Shoshoni (Western bands)"
+    },
+    {
+        "MAP #": "444",
+        "MAP Name": "Utah 1, Nevada, California 2, Oregon 1, Idaho",
+        "State": "ID",
+        "County": "Elmore",
+        "Tribe Named in Treaty": "Shoshoni (Western bands)",
+        "Present-Day Tribe": "Te-Moak Tribe of Western Shoshone Indians of Nevada"
+    },
+    {
+        "MAP #": "444",
+        "MAP Name": "Utah 1, Nevada, California 2, Oregon 1, Idaho",
+        "State": "ID",
+        "County": "Fayette",
+        "Tribe Named in Treaty": "Shoshoni (Western bands)",
+        "Present-Day Tribe": "Te-Moak Tribe of Western Shoshone Indians of Nevada"
+    },
+    {
+        "MAP #": "444",
+        "MAP Name": "Utah 1, Nevada, California 2, Oregon 1, Idaho",
+        "State": "ID",
+        "County": "Gem",
+        "Tribe Named in Treaty": "Shoshoni (Western bands)",
+        "Present-Day Tribe": "Te-Moak Tribe of Western Shoshone Indians of Nevada"
+    },
+    {
+        "MAP #": "444",
+        "MAP Name": "Utah 1, Nevada, California 2, Oregon 1, Idaho",
+        "State": "ID",
+        "County": "Gooding",
+        "Tribe Named in Treaty": "Shoshoni (Western bands)",
+        "Present-Day Tribe": "Te-Moak Tribe of Western Shoshone Indians of Nevada"
+    },
+    {
+        "MAP #": "441",
+        "MAP Name": "Idaho, Oregon 1, Washington 1",
+        "State": "ID",
+        "County": "Idaho",
+        "Tribe Named in Treaty": "Nez Perc\u00e9",
+        "Present-Day Tribe": "Nez Perce Tribe of Idaho"
+    },
+    {
+        "MAP #": "442",
+        "MAP Name": "Idaho",
+        "State": "ID",
+        "County": "Idaho",
+        "Tribe Named in Treaty": "Nez Perc\u00e9",
+        "Present-Day Tribe": "Nez Perce Tribe of Idaho"
+    },
+    {
+        "MAP #": "444",
+        "MAP Name": "Utah 1, Nevada, California 2, Oregon 1, Idaho",
+        "State": "ID",
+        "County": "Jerome",
+        "Tribe Named in Treaty": "Shoshoni (Western bands)",
+        "Present-Day Tribe": "Te-Moak Tribe of Western Shoshone Indians of Nevada"
+    },
+    {
+        "MAP #": "552",
+        "MAP Name": "Idaho",
+        "State": "ID",
+        "County": "Kootenai",
+        "Tribe Named in Treaty": "Kootenai",
+        "Present-Day Tribe": "Coeur d'Al\u00e8ne"
+    },
+    {
+        "MAP #": "553",
+        "MAP Name": "Idaho, Washington 1",
+        "State": "ID",
+        "County": "Kootenai",
+        "Tribe Named in Treaty": "Coeur d'Al\u00e8ne",
+        "Present-Day Tribe": "Coeur D'Alene Tribe of the Coeur D'Alene Reservation, Idaho"
+    },
+    {
+        "MAP #": "532",
+        "MAP Name": "Montana 1, Idaho, Washington 1",
+        "State": "ID",
+        "County": "Kootenai",
+        "Tribe Named in Treaty": "Methow",
+        "Present-Day Tribe": "Confederated Tribes of the Colville Reservation, Washington"
+    },
+    {
+        "MAP #": "532",
+        "MAP Name": "Montana 1, Idaho, Washington 1",
+        "State": "ID",
+        "County": "Kootenai",
+        "Tribe Named in Treaty": "Okanagan",
+        "Present-Day Tribe": "Confederated Tribes of the Colville Reservation, Washington"
+    },
+    {
+        "MAP #": "553",
+        "MAP Name": "Idaho, Washington 1",
+        "State": "ID",
+        "County": "Latah",
+        "Tribe Named in Treaty": "Coeur d'Al\u00e8ne",
+        "Present-Day Tribe": "Coeur D'Alene Tribe of the Coeur D'Alene Reservation, Idaho"
+    },
+    {
+        "MAP #": "441",
+        "MAP Name": "Idaho, Oregon 1, Washington 1",
+        "State": "ID",
+        "County": "Latah",
+        "Tribe Named in Treaty": "Nez Perc\u00e9",
+        "Present-Day Tribe": "Nez Perce Tribe of Idaho"
+    },
+    {
+        "MAP #": "575",
+        "MAP Name": "Idaho",
+        "State": "ID",
+        "County": "Lemhi",
+        "Tribe Named in Treaty": "Bannock",
+        "Present-Day Tribe": "Shoshone-Bannock Tribes of the Fort Hall Reservation of Idaho"
+    },
+    {
+        "MAP #": "575",
+        "MAP Name": "Idaho",
+        "State": "ID",
+        "County": "Lemhi",
+        "Tribe Named in Treaty": "Sheepeater",
+        "Present-Day Tribe": "Shoshone-Paiute Tribes of the Duck Valley Reservation, Nevada"
+    },
+    {
+        "MAP #": "575",
+        "MAP Name": "Idaho",
+        "State": "ID",
+        "County": "Lemhi",
+        "Tribe Named in Treaty": "Lemhi",
+        "Present-Day Tribe": "Shoshoni"
+    },
+    {
+        "MAP #": "575",
+        "MAP Name": "Idaho",
+        "State": "ID",
+        "County": "Lemhi",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Death Valley Timbi-Sha Shoshone Band of California"
+    },
+    {
+        "MAP #": "575",
+        "MAP Name": "Idaho",
+        "State": "ID",
+        "County": "Lemhi",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Duckwater Shoshone Tribe of the Duckwater Reservation, Nevada"
+    },
+    {
+        "MAP #": "575",
+        "MAP Name": "Idaho",
+        "State": "ID",
+        "County": "Lemhi",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Ely Shoshone Tribe of Nevada"
+    },
+    {
+        "MAP #": "575",
+        "MAP Name": "Idaho",
+        "State": "ID",
+        "County": "Lemhi",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Fort McDermitt Paiute and Shoshone Tribes of the Fort McDermitt Indian Reservation, Nevada and Oregon"
+    },
+    {
+        "MAP #": "575",
+        "MAP Name": "Idaho",
+        "State": "ID",
+        "County": "Lemhi",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Paiute-Shoshone Indians of the Bishop Community of the Bishop Colony, California"
+    },
+    {
+        "MAP #": "575",
+        "MAP Name": "Idaho",
+        "State": "ID",
+        "County": "Lemhi",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Paiute-Shoshone Indians of the Lone Pine Community of the Lone Pine Reservation, California"
+    },
+    {
+        "MAP #": "575",
+        "MAP Name": "Idaho",
+        "State": "ID",
+        "County": "Lemhi",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Paiute-Shoshone Tribe of the Fallon Reservation and Colony, Nevada"
+    },
+    {
+        "MAP #": "575",
+        "MAP Name": "Idaho",
+        "State": "ID",
+        "County": "Lemhi",
+        "Tribe Named in Treaty": "Lemhi",
+        "Present-Day Tribe": "Shoshoni"
+    },
+    {
+        "MAP #": "575",
+        "MAP Name": "Idaho",
+        "State": "ID",
+        "County": "Lemhi",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Shoshone-Bannock Tribes of the Fort Hall Reservation of Idaho"
+    },
+    {
+        "MAP #": "575",
+        "MAP Name": "Idaho",
+        "State": "ID",
+        "County": "Lemhi",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Shoshone-Paiute Tribes of the Duck Valley Reservation, Nevada"
+    },
+    {
+        "MAP #": "575",
+        "MAP Name": "Idaho",
+        "State": "ID",
+        "County": "Lemhi",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Te-Moak Tribe of Western Shoshone Indians of Nevada"
+    },
+    {
+        "MAP #": "575",
+        "MAP Name": "Idaho",
+        "State": "ID",
+        "County": "Lemhi",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Yomba Shoshone Tribe of the Yomba Reservation, Nevada"
+    },
+    {
+        "MAP #": "444",
+        "MAP Name": "Utah 1, Nevada, California 2, Oregon 1, Idaho",
+        "State": "ID",
+        "County": "Lemhi",
+        "Tribe Named in Treaty": "Shoshoni (Western bands)",
+        "Present-Day Tribe": "Te-Moak Tribe of Western Shoshone Indians of Nevada"
+    },
+    {
+        "MAP #": "441",
+        "MAP Name": "Idaho, Oregon 1, Washington 1",
+        "State": "ID",
+        "County": "Lewis",
+        "Tribe Named in Treaty": "Nez Perc\u00e9",
+        "Present-Day Tribe": "Nez Perce Tribe of Idaho"
+    },
+    {
+        "MAP #": "442",
+        "MAP Name": "Idaho",
+        "State": "ID",
+        "County": "Lewis",
+        "Tribe Named in Treaty": "Nez Perc\u00e9",
+        "Present-Day Tribe": "Nez Perce Tribe of Idaho"
+    },
+    {
+        "MAP #": "444",
+        "MAP Name": "Utah 1, Nevada, California 2, Oregon 1, Idaho",
+        "State": "ID",
+        "County": "Lincoln",
+        "Tribe Named in Treaty": "Lincoln",
+        "Present-Day Tribe": "Shoshoni (Western bands)"
+    },
+    {
+        "MAP #": "444",
+        "MAP Name": "Utah 1, Nevada, California 2, Oregon 1, Idaho",
+        "State": "ID",
+        "County": "Minidoka",
+        "Tribe Named in Treaty": "Shoshoni (Western bands)",
+        "Present-Day Tribe": "Te-Moak Tribe of Western Shoshone Indians of Nevada"
+    },
+    {
+        "MAP #": "441",
+        "MAP Name": "Idaho, Oregon 1, Washington 1",
+        "State": "ID",
+        "County": "Nez Perce",
+        "Tribe Named in Treaty": "Nez Perc\u00e9",
+        "Present-Day Tribe": "Nez Perce Tribe of Idaho"
+    },
+    {
+        "MAP #": "442",
+        "MAP Name": "Idaho",
+        "State": "ID",
+        "County": "Nez Perce",
+        "Tribe Named in Treaty": "Nez Perc\u00e9",
+        "Present-Day Tribe": "Nez Perce Tribe of Idaho"
+    },
+    {
+        "MAP #": "660",
+        "MAP Name": "Idaho",
+        "State": "ID",
+        "County": "Owyhee",
+        "Tribe Named in Treaty": "Paiute (Paddy Cap's band)",
+        "Present-Day Tribe": "Shoshone-Paiute Tribes of the Duck Valley Reservation, Nevada"
+    },
+    {
+        "MAP #": "444",
+        "MAP Name": "Utah 1, Nevada, California 2, Oregon 1, Idaho",
+        "State": "ID",
+        "County": "Owyhee",
+        "Tribe Named in Treaty": "Shoshoni (Western bands)",
+        "Present-Day Tribe": "Te-Moak Tribe of Western Shoshone Indians of Nevada"
+    },
+    {
+        "MAP #": "604",
+        "MAP Name": "Nevada, Idaho",
+        "State": "ID",
+        "County": "Owyhee",
+        "Tribe Named in Treaty": "Shoshoni (Western bands)",
+        "Present-Day Tribe": "Te-Moak Tribe of Western Shoshone Indians of Nevada"
+    },
+    {
+        "MAP #": "524",
+        "MAP Name": "Idaho",
+        "State": "ID",
+        "County": "Power",
+        "Tribe Named in Treaty": "Bannock",
+        "Present-Day Tribe": "Shoshone-Bannock Tribes of the Fort Hall Reservation of Idaho"
+    },
+    {
+        "MAP #": "553",
+        "MAP Name": "Idaho, Washington 1",
+        "State": "ID",
+        "County": "Shoshone",
+        "Tribe Named in Treaty": "Shoshone",
+        "Present-Day Tribe": "Coeur d'Al\u00e8ne"
+    },
+    {
+        "MAP #": "532",
+        "MAP Name": "Montana 1, Idaho, Washington 1",
+        "State": "ID",
+        "County": "Shoshone",
+        "Tribe Named in Treaty": "Methow",
+        "Present-Day Tribe": "Confederated Tribes of the Colville Reservation, Washington"
+    },
+    {
+        "MAP #": "532",
+        "MAP Name": "Montana 1, Idaho, Washington 1",
+        "State": "ID",
+        "County": "Shoshone",
+        "Tribe Named in Treaty": "Okanagan",
+        "Present-Day Tribe": "Confederated Tribes of the Colville Reservation, Washington"
+    },
+    {
+        "MAP #": "444",
+        "MAP Name": "Utah 1, Nevada, California 2, Oregon 1, Idaho",
+        "State": "ID",
+        "County": "Twin Falls",
+        "Tribe Named in Treaty": "Shoshoni (Western bands)",
+        "Present-Day Tribe": "Te-Moak Tribe of Western Shoshone Indians of Nevada"
+    },
+    {
+        "MAP #": "441",
+        "MAP Name": "Idaho, Oregon 1, Washington 1",
+        "State": "ID",
+        "County": "Valley",
+        "Tribe Named in Treaty": "Nez Perc\u00e9",
+        "Present-Day Tribe": "Nez Perce Tribe of Idaho"
+    },
+    {
+        "MAP #": "444",
+        "MAP Name": "Utah 1, Nevada, California 2, Oregon 1, Idaho",
+        "State": "ID",
+        "County": "Valley",
+        "Tribe Named in Treaty": "Shoshoni (Western bands)",
+        "Present-Day Tribe": "Te-Moak Tribe of Western Shoshone Indians of Nevada"
+    },
+    {
+        "MAP #": "444",
+        "MAP Name": "Utah 1, Nevada, California 2, Oregon 1, Idaho",
+        "State": "ID",
+        "County": "Washington",
+        "Tribe Named in Treaty": "Shoshoni (Western bands)",
+        "Present-Day Tribe": "Te-Moak Tribe of Western Shoshone Indians of Nevada"
+    }
+]

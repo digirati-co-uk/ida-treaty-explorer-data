@@ -1,0 +1,1522 @@
+[
+    {
+        "MAP #": "364",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Adams",
+        "Tribe Named in Treaty": "Yakima",
+        "Present-Day Tribe": "Confederated Tribes and Bands of the Yakama Nation, Washington"
+    },
+    {
+        "MAP #": "441",
+        "MAP Name": "Idaho, Oregon 1, Washington 1",
+        "State": "Idaho, Oregon 1, Washington 1",
+        "County": "WA",
+        "Tribe Named in Treaty": "Asotin",
+        "Present-Day Tribe": "Nez Perc\u00e9"
+    },
+    {
+        "MAP #": "545",
+        "MAP Name": "Oregon 2, Washington 2",
+        "State": "WA",
+        "County": "Asotin",
+        "Tribe Named in Treaty": "Nez Perc\u00e9",
+        "Present-Day Tribe": "Nez Perce Tribe of Idaho"
+    },
+    {
+        "MAP #": "362",
+        "MAP Name": "Oregon 1, Washington 1",
+        "State": "WA",
+        "County": "Benton",
+        "Tribe Named in Treaty": "Cayuse",
+        "Present-Day Tribe": "Confederated Tribes of the Umatilla Reservation, Oregon"
+    },
+    {
+        "MAP #": "362",
+        "MAP Name": "Oregon 1, Washington 1",
+        "State": "WA",
+        "County": "Benton",
+        "Tribe Named in Treaty": "Benton",
+        "Present-Day Tribe": "Umatilla"
+    },
+    {
+        "MAP #": "362",
+        "MAP Name": "Oregon 1, Washington 1",
+        "State": "WA",
+        "County": "Benton",
+        "Tribe Named in Treaty": "Walla-walla",
+        "Present-Day Tribe": "Confederated Tribes of the Umatilla Reservation, Oregon"
+    },
+    {
+        "MAP #": "364",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Benton",
+        "Tribe Named in Treaty": "Yakima",
+        "Present-Day Tribe": "Yakima"
+    },
+    {
+        "MAP #": "347",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Chelan",
+        "Tribe Named in Treaty": "Dwamish",
+        "Present-Day Tribe": "Duwamish Tribe of Indians"
+    },
+    {
+        "MAP #": "618",
+        "MAP Name": "Washington 2",
+        "State": "WA",
+        "County": "Chelan",
+        "Tribe Named in Treaty": "Nez Perc\u00e9 (Moses' band)",
+        "Present-Day Tribe": "Nez Perce Tribe of Idaho"
+    },
+    {
+        "MAP #": "347",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Chelan",
+        "Tribe Named in Treaty": "Suquamish",
+        "Present-Day Tribe": "Suquamish Indian Tribe of the Port Madison Reservation, Washington"
+    },
+    {
+        "MAP #": "364",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Chelan",
+        "Tribe Named in Treaty": "Yakima",
+        "Present-Day Tribe": "Confederated Tribes and Bands of the Yakama Nation, Washington"
+    },
+    {
+        "MAP #": "355",
+        "MAP Name": "Washington (northwestern)",
+        "State": "WA",
+        "County": "Clallam",
+        "Tribe Named in Treaty": "Makah",
+        "Present-Day Tribe": "Makah Indian Tribe of the Makah Indian Reservation, Washington"
+    },
+    {
+        "MAP #": "356",
+        "MAP Name": "Washington (northwestern)",
+        "State": "Washington (northwestern)",
+        "County": "WA",
+        "Tribe Named in Treaty": "Clallam",
+        "Present-Day Tribe": "Makah"
+    },
+    {
+        "MAP #": "548",
+        "MAP Name": "Washington 2",
+        "State": "WA",
+        "County": "Clallam",
+        "Tribe Named in Treaty": "Makah",
+        "Present-Day Tribe": "Makah Indian Tribe of the Makah Indian Reservation, Washington"
+    },
+    {
+        "MAP #": "346",
+        "MAP Name": "Washington (northwestern)",
+        "State": "WA",
+        "County": "Clallam",
+        "Tribe Named in Treaty": "Niskwali",
+        "Present-Day Tribe": "Nisqually Indian Tribe of the Nisqually Reservation, Washington"
+    },
+    {
+        "MAP #": "346",
+        "MAP Name": "Washington (northwestern)",
+        "State": "WA",
+        "County": "Clallam",
+        "Tribe Named in Treaty": "Clallam",
+        "Present-Day Tribe": "Puyallup"
+    },
+    {
+        "MAP #": "371",
+        "MAP Name": "Washington (northwestern)",
+        "State": "WA",
+        "County": "Clallam",
+        "Tribe Named in Treaty": "Qui-nai-elt",
+        "Present-Day Tribe": "Quinault Tribe of the Quinault Reservation, Washington"
+    },
+    {
+        "MAP #": "371",
+        "MAP Name": "Washington (northwestern)",
+        "State": "WA",
+        "County": "Clallam",
+        "Tribe Named in Treaty": "Quil-leh-ute",
+        "Present-Day Tribe": "Quil-leh-ute"
+    },
+    {
+        "MAP #": "346",
+        "MAP Name": "Washington (northwestern)",
+        "State": "WA",
+        "County": "Clallam",
+        "Tribe Named in Treaty": "S'Homamish",
+        "Present-Day Tribe": "Squaxin Island Tribe of the Squaxin Island Reservation, Washington"
+    },
+    {
+        "MAP #": "346",
+        "MAP Name": "Washington (northwestern)",
+        "State": "WA",
+        "County": "Clallam",
+        "Tribe Named in Treaty": "Sa-heh-wamish",
+        "Present-Day Tribe": "Squaxin Island Tribe of the Squaxin Island Reservation, Washington"
+    },
+    {
+        "MAP #": "353",
+        "MAP Name": "Washington (northwestern)",
+        "State": "WA",
+        "County": "Clallam",
+        "Tribe Named in Treaty": "Sklallam",
+        "Present-Day Tribe": "Port Gamble Indian Community of the Port Gamble Reservation, Washington"
+    },
+    {
+        "MAP #": "346",
+        "MAP Name": "Washington (northwestern)",
+        "State": "WA",
+        "County": "Clallam",
+        "Tribe Named in Treaty": "Squaxin",
+        "Present-Day Tribe": "Squaxin Island Tribe of the Squaxin Island Reservation, Washington"
+    },
+    {
+        "MAP #": "346",
+        "MAP Name": "Washington (northwestern)",
+        "State": "WA",
+        "County": "Clallam",
+        "Tribe Named in Treaty": "Squiaitl",
+        "Present-Day Tribe": "Squaxin Island Tribe of the Squaxin Island Reservation, Washington"
+    },
+    {
+        "MAP #": "346",
+        "MAP Name": "Washington (northwestern)",
+        "State": "Washington (northwestern)",
+        "County": "WA",
+        "Tribe Named in Treaty": "Clallam",
+        "Present-Day Tribe": "Steh-chass"
+    },
+    {
+        "MAP #": "346",
+        "MAP Name": "Washington (northwestern)",
+        "State": "WA",
+        "County": "Clallam",
+        "Tribe Named in Treaty": "Steilacoom",
+        "Present-Day Tribe": "Nonfederally Recognized Indian Groups"
+    },
+    {
+        "MAP #": "346",
+        "MAP Name": "Washington (northwestern)",
+        "State": "WA",
+        "County": "Clallam",
+        "Tribe Named in Treaty": "T'Peeksin",
+        "Present-Day Tribe": "Squaxin Island Tribe of the Squaxin Island Reservation, Washington"
+    },
+    {
+        "MAP #": "458",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Clark",
+        "Tribe Named in Treaty": "Clark",
+        "Present-Day Tribe": "Chehalis"
+    },
+    {
+        "MAP #": "458",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Clark",
+        "Tribe Named in Treaty": "Chinook",
+        "Present-Day Tribe": "Shoalwater Bay Tribe of the Shoalwater Bay Indian Reservation, Washington"
+    },
+    {
+        "MAP #": "458",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Clark",
+        "Tribe Named in Treaty": "Klatsop",
+        "Present-Day Tribe": "Klatsop"
+    },
+    {
+        "MAP #": "362",
+        "MAP Name": "Oregon 1, Washington 1",
+        "State": "WA",
+        "County": "Columbia",
+        "Tribe Named in Treaty": "Cayuse",
+        "Present-Day Tribe": "Confederated Tribes of the Umatilla Reservation, Oregon"
+    },
+    {
+        "MAP #": "366",
+        "MAP Name": "Washington 1, Oregon 1, Idaho",
+        "State": "WA",
+        "County": "Columbia",
+        "Tribe Named in Treaty": "Nez Perc\u00e9",
+        "Present-Day Tribe": "Nez Perce Tribe of Idaho"
+    },
+    {
+        "MAP #": "441",
+        "MAP Name": "Idaho, Oregon 1, Washington 1",
+        "State": "WA",
+        "County": "Columbia",
+        "Tribe Named in Treaty": "Nez Perc\u00e9",
+        "Present-Day Tribe": "Nez Perce Tribe of Idaho"
+    },
+    {
+        "MAP #": "362",
+        "MAP Name": "Oregon 1, Washington 1",
+        "State": "WA",
+        "County": "Columbia",
+        "Tribe Named in Treaty": "Umatilla",
+        "Present-Day Tribe": "Confederated Tribes of the Umatilla Reservation, Oregon"
+    },
+    {
+        "MAP #": "362",
+        "MAP Name": "Oregon 1, Washington 1",
+        "State": "WA",
+        "County": "Columbia",
+        "Tribe Named in Treaty": "Walla-walla",
+        "Present-Day Tribe": "Confederated Tribes of the Umatilla Reservation, Oregon"
+    },
+    {
+        "MAP #": "458",
+        "MAP Name": "Washington 1",
+        "State": "Washington 1",
+        "County": "WA",
+        "Tribe Named in Treaty": "Cowlitz",
+        "Present-Day Tribe": "Chehalis"
+    },
+    {
+        "MAP #": "458",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Cowlitz",
+        "Tribe Named in Treaty": "Chinook",
+        "Present-Day Tribe": "Shoalwater Bay Tribe of the Shoalwater Bay Indian Reservation, Washington"
+    },
+    {
+        "MAP #": "458",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Cowlitz",
+        "Tribe Named in Treaty": "Klatsop",
+        "Present-Day Tribe": "Shoalwater Bay Tribe of the Shoalwater Bay Indian Reservation, Washington"
+    },
+    {
+        "MAP #": "618",
+        "MAP Name": "Washington 2",
+        "State": "WA",
+        "County": "Douglas",
+        "Tribe Named in Treaty": "Douglas",
+        "Present-Day Tribe": "Nez Perc\u00e9 (Moses' band)"
+    },
+    {
+        "MAP #": "364",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Douglas",
+        "Tribe Named in Treaty": "Yakima",
+        "Present-Day Tribe": "Confederated Tribes and Bands of the Yakama Nation, Washington"
+    },
+    {
+        "MAP #": "364",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Franklin",
+        "Tribe Named in Treaty": "Yakima",
+        "Present-Day Tribe": "Yakima"
+    },
+    {
+        "MAP #": "362",
+        "MAP Name": "Oregon 1, Washington 1",
+        "State": "WA",
+        "County": "Garfield",
+        "Tribe Named in Treaty": "Cayuse",
+        "Present-Day Tribe": "Confederated Tribes of the Umatilla Reservation, Oregon"
+    },
+    {
+        "MAP #": "366",
+        "MAP Name": "Washington 1, Oregon 1, Idaho",
+        "State": "WA",
+        "County": "Garfield",
+        "Tribe Named in Treaty": "Nez Perc\u00e9",
+        "Present-Day Tribe": "Nez Perce Tribe of Idaho"
+    },
+    {
+        "MAP #": "441",
+        "MAP Name": "Idaho, Oregon 1, Washington 1",
+        "State": "wa",
+        "County": "Garfield",
+        "Tribe Named in Treaty": "Nez Perc\u00e9",
+        "Present-Day Tribe": "Nez Perce Tribe of Idaho"
+    },
+    {
+        "MAP #": "362",
+        "MAP Name": "Oregon 1, Washington 1",
+        "State": "WA",
+        "County": "Garfield",
+        "Tribe Named in Treaty": "Umatilla",
+        "Present-Day Tribe": "Confederated Tribes of the Umatilla Reservation, Oregon"
+    },
+    {
+        "MAP #": "362",
+        "MAP Name": "Oregon 1, Washington 1",
+        "State": "WA",
+        "County": "Garfield",
+        "Tribe Named in Treaty": "Walla-walla",
+        "Present-Day Tribe": "Confederated Tribes of the Umatilla Reservation, Oregon"
+    },
+    {
+        "MAP #": "364",
+        "MAP Name": "Washington 1",
+        "State": "Washington 1",
+        "County": "WA",
+        "Tribe Named in Treaty": "Grant",
+        "Present-Day Tribe": "Yakima"
+    },
+    {
+        "MAP #": "458",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Grays Harbor",
+        "Tribe Named in Treaty": "Chehalis",
+        "Present-Day Tribe": "Confederated Tribes of the Chehalis Reservation, Washington"
+    },
+    {
+        "MAP #": "459",
+        "MAP Name": "Washington (northwestern)",
+        "State": "WA",
+        "County": "Grays Harbor",
+        "Tribe Named in Treaty": "Chehalis",
+        "Present-Day Tribe": "Confederated Tribes of the Chehalis Reservation, Washington"
+    },
+    {
+        "MAP #": "661",
+        "MAP Name": "Washington 2",
+        "State": "WA",
+        "County": "Grays Harbor",
+        "Tribe Named in Treaty": "Grays Harbor",
+        "Present-Day Tribe": "Cherokee"
+    },
+    {
+        "MAP #": "661",
+        "MAP Name": "Washington 2",
+        "State": "WA",
+        "County": "Grays Harbor",
+        "Tribe Named in Treaty": "Cherokee",
+        "Present-Day Tribe": "United Keetoowah Band of Cherokee Indians in Oklahoma"
+    },
+    {
+        "MAP #": "458",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Grays Harbor",
+        "Tribe Named in Treaty": "Chinook",
+        "Present-Day Tribe": "Chinook"
+    },
+    {
+        "MAP #": "459",
+        "MAP Name": "Washington (northwestern)",
+        "State": "WA",
+        "County": "Grays Harbor",
+        "Tribe Named in Treaty": "Chinook",
+        "Present-Day Tribe": "Shoalwater Bay Tribe of the Shoalwater Bay Indian Reservation, Washington"
+    },
+    {
+        "MAP #": "458",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Grays Harbor",
+        "Tribe Named in Treaty": "Klatsop",
+        "Present-Day Tribe": "Shoalwater Bay Tribe of the Shoalwater Bay Indian Reservation, Washington"
+    },
+    {
+        "MAP #": "459",
+        "MAP Name": "Washington (northwestern)",
+        "State": "WA",
+        "County": "Grays Harbor",
+        "Tribe Named in Treaty": "Klatsop",
+        "Present-Day Tribe": "Shoalwater Bay Tribe of the Shoalwater Bay Indian Reservation, Washington"
+    },
+    {
+        "MAP #": "371",
+        "MAP Name": "Washington (northwestern)",
+        "State": "WA",
+        "County": "Grays Harbor",
+        "Tribe Named in Treaty": "Qui-nai-elt",
+        "Present-Day Tribe": "Quinault Tribe of the Quinault Reservation, Washington"
+    },
+    {
+        "MAP #": "372",
+        "MAP Name": "Washington (northwestern)",
+        "State": "WA",
+        "County": "Grays Harbor",
+        "Tribe Named in Treaty": "Qui-nai-elt",
+        "Present-Day Tribe": "Quinault Tribe of the Quinault Reservation, Washington"
+    },
+    {
+        "MAP #": "371",
+        "MAP Name": "Washington (northwestern)",
+        "State": "Washington (northwestern)",
+        "County": "WA",
+        "Tribe Named in Treaty": "Grays Harbor",
+        "Present-Day Tribe": "Quil-leh-ute"
+    },
+    {
+        "MAP #": "372",
+        "MAP Name": "Washington (northwestern)",
+        "State": "WA",
+        "County": "Grays Harbor",
+        "Tribe Named in Treaty": "Quil-leh-ute",
+        "Present-Day Tribe": "Quileute Tribe of the Quileute Reservation, Washington"
+    },
+    {
+        "MAP #": "551",
+        "MAP Name": "Washington 1, Washington 2",
+        "State": "WA",
+        "County": "Grays Harbor",
+        "Tribe Named in Treaty": "Quillehute",
+        "Present-Day Tribe": "Quileute Tribe of the Quileute Reservation, Washington"
+    },
+    {
+        "MAP #": "551",
+        "MAP Name": "Washington 1, Washington 2",
+        "State": "WA",
+        "County": "Grays Harbor",
+        "Tribe Named in Treaty": "Grays Harbor",
+        "Present-Day Tribe": "Quinaielt"
+    },
+    {
+        "MAP #": "353",
+        "MAP Name": "Washington (northwestern)",
+        "State": "WA",
+        "County": "Grays Harbor",
+        "Tribe Named in Treaty": "Sklallam",
+        "Present-Day Tribe": "Port Gamble Indian Community of the Port Gamble Reservation, Washington"
+    },
+    {
+        "MAP #": "371",
+        "MAP Name": "Washington (northwestern)",
+        "State": "WA",
+        "County": "Jefferson",
+        "Tribe Named in Treaty": "Qui-nai-elt",
+        "Present-Day Tribe": "Qui-nai-elt"
+    },
+    {
+        "MAP #": "371",
+        "MAP Name": "Washington (northwestern)",
+        "State": "WA",
+        "County": "Jefferson",
+        "Tribe Named in Treaty": "Quil-leh-ute",
+        "Present-Day Tribe": "Quileute Tribe of the Quileute Reservation, Washington"
+    },
+    {
+        "MAP #": "551",
+        "MAP Name": "Washington 1, Washington 2",
+        "State": "WA",
+        "County": "Jefferson",
+        "Tribe Named in Treaty": "Quillehute",
+        "Present-Day Tribe": "Quileute Tribe of the Quileute Reservation, Washington"
+    },
+    {
+        "MAP #": "551",
+        "MAP Name": "Washington 1, Washington 2",
+        "State": "WA",
+        "County": "Jefferson",
+        "Tribe Named in Treaty": "Quinaielt",
+        "Present-Day Tribe": "Quinault Tribe of the Quinault Reservation, Washington"
+    },
+    {
+        "MAP #": "353",
+        "MAP Name": "Washington (northwestern)",
+        "State": "WA",
+        "County": "Jefferson",
+        "Tribe Named in Treaty": "Sklallam",
+        "Present-Day Tribe": "Port Gamble Indian Community of the Port Gamble Reservation, Washington"
+    },
+    {
+        "MAP #": "347",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "King",
+        "Tribe Named in Treaty": "Dwamish",
+        "Present-Day Tribe": "Duwamish Tribe of Indians"
+    },
+    {
+        "MAP #": "347",
+        "MAP Name": "Washington 1",
+        "State": "Washington 1",
+        "County": "WA",
+        "Tribe Named in Treaty": "King",
+        "Present-Day Tribe": "Suquamish"
+    },
+    {
+        "MAP #": "364",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "King",
+        "Tribe Named in Treaty": "Yakima",
+        "Present-Day Tribe": "Confederated Tribes and Bands of the Yakama Nation, Washington"
+    },
+    {
+        "MAP #": "347",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Kitsap",
+        "Tribe Named in Treaty": "Dwamish",
+        "Present-Day Tribe": "Duwamish Tribe of Indians"
+    },
+    {
+        "MAP #": "348",
+        "MAP Name": "Washington (northwestern)",
+        "State": "WA",
+        "County": "Kitsap",
+        "Tribe Named in Treaty": "Kitsap",
+        "Present-Day Tribe": "Dwamish"
+    },
+    {
+        "MAP #": "345",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Kitsap",
+        "Tribe Named in Treaty": "Niskwali",
+        "Present-Day Tribe": "Nisqually Indian Tribe of the Nisqually Reservation, Washington"
+    },
+    {
+        "MAP #": "345",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Kitsap",
+        "Tribe Named in Treaty": "Puyallup",
+        "Present-Day Tribe": "Puyallup"
+    },
+    {
+        "MAP #": "345",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Kitsap",
+        "Tribe Named in Treaty": "S'Homamish",
+        "Present-Day Tribe": "Squaxin Island Tribe of the Squaxin Island Reservation, Washington"
+    },
+    {
+        "MAP #": "345",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Kitsap",
+        "Tribe Named in Treaty": "Sa-heh-wamish",
+        "Present-Day Tribe": "Squaxin Island Tribe of the Squaxin Island Reservation, Washington"
+    },
+    {
+        "MAP #": "353",
+        "MAP Name": "Washington (northwestern)",
+        "State": "WA",
+        "County": "Kitsap",
+        "Tribe Named in Treaty": "Sklallam",
+        "Present-Day Tribe": "Port Gamble Indian Community of the Port Gamble Reservation, Washington"
+    },
+    {
+        "MAP #": "559",
+        "MAP Name": "Washington 2",
+        "State": "WA",
+        "County": "Kitsap",
+        "Tribe Named in Treaty": "Sklallam (Skokomish)",
+        "Present-Day Tribe": "Port Gamble Indian Community of the Port Gamble Reservation, Washington"
+    },
+    {
+        "MAP #": "559",
+        "MAP Name": "Washington 2",
+        "State": "WA",
+        "County": "Kitsap",
+        "Tribe Named in Treaty": "Sklallam (Skokomish)",
+        "Present-Day Tribe": "Skokomish Indian Tribe of the Skokomish Reservation, Washington"
+    },
+    {
+        "MAP #": "345",
+        "MAP Name": "Washington 1",
+        "State": "Washington 1",
+        "County": "WA",
+        "Tribe Named in Treaty": "Kitsap",
+        "Present-Day Tribe": "Squaxin"
+    },
+    {
+        "MAP #": "345",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Kitsap",
+        "Tribe Named in Treaty": "Squiaitl",
+        "Present-Day Tribe": "Squaxin Island Tribe of the Squaxin Island Reservation, Washington"
+    },
+    {
+        "MAP #": "345",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Kitsap",
+        "Tribe Named in Treaty": "Steh-chass",
+        "Present-Day Tribe": "Squaxin Island Tribe of the Squaxin Island Reservation, Washington"
+    },
+    {
+        "MAP #": "345",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Kitsap",
+        "Tribe Named in Treaty": "Kitsap",
+        "Present-Day Tribe": "Steilacoom"
+    },
+    {
+        "MAP #": "347",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Kitsap",
+        "Tribe Named in Treaty": "Suquamish",
+        "Present-Day Tribe": "Suquamish Indian Tribe of the Port Madison Reservation, Washington"
+    },
+    {
+        "MAP #": "348",
+        "MAP Name": "Washington (northwestern)",
+        "State": "WA",
+        "County": "Kitsap",
+        "Tribe Named in Treaty": "Suquamish",
+        "Present-Day Tribe": "Suquamish"
+    },
+    {
+        "MAP #": "345",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Kitsap",
+        "Tribe Named in Treaty": "T'Peeksin",
+        "Present-Day Tribe": "Squaxin Island Tribe of the Squaxin Island Reservation, Washington"
+    },
+    {
+        "MAP #": "364",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Kittitas",
+        "Tribe Named in Treaty": "Yakima",
+        "Present-Day Tribe": "Confederated Tribes and Bands of the Yakama Nation, Washington"
+    },
+    {
+        "MAP #": "364",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Klickitat",
+        "Tribe Named in Treaty": "Yakima",
+        "Present-Day Tribe": "Confederated Tribes and Bands of the Yakama Nation, Washington"
+    },
+    {
+        "MAP #": "365",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Klickitat",
+        "Tribe Named in Treaty": "Yakima",
+        "Present-Day Tribe": "Confederated Tribes and Bands of the Yakama Nation, Washington"
+    },
+    {
+        "MAP #": "465",
+        "MAP Name": "Washington (along Admiralty inlet)",
+        "State": "WA",
+        "County": "Kusah",
+        "Tribe Named in Treaty": "Dwamish",
+        "Present-Day Tribe": "Duwamish Tribe of Indians"
+    },
+    {
+        "MAP #": "458",
+        "MAP Name": "Washington 1",
+        "State": "Washington 1",
+        "County": "WA",
+        "Tribe Named in Treaty": "Lewis",
+        "Present-Day Tribe": "Chehalis"
+    },
+    {
+        "MAP #": "458",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Lewis",
+        "Tribe Named in Treaty": "Chinook",
+        "Present-Day Tribe": "Shoalwater Bay Tribe of the Shoalwater Bay Indian Reservation, Washington"
+    },
+    {
+        "MAP #": "458",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Lewis",
+        "Tribe Named in Treaty": "Klatsop",
+        "Present-Day Tribe": "Shoalwater Bay Tribe of the Shoalwater Bay Indian Reservation, Washington"
+    },
+    {
+        "MAP #": "364",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Lewis",
+        "Tribe Named in Treaty": "Lewis",
+        "Present-Day Tribe": "Yakima"
+    },
+    {
+        "MAP #": "458",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Mason",
+        "Tribe Named in Treaty": "Chehalis",
+        "Present-Day Tribe": "Confederated Tribes of the Chehalis Reservation, Washington"
+    },
+    {
+        "MAP #": "458",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Mason",
+        "Tribe Named in Treaty": "Chinook",
+        "Present-Day Tribe": "Chinook"
+    },
+    {
+        "MAP #": "458",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Mason",
+        "Tribe Named in Treaty": "Klatsop",
+        "Present-Day Tribe": "Shoalwater Bay Tribe of the Shoalwater Bay Indian Reservation, Washington"
+    },
+    {
+        "MAP #": "345",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Mason",
+        "Tribe Named in Treaty": "Niskwali",
+        "Present-Day Tribe": "Nisqually Indian Tribe of the Nisqually Reservation, Washington"
+    },
+    {
+        "MAP #": "345",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Mason",
+        "Tribe Named in Treaty": "Puyallup",
+        "Present-Day Tribe": "Puyallup Tribe of the Puyallup Reservation, Washington"
+    },
+    {
+        "MAP #": "345",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Mason",
+        "Tribe Named in Treaty": "S'Homamish",
+        "Present-Day Tribe": "Squaxin Island Tribe of the Squaxin Island Reservation, Washington"
+    },
+    {
+        "MAP #": "345",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Mason",
+        "Tribe Named in Treaty": "Sa-heh-wamish",
+        "Present-Day Tribe": "Squaxin Island Tribe of the Squaxin Island Reservation, Washington"
+    },
+    {
+        "MAP #": "353",
+        "MAP Name": "Washington (northwestern)",
+        "State": "Washington (northwestern)",
+        "County": "WA",
+        "Tribe Named in Treaty": "Mason",
+        "Present-Day Tribe": "Sklallam"
+    },
+    {
+        "MAP #": "354",
+        "MAP Name": "Washington (northwestern)",
+        "State": "WA",
+        "County": "Mason",
+        "Tribe Named in Treaty": "Sklallam",
+        "Present-Day Tribe": "Port Gamble Indian Community of the Port Gamble Reservation, Washington"
+    },
+    {
+        "MAP #": "345",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Mason",
+        "Tribe Named in Treaty": "Squaxin",
+        "Present-Day Tribe": "Squaxin Island Tribe of the Squaxin Island Reservation, Washington"
+    },
+    {
+        "MAP #": "345",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Mason",
+        "Tribe Named in Treaty": "Mason",
+        "Present-Day Tribe": "Squiaitl"
+    },
+    {
+        "MAP #": "345",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Mason",
+        "Tribe Named in Treaty": "Steh-chass",
+        "Present-Day Tribe": "Squaxin Island Tribe of the Squaxin Island Reservation, Washington"
+    },
+    {
+        "MAP #": "345",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Mason",
+        "Tribe Named in Treaty": "Steilacoom",
+        "Present-Day Tribe": "Steilacoom"
+    },
+    {
+        "MAP #": "345",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Mason",
+        "Tribe Named in Treaty": "T'Peeksin",
+        "Present-Day Tribe": "Squaxin Island Tribe of the Squaxin Island Reservation, Washington"
+    },
+    {
+        "MAP #": "347",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Okanogan",
+        "Tribe Named in Treaty": "Dwamish",
+        "Present-Day Tribe": "Duwamish Tribe of Indians"
+    },
+    {
+        "MAP #": "536",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Okanogan",
+        "Tribe Named in Treaty": "Methow",
+        "Present-Day Tribe": "Confederated Tribes of the Colville Reservation, Washington"
+    },
+    {
+        "MAP #": "618",
+        "MAP Name": "Washington 2",
+        "State": "WA",
+        "County": "Okanogan",
+        "Tribe Named in Treaty": "Nez Perc\u00e9 (Moses' band)",
+        "Present-Day Tribe": "Nez Perce Tribe of Idaho"
+    },
+    {
+        "MAP #": "642",
+        "MAP Name": "Washington 2",
+        "State": "WA",
+        "County": "Okanogan",
+        "Tribe Named in Treaty": "Nez Perc\u00e9 (Moses' band)",
+        "Present-Day Tribe": "Nez Perce Tribe of Idaho"
+    },
+    {
+        "MAP #": "659",
+        "MAP Name": "Washington 2",
+        "State": "Washington 2",
+        "County": "WA",
+        "Tribe Named in Treaty": "Okanogan",
+        "Present-Day Tribe": "Nez Perc\u00e9 (Moses' band)"
+    },
+    {
+        "MAP #": "536",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Okanogan",
+        "Tribe Named in Treaty": "Okanagan",
+        "Present-Day Tribe": "Confederated Tribes of the Colville Reservation, Washington"
+    },
+    {
+        "MAP #": "347",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Okanogan",
+        "Tribe Named in Treaty": "Suquamish",
+        "Present-Day Tribe": "Suquamish Indian Tribe of the Port Madison Reservation, Washington"
+    },
+    {
+        "MAP #": "364",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Okanogan",
+        "Tribe Named in Treaty": "Okanogan",
+        "Present-Day Tribe": "Yakima"
+    },
+    {
+        "MAP #": "458",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Pacific",
+        "Tribe Named in Treaty": "Chehalis",
+        "Present-Day Tribe": "Confederated Tribes of the Chehalis Reservation, Washington"
+    },
+    {
+        "MAP #": "458",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Pacific",
+        "Tribe Named in Treaty": "Chinook",
+        "Present-Day Tribe": "Chinook"
+    },
+    {
+        "MAP #": "458",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Pacific",
+        "Tribe Named in Treaty": "Klatsop",
+        "Present-Day Tribe": "Shoalwater Bay Tribe of the Shoalwater Bay Indian Reservation, Washington"
+    },
+    {
+        "MAP #": "493",
+        "MAP Name": "Washington (northwestern)",
+        "State": "WA",
+        "County": "Pacific",
+        "Tribe Named in Treaty": "Payallup",
+        "Present-Day Tribe": "Puyallup Tribe of the Puyallup Reservation, Washington"
+    },
+    {
+        "MAP #": "532",
+        "MAP Name": "Montana 1, Idaho, Washington 1",
+        "State": "WA",
+        "County": "Pend Oreille",
+        "Tribe Named in Treaty": "Methow",
+        "Present-Day Tribe": "Confederated Tribes of the Colville Reservation, Washington"
+    },
+    {
+        "MAP #": "533",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Pend Oreille",
+        "Tribe Named in Treaty": "Methow",
+        "Present-Day Tribe": "Confederated Tribes of the Colville Reservation, Washington"
+    },
+    {
+        "MAP #": "532",
+        "MAP Name": "Montana 1, Idaho, Washington 1",
+        "State": "WA",
+        "County": "Pend Oreille",
+        "Tribe Named in Treaty": "Okanagan",
+        "Present-Day Tribe": "Confederated Tribes of the Colville Reservation, Washington"
+    },
+    {
+        "MAP #": "533",
+        "MAP Name": "Washington 1",
+        "State": "Washington 1",
+        "County": "WA",
+        "Tribe Named in Treaty": "Pend Oreille",
+        "Present-Day Tribe": "Okanagan"
+    },
+    {
+        "MAP #": "536",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Perry",
+        "Tribe Named in Treaty": "Methow",
+        "Present-Day Tribe": "Confederated Tribes of the Colville Reservation, Washington"
+    },
+    {
+        "MAP #": "536",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Perry",
+        "Tribe Named in Treaty": "Okanagan",
+        "Present-Day Tribe": "Confederated Tribes of the Colville Reservation, Washington"
+    },
+    {
+        "MAP #": "345",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Pierce",
+        "Tribe Named in Treaty": "Pierce",
+        "Present-Day Tribe": "Niskwali"
+    },
+    {
+        "MAP #": "405",
+        "MAP Name": "Washington (northwest)",
+        "State": "WA",
+        "County": "Pierce",
+        "Tribe Named in Treaty": "Niskwali",
+        "Present-Day Tribe": "Nisqually Indian Tribe of the Nisqually Reservation, Washington"
+    },
+    {
+        "MAP #": "406",
+        "MAP Name": "Washington (northwest)",
+        "State": "WA",
+        "County": "Pierce",
+        "Tribe Named in Treaty": "Niskwali",
+        "Present-Day Tribe": "Niskwali"
+    },
+    {
+        "MAP #": "345",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Pierce",
+        "Tribe Named in Treaty": "Puyallup",
+        "Present-Day Tribe": "Puyallup Tribe of the Puyallup Reservation, Washington"
+    },
+    {
+        "MAP #": "345",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Pierce",
+        "Tribe Named in Treaty": "S'Homamish",
+        "Present-Day Tribe": "Squaxin Island Tribe of the Squaxin Island Reservation, Washington"
+    },
+    {
+        "MAP #": "345",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Pierce",
+        "Tribe Named in Treaty": "Sa-heh-wamish",
+        "Present-Day Tribe": "Squaxin Island Tribe of the Squaxin Island Reservation, Washington"
+    },
+    {
+        "MAP #": "345",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Pierce",
+        "Tribe Named in Treaty": "Squaxin",
+        "Present-Day Tribe": "Squaxin Island Tribe of the Squaxin Island Reservation, Washington"
+    },
+    {
+        "MAP #": "345",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Pierce",
+        "Tribe Named in Treaty": "Squiaitl",
+        "Present-Day Tribe": "Squaxin Island Tribe of the Squaxin Island Reservation, Washington"
+    },
+    {
+        "MAP #": "345",
+        "MAP Name": "Washington 1",
+        "State": "Washington 1",
+        "County": "WA",
+        "Tribe Named in Treaty": "Pierce",
+        "Present-Day Tribe": "Steh-chass"
+    },
+    {
+        "MAP #": "345",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Pierce",
+        "Tribe Named in Treaty": "Steilacoom",
+        "Present-Day Tribe": "Nonfederally Recognized Indian Groups"
+    },
+    {
+        "MAP #": "345",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Pierce",
+        "Tribe Named in Treaty": "T'Peeksin",
+        "Present-Day Tribe": "Squaxin Island Tribe of the Squaxin Island Reservation, Washington"
+    },
+    {
+        "MAP #": "364",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Pierce",
+        "Tribe Named in Treaty": "Pierce",
+        "Present-Day Tribe": "Yakima"
+    },
+    {
+        "MAP #": "347",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "San Juan",
+        "Tribe Named in Treaty": "Dwamish",
+        "Present-Day Tribe": "Duwamish Tribe of Indians"
+    },
+    {
+        "MAP #": "347",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "San Juan",
+        "Tribe Named in Treaty": "Suquamish",
+        "Present-Day Tribe": "Suquamish"
+    },
+    {
+        "MAP #": "347",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Skagit",
+        "Tribe Named in Treaty": "Dwamish",
+        "Present-Day Tribe": "Duwamish Tribe of Indians"
+    },
+    {
+        "MAP #": "349",
+        "MAP Name": "Washington (northwestern)",
+        "State": "WA",
+        "County": "Skagit",
+        "Tribe Named in Treaty": "Dwamish",
+        "Present-Day Tribe": "Duwamish Tribe of Indians"
+    },
+    {
+        "MAP #": "618",
+        "MAP Name": "Washington 2",
+        "State": "WA",
+        "County": "Skagit",
+        "Tribe Named in Treaty": "Nez Perc\u00e9 (Moses' band)",
+        "Present-Day Tribe": "Nez Perce Tribe of Idaho"
+    },
+    {
+        "MAP #": "347",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Skagit",
+        "Tribe Named in Treaty": "Suquamish",
+        "Present-Day Tribe": "Suquamish Indian Tribe of the Port Madison Reservation, Washington"
+    },
+    {
+        "MAP #": "349",
+        "MAP Name": "Washington (northwestern)",
+        "State": "WA",
+        "County": "Skagit",
+        "Tribe Named in Treaty": "Suquamish",
+        "Present-Day Tribe": "Suquamish Indian Tribe of the Port Madison Reservation, Washington"
+    },
+    {
+        "MAP #": "458",
+        "MAP Name": "Washington 1",
+        "State": "Washington 1",
+        "County": "WA",
+        "Tribe Named in Treaty": "Skamania",
+        "Present-Day Tribe": "Chehalis"
+    },
+    {
+        "MAP #": "458",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Skamania",
+        "Tribe Named in Treaty": "Chinook",
+        "Present-Day Tribe": "Shoalwater Bay Tribe of the Shoalwater Bay Indian Reservation, Washington"
+    },
+    {
+        "MAP #": "458",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Skamania",
+        "Tribe Named in Treaty": "Klatsop",
+        "Present-Day Tribe": "Shoalwater Bay Tribe of the Shoalwater Bay Indian Reservation, Washington"
+    },
+    {
+        "MAP #": "364",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Skamania",
+        "Tribe Named in Treaty": "Skamania",
+        "Present-Day Tribe": "Yakima"
+    },
+    {
+        "MAP #": "347",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Snohomish",
+        "Tribe Named in Treaty": "Dwamish",
+        "Present-Day Tribe": "Duwamish Tribe of Indians"
+    },
+    {
+        "MAP #": "351",
+        "MAP Name": "Washington (northwestern)",
+        "State": "WA",
+        "County": "Snohomish",
+        "Tribe Named in Treaty": "Dwamish",
+        "Present-Day Tribe": "Dwamish"
+    },
+    {
+        "MAP #": "347",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Snohomish",
+        "Tribe Named in Treaty": "Suquamish",
+        "Present-Day Tribe": "Suquamish Indian Tribe of the Port Madison Reservation, Washington"
+    },
+    {
+        "MAP #": "351",
+        "MAP Name": "Washington (northwestern)",
+        "State": "WA",
+        "County": "Snohomish",
+        "Tribe Named in Treaty": "Suquamish",
+        "Present-Day Tribe": "Suquamish Indian Tribe of the Port Madison Reservation, Washington"
+    },
+    {
+        "MAP #": "364",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Snohomish",
+        "Tribe Named in Treaty": "Yakima",
+        "Present-Day Tribe": "Confederated Tribes and Bands of the Yakama Nation, Washington"
+    },
+    {
+        "MAP #": "533",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Spokane",
+        "Tribe Named in Treaty": "Methow",
+        "Present-Day Tribe": "Confederated Tribes of the Colville Reservation, Washington"
+    },
+    {
+        "MAP #": "533",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Spokane",
+        "Tribe Named in Treaty": "Okanagan",
+        "Present-Day Tribe": "Confederated Tribes of the Colville Reservation, Washington"
+    },
+    {
+        "MAP #": "533",
+        "MAP Name": "Washington 1",
+        "State": "Washington 1",
+        "County": "WA",
+        "Tribe Named in Treaty": "Stevens",
+        "Present-Day Tribe": "Methow"
+    },
+    {
+        "MAP #": "536",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Stevens",
+        "Tribe Named in Treaty": "Methow",
+        "Present-Day Tribe": "Confederated Tribes of the Colville Reservation, Washington"
+    },
+    {
+        "MAP #": "533",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Stevens",
+        "Tribe Named in Treaty": "Okanagan",
+        "Present-Day Tribe": "Confederated Tribes of the Colville Reservation, Washington"
+    },
+    {
+        "MAP #": "536",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Stevens",
+        "Tribe Named in Treaty": "Stevens",
+        "Present-Day Tribe": "Okanagan"
+    },
+    {
+        "MAP #": "625",
+        "MAP Name": "Washington 2",
+        "State": "WA",
+        "County": "Stevens",
+        "Tribe Named in Treaty": "Spokane",
+        "Present-Day Tribe": "Spokane Tribe of the Spokane Reservation, Washington"
+    },
+    {
+        "MAP #": "458",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Thurston",
+        "Tribe Named in Treaty": "Chehalis",
+        "Present-Day Tribe": "Chehalis"
+    },
+    {
+        "MAP #": "458",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Thurston",
+        "Tribe Named in Treaty": "Chinook",
+        "Present-Day Tribe": "Shoalwater Bay Tribe of the Shoalwater Bay Indian Reservation, Washington"
+    },
+    {
+        "MAP #": "458",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Thurston",
+        "Tribe Named in Treaty": "Klatsop",
+        "Present-Day Tribe": "Shoalwater Bay Tribe of the Shoalwater Bay Indian Reservation, Washington"
+    },
+    {
+        "MAP #": "345",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Thurston",
+        "Tribe Named in Treaty": "Niskwali",
+        "Present-Day Tribe": "Nisqually Indian Tribe of the Nisqually Reservation, Washington"
+    },
+    {
+        "MAP #": "345",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Thurston",
+        "Tribe Named in Treaty": "Puyallup",
+        "Present-Day Tribe": "Puyallup Tribe of the Puyallup Reservation, Washington"
+    },
+    {
+        "MAP #": "345",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Thurston",
+        "Tribe Named in Treaty": "S'Homamish",
+        "Present-Day Tribe": "Squaxin Island Tribe of the Squaxin Island Reservation, Washington"
+    },
+    {
+        "MAP #": "345",
+        "MAP Name": "Washington 1",
+        "State": "Washington 1",
+        "County": "WA",
+        "Tribe Named in Treaty": "Thurston",
+        "Present-Day Tribe": "Sa-heh-wamish"
+    },
+    {
+        "MAP #": "345",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Thurston",
+        "Tribe Named in Treaty": "Squaxin",
+        "Present-Day Tribe": "Squaxin Island Tribe of the Squaxin Island Reservation, Washington"
+    },
+    {
+        "MAP #": "345",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Thurston",
+        "Tribe Named in Treaty": "Squiaitl",
+        "Present-Day Tribe": "Squaxin Island Tribe of the Squaxin Island Reservation, Washington"
+    },
+    {
+        "MAP #": "345",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Thurston",
+        "Tribe Named in Treaty": "Thurston",
+        "Present-Day Tribe": "Steh-chass"
+    },
+    {
+        "MAP #": "345",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Thurston",
+        "Tribe Named in Treaty": "Steilacoom",
+        "Present-Day Tribe": "Nonfederally Recognized Indian Groups"
+    },
+    {
+        "MAP #": "345",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Thurston",
+        "Tribe Named in Treaty": "T'Peeksin",
+        "Present-Day Tribe": "T'Peeksin"
+    },
+    {
+        "MAP #": "458",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Wahkiakum",
+        "Tribe Named in Treaty": "Chehalis",
+        "Present-Day Tribe": "Confederated Tribes of the Chehalis Reservation, Washington"
+    },
+    {
+        "MAP #": "458",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Wahkiakum",
+        "Tribe Named in Treaty": "Chinook",
+        "Present-Day Tribe": "Shoalwater Bay Tribe of the Shoalwater Bay Indian Reservation, Washington"
+    },
+    {
+        "MAP #": "458",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Wahkiakum",
+        "Tribe Named in Treaty": "Klatsop",
+        "Present-Day Tribe": "Shoalwater Bay Tribe of the Shoalwater Bay Indian Reservation, Washington"
+    },
+    {
+        "MAP #": "362",
+        "MAP Name": "Oregon 1, Washington 1",
+        "State": "WA",
+        "County": "Walla Walla",
+        "Tribe Named in Treaty": "Cayuse",
+        "Present-Day Tribe": "Confederated Tribes of the Umatilla Reservation, Oregon"
+    },
+    {
+        "MAP #": "362",
+        "MAP Name": "Oregon 1, Washington 1",
+        "State": "WA",
+        "County": "Walla Walla",
+        "Tribe Named in Treaty": "Umatilla",
+        "Present-Day Tribe": "Confederated Tribes of the Umatilla Reservation, Oregon"
+    },
+    {
+        "MAP #": "362",
+        "MAP Name": "Oregon 1, Washington 1",
+        "State": "Oregon 1, Washington 1",
+        "County": "WA",
+        "Tribe Named in Treaty": "Walla Walla",
+        "Present-Day Tribe": "Walla-walla"
+    },
+    {
+        "MAP #": "347",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Whatcom",
+        "Tribe Named in Treaty": "Dwamish",
+        "Present-Day Tribe": "Duwamish Tribe of Indians"
+    },
+    {
+        "MAP #": "350",
+        "MAP Name": "Washington (northwestern)",
+        "State": "WA",
+        "County": "Whatcom",
+        "Tribe Named in Treaty": "Dwamish",
+        "Present-Day Tribe": "Duwamish Tribe of Indians"
+    },
+    {
+        "MAP #": "555",
+        "MAP Name": "Washington 2",
+        "State": "WA",
+        "County": "Whatcom",
+        "Tribe Named in Treaty": "Whatcom",
+        "Present-Day Tribe": "Dwamish"
+    },
+    {
+        "MAP #": "618",
+        "MAP Name": "Washington 2",
+        "State": "WA",
+        "County": "Whatcom",
+        "Tribe Named in Treaty": "Nez Perc\u00e9 (Moses' band)",
+        "Present-Day Tribe": "Nez Perce Tribe of Idaho"
+    },
+    {
+        "MAP #": "642",
+        "MAP Name": "Washington 2",
+        "State": "WA",
+        "County": "Whatcom",
+        "Tribe Named in Treaty": "Nez Perc\u00e9 (Moses' band)",
+        "Present-Day Tribe": "Nez Perc\u00e9 (Moses' band)"
+    },
+    {
+        "MAP #": "659",
+        "MAP Name": "Washington 2",
+        "State": "WA",
+        "County": "Whatcom",
+        "Tribe Named in Treaty": "Nez Perc\u00e9 (Moses' band)",
+        "Present-Day Tribe": "Nez Perce Tribe of Idaho"
+    },
+    {
+        "MAP #": "347",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Whatcom",
+        "Tribe Named in Treaty": "Suquamish",
+        "Present-Day Tribe": "Suquamish Indian Tribe of the Port Madison Reservation, Washington"
+    },
+    {
+        "MAP #": "350",
+        "MAP Name": "Washington (northwestern)",
+        "State": "WA",
+        "County": "Whatcom",
+        "Tribe Named in Treaty": "Suquamish",
+        "Present-Day Tribe": "Suquamish Indian Tribe of the Port Madison Reservation, Washington"
+    },
+    {
+        "MAP #": "366",
+        "MAP Name": "Washington 1, Oregon 1, Idaho",
+        "State": "WA",
+        "County": "Whitman",
+        "Tribe Named in Treaty": "Nez Perc\u00e9",
+        "Present-Day Tribe": "Nez Perce Tribe of Idaho"
+    },
+    {
+        "MAP #": "441",
+        "MAP Name": "Idaho, Oregon 1, Washington 1",
+        "State": "WA",
+        "County": "Whitman",
+        "Tribe Named in Treaty": "Nez Perc\u00e9",
+        "Present-Day Tribe": "Nez Perce Tribe of Idaho"
+    },
+    {
+        "MAP #": "364",
+        "MAP Name": "Washington 1",
+        "State": "Washington 1",
+        "County": "WA",
+        "Tribe Named in Treaty": "Yakima",
+        "Present-Day Tribe": "Yakima"
+    },
+    {
+        "MAP #": "365",
+        "MAP Name": "Washington 1",
+        "State": "WA",
+        "County": "Yakima",
+        "Tribe Named in Treaty": "Yakima",
+        "Present-Day Tribe": "Confederated Tribes and Bands of the Yakama Nation, Washington"
+    }
+]

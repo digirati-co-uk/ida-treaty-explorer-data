@@ -1,0 +1,4738 @@
+[
+    {
+        "MAP #": "362",
+        "MAP Name": "Oregon 1, Washington 1",
+        "State": "OR",
+        "County": "Baker",
+        "Tribe Named in Treaty": "Cayuse",
+        "Present-Day Tribe": "Confederated Tribes of the Umatilla Reservation, Oregon"
+    },
+    {
+        "MAP #": "441",
+        "MAP Name": "Idaho, Oregon 1, Washington 1",
+        "State": "Idaho, Oregon 1, Washington 1",
+        "County": "OR",
+        "Tribe Named in Treaty": "Baker",
+        "Present-Day Tribe": "Nez Perc\u00e9"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Baker",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Big Pine Band of Owens Valley Paiute Shoshone Indians of the Big Pine Reservation, California"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Baker",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Bridgeport Paiute Indian Colony of California"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Baker",
+        "Tribe Named in Treaty": "Baker",
+        "Present-Day Tribe": "Paiute"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Baker",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Fort Independence Indian Community of Paiute Indians of the Fort Independence Reservation, California"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Baker",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Paiute"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Baker",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Kaibab Band of Paiute Indians of the Kaibab Indian Reservation, Arizona"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Baker",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Las Vegas Tribe of Paiute Indians of the Las Vegas Indian Colony, Nevada"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Baker",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Lovelock Paiute Tribe of the Lovelock Indian Colony, Nevada"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Baker",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Moapa Band of Paiute Indians of the Moapa River Indian Reservation, Nevada"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "Oregon 2",
+        "County": "OR",
+        "Tribe Named in Treaty": "Baker",
+        "Present-Day Tribe": "Paiute"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Baker",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Paiute-Shoshone Indians of the Bishop Community of the Bishop Colony, California"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Baker",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Paiute-Shoshone Indians of the Lone Pine Community of the Lone Pine Reservation, California"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Baker",
+        "Tribe Named in Treaty": "Baker",
+        "Present-Day Tribe": "Paiute"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Baker",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Pyramid Lake Paiute Tribe of the Pyramid Lake Reservation, Nevada"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Baker",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Paiute"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Baker",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Shoshone-Paiute Tribes of the Duck Valley Reservation, Nevada"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Baker",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Summit Lake Paiute Tribe of Nevada"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Baker",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Utu Utu Gwaitu Paiute Tribe of the Benton Paiute Reservation, California"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Baker",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Walker River Paiute Tribe of the Walker River Reservation, Nevada"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "Oregon 2",
+        "County": "OR",
+        "Tribe Named in Treaty": "Baker",
+        "Present-Day Tribe": "Paiute"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Baker",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Big Pine Band of Owens Valley Paiute Shoshone Indians of the Big Pine Reservation, California"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Baker",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Death Valley Timbi-Sha Shoshone Band of California"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Baker",
+        "Tribe Named in Treaty": "Baker",
+        "Present-Day Tribe": "Shoshoni"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Baker",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Ely Shoshone Tribe of Nevada"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Baker",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Shoshoni"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Baker",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Paiute-Shoshone Indians of the Bishop Community of the Bishop Colony, California"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Baker",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Paiute-Shoshone Indians of the Lone Pine Community of the Lone Pine Reservation, California"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Baker",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Paiute-Shoshone Tribe of the Fallon Reservation and Colony, Nevada"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Baker",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Shoshone Tribe of the Wind River Reservation, Wyoming"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "Oregon 2",
+        "County": "OR",
+        "Tribe Named in Treaty": "Baker",
+        "Present-Day Tribe": "Shoshoni"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Baker",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Shoshone-Paiute Tribes of the Duck Valley Reservation, Nevada"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Baker",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Te-Moak Tribe of Western Shoshone Indians of Nevada"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Baker",
+        "Tribe Named in Treaty": "Baker",
+        "Present-Day Tribe": "Shoshoni"
+    },
+    {
+        "MAP #": "444",
+        "MAP Name": "Utah 1, Nevada, California 2, Oregon 1, Idaho",
+        "State": "OR",
+        "County": "Baker",
+        "Tribe Named in Treaty": "Shoshoni (Western bands)",
+        "Present-Day Tribe": "Northwestern Band of Shoshoni Nation of Utah (Washakie)"
+    },
+    {
+        "MAP #": "444",
+        "MAP Name": "Utah 1, Nevada, California 2, Oregon 1, Idaho",
+        "State": "OR",
+        "County": "Baker",
+        "Tribe Named in Treaty": "Shoshoni (Western bands)",
+        "Present-Day Tribe": "Shoshoni (Western bands)"
+    },
+    {
+        "MAP #": "362",
+        "MAP Name": "Oregon 1, Washington 1",
+        "State": "OR",
+        "County": "Baker",
+        "Tribe Named in Treaty": "Umatilla",
+        "Present-Day Tribe": "Confederated Tribes of the Umatilla Reservation, Oregon"
+    },
+    {
+        "MAP #": "362",
+        "MAP Name": "Oregon 1, Washington 1",
+        "State": "OR",
+        "County": "Baker",
+        "Tribe Named in Treaty": "Walla-walla",
+        "Present-Day Tribe": "Confederated Tribes of the Umatilla Reservation, Oregon"
+    },
+    {
+        "MAP #": "352",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Benton",
+        "Tribe Named in Treaty": "Calapooia",
+        "Present-Day Tribe": "Confederated Tribes of the Grand Ronde Community of Oregon"
+    },
+    {
+        "MAP #": "352",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Benton",
+        "Tribe Named in Treaty": "Confederated Bands of Willamette Valley",
+        "Present-Day Tribe": "Confederated Tribes of the Grand Ronde Community of Oregon"
+    },
+    {
+        "MAP #": "352",
+        "MAP Name": "Oregon 1",
+        "State": "Oregon 1",
+        "County": "OR",
+        "Tribe Named in Treaty": "Benton",
+        "Present-Day Tribe": "Confederated Bands of Willamette Valley"
+    },
+    {
+        "MAP #": "352",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Benton",
+        "Tribe Named in Treaty": "Confederated Bands of Willamette Valley",
+        "Present-Day Tribe": "Confederated Tribes of the Warm Springs Reservation of Oregon"
+    },
+    {
+        "MAP #": "352",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Clackamas",
+        "Tribe Named in Treaty": "Calapooia",
+        "Present-Day Tribe": "Confederated Tribes of the Grand Ronde Community of Oregon"
+    },
+    {
+        "MAP #": "352",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Clackamas",
+        "Tribe Named in Treaty": "Clackamas",
+        "Present-Day Tribe": "Confederated Bands of Willamette Valley"
+    },
+    {
+        "MAP #": "352",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Clackamas",
+        "Tribe Named in Treaty": "Confederated Bands of Willamette Valley",
+        "Present-Day Tribe": "Confederated Tribes of the Siletz Reservation, Oregon"
+    },
+    {
+        "MAP #": "352",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Clackamas",
+        "Tribe Named in Treaty": "Confederated Bands of Willamette Valley",
+        "Present-Day Tribe": "Confederated Bands of Willamette Valley"
+    },
+    {
+        "MAP #": "352",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Clatsop",
+        "Tribe Named in Treaty": "Calapooia",
+        "Present-Day Tribe": "Confederated Tribes of the Grand Ronde Community of Oregon"
+    },
+    {
+        "MAP #": "397",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Clatsop",
+        "Tribe Named in Treaty": "Coast tribes of Oregon",
+        "Present-Day Tribe": "Confederated Tribes of the Coos, Lower Umpqua and Siuslaw Indians of Oregon"
+    },
+    {
+        "MAP #": "397",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Clatsop",
+        "Tribe Named in Treaty": "Coast tribes of Oregon",
+        "Present-Day Tribe": "Confederated Tribes of the Grand Ronde Community of Oregon"
+    },
+    {
+        "MAP #": "397",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Clatsop",
+        "Tribe Named in Treaty": "Coast tribes of Oregon",
+        "Present-Day Tribe": "Confederated Tribes of the Siletz Reservation, Oregon"
+    },
+    {
+        "MAP #": "397",
+        "MAP Name": "Oregon 1",
+        "State": "Oregon 1",
+        "County": "OR",
+        "Tribe Named in Treaty": "Clatsop",
+        "Present-Day Tribe": "Coast tribes of Oregon"
+    },
+    {
+        "MAP #": "397",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Clatsop",
+        "Tribe Named in Treaty": "Coast tribes of Oregon",
+        "Present-Day Tribe": "Cow Creek Band of Umpqua Indians of Oregon"
+    },
+    {
+        "MAP #": "352",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Clatsop",
+        "Tribe Named in Treaty": "Confederated Bands of Willamette Valley",
+        "Present-Day Tribe": "Confederated Tribes of the Grand Ronde Community of Oregon"
+    },
+    {
+        "MAP #": "352",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Clatsop",
+        "Tribe Named in Treaty": "Clatsop",
+        "Present-Day Tribe": "Confederated Bands of Willamette Valley"
+    },
+    {
+        "MAP #": "352",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Clatsop",
+        "Tribe Named in Treaty": "Confederated Bands of Willamette Valley",
+        "Present-Day Tribe": "Confederated Tribes of the Warm Springs Reservation of Oregon"
+    },
+    {
+        "MAP #": "352",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Columbia",
+        "Tribe Named in Treaty": "Calapooia",
+        "Present-Day Tribe": "Calapooia"
+    },
+    {
+        "MAP #": "397",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Columbia",
+        "Tribe Named in Treaty": "Coast tribes of Oregon",
+        "Present-Day Tribe": "Confederated Tribes of the Coos, Lower Umpqua and Siuslaw Indians of Oregon"
+    },
+    {
+        "MAP #": "397",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Columbia",
+        "Tribe Named in Treaty": "Coast tribes of Oregon",
+        "Present-Day Tribe": "Confederated Tribes of the Grand Ronde Community of Oregon"
+    },
+    {
+        "MAP #": "397",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Columbia",
+        "Tribe Named in Treaty": "Coast tribes of Oregon",
+        "Present-Day Tribe": "Confederated Tribes of the Siletz Reservation, Oregon"
+    },
+    {
+        "MAP #": "397",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Columbia",
+        "Tribe Named in Treaty": "Coast tribes of Oregon",
+        "Present-Day Tribe": "Coquille Tribe of Oregon"
+    },
+    {
+        "MAP #": "397",
+        "MAP Name": "Oregon 1",
+        "State": "Oregon 1",
+        "County": "OR",
+        "Tribe Named in Treaty": "Columbia",
+        "Present-Day Tribe": "Coast tribes of Oregon"
+    },
+    {
+        "MAP #": "352",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Columbia",
+        "Tribe Named in Treaty": "Confederated Bands of Willamette Valley",
+        "Present-Day Tribe": "Confederated Tribes of the Grand Ronde Community of Oregon"
+    },
+    {
+        "MAP #": "352",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Columbia",
+        "Tribe Named in Treaty": "Confederated Bands of Willamette Valley",
+        "Present-Day Tribe": "Confederated Tribes of the Siletz Reservation, Oregon"
+    },
+    {
+        "MAP #": "352",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Columbia",
+        "Tribe Named in Treaty": "Columbia",
+        "Present-Day Tribe": "Confederated Bands of Willamette Valley"
+    },
+    {
+        "MAP #": "369",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Crook",
+        "Tribe Named in Treaty": "Confederated Tribes of middle Oregon",
+        "Present-Day Tribe": "Confederated Tribes of the Warm Springs Reservation of Oregon"
+    },
+    {
+        "MAP #": "462",
+        "MAP Name": "Oregon 1, California 2",
+        "State": "OR",
+        "County": "Crook",
+        "Tribe Named in Treaty": "Klamath",
+        "Present-Day Tribe": "Klamath"
+    },
+    {
+        "MAP #": "462",
+        "MAP Name": "Oregon 1, California 2",
+        "State": "OR",
+        "County": "Crook",
+        "Tribe Named in Treaty": "Modok",
+        "Present-Day Tribe": "Modoc Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Crook",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Big Pine Band of Owens Valley Paiute Shoshone Indians of the Big Pine Reservation, California"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Crook",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Bridgeport Paiute Indian Colony of California"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Crook",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Burns Paiute Tribe of the Burns Paiute Indian Colony of Oregon"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "Oregon 2",
+        "County": "OR",
+        "Tribe Named in Treaty": "Crook",
+        "Present-Day Tribe": "Paiute"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Crook",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Fort McDermitt Paiute and Shoshone Tribes of the Fort McDermitt Indian Reservation, Nevada and Oregon"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Crook",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Kaibab Band of Paiute Indians of the Kaibab Indian Reservation, Arizona"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Crook",
+        "Tribe Named in Treaty": "Crook",
+        "Present-Day Tribe": "Paiute"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Crook",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Lovelock Paiute Tribe of the Lovelock Indian Colony, Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Crook",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Paiute"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Crook",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Paiute Indian Tribe of Utah"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Crook",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Paiute-Shoshone Indians of the Bishop Community of the Bishop Colony, California"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Crook",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Paiute-Shoshone Indians of the Lone Pine Community of the Lone Pine Reservation, California"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Crook",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Paiute-Shoshone Tribe of the Fallon Reservation and Colony, Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "Oregon 2",
+        "County": "OR",
+        "Tribe Named in Treaty": "Crook",
+        "Present-Day Tribe": "Paiute"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Crook",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "San Juan Southern Paiute Tribe of Arizona"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Crook",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Shoshone-Paiute Tribes of the Duck Valley Reservation, Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Crook",
+        "Tribe Named in Treaty": "Crook",
+        "Present-Day Tribe": "Paiute"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Crook",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Utu Utu Gwaitu Paiute Tribe of the Benton Paiute Reservation, California"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Crook",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Paiute"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Crook",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Yerington Paiute Tribe of the Yerington Colony & Campbell Ranch, Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Crook",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Big Pine Band of Owens Valley Paiute Shoshone Indians of the Big Pine Reservation, California"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Crook",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Death Valley Timbi-Sha Shoshone Band of California"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Crook",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Duckwater Shoshone Tribe of the Duckwater Reservation, Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "Oregon 2",
+        "County": "OR",
+        "Tribe Named in Treaty": "Crook",
+        "Present-Day Tribe": "Shoshoni"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Crook",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Fort McDermitt Paiute and Shoshone Tribes of the Fort McDermitt Indian Reservation, Nevada and Oregon"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Crook",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Paiute-Shoshone Indians of the Bishop Community of the Bishop Colony, California"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Crook",
+        "Tribe Named in Treaty": "Crook",
+        "Present-Day Tribe": "Shoshoni"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Crook",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Paiute-Shoshone Tribe of the Fallon Reservation and Colony, Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Crook",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Shoshoni"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Crook",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Shoshone-Bannock Tribes of the Fort Hall Reservation of Idaho"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Crook",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Shoshone-Paiute Tribes of the Duck Valley Reservation, Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Crook",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Te-Moak Tribe of Western Shoshone Indians of Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Crook",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Yomba Shoshone Tribe of the Yomba Reservation, Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "Oregon 2",
+        "County": "OR",
+        "Tribe Named in Treaty": "Crook",
+        "Present-Day Tribe": "Snake"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Crook",
+        "Tribe Named in Treaty": "Snake",
+        "Present-Day Tribe": "Death Valley Timbi-Sha Shoshone Band of California"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Crook",
+        "Tribe Named in Treaty": "Snake",
+        "Present-Day Tribe": "Duckwater Shoshone Tribe of the Duckwater Reservation, Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Crook",
+        "Tribe Named in Treaty": "Crook",
+        "Present-Day Tribe": "Snake"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Crook",
+        "Tribe Named in Treaty": "Snake",
+        "Present-Day Tribe": "Fort McDermitt Paiute and Shoshone Tribes of the Fort McDermitt Indian Reservation, Nevada and Oregon"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Crook",
+        "Tribe Named in Treaty": "Snake",
+        "Present-Day Tribe": "Snake"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Crook",
+        "Tribe Named in Treaty": "Snake",
+        "Present-Day Tribe": "Paiute-Shoshone Indians of the Lone Pine Community of the Lone Pine Reservation, California"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Crook",
+        "Tribe Named in Treaty": "Snake",
+        "Present-Day Tribe": "Paiute-Shoshone Tribe of the Fallon Reservation and Colony, Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Crook",
+        "Tribe Named in Treaty": "Snake",
+        "Present-Day Tribe": "Shoshone Tribe of the Wind River Reservation, Wyoming"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Crook",
+        "Tribe Named in Treaty": "Snake",
+        "Present-Day Tribe": "Shoshone-Bannock Tribes of the Fort Hall Reservation of Idaho"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "Oregon 2",
+        "County": "OR",
+        "Tribe Named in Treaty": "Crook",
+        "Present-Day Tribe": "Snake"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Crook",
+        "Tribe Named in Treaty": "Snake",
+        "Present-Day Tribe": "Yomba Shoshone Tribe of the Yomba Reservation, Nevada"
+    },
+    {
+        "MAP #": "462",
+        "MAP Name": "Oregon 1, California 2",
+        "State": "OR",
+        "County": "Crook",
+        "Tribe Named in Treaty": "Snake Indians, Yahooskin band",
+        "Present-Day Tribe": "Klamath Tribes, Oregon"
+    },
+    {
+        "MAP #": "344",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Curry",
+        "Tribe Named in Treaty": "Curry",
+        "Present-Day Tribe": "Calapooia"
+    },
+    {
+        "MAP #": "343",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Curry",
+        "Tribe Named in Treaty": "Chasta",
+        "Present-Day Tribe": "Confederated Tribes of the Siletz Reservation, Oregon"
+    },
+    {
+        "MAP #": "343",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Curry",
+        "Tribe Named in Treaty": "Grave Creek",
+        "Present-Day Tribe": "Grave Creek"
+    },
+    {
+        "MAP #": "343",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Curry",
+        "Tribe Named in Treaty": "Scoton",
+        "Present-Day Tribe": "Confederated Tribes of the Siletz Reservation, Oregon"
+    },
+    {
+        "MAP #": "344",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Curry",
+        "Tribe Named in Treaty": "Umpqua",
+        "Present-Day Tribe": "Confederated Tribes of the Coos, Lower Umpqua and Siuslaw Indians of Oregon"
+    },
+    {
+        "MAP #": "344",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Curry",
+        "Tribe Named in Treaty": "Umpqua",
+        "Present-Day Tribe": "Cow Creek Band of Umpqua Indians of Oregon"
+    },
+    {
+        "MAP #": "352",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Deschutes",
+        "Tribe Named in Treaty": "Calapooia",
+        "Present-Day Tribe": "Confederated Tribes of the Grand Ronde Community of Oregon"
+    },
+    {
+        "MAP #": "352",
+        "MAP Name": "Oregon 1",
+        "State": "Oregon 1",
+        "County": "OR",
+        "Tribe Named in Treaty": "Deschutes",
+        "Present-Day Tribe": "Confederated Bands of Willamette Valley"
+    },
+    {
+        "MAP #": "352",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Deschutes",
+        "Tribe Named in Treaty": "Confederated Bands of Willamette Valley",
+        "Present-Day Tribe": "Confederated Tribes of the Siletz Reservation, Oregon"
+    },
+    {
+        "MAP #": "352",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Deschutes",
+        "Tribe Named in Treaty": "Confederated Bands of Willamette Valley",
+        "Present-Day Tribe": "Confederated Tribes of the Warm Springs Reservation of Oregon"
+    },
+    {
+        "MAP #": "369",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Deschutes",
+        "Tribe Named in Treaty": "Deschutes",
+        "Present-Day Tribe": "Confederated Tribes of middle Oregon"
+    },
+    {
+        "MAP #": "462",
+        "MAP Name": "Oregon 1, California 2",
+        "State": "OR",
+        "County": "Deschutes",
+        "Tribe Named in Treaty": "Klamath",
+        "Present-Day Tribe": "Klamath Tribes, Oregon"
+    },
+    {
+        "MAP #": "462",
+        "MAP Name": "Oregon 1, California 2",
+        "State": "OR",
+        "County": "Deschutes",
+        "Tribe Named in Treaty": "Modok",
+        "Present-Day Tribe": "Modok"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Deschutes",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Big Pine Band of Owens Valley Paiute Shoshone Indians of the Big Pine Reservation, California"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Deschutes",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Bridgeport Paiute Indian Colony of California"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Deschutes",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Burns Paiute Tribe of the Burns Paiute Indian Colony of Oregon"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Deschutes",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Fort Independence Indian Community of Paiute Indians of the Fort Independence Reservation, California"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "Oregon 2",
+        "County": "OR",
+        "Tribe Named in Treaty": "Deschutes",
+        "Present-Day Tribe": "Paiute"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Deschutes",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Kaibab Band of Paiute Indians of the Kaibab Indian Reservation, Arizona"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Deschutes",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Las Vegas Tribe of Paiute Indians of the Las Vegas Indian Colony, Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Deschutes",
+        "Tribe Named in Treaty": "Deschutes",
+        "Present-Day Tribe": "Paiute"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Deschutes",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Moapa Band of Paiute Indians of the Moapa River Indian Reservation, Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Deschutes",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Paiute"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Deschutes",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Paiute-Shoshone Indians of the Bishop Community of the Bishop Colony, California"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Deschutes",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Paiute-Shoshone Indians of the Lone Pine Community of the Lone Pine Reservation, California"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Deschutes",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Paiute-Shoshone Tribe of the Fallon Reservation and Colony, Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Deschutes",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Pyramid Lake Paiute Tribe of the Pyramid Lake Reservation, Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "Oregon 2",
+        "County": "OR",
+        "Tribe Named in Treaty": "Deschutes",
+        "Present-Day Tribe": "Paiute"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Deschutes",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Shoshone-Paiute Tribes of the Duck Valley Reservation, Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Deschutes",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Summit Lake Paiute Tribe of Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Deschutes",
+        "Tribe Named in Treaty": "Deschutes",
+        "Present-Day Tribe": "Paiute"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Deschutes",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Walker River Paiute Tribe of the Walker River Reservation, Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Deschutes",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Paiute"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Deschutes",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Big Pine Band of Owens Valley Paiute Shoshone Indians of the Big Pine Reservation, California"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Deschutes",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Death Valley Timbi-Sha Shoshone Band of California"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Deschutes",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Duckwater Shoshone Tribe of the Duckwater Reservation, Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Deschutes",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Ely Shoshone Tribe of Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "Oregon 2",
+        "County": "OR",
+        "Tribe Named in Treaty": "Deschutes",
+        "Present-Day Tribe": "Shoshoni"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Deschutes",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Paiute-Shoshone Indians of the Bishop Community of the Bishop Colony, California"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Deschutes",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Paiute-Shoshone Indians of the Lone Pine Community of the Lone Pine Reservation, California"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Deschutes",
+        "Tribe Named in Treaty": "Deschutes",
+        "Present-Day Tribe": "Shoshoni"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Deschutes",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Shoshone Tribe of the Wind River Reservation, Wyoming"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Deschutes",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Shoshoni"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Deschutes",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Shoshone-Paiute Tribes of the Duck Valley Reservation, Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Deschutes",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Te-Moak Tribe of Western Shoshone Indians of Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Deschutes",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Yomba Shoshone Tribe of the Yomba Reservation, Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Deschutes",
+        "Tribe Named in Treaty": "Snake",
+        "Present-Day Tribe": "Big Pine Band of Owens Valley Paiute Shoshone Indians of the Big Pine Reservation, California"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "Oregon 2",
+        "County": "OR",
+        "Tribe Named in Treaty": "Deschutes",
+        "Present-Day Tribe": "Snake"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Deschutes",
+        "Tribe Named in Treaty": "Snake",
+        "Present-Day Tribe": "Duckwater Shoshone Tribe of the Duckwater Reservation, Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Deschutes",
+        "Tribe Named in Treaty": "Snake",
+        "Present-Day Tribe": "Ely Shoshone Tribe of Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Deschutes",
+        "Tribe Named in Treaty": "Deschutes",
+        "Present-Day Tribe": "Snake"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Deschutes",
+        "Tribe Named in Treaty": "Snake",
+        "Present-Day Tribe": "Paiute-Shoshone Indians of the Bishop Community of the Bishop Colony, California"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Deschutes",
+        "Tribe Named in Treaty": "Snake",
+        "Present-Day Tribe": "Snake"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Deschutes",
+        "Tribe Named in Treaty": "Snake",
+        "Present-Day Tribe": "Paiute-Shoshone Tribe of the Fallon Reservation and Colony, Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Deschutes",
+        "Tribe Named in Treaty": "Snake",
+        "Present-Day Tribe": "Shoshone Tribe of the Wind River Reservation, Wyoming"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Deschutes",
+        "Tribe Named in Treaty": "Snake",
+        "Present-Day Tribe": "Shoshone-Bannock Tribes of the Fort Hall Reservation of Idaho"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Deschutes",
+        "Tribe Named in Treaty": "Snake",
+        "Present-Day Tribe": "Te-Moak Tribe of Western Shoshone Indians of Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "Oregon 2",
+        "County": "OR",
+        "Tribe Named in Treaty": "Deschutes",
+        "Present-Day Tribe": "Snake"
+    },
+    {
+        "MAP #": "462",
+        "MAP Name": "Oregon 1, California 2",
+        "State": "OR",
+        "County": "Deschutes",
+        "Tribe Named in Treaty": "Snake Indians, Yahooskin band",
+        "Present-Day Tribe": "Klamath Tribes, Oregon"
+    },
+    {
+        "MAP #": "344",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Douglas",
+        "Tribe Named in Treaty": "Calapooia",
+        "Present-Day Tribe": "Confederated Tribes of the Grand Ronde Community of Oregon"
+    },
+    {
+        "MAP #": "352",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Douglas",
+        "Tribe Named in Treaty": "Douglas",
+        "Present-Day Tribe": "Calapooia"
+    },
+    {
+        "MAP #": "343",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Douglas",
+        "Tribe Named in Treaty": "Chasta",
+        "Present-Day Tribe": "Confederated Tribes of the Siletz Reservation, Oregon"
+    },
+    {
+        "MAP #": "352",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Douglas",
+        "Tribe Named in Treaty": "Confederated Bands of Willamette Valley",
+        "Present-Day Tribe": "Confederated Bands of Willamette Valley"
+    },
+    {
+        "MAP #": "352",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Douglas",
+        "Tribe Named in Treaty": "Confederated Bands of Willamette Valley",
+        "Present-Day Tribe": "Confederated Tribes of the Siletz Reservation, Oregon"
+    },
+    {
+        "MAP #": "352",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Douglas",
+        "Tribe Named in Treaty": "Confederated Bands of Willamette Valley",
+        "Present-Day Tribe": "Confederated Tribes of the Warm Springs Reservation of Oregon"
+    },
+    {
+        "MAP #": "343",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Douglas",
+        "Tribe Named in Treaty": "Grave Creek",
+        "Present-Day Tribe": "Cow Creek Band of Umpqua Indians of Oregon"
+    },
+    {
+        "MAP #": "401",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Douglas",
+        "Tribe Named in Treaty": "Molalla",
+        "Present-Day Tribe": "Confederated Tribes of the Grand Ronde Community of Oregon"
+    },
+    {
+        "MAP #": "343",
+        "MAP Name": "Oregon 1",
+        "State": "Oregon 1",
+        "County": "OR",
+        "Tribe Named in Treaty": "Douglas",
+        "Present-Day Tribe": "Scoton"
+    },
+    {
+        "MAP #": "344",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Douglas",
+        "Tribe Named in Treaty": "Umpqua",
+        "Present-Day Tribe": "Confederated Tribes of the Coos, Lower Umpqua and Siuslaw Indians of Oregon"
+    },
+    {
+        "MAP #": "344",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Douglas",
+        "Tribe Named in Treaty": "Umpqua",
+        "Present-Day Tribe": "Cow Creek Band of Umpqua Indians of Oregon"
+    },
+    {
+        "MAP #": "313",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Douglas",
+        "Tribe Named in Treaty": "Douglas",
+        "Present-Day Tribe": "Umpqua (Cow Creek band)"
+    },
+    {
+        "MAP #": "362",
+        "MAP Name": "Oregon 1, Washington 1",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Cayuse",
+        "Present-Day Tribe": "Confederated Tribes of the Umatilla Reservation, Oregon"
+    },
+    {
+        "MAP #": "369",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Confederated Tribes of middle Oregon",
+        "Present-Day Tribe": "Confederated Tribes of middle Oregon"
+    },
+    {
+        "MAP #": "462",
+        "MAP Name": "Oregon 1, California 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Klamath",
+        "Present-Day Tribe": "Klamath Tribes, Oregon"
+    },
+    {
+        "MAP #": "462",
+        "MAP Name": "Oregon 1, California 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Modok",
+        "Present-Day Tribe": "Modoc Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Big Pine Band of Owens Valley Paiute Shoshone Indians of the Big Pine Reservation, California"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Big Pine Band of Owens Valley Paiute Shoshone Indians of the Big Pine Reservation, California"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "Oregon 2",
+        "County": "OR",
+        "Tribe Named in Treaty": "Grant",
+        "Present-Day Tribe": "Paiute"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Bridgeport Paiute Indian Colony of California"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Burns Paiute Tribe of the Burns Paiute Indian Colony of Oregon"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Grant",
+        "Present-Day Tribe": "Paiute"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Fort Independence Indian Community of Paiute Indians of the Fort Independence Reservation, California"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Paiute"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Fort McDermitt Paiute and Shoshone Tribes of the Fort McDermitt Indian Reservation, Nevada and Oregon"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Fort McDermitt Paiute and Shoshone Tribes of the Fort McDermitt Indian Reservation, Nevada and Oregon"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Kaibab Band of Paiute Indians of the Kaibab Indian Reservation, Arizona"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Kaibab Band of Paiute Indians of the Kaibab Indian Reservation, Arizona"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "Oregon 2",
+        "County": "OR",
+        "Tribe Named in Treaty": "Grant",
+        "Present-Day Tribe": "Paiute"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Las Vegas Tribe of Paiute Indians of the Las Vegas Indian Colony, Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Lovelock Paiute Tribe of the Lovelock Indian Colony, Nevada"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Grant",
+        "Present-Day Tribe": "Paiute"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Moapa Band of Paiute Indians of the Moapa River Indian Reservation, Nevada"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Paiute"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Paiute Indian Tribe of Utah"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Paiute Indian Tribe of Utah"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Paiute-Shoshone Indians of the Bishop Community of the Bishop Colony, California"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Paiute-Shoshone Indians of the Bishop Community of the Bishop Colony, California"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "Oregon 2",
+        "County": "OR",
+        "Tribe Named in Treaty": "Grant",
+        "Present-Day Tribe": "Paiute"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Paiute-Shoshone Indians of the Lone Pine Community of the Lone Pine Reservation, California"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Paiute-Shoshone Tribe of the Fallon Reservation and Colony, Nevada"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Grant",
+        "Present-Day Tribe": "Paiute"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Pyramid Lake Paiute Tribe of the Pyramid Lake Reservation, Nevada"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Paiute"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "San Juan Southern Paiute Tribe of Arizona"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "San Juan Southern Paiute Tribe of Arizona"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Shoshone-Paiute Tribes of the Duck Valley Reservation, Nevada"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Shoshone-Paiute Tribes of the Duck Valley Reservation, Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "Oregon 2",
+        "County": "OR",
+        "Tribe Named in Treaty": "Grant",
+        "Present-Day Tribe": "Paiute"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Summit Lake Paiute Tribe of Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Utu Utu Gwaitu Paiute Tribe of the Benton Paiute Reservation, California"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Grant",
+        "Present-Day Tribe": "Paiute"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Walker River Paiute Tribe of the Walker River Reservation, Nevada"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Paiute"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Yerington Paiute Tribe of the Yerington Colony & Campbell Ranch, Nevada"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Yerington Paiute Tribe of the Yerington Colony & Campbell Ranch, Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Big Pine Band of Owens Valley Paiute Shoshone Indians of the Big Pine Reservation, California"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Big Pine Band of Owens Valley Paiute Shoshone Indians of the Big Pine Reservation, California"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "Oregon 2",
+        "County": "OR",
+        "Tribe Named in Treaty": "Grant",
+        "Present-Day Tribe": "Shoshoni"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Death Valley Timbi-Sha Shoshone Band of California"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Duckwater Shoshone Tribe of the Duckwater Reservation, Nevada"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Grant",
+        "Present-Day Tribe": "Shoshoni"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Ely Shoshone Tribe of Nevada"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Shoshoni"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Fort McDermitt Paiute and Shoshone Tribes of the Fort McDermitt Indian Reservation, Nevada and Oregon"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Fort McDermitt Paiute and Shoshone Tribes of the Fort McDermitt Indian Reservation, Nevada and Oregon"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Paiute-Shoshone Indians of the Bishop Community of the Bishop Colony, California"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Paiute-Shoshone Indians of the Bishop Community of the Bishop Colony, California"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "Oregon 2",
+        "County": "OR",
+        "Tribe Named in Treaty": "Grant",
+        "Present-Day Tribe": "Shoshoni"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Paiute-Shoshone Indians of the Lone Pine Community of the Lone Pine Reservation, California"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Paiute-Shoshone Tribe of the Fallon Reservation and Colony, Nevada"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Grant",
+        "Present-Day Tribe": "Shoshoni"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Shoshone Tribe of the Wind River Reservation, Wyoming"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Shoshoni"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Shoshone-Bannock Tribes of the Fort Hall Reservation of Idaho"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Shoshone-Bannock Tribes of the Fort Hall Reservation of Idaho"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Shoshone-Paiute Tribes of the Duck Valley Reservation, Nevada"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Shoshone-Paiute Tribes of the Duck Valley Reservation, Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "Oregon 2",
+        "County": "OR",
+        "Tribe Named in Treaty": "Grant",
+        "Present-Day Tribe": "Shoshoni"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Te-Moak Tribe of Western Shoshone Indians of Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Yomba Shoshone Tribe of the Yomba Reservation, Nevada"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Grant",
+        "Present-Day Tribe": "Shoshoni"
+    },
+    {
+        "MAP #": "444",
+        "MAP Name": "Utah 1, Nevada, California 2, Oregon 1, Idaho",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Shoshoni (Western bands)",
+        "Present-Day Tribe": "Northwestern Band of Shoshoni Nation of Utah (Washakie)"
+    },
+    {
+        "MAP #": "444",
+        "MAP Name": "Utah 1, Nevada, California 2, Oregon 1, Idaho",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Shoshoni (Western bands)",
+        "Present-Day Tribe": "Shoshoni (Western bands)"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Snake",
+        "Present-Day Tribe": "Big Pine Band of Owens Valley Paiute Shoshone Indians of the Big Pine Reservation, California"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Snake",
+        "Present-Day Tribe": "Death Valley Timbi-Sha Shoshone Band of California"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Snake",
+        "Present-Day Tribe": "Duckwater Shoshone Tribe of the Duckwater Reservation, Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Snake",
+        "Present-Day Tribe": "Ely Shoshone Tribe of Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "Oregon 2",
+        "County": "OR",
+        "Tribe Named in Treaty": "Grant",
+        "Present-Day Tribe": "Snake"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Snake",
+        "Present-Day Tribe": "Paiute-Shoshone Indians of the Bishop Community of the Bishop Colony, California"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Snake",
+        "Present-Day Tribe": "Paiute-Shoshone Indians of the Lone Pine Community of the Lone Pine Reservation, California"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Grant",
+        "Present-Day Tribe": "Snake"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Snake",
+        "Present-Day Tribe": "Shoshone Tribe of the Wind River Reservation, Wyoming"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Snake",
+        "Present-Day Tribe": "Snake"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Snake",
+        "Present-Day Tribe": "Te-Moak Tribe of Western Shoshone Indians of Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Snake",
+        "Present-Day Tribe": "Yomba Shoshone Tribe of the Yomba Reservation, Nevada"
+    },
+    {
+        "MAP #": "462",
+        "MAP Name": "Oregon 1, California 2",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Snake Indians, Yahooskin band",
+        "Present-Day Tribe": "Klamath Tribes, Oregon"
+    },
+    {
+        "MAP #": "362",
+        "MAP Name": "Oregon 1, Washington 1",
+        "State": "OR",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Umatilla",
+        "Present-Day Tribe": "Confederated Tribes of the Umatilla Reservation, Oregon"
+    },
+    {
+        "MAP #": "362",
+        "MAP Name": "Oregon 1, Washington 1",
+        "State": "Oregon 1, Washington 1",
+        "County": "OR",
+        "Tribe Named in Treaty": "Grant",
+        "Present-Day Tribe": "Walla-walla"
+    },
+    {
+        "MAP #": "462",
+        "MAP Name": "Oregon 1, California 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Klamath",
+        "Present-Day Tribe": "Klamath Tribes, Oregon"
+    },
+    {
+        "MAP #": "462",
+        "MAP Name": "Oregon 1, California 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Modok",
+        "Present-Day Tribe": "Modoc Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Harney",
+        "Present-Day Tribe": "Paiute"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Big Pine Band of Owens Valley Paiute Shoshone Indians of the Big Pine Reservation, California"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Paiute"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Bridgeport Paiute Indian Colony of California"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Burns Paiute Tribe of the Burns Paiute Indian Colony of Oregon"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Burns Paiute Tribe of the Burns Paiute Indian Colony of Oregon"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Fort Independence Indian Community of Paiute Indians of the Fort Independence Reservation, California"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "Oregon 2",
+        "County": "OR",
+        "Tribe Named in Treaty": "Harney",
+        "Present-Day Tribe": "Paiute"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Fort McDermitt Paiute and Shoshone Tribes of the Fort McDermitt Indian Reservation, Nevada and Oregon"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Fort McDermitt Paiute and Shoshone Tribes of the Fort McDermitt Indian Reservation, Nevada and Oregon"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Harney",
+        "Present-Day Tribe": "Paiute"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Kaibab Band of Paiute Indians of the Kaibab Indian Reservation, Arizona"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Paiute"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Las Vegas Tribe of Paiute Indians of the Las Vegas Indian Colony, Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Lovelock Paiute Tribe of the Lovelock Indian Colony, Nevada"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Lovelock Paiute Tribe of the Lovelock Indian Colony, Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Moapa Band of Paiute Indians of the Moapa River Indian Reservation, Nevada"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "Oregon 2",
+        "County": "OR",
+        "Tribe Named in Treaty": "Harney",
+        "Present-Day Tribe": "Paiute"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Paiute Indian Tribe of Utah"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Paiute Indian Tribe of Utah"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Harney",
+        "Present-Day Tribe": "Paiute"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Paiute-Shoshone Indians of the Bishop Community of the Bishop Colony, California"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Paiute"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Paiute-Shoshone Indians of the Lone Pine Community of the Lone Pine Reservation, California"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Paiute-Shoshone Tribe of the Fallon Reservation and Colony, Nevada"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Paiute-Shoshone Tribe of the Fallon Reservation and Colony, Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Pyramid Lake Paiute Tribe of the Pyramid Lake Reservation, Nevada"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "Oregon 2",
+        "County": "OR",
+        "Tribe Named in Treaty": "Harney",
+        "Present-Day Tribe": "Paiute"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "San Juan Southern Paiute Tribe of Arizona"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "San Juan Southern Paiute Tribe of Arizona"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Harney",
+        "Present-Day Tribe": "Paiute"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Shoshone-Paiute Tribes of the Duck Valley Reservation, Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Paiute"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Summit Lake Paiute Tribe of Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Utu Utu Gwaitu Paiute Tribe of the Benton Paiute Reservation, California"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Utu Utu Gwaitu Paiute Tribe of the Benton Paiute Reservation, California"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Walker River Paiute Tribe of the Walker River Reservation, Nevada"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "Oregon 2",
+        "County": "OR",
+        "Tribe Named in Treaty": "Harney",
+        "Present-Day Tribe": "Paiute"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Yerington Paiute Tribe of the Yerington Colony & Campbell Ranch, Nevada"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Yerington Paiute Tribe of the Yerington Colony & Campbell Ranch, Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Harney",
+        "Present-Day Tribe": "Shoshoni"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Big Pine Band of Owens Valley Paiute Shoshone Indians of the Big Pine Reservation, California"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Shoshoni"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Death Valley Timbi-Sha Shoshone Band of California"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Duckwater Shoshone Tribe of the Duckwater Reservation, Nevada"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Duckwater Shoshone Tribe of the Duckwater Reservation, Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Ely Shoshone Tribe of Nevada"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "Oregon 2",
+        "County": "OR",
+        "Tribe Named in Treaty": "Harney",
+        "Present-Day Tribe": "Shoshoni"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Fort McDermitt Paiute and Shoshone Tribes of the Fort McDermitt Indian Reservation, Nevada and Oregon"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Fort McDermitt Paiute and Shoshone Tribes of the Fort McDermitt Indian Reservation, Nevada and Oregon"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Harney",
+        "Present-Day Tribe": "Shoshoni"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Paiute-Shoshone Indians of the Bishop Community of the Bishop Colony, California"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Shoshoni"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Paiute-Shoshone Indians of the Lone Pine Community of the Lone Pine Reservation, California"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Paiute-Shoshone Tribe of the Fallon Reservation and Colony, Nevada"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Paiute-Shoshone Tribe of the Fallon Reservation and Colony, Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Shoshone Tribe of the Wind River Reservation, Wyoming"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "Oregon 2",
+        "County": "OR",
+        "Tribe Named in Treaty": "Harney",
+        "Present-Day Tribe": "Shoshoni"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Shoshone-Bannock Tribes of the Fort Hall Reservation of Idaho"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Shoshone-Bannock Tribes of the Fort Hall Reservation of Idaho"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Harney",
+        "Present-Day Tribe": "Shoshoni"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Shoshone-Paiute Tribes of the Duck Valley Reservation, Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Shoshoni"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Te-Moak Tribe of Western Shoshone Indians of Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Yomba Shoshone Tribe of the Yomba Reservation, Nevada"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Yomba Shoshone Tribe of the Yomba Reservation, Nevada"
+    },
+    {
+        "MAP #": "444",
+        "MAP Name": "Utah 1, Nevada, California 2, Oregon 1, Idaho",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Shoshoni (Western bands)",
+        "Present-Day Tribe": "Northwestern Band of Shoshoni Nation of Utah (Washakie)"
+    },
+    {
+        "MAP #": "444",
+        "MAP Name": "Utah 1, Nevada, California 2, Oregon 1, Idaho",
+        "State": "Utah 1, Nevada, California 2, Oregon 1, Idaho",
+        "County": "OR",
+        "Tribe Named in Treaty": "Harney",
+        "Present-Day Tribe": "Shoshoni (Western bands)"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Snake",
+        "Present-Day Tribe": "Big Pine Band of Owens Valley Paiute Shoshone Indians of the Big Pine Reservation, California"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Snake",
+        "Present-Day Tribe": "Death Valley Timbi-Sha Shoshone Band of California"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Harney",
+        "Present-Day Tribe": "Snake"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Snake",
+        "Present-Day Tribe": "Ely Shoshone Tribe of Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Snake",
+        "Present-Day Tribe": "Snake"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Snake",
+        "Present-Day Tribe": "Paiute-Shoshone Indians of the Bishop Community of the Bishop Colony, California"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Snake",
+        "Present-Day Tribe": "Paiute-Shoshone Indians of the Lone Pine Community of the Lone Pine Reservation, California"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Snake",
+        "Present-Day Tribe": "Paiute-Shoshone Tribe of the Fallon Reservation and Colony, Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Snake",
+        "Present-Day Tribe": "Shoshone Tribe of the Wind River Reservation, Wyoming"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "Oregon 2",
+        "County": "OR",
+        "Tribe Named in Treaty": "Harney",
+        "Present-Day Tribe": "Snake"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Snake",
+        "Present-Day Tribe": "Te-Moak Tribe of Western Shoshone Indians of Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Snake",
+        "Present-Day Tribe": "Yomba Shoshone Tribe of the Yomba Reservation, Nevada"
+    },
+    {
+        "MAP #": "474",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Harney",
+        "Present-Day Tribe": "Snake Indians, Woll-pah-pe tribe"
+    },
+    {
+        "MAP #": "462",
+        "MAP Name": "Oregon 1, California 2",
+        "State": "OR",
+        "County": "Harney",
+        "Tribe Named in Treaty": "Snake Indians, Yahooskin band",
+        "Present-Day Tribe": "Klamath Tribes, Oregon"
+    },
+    {
+        "MAP #": "352",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Hood River",
+        "Tribe Named in Treaty": "Calapooia",
+        "Present-Day Tribe": "Calapooia"
+    },
+    {
+        "MAP #": "352",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Hood River",
+        "Tribe Named in Treaty": "Confederated Bands of Willamette Valley",
+        "Present-Day Tribe": "Confederated Tribes of the Grand Ronde Community of Oregon"
+    },
+    {
+        "MAP #": "352",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Hood River",
+        "Tribe Named in Treaty": "Confederated Bands of Willamette Valley",
+        "Present-Day Tribe": "Confederated Tribes of the Siletz Reservation, Oregon"
+    },
+    {
+        "MAP #": "352",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Hood River",
+        "Tribe Named in Treaty": "Confederated Bands of Willamette Valley",
+        "Present-Day Tribe": "Confederated Tribes of the Warm Springs Reservation of Oregon"
+    },
+    {
+        "MAP #": "369",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Hood River",
+        "Tribe Named in Treaty": "Confederated Tribes of middle Oregon",
+        "Present-Day Tribe": "Confederated Tribes of the Warm Springs Reservation of Oregon"
+    },
+    {
+        "MAP #": "343",
+        "MAP Name": "Oregon 1",
+        "State": "Oregon 1",
+        "County": "OR",
+        "Tribe Named in Treaty": "Jackson",
+        "Present-Day Tribe": "Chasta"
+    },
+    {
+        "MAP #": "343",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Jackson",
+        "Tribe Named in Treaty": "Grave Creek",
+        "Present-Day Tribe": "Cow Creek Band of Umpqua Indians of Oregon"
+    },
+    {
+        "MAP #": "462",
+        "MAP Name": "Oregon 1, California 2",
+        "State": "OR",
+        "County": "Jackson",
+        "Tribe Named in Treaty": "Klamath",
+        "Present-Day Tribe": "Klamath Tribes, Oregon"
+    },
+    {
+        "MAP #": "462",
+        "MAP Name": "Oregon 1, California 2",
+        "State": "OR",
+        "County": "Jackson",
+        "Tribe Named in Treaty": "Jackson",
+        "Present-Day Tribe": "Modok"
+    },
+    {
+        "MAP #": "312",
+        "MAP Name": "Oregon 1, California 2",
+        "State": "OR",
+        "County": "Jackson",
+        "Tribe Named in Treaty": "Rogue River Indians",
+        "Present-Day Tribe": "Confederated Tribes of the Grand Ronde Community of Oregon"
+    },
+    {
+        "MAP #": "312",
+        "MAP Name": "Oregon 1, California 2",
+        "State": "OR",
+        "County": "Jackson",
+        "Tribe Named in Treaty": "Rogue River Indians",
+        "Present-Day Tribe": "Rogue River Indians"
+    },
+    {
+        "MAP #": "343",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Jackson",
+        "Tribe Named in Treaty": "Scoton",
+        "Present-Day Tribe": "Confederated Tribes of the Siletz Reservation, Oregon"
+    },
+    {
+        "MAP #": "462",
+        "MAP Name": "Oregon 1, California 2",
+        "State": "OR",
+        "County": "Jackson",
+        "Tribe Named in Treaty": "Snake Indians, Yahooskin band",
+        "Present-Day Tribe": "Klamath Tribes, Oregon"
+    },
+    {
+        "MAP #": "369",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Jefferson",
+        "Tribe Named in Treaty": "Confederated Tribes of middle Oregon",
+        "Present-Day Tribe": "Confederated Tribes of the Warm Springs Reservation of Oregon"
+    },
+    {
+        "MAP #": "370",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Jefferson",
+        "Tribe Named in Treaty": "Confederated Tribes of middle Oregon",
+        "Present-Day Tribe": "Confederated Tribes of the Warm Springs Reservation of Oregon"
+    },
+    {
+        "MAP #": "343",
+        "MAP Name": "Oregon 1",
+        "State": "Oregon 1",
+        "County": "OR",
+        "Tribe Named in Treaty": "Josephine",
+        "Present-Day Tribe": "Chasta"
+    },
+    {
+        "MAP #": "343",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Josephine",
+        "Tribe Named in Treaty": "Grave Creek",
+        "Present-Day Tribe": "Cow Creek Band of Umpqua Indians of Oregon"
+    },
+    {
+        "MAP #": "312",
+        "MAP Name": "Oregon 1, California 2",
+        "State": "OR",
+        "County": "Josephine",
+        "Tribe Named in Treaty": "Rogue River Indians",
+        "Present-Day Tribe": "Confederated Tribes of the Grand Ronde Community of Oregon"
+    },
+    {
+        "MAP #": "312",
+        "MAP Name": "Oregon 1, California 2",
+        "State": "OR",
+        "County": "Josephine",
+        "Tribe Named in Treaty": "Josephine",
+        "Present-Day Tribe": "Rogue River Indians"
+    },
+    {
+        "MAP #": "343",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Josephine",
+        "Tribe Named in Treaty": "Scoton",
+        "Present-Day Tribe": "Confederated Tribes of the Siletz Reservation, Oregon"
+    },
+    {
+        "MAP #": "462",
+        "MAP Name": "Oregon 1, California 2",
+        "State": "OR",
+        "County": "Klamath",
+        "Tribe Named in Treaty": "Klamath",
+        "Present-Day Tribe": "Klamath"
+    },
+    {
+        "MAP #": "463",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Klamath",
+        "Tribe Named in Treaty": "Klamath",
+        "Present-Day Tribe": "Klamath Tribes, Oregon"
+    },
+    {
+        "MAP #": "462",
+        "MAP Name": "Oregon 1, California 2",
+        "State": "OR",
+        "County": "Klamath",
+        "Tribe Named in Treaty": "Modok",
+        "Present-Day Tribe": "Modoc Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "463",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Klamath",
+        "Tribe Named in Treaty": "Modok",
+        "Present-Day Tribe": "Modoc Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "462",
+        "MAP Name": "Oregon 1, California 2",
+        "State": "OR",
+        "County": "Klamath",
+        "Tribe Named in Treaty": "Snake Indians, Yahooskin band",
+        "Present-Day Tribe": "Klamath Tribes, Oregon"
+    },
+    {
+        "MAP #": "463",
+        "MAP Name": "Oregon 1",
+        "State": "Oregon 1",
+        "County": "OR",
+        "Tribe Named in Treaty": "Klamath",
+        "Present-Day Tribe": "Snake Indians, Yahooskin band"
+    },
+    {
+        "MAP #": "462",
+        "MAP Name": "Oregon 1, California 2",
+        "State": "OR",
+        "County": "Lake",
+        "Tribe Named in Treaty": "Klamath",
+        "Present-Day Tribe": "Klamath Tribes, Oregon"
+    },
+    {
+        "MAP #": "463",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Lake",
+        "Tribe Named in Treaty": "Klamath",
+        "Present-Day Tribe": "Klamath Tribes, Oregon"
+    },
+    {
+        "MAP #": "462",
+        "MAP Name": "Oregon 1, California 2",
+        "State": "OR",
+        "County": "Lake",
+        "Tribe Named in Treaty": "Lake",
+        "Present-Day Tribe": "Modok"
+    },
+    {
+        "MAP #": "463",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Lake",
+        "Tribe Named in Treaty": "Modok",
+        "Present-Day Tribe": "Modoc Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Lake",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Paiute"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Lake",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Bridgeport Paiute Indian Colony of California"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Lake",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Burns Paiute Tribe of the Burns Paiute Indian Colony of Oregon"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Lake",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Fort Independence Indian Community of Paiute Indians of the Fort Independence Reservation, California"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Lake",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Fort McDermitt Paiute and Shoshone Tribes of the Fort McDermitt Indian Reservation, Nevada and Oregon"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "Oregon 2",
+        "County": "OR",
+        "Tribe Named in Treaty": "Lake",
+        "Present-Day Tribe": "Paiute"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Lake",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Las Vegas Tribe of Paiute Indians of the Las Vegas Indian Colony, Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Lake",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Lovelock Paiute Tribe of the Lovelock Indian Colony, Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Lake",
+        "Tribe Named in Treaty": "Lake",
+        "Present-Day Tribe": "Paiute"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Lake",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Paiute Indian Tribe of Utah"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Lake",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Paiute"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Lake",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Paiute-Shoshone Indians of the Lone Pine Community of the Lone Pine Reservation, California"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Lake",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Paiute-Shoshone Tribe of the Fallon Reservation and Colony, Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Lake",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Pyramid Lake Paiute Tribe of the Pyramid Lake Reservation, Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Lake",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "San Juan Southern Paiute Tribe of Arizona"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "Oregon 2",
+        "County": "OR",
+        "Tribe Named in Treaty": "Lake",
+        "Present-Day Tribe": "Paiute"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Lake",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Summit Lake Paiute Tribe of Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Lake",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Utu Utu Gwaitu Paiute Tribe of the Benton Paiute Reservation, California"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Lake",
+        "Tribe Named in Treaty": "Lake",
+        "Present-Day Tribe": "Paiute"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Lake",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Yerington Paiute Tribe of the Yerington Colony & Campbell Ranch, Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Lake",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Shoshoni"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Lake",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Death Valley Timbi-Sha Shoshone Band of California"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Lake",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Duckwater Shoshone Tribe of the Duckwater Reservation, Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Lake",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Ely Shoshone Tribe of Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Lake",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Fort McDermitt Paiute and Shoshone Tribes of the Fort McDermitt Indian Reservation, Nevada and Oregon"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "Oregon 2",
+        "County": "OR",
+        "Tribe Named in Treaty": "Lake",
+        "Present-Day Tribe": "Shoshoni"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Lake",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Paiute-Shoshone Indians of the Lone Pine Community of the Lone Pine Reservation, California"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Lake",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Paiute-Shoshone Tribe of the Fallon Reservation and Colony, Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Lake",
+        "Tribe Named in Treaty": "Lake",
+        "Present-Day Tribe": "Shoshoni"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Lake",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Shoshone-Bannock Tribes of the Fort Hall Reservation of Idaho"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Lake",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Shoshoni"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Lake",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Te-Moak Tribe of Western Shoshone Indians of Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Lake",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Yomba Shoshone Tribe of the Yomba Reservation, Nevada"
+    },
+    {
+        "MAP #": "444",
+        "MAP Name": "Utah 1, Nevada, California 2, Oregon 1, Idaho",
+        "State": "OR",
+        "County": "Lake",
+        "Tribe Named in Treaty": "Shoshoni (Western bands)",
+        "Present-Day Tribe": "Northwestern Band of Shoshoni Nation of Utah (Washakie)"
+    },
+    {
+        "MAP #": "444",
+        "MAP Name": "Utah 1, Nevada, California 2, Oregon 1, Idaho",
+        "State": "OR",
+        "County": "Lake",
+        "Tribe Named in Treaty": "Shoshoni (Western bands)",
+        "Present-Day Tribe": "Te-Moak Tribe of Western Shoshone Indians of Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "Oregon 2",
+        "County": "OR",
+        "Tribe Named in Treaty": "Lake",
+        "Present-Day Tribe": "Snake"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Lake",
+        "Tribe Named in Treaty": "Snake",
+        "Present-Day Tribe": "Death Valley Timbi-Sha Shoshone Band of California"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Lake",
+        "Tribe Named in Treaty": "Snake",
+        "Present-Day Tribe": "Duckwater Shoshone Tribe of the Duckwater Reservation, Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Lake",
+        "Tribe Named in Treaty": "Lake",
+        "Present-Day Tribe": "Snake"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Lake",
+        "Tribe Named in Treaty": "Snake",
+        "Present-Day Tribe": "Fort McDermitt Paiute and Shoshone Tribes of the Fort McDermitt Indian Reservation, Nevada and Oregon"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Lake",
+        "Tribe Named in Treaty": "Snake",
+        "Present-Day Tribe": "Snake"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Lake",
+        "Tribe Named in Treaty": "Snake",
+        "Present-Day Tribe": "Paiute-Shoshone Indians of the Lone Pine Community of the Lone Pine Reservation, California"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Lake",
+        "Tribe Named in Treaty": "Snake",
+        "Present-Day Tribe": "Paiute-Shoshone Tribe of the Fallon Reservation and Colony, Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Lake",
+        "Tribe Named in Treaty": "Snake",
+        "Present-Day Tribe": "Shoshone Tribe of the Wind River Reservation, Wyoming"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Lake",
+        "Tribe Named in Treaty": "Snake",
+        "Present-Day Tribe": "Shoshone-Bannock Tribes of the Fort Hall Reservation of Idaho"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "Oregon 2",
+        "County": "OR",
+        "Tribe Named in Treaty": "Lake",
+        "Present-Day Tribe": "Snake"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Lake",
+        "Tribe Named in Treaty": "Snake",
+        "Present-Day Tribe": "Yomba Shoshone Tribe of the Yomba Reservation, Nevada"
+    },
+    {
+        "MAP #": "462",
+        "MAP Name": "Oregon 1, California 2",
+        "State": "OR",
+        "County": "Lake",
+        "Tribe Named in Treaty": "Snake Indians, Yahooskin band",
+        "Present-Day Tribe": "Klamath Tribes, Oregon"
+    },
+    {
+        "MAP #": "463",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Lake",
+        "Tribe Named in Treaty": "Lake",
+        "Present-Day Tribe": "Snake Indians, Yahooskin band"
+    },
+    {
+        "MAP #": "344",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Lane",
+        "Tribe Named in Treaty": "Calapooia",
+        "Present-Day Tribe": "Confederated Tribes of the Grand Ronde Community of Oregon"
+    },
+    {
+        "MAP #": "352",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Lane",
+        "Tribe Named in Treaty": "Calapooia",
+        "Present-Day Tribe": "Calapooia"
+    },
+    {
+        "MAP #": "352",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Lane",
+        "Tribe Named in Treaty": "Confederated Bands of Willamette Valley",
+        "Present-Day Tribe": "Confederated Tribes of the Grand Ronde Community of Oregon"
+    },
+    {
+        "MAP #": "352",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Lane",
+        "Tribe Named in Treaty": "Confederated Bands of Willamette Valley",
+        "Present-Day Tribe": "Confederated Tribes of the Siletz Reservation, Oregon"
+    },
+    {
+        "MAP #": "352",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Lane",
+        "Tribe Named in Treaty": "Confederated Bands of Willamette Valley",
+        "Present-Day Tribe": "Confederated Tribes of the Warm Springs Reservation of Oregon"
+    },
+    {
+        "MAP #": "344",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Lane",
+        "Tribe Named in Treaty": "Umpqua",
+        "Present-Day Tribe": "Confederated Tribes of the Coos, Lower Umpqua and Siuslaw Indians of Oregon"
+    },
+    {
+        "MAP #": "344",
+        "MAP Name": "Oregon 1",
+        "State": "Oregon 1",
+        "County": "OR",
+        "Tribe Named in Treaty": "Lane",
+        "Present-Day Tribe": "Umpqua"
+    },
+    {
+        "MAP #": "479",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Lincoln",
+        "Tribe Named in Treaty": "Indians on coast of Oregon",
+        "Present-Day Tribe": "Confederated Tribes of the Coos, Lower Umpqua and Siuslaw Indians of Oregon"
+    },
+    {
+        "MAP #": "479",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Lincoln",
+        "Tribe Named in Treaty": "Indians on coast of Oregon",
+        "Present-Day Tribe": "Confederated Tribes of the Grand Ronde Community of Oregon"
+    },
+    {
+        "MAP #": "479",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Lincoln",
+        "Tribe Named in Treaty": "Lincoln",
+        "Present-Day Tribe": "Indians on coast of Oregon"
+    },
+    {
+        "MAP #": "479",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Lincoln",
+        "Tribe Named in Treaty": "Indians on coast of Oregon",
+        "Present-Day Tribe": "Coquille Tribe of Oregon"
+    },
+    {
+        "MAP #": "479",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Lincoln",
+        "Tribe Named in Treaty": "Indians on coast of Oregon",
+        "Present-Day Tribe": "Indians on coast of Oregon"
+    },
+    {
+        "MAP #": "352",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Linn",
+        "Tribe Named in Treaty": "Calapooia",
+        "Present-Day Tribe": "Confederated Tribes of the Grand Ronde Community of Oregon"
+    },
+    {
+        "MAP #": "352",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Linn",
+        "Tribe Named in Treaty": "Confederated Bands of Willamette Valley",
+        "Present-Day Tribe": "Confederated Tribes of the Grand Ronde Community of Oregon"
+    },
+    {
+        "MAP #": "352",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Linn",
+        "Tribe Named in Treaty": "Confederated Bands of Willamette Valley",
+        "Present-Day Tribe": "Confederated Tribes of the Siletz Reservation, Oregon"
+    },
+    {
+        "MAP #": "352",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Linn",
+        "Tribe Named in Treaty": "Confederated Bands of Willamette Valley",
+        "Present-Day Tribe": "Confederated Tribes of the Warm Springs Reservation of Oregon"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "Oregon 2",
+        "County": "OR",
+        "Tribe Named in Treaty": "Malheur",
+        "Present-Day Tribe": "Paiute"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Big Pine Band of Owens Valley Paiute Shoshone Indians of the Big Pine Reservation, California"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Bridgeport Paiute Indian Colony of California"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Malheur",
+        "Present-Day Tribe": "Paiute"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Burns Paiute Tribe of the Burns Paiute Indian Colony of Oregon"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Paiute"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Fort Independence Indian Community of Paiute Indians of the Fort Independence Reservation, California"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Fort Independence Indian Community of Paiute Indians of the Fort Independence Reservation, California"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Fort McDermitt Paiute and Shoshone Tribes of the Fort McDermitt Indian Reservation, Nevada and Oregon"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Fort McDermitt Paiute and Shoshone Tribes of the Fort McDermitt Indian Reservation, Nevada and Oregon"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "Oregon 2",
+        "County": "OR",
+        "Tribe Named in Treaty": "Malheur",
+        "Present-Day Tribe": "Paiute"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Kaibab Band of Paiute Indians of the Kaibab Indian Reservation, Arizona"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Las Vegas Tribe of Paiute Indians of the Las Vegas Indian Colony, Nevada"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Malheur",
+        "Present-Day Tribe": "Paiute"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Lovelock Paiute Tribe of the Lovelock Indian Colony, Nevada"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Paiute"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Moapa Band of Paiute Indians of the Moapa River Indian Reservation, Nevada"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Moapa Band of Paiute Indians of the Moapa River Indian Reservation, Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Paiute Indian Tribe of Utah"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Paiute Indian Tribe of Utah"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "Oregon 2",
+        "County": "OR",
+        "Tribe Named in Treaty": "Malheur",
+        "Present-Day Tribe": "Paiute"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Paiute-Shoshone Indians of the Bishop Community of the Bishop Colony, California"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Paiute-Shoshone Indians of the Lone Pine Community of the Lone Pine Reservation, California"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Malheur",
+        "Present-Day Tribe": "Paiute"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Paiute-Shoshone Tribe of the Fallon Reservation and Colony, Nevada"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Paiute"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Pyramid Lake Paiute Tribe of the Pyramid Lake Reservation, Nevada"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Pyramid Lake Paiute Tribe of the Pyramid Lake Reservation, Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "San Juan Southern Paiute Tribe of Arizona"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "San Juan Southern Paiute Tribe of Arizona"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "Oregon 2",
+        "County": "OR",
+        "Tribe Named in Treaty": "Malheur",
+        "Present-Day Tribe": "Paiute"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Shoshone-Paiute Tribes of the Duck Valley Reservation, Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Summit Lake Paiute Tribe of Nevada"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Malheur",
+        "Present-Day Tribe": "Paiute"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Utu Utu Gwaitu Paiute Tribe of the Benton Paiute Reservation, California"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Paiute"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Walker River Paiute Tribe of the Walker River Reservation, Nevada"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Walker River Paiute Tribe of the Walker River Reservation, Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Yerington Paiute Tribe of the Yerington Colony & Campbell Ranch, Nevada"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Yerington Paiute Tribe of the Yerington Colony & Campbell Ranch, Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "Oregon 2",
+        "County": "OR",
+        "Tribe Named in Treaty": "Malheur",
+        "Present-Day Tribe": "Shoshoni"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Big Pine Band of Owens Valley Paiute Shoshone Indians of the Big Pine Reservation, California"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Death Valley Timbi-Sha Shoshone Band of California"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Malheur",
+        "Present-Day Tribe": "Shoshoni"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Duckwater Shoshone Tribe of the Duckwater Reservation, Nevada"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Shoshoni"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Ely Shoshone Tribe of Nevada"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Ely Shoshone Tribe of Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Fort McDermitt Paiute and Shoshone Tribes of the Fort McDermitt Indian Reservation, Nevada and Oregon"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Fort McDermitt Paiute and Shoshone Tribes of the Fort McDermitt Indian Reservation, Nevada and Oregon"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "Oregon 2",
+        "County": "OR",
+        "Tribe Named in Treaty": "Malheur",
+        "Present-Day Tribe": "Shoshoni"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Paiute-Shoshone Indians of the Bishop Community of the Bishop Colony, California"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Paiute-Shoshone Indians of the Lone Pine Community of the Lone Pine Reservation, California"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Malheur",
+        "Present-Day Tribe": "Shoshoni"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Paiute-Shoshone Tribe of the Fallon Reservation and Colony, Nevada"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Shoshoni"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Shoshone Tribe of the Wind River Reservation, Wyoming"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Shoshone Tribe of the Wind River Reservation, Wyoming"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Shoshone-Bannock Tribes of the Fort Hall Reservation of Idaho"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Shoshone-Bannock Tribes of the Fort Hall Reservation of Idaho"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "Oregon 2",
+        "County": "OR",
+        "Tribe Named in Treaty": "Malheur",
+        "Present-Day Tribe": "Shoshoni"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Shoshone-Paiute Tribes of the Duck Valley Reservation, Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Te-Moak Tribe of Western Shoshone Indians of Nevada"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Malheur",
+        "Present-Day Tribe": "Shoshoni"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Yomba Shoshone Tribe of the Yomba Reservation, Nevada"
+    },
+    {
+        "MAP #": "589",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Shoshoni"
+    },
+    {
+        "MAP #": "444",
+        "MAP Name": "Utah 1, Nevada, California 2, Oregon 1, Idaho",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Shoshoni (Western bands)",
+        "Present-Day Tribe": "Northwestern Band of Shoshoni Nation of Utah (Washakie)"
+    },
+    {
+        "MAP #": "444",
+        "MAP Name": "Utah 1, Nevada, California 2, Oregon 1, Idaho",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Shoshoni (Western bands)",
+        "Present-Day Tribe": "Te-Moak Tribe of Western Shoshone Indians of Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Snake",
+        "Present-Day Tribe": "Big Pine Band of Owens Valley Paiute Shoshone Indians of the Big Pine Reservation, California"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Snake",
+        "Present-Day Tribe": "Death Valley Timbi-Sha Shoshone Band of California"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "Oregon 2",
+        "County": "OR",
+        "Tribe Named in Treaty": "Malheur",
+        "Present-Day Tribe": "Snake"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Snake",
+        "Present-Day Tribe": "Ely Shoshone Tribe of Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Snake",
+        "Present-Day Tribe": "Fort McDermitt Paiute and Shoshone Tribes of the Fort McDermitt Indian Reservation, Nevada and Oregon"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Malheur",
+        "Present-Day Tribe": "Snake"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Snake",
+        "Present-Day Tribe": "Paiute-Shoshone Indians of the Lone Pine Community of the Lone Pine Reservation, California"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Snake",
+        "Present-Day Tribe": "Snake"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Snake",
+        "Present-Day Tribe": "Shoshone Tribe of the Wind River Reservation, Wyoming"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Snake",
+        "Present-Day Tribe": "Shoshone-Bannock Tribes of the Fort Hall Reservation of Idaho"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Snake",
+        "Present-Day Tribe": "Te-Moak Tribe of Western Shoshone Indians of Nevada"
+    },
+    {
+        "MAP #": "537",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Malheur",
+        "Tribe Named in Treaty": "Snake",
+        "Present-Day Tribe": "Yomba Shoshone Tribe of the Yomba Reservation, Nevada"
+    },
+    {
+        "MAP #": "352",
+        "MAP Name": "Oregon 1",
+        "State": "Oregon 1",
+        "County": "OR",
+        "Tribe Named in Treaty": "Marion",
+        "Present-Day Tribe": "Calapooia"
+    },
+    {
+        "MAP #": "352",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Marion",
+        "Tribe Named in Treaty": "Confederated Bands of Willamette Valley",
+        "Present-Day Tribe": "Confederated Tribes of the Grand Ronde Community of Oregon"
+    },
+    {
+        "MAP #": "352",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Marion",
+        "Tribe Named in Treaty": "Confederated Bands of Willamette Valley",
+        "Present-Day Tribe": "Confederated Tribes of the Siletz Reservation, Oregon"
+    },
+    {
+        "MAP #": "352",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Marion",
+        "Tribe Named in Treaty": "Marion",
+        "Present-Day Tribe": "Confederated Bands of Willamette Valley"
+    },
+    {
+        "MAP #": "362",
+        "MAP Name": "Oregon 1, Washington 1",
+        "State": "OR",
+        "County": "Morrow",
+        "Tribe Named in Treaty": "Cayuse",
+        "Present-Day Tribe": "Confederated Tribes of the Umatilla Reservation, Oregon"
+    },
+    {
+        "MAP #": "369",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Morrow",
+        "Tribe Named in Treaty": "Confederated Tribes of middle Oregon",
+        "Present-Day Tribe": "Confederated Tribes of middle Oregon"
+    },
+    {
+        "MAP #": "362",
+        "MAP Name": "Oregon 1, Washington 1",
+        "State": "OR",
+        "County": "Morrow",
+        "Tribe Named in Treaty": "Umatilla",
+        "Present-Day Tribe": "Confederated Tribes of the Umatilla Reservation, Oregon"
+    },
+    {
+        "MAP #": "362",
+        "MAP Name": "Oregon 1, Washington 1",
+        "State": "OR",
+        "County": "Morrow",
+        "Tribe Named in Treaty": "Walla-walla",
+        "Present-Day Tribe": "Confederated Tribes of the Umatilla Reservation, Oregon"
+    },
+    {
+        "MAP #": "352",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Multnomah",
+        "Tribe Named in Treaty": "Calapooia",
+        "Present-Day Tribe": "Confederated Tribes of the Grand Ronde Community of Oregon"
+    },
+    {
+        "MAP #": "352",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Multnomah",
+        "Tribe Named in Treaty": "Confederated Bands of Willamette Valley",
+        "Present-Day Tribe": "Confederated Tribes of the Grand Ronde Community of Oregon"
+    },
+    {
+        "MAP #": "352",
+        "MAP Name": "Oregon 1",
+        "State": "Oregon 1",
+        "County": "OR",
+        "Tribe Named in Treaty": "Multnomah",
+        "Present-Day Tribe": "Confederated Bands of Willamette Valley"
+    },
+    {
+        "MAP #": "352",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Multnomah",
+        "Tribe Named in Treaty": "Confederated Bands of Willamette Valley",
+        "Present-Day Tribe": "Confederated Tribes of the Warm Springs Reservation of Oregon"
+    },
+    {
+        "MAP #": "352",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Polk",
+        "Tribe Named in Treaty": "Calapooia",
+        "Present-Day Tribe": "Confederated Tribes of the Grand Ronde Community of Oregon"
+    },
+    {
+        "MAP #": "352",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Polk",
+        "Tribe Named in Treaty": "Polk",
+        "Present-Day Tribe": "Confederated Bands of Willamette Valley"
+    },
+    {
+        "MAP #": "407",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Polk",
+        "Tribe Named in Treaty": "Confederated Bands of Willamette valley",
+        "Present-Day Tribe": "Confederated Tribes of the Grand Ronde Community of Oregon"
+    },
+    {
+        "MAP #": "352",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Polk",
+        "Tribe Named in Treaty": "Confederated Bands of Willamette Valley",
+        "Present-Day Tribe": "Confederated Bands of Willamette Valley"
+    },
+    {
+        "MAP #": "407",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Polk",
+        "Tribe Named in Treaty": "Confederated Bands of Willamette valley",
+        "Present-Day Tribe": "Confederated Tribes of the Siletz Reservation, Oregon"
+    },
+    {
+        "MAP #": "352",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Polk",
+        "Tribe Named in Treaty": "Confederated Bands of Willamette Valley",
+        "Present-Day Tribe": "Confederated Tribes of the Warm Springs Reservation of Oregon"
+    },
+    {
+        "MAP #": "407",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Polk",
+        "Tribe Named in Treaty": "Confederated Bands of Willamette valley",
+        "Present-Day Tribe": "Confederated Tribes of the Warm Springs Reservation of Oregon"
+    },
+    {
+        "MAP #": "369",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Sherman",
+        "Tribe Named in Treaty": "Confederated Tribes of middle Oregon",
+        "Present-Day Tribe": "Confederated Tribes of the Warm Springs Reservation of Oregon"
+    },
+    {
+        "MAP #": "397",
+        "MAP Name": "Oregon 1",
+        "State": "Oregon 1",
+        "County": "OR",
+        "Tribe Named in Treaty": "Tillamook",
+        "Present-Day Tribe": "Coast tribes of Oregon"
+    },
+    {
+        "MAP #": "397",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Tillamook",
+        "Tribe Named in Treaty": "Coast tribes of Oregon",
+        "Present-Day Tribe": "Confederated Tribes of the Grand Ronde Community of Oregon"
+    },
+    {
+        "MAP #": "397",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Tillamook",
+        "Tribe Named in Treaty": "Coast tribes of Oregon",
+        "Present-Day Tribe": "Confederated Tribes of the Siletz Reservation, Oregon"
+    },
+    {
+        "MAP #": "397",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Tillamook",
+        "Tribe Named in Treaty": "Tillamook",
+        "Present-Day Tribe": "Coast tribes of Oregon"
+    },
+    {
+        "MAP #": "397",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Tillamook",
+        "Tribe Named in Treaty": "Coast tribes of Oregon",
+        "Present-Day Tribe": "Cow Creek Band of Umpqua Indians of Oregon"
+    },
+    {
+        "MAP #": "362",
+        "MAP Name": "Oregon 1, Washington 1",
+        "State": "OR",
+        "County": "Umatilla",
+        "Tribe Named in Treaty": "Cayuse",
+        "Present-Day Tribe": "Cayuse"
+    },
+    {
+        "MAP #": "363",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Umatilla",
+        "Tribe Named in Treaty": "Cayuse",
+        "Present-Day Tribe": "Confederated Tribes of the Umatilla Reservation, Oregon"
+    },
+    {
+        "MAP #": "369",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Umatilla",
+        "Tribe Named in Treaty": "Confederated Tribes of middle Oregon",
+        "Present-Day Tribe": "Confederated Tribes of the Warm Springs Reservation of Oregon"
+    },
+    {
+        "MAP #": "362",
+        "MAP Name": "Oregon 1, Washington 1",
+        "State": "OR",
+        "County": "Umatilla",
+        "Tribe Named in Treaty": "Umatilla",
+        "Present-Day Tribe": "Confederated Tribes of the Umatilla Reservation, Oregon"
+    },
+    {
+        "MAP #": "363",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Umatilla",
+        "Tribe Named in Treaty": "Umatilla",
+        "Present-Day Tribe": "Confederated Tribes of the Umatilla Reservation, Oregon"
+    },
+    {
+        "MAP #": "696",
+        "MAP Name": "Oregon 2",
+        "State": "Oregon 2",
+        "County": "OR",
+        "Tribe Named in Treaty": "Umatilla",
+        "Present-Day Tribe": "Umatilla"
+    },
+    {
+        "MAP #": "697",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Umatilla",
+        "Tribe Named in Treaty": "Umatilla",
+        "Present-Day Tribe": "Confederated Tribes of the Umatilla Reservation, Oregon"
+    },
+    {
+        "MAP #": "362",
+        "MAP Name": "Oregon 1, Washington 1",
+        "State": "OR",
+        "County": "Umatilla",
+        "Tribe Named in Treaty": "Walla-walla",
+        "Present-Day Tribe": "Confederated Tribes of the Umatilla Reservation, Oregon"
+    },
+    {
+        "MAP #": "363",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Umatilla",
+        "Tribe Named in Treaty": "Umatilla",
+        "Present-Day Tribe": "Walla-walla"
+    },
+    {
+        "MAP #": "362",
+        "MAP Name": "Oregon 1, Washington 1",
+        "State": "OR",
+        "County": "Union",
+        "Tribe Named in Treaty": "Cayuse",
+        "Present-Day Tribe": "Confederated Tribes of the Umatilla Reservation, Oregon"
+    },
+    {
+        "MAP #": "441",
+        "MAP Name": "Idaho, Oregon 1, Washington 1",
+        "State": "OR",
+        "County": "Union",
+        "Tribe Named in Treaty": "Nez Perc\u00e9",
+        "Present-Day Tribe": "Nez Perc\u00e9"
+    },
+    {
+        "MAP #": "362",
+        "MAP Name": "Oregon 1, Washington 1",
+        "State": "OR",
+        "County": "Union",
+        "Tribe Named in Treaty": "Umatilla",
+        "Present-Day Tribe": "Confederated Tribes of the Umatilla Reservation, Oregon"
+    },
+    {
+        "MAP #": "697",
+        "MAP Name": "Oregon 2",
+        "State": "OR",
+        "County": "Union",
+        "Tribe Named in Treaty": "Umatilla",
+        "Present-Day Tribe": "Confederated Tribes of the Umatilla Reservation, Oregon"
+    },
+    {
+        "MAP #": "362",
+        "MAP Name": "Oregon 1, Washington 1",
+        "State": "OR",
+        "County": "Union",
+        "Tribe Named in Treaty": "Walla-walla",
+        "Present-Day Tribe": "Confederated Tribes of the Umatilla Reservation, Oregon"
+    },
+    {
+        "MAP #": "362",
+        "MAP Name": "Oregon 1, Washington 1",
+        "State": "OR",
+        "County": "Wallowa",
+        "Tribe Named in Treaty": "Cayuse",
+        "Present-Day Tribe": "Confederated Tribes of the Umatilla Reservation, Oregon"
+    },
+    {
+        "MAP #": "441",
+        "MAP Name": "Idaho, Oregon 1, Washington 1",
+        "State": "Idaho, Oregon 1, Washington 1",
+        "County": "OR",
+        "Tribe Named in Treaty": "Wallowa",
+        "Present-Day Tribe": "Nez Perc\u00e9"
+    },
+    {
+        "MAP #": "545",
+        "MAP Name": "Oregon 2, Washington 2",
+        "State": "OR",
+        "County": "Wallowa",
+        "Tribe Named in Treaty": "Nez Perc\u00e9",
+        "Present-Day Tribe": "Nez Perce Tribe of Idaho"
+    },
+    {
+        "MAP #": "362",
+        "MAP Name": "Oregon 1, Washington 1",
+        "State": "OR",
+        "County": "Wallowa",
+        "Tribe Named in Treaty": "Umatilla",
+        "Present-Day Tribe": "Confederated Tribes of the Umatilla Reservation, Oregon"
+    },
+    {
+        "MAP #": "362",
+        "MAP Name": "Oregon 1, Washington 1",
+        "State": "OR",
+        "County": "Wallowa",
+        "Tribe Named in Treaty": "Wallowa",
+        "Present-Day Tribe": "Walla-walla"
+    },
+    {
+        "MAP #": "352",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Wasco",
+        "Tribe Named in Treaty": "Calapooia",
+        "Present-Day Tribe": "Confederated Tribes of the Grand Ronde Community of Oregon"
+    },
+    {
+        "MAP #": "352",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Wasco",
+        "Tribe Named in Treaty": "Confederated Bands of Willamette Valley",
+        "Present-Day Tribe": "Confederated Bands of Willamette Valley"
+    },
+    {
+        "MAP #": "352",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Wasco",
+        "Tribe Named in Treaty": "Confederated Bands of Willamette Valley",
+        "Present-Day Tribe": "Confederated Tribes of the Siletz Reservation, Oregon"
+    },
+    {
+        "MAP #": "352",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Wasco",
+        "Tribe Named in Treaty": "Confederated Bands of Willamette Valley",
+        "Present-Day Tribe": "Confederated Tribes of the Warm Springs Reservation of Oregon"
+    },
+    {
+        "MAP #": "369",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Wasco",
+        "Tribe Named in Treaty": "Confederated Tribes of middle Oregon",
+        "Present-Day Tribe": "Confederated Tribes of the Warm Springs Reservation of Oregon"
+    },
+    {
+        "MAP #": "370",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Wasco",
+        "Tribe Named in Treaty": "Confederated Tribes of middle Oregon",
+        "Present-Day Tribe": "Confederated Tribes of the Warm Springs Reservation of Oregon"
+    },
+    {
+        "MAP #": "352",
+        "MAP Name": "Oregon 1",
+        "State": "Oregon 1",
+        "County": "OR",
+        "Tribe Named in Treaty": "Washington",
+        "Present-Day Tribe": "Calapooia"
+    },
+    {
+        "MAP #": "352",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Washington",
+        "Tribe Named in Treaty": "Confederated Bands of Willamette Valley",
+        "Present-Day Tribe": "Confederated Tribes of the Grand Ronde Community of Oregon"
+    },
+    {
+        "MAP #": "352",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Washington",
+        "Tribe Named in Treaty": "Confederated Bands of Willamette Valley",
+        "Present-Day Tribe": "Confederated Tribes of the Siletz Reservation, Oregon"
+    },
+    {
+        "MAP #": "352",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Washington",
+        "Tribe Named in Treaty": "Washington",
+        "Present-Day Tribe": "Confederated Bands of Willamette Valley"
+    },
+    {
+        "MAP #": "352",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Yamhill",
+        "Tribe Named in Treaty": "Calapooia",
+        "Present-Day Tribe": "Confederated Tribes of the Grand Ronde Community of Oregon"
+    },
+    {
+        "MAP #": "352",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Yamhill",
+        "Tribe Named in Treaty": "Confederated Bands of Willamette Valley",
+        "Present-Day Tribe": "Confederated Bands of Willamette Valley"
+    },
+    {
+        "MAP #": "407",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Yamhill",
+        "Tribe Named in Treaty": "Confederated Bands of Willamette valley",
+        "Present-Day Tribe": "Confederated Tribes of the Grand Ronde Community of Oregon"
+    },
+    {
+        "MAP #": "352",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Yamhill",
+        "Tribe Named in Treaty": "Confederated Bands of Willamette Valley",
+        "Present-Day Tribe": "Confederated Tribes of the Siletz Reservation, Oregon"
+    },
+    {
+        "MAP #": "407",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Yamhill",
+        "Tribe Named in Treaty": "Confederated Bands of Willamette valley",
+        "Present-Day Tribe": "Confederated Tribes of the Siletz Reservation, Oregon"
+    },
+    {
+        "MAP #": "352",
+        "MAP Name": "Oregon 1",
+        "State": "OR",
+        "County": "Yamhill",
+        "Tribe Named in Treaty": "Confederated Bands of Willamette Valley",
+        "Present-Day Tribe": "Confederated Tribes of the Warm Springs Reservation of Oregon"
+    },
+    {
+        "MAP #": "407",
+        "MAP Name": "Oregon 1",
+        "State": "Oregon 1",
+        "County": "OR",
+        "Tribe Named in Treaty": "Yamhill",
+        "Present-Day Tribe": "Confederated Bands of Willamette valley"
+    }
+]

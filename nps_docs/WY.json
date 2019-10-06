@@ -1,0 +1,1658 @@
+[
+    {
+        "MAP #": "426",
+        "MAP Name": "Nebraska, Kansas 1, Colorado 1, Wyoming 1",
+        "State": "WY",
+        "County": "Albany",
+        "Tribe Named in Treaty": "Arapaho of Upper Arkansas",
+        "Present-Day Tribe": "Arapaho Tribe of the Wind River Reservation, Wyoming"
+    },
+    {
+        "MAP #": "426",
+        "MAP Name": "Nebraska, Kansas 1, Colorado 1, Wyoming 1",
+        "State": "WY",
+        "County": "Albany",
+        "Tribe Named in Treaty": "Cheyenne of Upper Arkansas",
+        "Present-Day Tribe": "Cheyenne-Arapaho Tribes of Oklahoma"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Campbell",
+        "Tribe Named in Treaty": "Arapaho",
+        "Present-Day Tribe": "Arapaho Tribe of the Wind River Reservation, Wyoming"
+    },
+    {
+        "MAP #": "529",
+        "MAP Name": "Dakota 1, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Campbell",
+        "Tribe Named in Treaty": "Campbell",
+        "Present-Day Tribe": "Arikara"
+    },
+    {
+        "MAP #": "529",
+        "MAP Name": "Dakota 1, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Campbell",
+        "Tribe Named in Treaty": "Gros Ventre",
+        "Present-Day Tribe": "Fort Belknap Indian Community of the Fort Belknap Reservation of Montana"
+    },
+    {
+        "MAP #": "529",
+        "MAP Name": "Dakota 1, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Campbell",
+        "Tribe Named in Treaty": "Mandan",
+        "Present-Day Tribe": "Mandan"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Campbell",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Assiniboine and Sioux Tribes of the Fort Peck Indian Reservation, Montana"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Campbell",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Cheyenne River Sioux Tribe of the Cheyenne River Reservation, South Dakota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Campbell",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Crow Creek Sioux Tribe of the Crow Creek Reservation, South Dakota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Campbell",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Flandreau Santee Sioux Tribe of South Dakota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Campbell",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Lower Brule Sioux Tribe of the Lower Brule Reservation, South Dakota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Campbell",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Lower Sioux Indian Community in the State of Minnesota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Campbell",
+        "Tribe Named in Treaty": "Campbell",
+        "Present-Day Tribe": "Sioux"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Campbell",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Prairie Island Indian Community in the State of Minnesota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Campbell",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Sioux"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Campbell",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Santee Sioux Nation, Nebraska"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Campbell",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Shakopee Mdewakanton Sioux Community of Minnesota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Campbell",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Sisseton-Wahpeton Oyate of the Lake Traverse Reservation, South Dakota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Campbell",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Spirit Lake Tribe, North Dakota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Campbell",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Standing Rock Sioux Tribe of North & South Dakota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Campbell",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Upper Sioux Community, Minnesota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Campbell",
+        "Tribe Named in Treaty": "Campbell",
+        "Present-Day Tribe": "Sioux"
+    },
+    {
+        "MAP #": "426",
+        "MAP Name": "Nebraska, Kansas 1, Colorado 1, Wyoming 1",
+        "State": "WY",
+        "County": "Carbon",
+        "Tribe Named in Treaty": "Arapaho of Upper Arkansas",
+        "Present-Day Tribe": "Arapaho Tribe of the Wind River Reservation, Wyoming"
+    },
+    {
+        "MAP #": "426",
+        "MAP Name": "Nebraska, Kansas 1, Colorado 1, Wyoming 1",
+        "State": "WY",
+        "County": "Carbon",
+        "Tribe Named in Treaty": "Cheyenne of Upper Arkansas",
+        "Present-Day Tribe": "Cheyenne of Upper Arkansas"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Converse",
+        "Tribe Named in Treaty": "Arapaho",
+        "Present-Day Tribe": "Arapaho Tribe of the Wind River Reservation, Wyoming"
+    },
+    {
+        "MAP #": "426",
+        "MAP Name": "Nebraska, Kansas 1, Colorado 1, Wyoming 1",
+        "State": "WY",
+        "County": "Converse",
+        "Tribe Named in Treaty": "Arapaho of Upper Arkansas",
+        "Present-Day Tribe": "Arapaho Tribe of the Wind River Reservation, Wyoming"
+    },
+    {
+        "MAP #": "426",
+        "MAP Name": "Nebraska, Kansas 1, Colorado 1, Wyoming 1",
+        "State": "WY",
+        "County": "Converse",
+        "Tribe Named in Treaty": "Cheyenne of Upper Arkansas",
+        "Present-Day Tribe": "Cheyenne-Arapaho Tribes of Oklahoma"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Converse",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Assiniboine and Sioux Tribes of the Fort Peck Indian Reservation, Montana"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Converse",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Cheyenne River Sioux Tribe of the Cheyenne River Reservation, South Dakota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Converse",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Crow Creek Sioux Tribe of the Crow Creek Reservation, South Dakota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Converse",
+        "Tribe Named in Treaty": "Converse",
+        "Present-Day Tribe": "Sioux"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Converse",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Lower Brule Sioux Tribe of the Lower Brule Reservation, South Dakota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Converse",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Sioux"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Converse",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Oglala Sioux Tribe of the Pine Ridge Reservation, South Dakota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Converse",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Prairie Island Indian Community in the State of Minnesota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Converse",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Rosebud Sioux Tribe of the Rosebud Indian Reservation, South Dakota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Converse",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Santee Sioux Nation, Nebraska"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Converse",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Shakopee Mdewakanton Sioux Community of Minnesota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Converse",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Sisseton-Wahpeton Oyate of the Lake Traverse Reservation, South Dakota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Converse",
+        "Tribe Named in Treaty": "Converse",
+        "Present-Day Tribe": "Sioux"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Converse",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Standing Rock Sioux Tribe of North & South Dakota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Converse",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Sioux"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Converse",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Yankton Sioux Tribe of South Dakota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Crook",
+        "Tribe Named in Treaty": "Arapaho",
+        "Present-Day Tribe": "Arapaho Tribe of the Wind River Reservation, Wyoming"
+    },
+    {
+        "MAP #": "529",
+        "MAP Name": "Dakota 1, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Crook",
+        "Tribe Named in Treaty": "Arikara",
+        "Present-Day Tribe": "Three Affiliated Tribes of the Fort Berthold Reservation, North Dakota"
+    },
+    {
+        "MAP #": "529",
+        "MAP Name": "Dakota 1, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Crook",
+        "Tribe Named in Treaty": "Gros Ventre",
+        "Present-Day Tribe": "Fort Belknap Indian Community of the Fort Belknap Reservation of Montana"
+    },
+    {
+        "MAP #": "529",
+        "MAP Name": "Dakota 1, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Crook",
+        "Tribe Named in Treaty": "Mandan",
+        "Present-Day Tribe": "Three Affiliated Tribes of the Fort Berthold Reservation, North Dakota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Crook",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Assiniboine and Sioux Tribes of the Fort Peck Indian Reservation, Montana"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Crook",
+        "Tribe Named in Treaty": "Crook",
+        "Present-Day Tribe": "Sioux"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Crook",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Crow Creek Sioux Tribe of the Crow Creek Reservation, South Dakota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Crook",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Sioux"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Crook",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Lower Brule Sioux Tribe of the Lower Brule Reservation, South Dakota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Crook",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Lower Sioux Indian Community in the State of Minnesota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Crook",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Oglala Sioux Tribe of the Pine Ridge Reservation, South Dakota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Crook",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Prairie Island Indian Community in the State of Minnesota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Crook",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Rosebud Sioux Tribe of the Rosebud Indian Reservation, South Dakota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Crook",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Santee Sioux Nation, Nebraska"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Crook",
+        "Tribe Named in Treaty": "Crook",
+        "Present-Day Tribe": "Sioux"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Crook",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Sisseton-Wahpeton Oyate of the Lake Traverse Reservation, South Dakota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Crook",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Sioux"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Crook",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Standing Rock Sioux Tribe of North & South Dakota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Crook",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Upper Sioux Community, Minnesota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Crook",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Yankton Sioux Tribe of South Dakota"
+    },
+    {
+        "MAP #": "540",
+        "MAP Name": "Wyoming 2",
+        "State": "WY",
+        "County": "Fremont",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Big Pine Band of Owens Valley Paiute Shoshone Indians of the Big Pine Reservation, California"
+    },
+    {
+        "MAP #": "540",
+        "MAP Name": "Wyoming 2",
+        "State": "WY",
+        "County": "Fremont",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Death Valley Timbi-Sha Shoshone Band of California"
+    },
+    {
+        "MAP #": "540",
+        "MAP Name": "Wyoming 2",
+        "State": "WY",
+        "County": "Fremont",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Duckwater Shoshone Tribe of the Duckwater Reservation, Nevada"
+    },
+    {
+        "MAP #": "540",
+        "MAP Name": "Wyoming 2",
+        "State": "WY",
+        "County": "Fremont",
+        "Tribe Named in Treaty": "Fremont",
+        "Present-Day Tribe": "Shoshoni"
+    },
+    {
+        "MAP #": "540",
+        "MAP Name": "Wyoming 2",
+        "State": "WY",
+        "County": "Fremont",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Fort McDermitt Paiute and Shoshone Tribes of the Fort McDermitt Indian Reservation, Nevada and Oregon"
+    },
+    {
+        "MAP #": "540",
+        "MAP Name": "Wyoming 2",
+        "State": "WY",
+        "County": "Fremont",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Shoshoni"
+    },
+    {
+        "MAP #": "540",
+        "MAP Name": "Wyoming 2",
+        "State": "WY",
+        "County": "Fremont",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Paiute-Shoshone Indians of the Lone Pine Community of the Lone Pine Reservation, California"
+    },
+    {
+        "MAP #": "540",
+        "MAP Name": "Wyoming 2",
+        "State": "WY",
+        "County": "Fremont",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Paiute-Shoshone Tribe of the Fallon Reservation and Colony, Nevada"
+    },
+    {
+        "MAP #": "540",
+        "MAP Name": "Wyoming 2",
+        "State": "WY",
+        "County": "Fremont",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Shoshone Tribe of the Wind River Reservation, Wyoming"
+    },
+    {
+        "MAP #": "540",
+        "MAP Name": "Wyoming 2",
+        "State": "WY",
+        "County": "Fremont",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Shoshone-Bannock Tribes of the Fort Hall Reservation of Idaho"
+    },
+    {
+        "MAP #": "540",
+        "MAP Name": "Wyoming 2",
+        "State": "WY",
+        "County": "Fremont",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Shoshone-Paiute Tribes of the Duck Valley Reservation, Nevada"
+    },
+    {
+        "MAP #": "540",
+        "MAP Name": "Wyoming 2",
+        "State": "WY",
+        "County": "Fremont",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Te-Moak Tribe of Western Shoshone Indians of Nevada"
+    },
+    {
+        "MAP #": "540",
+        "MAP Name": "Wyoming 2",
+        "State": "WY",
+        "County": "Fremont",
+        "Tribe Named in Treaty": "Fremont",
+        "Present-Day Tribe": "Shoshoni"
+    },
+    {
+        "MAP #": "539",
+        "MAP Name": "Wyoming 2",
+        "State": "WY",
+        "County": "Fremont",
+        "Tribe Named in Treaty": "Sioux, Wahpeton",
+        "Present-Day Tribe": "Sisseton-Wahpeton Oyate of the Lake Traverse Reservation, South Dakota"
+    },
+    {
+        "MAP #": "517",
+        "MAP Name": "Montana 1, Wyoming 1",
+        "State": "WY",
+        "County": "Gallatin",
+        "Tribe Named in Treaty": "Crow",
+        "Present-Day Tribe": "Crow"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Goshen",
+        "Tribe Named in Treaty": "Arapaho",
+        "Present-Day Tribe": "Arapaho Tribe of the Wind River Reservation, Wyoming"
+    },
+    {
+        "MAP #": "426",
+        "MAP Name": "Nebraska, Kansas 1, Colorado 1, Wyoming 1",
+        "State": "WY",
+        "County": "Goshen",
+        "Tribe Named in Treaty": "Arapaho of Upper Arkansas",
+        "Present-Day Tribe": "Arapaho Tribe of the Wind River Reservation, Wyoming"
+    },
+    {
+        "MAP #": "426",
+        "MAP Name": "Nebraska, Kansas 1, Colorado 1, Wyoming 1",
+        "State": "WY",
+        "County": "Goshen",
+        "Tribe Named in Treaty": "Cheyenne of Upper Arkansas",
+        "Present-Day Tribe": "Cheyenne-Arapaho Tribes of Oklahoma"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Goshen",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Assiniboine and Sioux Tribes of the Fort Peck Indian Reservation, Montana"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Goshen",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Cheyenne River Sioux Tribe of the Cheyenne River Reservation, South Dakota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Goshen",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Crow Creek Sioux Tribe of the Crow Creek Reservation, South Dakota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Goshen",
+        "Tribe Named in Treaty": "Goshen",
+        "Present-Day Tribe": "Sioux"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Goshen",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Lower Brule Sioux Tribe of the Lower Brule Reservation, South Dakota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Goshen",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Sioux"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Goshen",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Oglala Sioux Tribe of the Pine Ridge Reservation, South Dakota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Goshen",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Prairie Island Indian Community in the State of Minnesota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Goshen",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Rosebud Sioux Tribe of the Rosebud Indian Reservation, South Dakota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Goshen",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Santee Sioux Nation, Nebraska"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Goshen",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Shakopee Mdewakanton Sioux Community of Minnesota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Goshen",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Sisseton-Wahpeton Oyate of the Lake Traverse Reservation, South Dakota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Goshen",
+        "Tribe Named in Treaty": "Goshen",
+        "Present-Day Tribe": "Sioux"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Goshen",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Standing Rock Sioux Tribe of North & South Dakota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Goshen",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Sioux"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Goshen",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Yankton Sioux Tribe of South Dakota"
+    },
+    {
+        "MAP #": "540",
+        "MAP Name": "Wyoming 2",
+        "State": "WY",
+        "County": "Hot Springs",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Big Pine Band of Owens Valley Paiute Shoshone Indians of the Big Pine Reservation, California"
+    },
+    {
+        "MAP #": "540",
+        "MAP Name": "Wyoming 2",
+        "State": "WY",
+        "County": "Hot Springs",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Death Valley Timbi-Sha Shoshone Band of California"
+    },
+    {
+        "MAP #": "540",
+        "MAP Name": "Wyoming 2",
+        "State": "WY",
+        "County": "Hot Springs",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Duckwater Shoshone Tribe of the Duckwater Reservation, Nevada"
+    },
+    {
+        "MAP #": "540",
+        "MAP Name": "Wyoming 2",
+        "State": "WY",
+        "County": "Hot Springs",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Ely Shoshone Tribe of Nevada"
+    },
+    {
+        "MAP #": "540",
+        "MAP Name": "Wyoming 2",
+        "State": "WY",
+        "County": "Hot Springs",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Fort McDermitt Paiute and Shoshone Tribes of the Fort McDermitt Indian Reservation, Nevada and Oregon"
+    },
+    {
+        "MAP #": "540",
+        "MAP Name": "Wyoming 2",
+        "State": "WY",
+        "County": "Hot Springs",
+        "Tribe Named in Treaty": "Hot Springs",
+        "Present-Day Tribe": "Shoshoni"
+    },
+    {
+        "MAP #": "540",
+        "MAP Name": "Wyoming 2",
+        "State": "WY",
+        "County": "Hot Springs",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Paiute-Shoshone Indians of the Lone Pine Community of the Lone Pine Reservation, California"
+    },
+    {
+        "MAP #": "540",
+        "MAP Name": "Wyoming 2",
+        "State": "WY",
+        "County": "Hot Springs",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Shoshoni"
+    },
+    {
+        "MAP #": "540",
+        "MAP Name": "Wyoming 2",
+        "State": "WY",
+        "County": "Hot Springs",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Shoshone Tribe of the Wind River Reservation, Wyoming"
+    },
+    {
+        "MAP #": "540",
+        "MAP Name": "Wyoming 2",
+        "State": "WY",
+        "County": "Hot Springs",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Shoshone-Bannock Tribes of the Fort Hall Reservation of Idaho"
+    },
+    {
+        "MAP #": "540",
+        "MAP Name": "Wyoming 2",
+        "State": "WY",
+        "County": "Hot Springs",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Shoshone-Paiute Tribes of the Duck Valley Reservation, Nevada"
+    },
+    {
+        "MAP #": "540",
+        "MAP Name": "Wyoming 2",
+        "State": "WY",
+        "County": "Hot Springs",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Te-Moak Tribe of Western Shoshone Indians of Nevada"
+    },
+    {
+        "MAP #": "540",
+        "MAP Name": "Wyoming 2",
+        "State": "WY",
+        "County": "Hot Springs",
+        "Tribe Named in Treaty": "Shoshoni",
+        "Present-Day Tribe": "Yomba Shoshone Tribe of the Yomba Reservation, Nevada"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Johnson",
+        "Tribe Named in Treaty": "Arapaho",
+        "Present-Day Tribe": "Arapaho Tribe of the Wind River Reservation, Wyoming"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Johnson",
+        "Tribe Named in Treaty": "Johnson",
+        "Present-Day Tribe": "Sioux"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Johnson",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Cheyenne River Sioux Tribe of the Cheyenne River Reservation, South Dakota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Johnson",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Sioux"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Johnson",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Flandreau Santee Sioux Tribe of South Dakota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Johnson",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Lower Brule Sioux Tribe of the Lower Brule Reservation, South Dakota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Johnson",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Lower Sioux Indian Community in the State of Minnesota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Johnson",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Oglala Sioux Tribe of the Pine Ridge Reservation, South Dakota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Johnson",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Prairie Island Indian Community in the State of Minnesota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Johnson",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Rosebud Sioux Tribe of the Rosebud Indian Reservation, South Dakota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Johnson",
+        "Tribe Named in Treaty": "Johnson",
+        "Present-Day Tribe": "Sioux"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Johnson",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Shakopee Mdewakanton Sioux Community of Minnesota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Johnson",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Sioux"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Johnson",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Spirit Lake Tribe, North Dakota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Johnson",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Standing Rock Sioux Tribe of North & South Dakota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Johnson",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Upper Sioux Community, Minnesota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Johnson",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Yankton Sioux Tribe of South Dakota"
+    },
+    {
+        "MAP #": "426",
+        "MAP Name": "Nebraska, Kansas 1, Colorado 1, Wyoming 1",
+        "State": "WY",
+        "County": "Laramie",
+        "Tribe Named in Treaty": "Arapaho of Upper Arkansas",
+        "Present-Day Tribe": "Arapaho Tribe of the Wind River Reservation, Wyoming"
+    },
+    {
+        "MAP #": "426",
+        "MAP Name": "Nebraska, Kansas 1, Colorado 1, Wyoming 1",
+        "State": "WY",
+        "County": "Laramie",
+        "Tribe Named in Treaty": "Cheyenne of Upper Arkansas",
+        "Present-Day Tribe": "Cheyenne-Arapaho Tribes of Oklahoma"
+    },
+    {
+        "MAP #": "517",
+        "MAP Name": "Montana 1, Wyoming 1",
+        "State": "WY",
+        "County": "Meagher",
+        "Tribe Named in Treaty": "Meagher",
+        "Present-Day Tribe": "Crow"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Natrona",
+        "Tribe Named in Treaty": "Arapaho",
+        "Present-Day Tribe": "Arapaho Tribe of the Wind River Reservation, Wyoming"
+    },
+    {
+        "MAP #": "426",
+        "MAP Name": "Nebraska, Kansas 1, Colorado 1, Wyoming 1",
+        "State": "WY",
+        "County": "Natrona",
+        "Tribe Named in Treaty": "Arapaho of Upper Arkansas",
+        "Present-Day Tribe": "Arapaho of Upper Arkansas"
+    },
+    {
+        "MAP #": "426",
+        "MAP Name": "Nebraska, Kansas 1, Colorado 1, Wyoming 1",
+        "State": "WY",
+        "County": "Natrona",
+        "Tribe Named in Treaty": "Cheyenne of Upper Arkansas",
+        "Present-Day Tribe": "Cheyenne-Arapaho Tribes of Oklahoma"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Natrona",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Assiniboine and Sioux Tribes of the Fort Peck Indian Reservation, Montana"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Natrona",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Cheyenne River Sioux Tribe of the Cheyenne River Reservation, South Dakota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Natrona",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Crow Creek Sioux Tribe of the Crow Creek Reservation, South Dakota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Natrona",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Flandreau Santee Sioux Tribe of South Dakota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Natrona",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Lower Brule Sioux Tribe of the Lower Brule Reservation, South Dakota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Natrona",
+        "Tribe Named in Treaty": "Natrona",
+        "Present-Day Tribe": "Sioux"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Natrona",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Oglala Sioux Tribe of the Pine Ridge Reservation, South Dakota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Natrona",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Sioux"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Natrona",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Rosebud Sioux Tribe of the Rosebud Indian Reservation, South Dakota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Natrona",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Santee Sioux Nation, Nebraska"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Natrona",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Shakopee Mdewakanton Sioux Community of Minnesota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Natrona",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Sisseton-Wahpeton Oyate of the Lake Traverse Reservation, South Dakota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Natrona",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Spirit Lake Tribe, North Dakota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Natrona",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Standing Rock Sioux Tribe of North & South Dakota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Natrona",
+        "Tribe Named in Treaty": "Natrona",
+        "Present-Day Tribe": "Sioux"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Natrona",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Yankton Sioux Tribe of South Dakota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Niobrara",
+        "Tribe Named in Treaty": "Arapaho",
+        "Present-Day Tribe": "Arapaho"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Niobrara",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Assiniboine and Sioux Tribes of the Fort Peck Indian Reservation, Montana"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Niobrara",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Cheyenne River Sioux Tribe of the Cheyenne River Reservation, South Dakota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Niobrara",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Crow Creek Sioux Tribe of the Crow Creek Reservation, South Dakota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Niobrara",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Flandreau Santee Sioux Tribe of South Dakota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Niobrara",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Lower Brule Sioux Tribe of the Lower Brule Reservation, South Dakota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Niobrara",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Lower Sioux Indian Community in the State of Minnesota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Niobrara",
+        "Tribe Named in Treaty": "Niobrara",
+        "Present-Day Tribe": "Sioux"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Niobrara",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Prairie Island Indian Community in the State of Minnesota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Niobrara",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Sioux"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Niobrara",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Santee Sioux Nation, Nebraska"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Niobrara",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Shakopee Mdewakanton Sioux Community of Minnesota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Niobrara",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Sisseton-Wahpeton Oyate of the Lake Traverse Reservation, South Dakota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Niobrara",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Spirit Lake Tribe, North Dakota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Niobrara",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Standing Rock Sioux Tribe of North & South Dakota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Niobrara",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Upper Sioux Community, Minnesota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Niobrara",
+        "Tribe Named in Treaty": "Niobrara",
+        "Present-Day Tribe": "Sioux"
+    },
+    {
+        "MAP #": "398",
+        "MAP Name": "Montana 1, Wyoming 1",
+        "State": "WY",
+        "County": "Park",
+        "Tribe Named in Treaty": "Chippewa, Ontonagon band",
+        "Present-Day Tribe": "Keweenaw Bay Indian Community, Michigan"
+    },
+    {
+        "MAP #": "398",
+        "MAP Name": "Montana 1, Wyoming 1",
+        "State": "WY",
+        "County": "Park",
+        "Tribe Named in Treaty": "Chippewa, Ontonagon band",
+        "Present-Day Tribe": "Chippewa, Ontonagon band"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Platte",
+        "Tribe Named in Treaty": "Arapaho",
+        "Present-Day Tribe": "Arapaho Tribe of the Wind River Reservation, Wyoming"
+    },
+    {
+        "MAP #": "426",
+        "MAP Name": "Nebraska, Kansas 1, Colorado 1, Wyoming 1",
+        "State": "WY",
+        "County": "Platte",
+        "Tribe Named in Treaty": "Arapaho of Upper Arkansas",
+        "Present-Day Tribe": "Arapaho Tribe of the Wind River Reservation, Wyoming"
+    },
+    {
+        "MAP #": "426",
+        "MAP Name": "Nebraska, Kansas 1, Colorado 1, Wyoming 1",
+        "State": "WY",
+        "County": "Platte",
+        "Tribe Named in Treaty": "Cheyenne of Upper Arkansas",
+        "Present-Day Tribe": "Cheyenne-Arapaho Tribes of Oklahoma"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Platte",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Assiniboine and Sioux Tribes of the Fort Peck Indian Reservation, Montana"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Platte",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Cheyenne River Sioux Tribe of the Cheyenne River Reservation, South Dakota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Platte",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Crow Creek Sioux Tribe of the Crow Creek Reservation, South Dakota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Platte",
+        "Tribe Named in Treaty": "Platte",
+        "Present-Day Tribe": "Sioux"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Platte",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Lower Brule Sioux Tribe of the Lower Brule Reservation, South Dakota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Platte",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Sioux"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Platte",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Oglala Sioux Tribe of the Pine Ridge Reservation, South Dakota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Platte",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Prairie Island Indian Community in the State of Minnesota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Platte",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Rosebud Sioux Tribe of the Rosebud Indian Reservation, South Dakota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Platte",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Santee Sioux Nation, Nebraska"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Platte",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Shakopee Mdewakanton Sioux Community of Minnesota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Platte",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Sisseton-Wahpeton Oyate of the Lake Traverse Reservation, South Dakota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Platte",
+        "Tribe Named in Treaty": "Platte",
+        "Present-Day Tribe": "Sioux"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Platte",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Standing Rock Sioux Tribe of North & South Dakota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Platte",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Sioux"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Platte",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Yankton Sioux Tribe of South Dakota"
+    },
+    {
+        "MAP #": "539",
+        "MAP Name": "Wyoming 2",
+        "State": "WY",
+        "County": "Sublette",
+        "Tribe Named in Treaty": "Sioux, Wahpeton",
+        "Present-Day Tribe": "Sisseton-Wahpeton Oyate of the Lake Traverse Reservation, South Dakota"
+    },
+    {
+        "MAP #": "398",
+        "MAP Name": "Montana 1, Wyoming 1",
+        "State": "WY",
+        "County": "Teton",
+        "Tribe Named in Treaty": "Chippewa, Ontonagon band",
+        "Present-Day Tribe": "Keweenaw Bay Indian Community, Michigan"
+    },
+    {
+        "MAP #": "398",
+        "MAP Name": "Montana 1, Wyoming 1",
+        "State": "WY",
+        "County": "Teton",
+        "Tribe Named in Treaty": "Chippewa, Ontonagon band",
+        "Present-Day Tribe": "Lac Vieux Desert Band of Lake Superior Chippewa Indians, Michigan"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Weston",
+        "Tribe Named in Treaty": "Arapaho",
+        "Present-Day Tribe": "Arapaho Tribe of the Wind River Reservation, Wyoming"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Weston",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Assiniboine and Sioux Tribes of the Fort Peck Indian Reservation, Montana"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Weston",
+        "Tribe Named in Treaty": "Weston",
+        "Present-Day Tribe": "Sioux"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Weston",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Crow Creek Sioux Tribe of the Crow Creek Reservation, South Dakota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Weston",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Sioux"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Weston",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Lower Brule Sioux Tribe of the Lower Brule Reservation, South Dakota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Weston",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Lower Sioux Indian Community in the State of Minnesota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Weston",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Oglala Sioux Tribe of the Pine Ridge Reservation, South Dakota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Weston",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Prairie Island Indian Community in the State of Minnesota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Weston",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Rosebud Sioux Tribe of the Rosebud Indian Reservation, South Dakota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Weston",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Santee Sioux Nation, Nebraska"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Weston",
+        "Tribe Named in Treaty": "Weston",
+        "Present-Day Tribe": "Sioux"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Weston",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Sisseton-Wahpeton Oyate of the Lake Traverse Reservation, South Dakota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Weston",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Sioux"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Weston",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Standing Rock Sioux Tribe of North & South Dakota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Weston",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Upper Sioux Community, Minnesota"
+    },
+    {
+        "MAP #": "597",
+        "MAP Name": "Dakota 1, Nebraska, Wyoming 1, Montana 1",
+        "State": "WY",
+        "County": "Weston",
+        "Tribe Named in Treaty": "Sioux",
+        "Present-Day Tribe": "Yankton Sioux Tribe of South Dakota"
+    }
+]
