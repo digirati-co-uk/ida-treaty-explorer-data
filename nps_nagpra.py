@@ -78,28 +78,42 @@ def iter_visual_cells(row):
     :return:
     """
     prior_tc = None
+    merged_row = []
     for cell in row.cells:
         this_tc = cell._tc
-        if this_tc is prior_tc:  # skip cells pointing to same `<w:tc>` element
-            continue
-        yield cell
+        if this_tc is not prior_tc:  # skip cells pointing to same `<w:tc>` element
+            merged_row.append(cell.text)
         prior_tc = this_tc
+    return merged_row
+
 
 
 def tabulate(word_doc):
     print(word_doc)
-    doc = Document(word_doc)
-    table = doc.tables[0]
-    keys = ['MAP #', 'MAP Name', 'State', 'County', 'Tribe Named in Treaty', 'Present-Day Tribe']
-    big_list = []
-    for row in table.rows[1:]:
-        big_list.extend([cell.text for cell in iter_visual_cells(row)])
-    final = []
-    for i, x in enumerate(big_list):
-        if all([s.isdigit() for s in x.strip()]) and x is not '':
-            final.append(dict(zip(keys, big_list[i:i + 6])))
-    with open(word_doc.replace(".docx", ".json"), "w") as fout:
-        json.dump(final, fout, indent=4)
+    json_file = word_doc.replace(".docx", ".json")
+    if not os.path.exists(json_file):
+        print(f"Loading {word_doc} using python-docx.")
+        doc = Document(word_doc)
+        print("Extracting tables using python-docx.")
+        table = doc.tables[0]
+        keys = ['MAP #', 'MAP Name', 'State', 'County', 'Tribe Named in Treaty', 'Present-Day Tribe']
+        big_list = []
+        print("Iterating rows to handle merged cells.")
+        len_rows = len(table.rows)
+        for n, row in enumerate(table.rows):
+            # print(f"{n} row of {len_rows}")
+            foo = iter_visual_cells(row)
+            big_list.extend(foo)
+        final = []
+        total = len(big_list)
+        print(f"Beginning to iterate and chunk the list")
+        for i, x in enumerate(big_list):
+            print(f"{i} of {total}")
+            if all([s.isdigit() for s in x.strip()]) and x is not '':
+                final.append(dict(zip(keys, big_list[i:i + 6])))
+        with open(json_file, "w") as fout:
+            print(f"Writing {json_file}")
+            json.dump(final, fout, indent=4)
 
 
 
