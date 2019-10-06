@@ -7,6 +7,7 @@ import subprocess
 import json
 import csv
 import codecs
+from collections import defaultdict
 
 
 def get_source(uri):
@@ -116,12 +117,36 @@ def tabulate(word_doc):
             json.dump(final, fout, indent=4)
 
 
+def tribes():
+    docs = glob.glob("./nps_docs/*.json")
+    historic = defaultdict(list)
+    present = defaultdict(list)
+    for doc in docs:
+        print(doc)
+        with open(doc, "r") as f:
+            j = json.load(f)
+            for d in j:
+                # Fix the messed up encoding from the Microsoft docx conversion
+                key = bytes([ord(char) for char in d["Tribe Named in Treaty"]]).decode('latin-1')
+                val = bytes([ord(char) for char in d["Present-Day Tribe"]]).decode('latin-1')
+                historic[key].append(val)
+                present[val].append(key)
+    for k, v in historic.items():
+        historic[k] = list(set(v))
+    for k, v in present.items():
+        present[k] = list(set(v))
+    with open("historic.json", "w") as f_out:
+        json.dump(historic, f_out, indent=2, sort_keys=True)
+    with open("presentday.json", "w") as p_out:
+        json.dump(present, p_out, indent=2, sort_keys=True)
+
 
 if __name__ == "__main__":
-    docs = glob.glob("/Volumes/Seagate Expansion "
-                     "Drive/Github/ida-treaty-explorer-data/nps_docs/*.docx")
-    for doc in docs:
-        tabulate(doc)
+    # docs = glob.glob("/Volumes/Seagate Expansion "
+    #                  "Drive/Github/ida-treaty-explorer-data/nps_docs/*.docx")
+    # for doc in docs:
+    #     tabulate(doc)
+    tribes()
 
 
 
