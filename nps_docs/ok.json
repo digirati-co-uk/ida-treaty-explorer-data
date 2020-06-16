@@ -1,0 +1,4482 @@
+[
+    {
+        "MAP #": "123",
+        "MAP Name": "Arkansas 1, Missouri 1, Kansas 1, Indian Territory 1",
+        "State": "OK",
+        "County": "Adair",
+        "Tribe Named in Treaty": "Great and Little Osage",
+        "Present-Day Tribe": "Osage Tribe, Oklahoma"
+    },
+    {
+        "MAP #": "97",
+        "MAP Name": "Arkansas 1, Indian Territory 1",
+        "State": "Arkansas 1, Indian Territory 1",
+        "County": "OK",
+        "Tribe Named in Treaty": "Adair",
+        "Present-Day Tribe": "Great and Little Osage"
+    },
+    {
+        "MAP #": "492",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Adair",
+        "Tribe Named in Treaty": "Santee Sioux",
+        "Present-Day Tribe": "Santee Sioux Nation, Nebraska"
+    },
+    {
+        "MAP #": "489",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Alfalfa",
+        "Tribe Named in Treaty": "Cherokee",
+        "Present-Day Tribe": "Cherokee Nation, Oklahoma"
+    },
+    {
+        "MAP #": "489",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Alfalfa",
+        "Tribe Named in Treaty": "Alfalfa",
+        "Present-Day Tribe": "Cherokee"
+    },
+    {
+        "MAP #": "489",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Alfalfa",
+        "Tribe Named in Treaty": "Cherokee",
+        "Present-Day Tribe": "United Keetoowah Band of Cherokee Indians in Oklahoma"
+    },
+    {
+        "MAP #": "123",
+        "MAP Name": "Arkansas 1, Missouri 1, Kansas 1, Indian Territory 1",
+        "State": "OK",
+        "County": "Alfalfa",
+        "Tribe Named in Treaty": "Great and Little Osage",
+        "Present-Day Tribe": "Great and Little Osage"
+    },
+    {
+        "MAP #": "368",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Atoka",
+        "Tribe Named in Treaty": "Chickasaw",
+        "Present-Day Tribe": "Chickasaw Nation, Oklahoma"
+    },
+    {
+        "MAP #": "368",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Atoka",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Choctaw Nation of Oklahoma"
+    },
+    {
+        "MAP #": "368",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Atoka",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Jena Band of Choctaw Indians, Louisiana"
+    },
+    {
+        "MAP #": "368",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Atoka",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Mississippi Band of Choctaw Indians, Mississippi"
+    },
+    {
+        "MAP #": "94",
+        "MAP Name": "Louisiana, Arkansas 1, Indian Territory 1",
+        "State": "Louisiana, Arkansas 1, Indian Territory 1",
+        "County": "OK",
+        "Tribe Named in Treaty": "Atoka",
+        "Present-Day Tribe": "Quapaw"
+    },
+    {
+        "MAP #": "511",
+        "MAP Name": "Texas (portion of)",
+        "State": "OK",
+        "County": "Beaver",
+        "Tribe Named in Treaty": "Comanche",
+        "Present-Day Tribe": "Comanche Nation, Oklahoma"
+    },
+    {
+        "MAP #": "511",
+        "MAP Name": "Texas (portion of)",
+        "State": "OK",
+        "County": "Beaver",
+        "Tribe Named in Treaty": "Kiowa",
+        "Present-Day Tribe": "Kiowa Indian Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "525",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Beckham",
+        "Tribe Named in Treaty": "Beckham",
+        "Present-Day Tribe": "Arapaho"
+    },
+    {
+        "MAP #": "525",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Beckham",
+        "Tribe Named in Treaty": "Cheyenne",
+        "Present-Day Tribe": "Cheyenne-Arapaho Tribes of Oklahoma"
+    },
+    {
+        "MAP #": "485",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Beckham",
+        "Tribe Named in Treaty": "Chickasaw",
+        "Present-Day Tribe": "Chickasaw"
+    },
+    {
+        "MAP #": "485",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Beckham",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Choctaw Nation of Oklahoma"
+    },
+    {
+        "MAP #": "485",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Beckham",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Jena Band of Choctaw Indians, Louisiana"
+    },
+    {
+        "MAP #": "485",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Beckham",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Mississippi Band of Choctaw Indians, Mississippi"
+    },
+    {
+        "MAP #": "511",
+        "MAP Name": "Texas (portion of)",
+        "State": "OK",
+        "County": "Beckham",
+        "Tribe Named in Treaty": "Comanche",
+        "Present-Day Tribe": "Comanche Nation, Oklahoma"
+    },
+    {
+        "MAP #": "511",
+        "MAP Name": "Texas (portion of)",
+        "State": "Texas (portion of)",
+        "County": "OK",
+        "Tribe Named in Treaty": "Beckham",
+        "Present-Day Tribe": "Kiowa"
+    },
+    {
+        "MAP #": "94",
+        "MAP Name": "Louisiana, Arkansas 1, Indian Territory 1",
+        "State": "OK",
+        "County": "Beckham",
+        "Tribe Named in Treaty": "Quapaw",
+        "Present-Day Tribe": "Quapaw Tribe of Indians, Oklahoma"
+    },
+    {
+        "MAP #": "525",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Blaine",
+        "Tribe Named in Treaty": "Arapaho",
+        "Present-Day Tribe": "Arapaho Tribe of the Wind River Reservation, Wyoming"
+    },
+    {
+        "MAP #": "525",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Blaine",
+        "Tribe Named in Treaty": "Blaine",
+        "Present-Day Tribe": "Cheyenne"
+    },
+    {
+        "MAP #": "511",
+        "MAP Name": "Texas (portion of)",
+        "State": "OK",
+        "County": "Blaine",
+        "Tribe Named in Treaty": "Comanche",
+        "Present-Day Tribe": "Comanche Nation, Oklahoma"
+    },
+    {
+        "MAP #": "123",
+        "MAP Name": "Arkansas 1, Missouri 1, Kansas 1, Indian Territory 1",
+        "State": "OK",
+        "County": "Blaine",
+        "Tribe Named in Treaty": "Great and Little Osage",
+        "Present-Day Tribe": "Great and Little Osage"
+    },
+    {
+        "MAP #": "511",
+        "MAP Name": "Texas (portion of)",
+        "State": "OK",
+        "County": "Blaine",
+        "Tribe Named in Treaty": "Kiowa",
+        "Present-Day Tribe": "Kiowa Indian Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "94",
+        "MAP Name": "Louisiana, Arkansas 1, Indian Territory 1",
+        "State": "OK",
+        "County": "Blaine",
+        "Tribe Named in Treaty": "Quapaw",
+        "Present-Day Tribe": "Quapaw Tribe of Indians, Oklahoma"
+    },
+    {
+        "MAP #": "404",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Blaine",
+        "Tribe Named in Treaty": "Seminole",
+        "Present-Day Tribe": "Seminole Nation of Oklahoma"
+    },
+    {
+        "MAP #": "404",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Blaine",
+        "Tribe Named in Treaty": "Seminole",
+        "Present-Day Tribe": "Seminole Tribe of Florida, Dania, Big Cypress, Brighton, Hollywood & Tampa Reservations"
+    },
+    {
+        "MAP #": "367",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Bryan",
+        "Tribe Named in Treaty": "Chickasaw",
+        "Present-Day Tribe": "Chickasaw Nation, Oklahoma"
+    },
+    {
+        "MAP #": "368",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Bryan",
+        "Tribe Named in Treaty": "Chickasaw",
+        "Present-Day Tribe": "Chickasaw Nation, Oklahoma"
+    },
+    {
+        "MAP #": "367",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Bryan",
+        "Tribe Named in Treaty": "Bryan",
+        "Present-Day Tribe": "Choctaw"
+    },
+    {
+        "MAP #": "368",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Bryan",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Choctaw Nation of Oklahoma"
+    },
+    {
+        "MAP #": "367",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Bryan",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Choctaw"
+    },
+    {
+        "MAP #": "368",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Bryan",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Jena Band of Choctaw Indians, Louisiana"
+    },
+    {
+        "MAP #": "367",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Bryan",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Mississippi Band of Choctaw Indians, Mississippi"
+    },
+    {
+        "MAP #": "368",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Bryan",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Mississippi Band of Choctaw Indians, Mississippi"
+    },
+    {
+        "MAP #": "94",
+        "MAP Name": "Louisiana, Arkansas 1, Indian Territory 1",
+        "State": "OK",
+        "County": "Bryan",
+        "Tribe Named in Treaty": "Quapaw",
+        "Present-Day Tribe": "Quapaw Tribe of Indians, Oklahoma"
+    },
+    {
+        "MAP #": "525",
+        "MAP Name": "Indian Territory 3",
+        "State": "Indian Territory 3",
+        "County": "OK",
+        "Tribe Named in Treaty": "Caddo",
+        "Present-Day Tribe": "Arapaho"
+    },
+    {
+        "MAP #": "525",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Caddo",
+        "Tribe Named in Treaty": "Cheyenne",
+        "Present-Day Tribe": "Cheyenne-Arapaho Tribes of Oklahoma"
+    },
+    {
+        "MAP #": "485",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Caddo",
+        "Tribe Named in Treaty": "Chickasaw",
+        "Present-Day Tribe": "Chickasaw Nation, Oklahoma"
+    },
+    {
+        "MAP #": "485",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Caddo",
+        "Tribe Named in Treaty": "Caddo",
+        "Present-Day Tribe": "Choctaw"
+    },
+    {
+        "MAP #": "485",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Caddo",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Jena Band of Choctaw Indians, Louisiana"
+    },
+    {
+        "MAP #": "485",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Caddo",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Choctaw"
+    },
+    {
+        "MAP #": "511",
+        "MAP Name": "Texas (portion of)",
+        "State": "OK",
+        "County": "Caddo",
+        "Tribe Named in Treaty": "Comanche",
+        "Present-Day Tribe": "Comanche Nation, Oklahoma"
+    },
+    {
+        "MAP #": "511",
+        "MAP Name": "Texas (portion of)",
+        "State": "OK",
+        "County": "Caddo",
+        "Tribe Named in Treaty": "Kiowa",
+        "Present-Day Tribe": "Kiowa Indian Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "94",
+        "MAP Name": "Louisiana, Arkansas 1, Indian Territory 1",
+        "State": "OK",
+        "County": "Caddo",
+        "Tribe Named in Treaty": "Quapaw",
+        "Present-Day Tribe": "Quapaw Tribe of Indians, Oklahoma"
+    },
+    {
+        "MAP #": "525",
+        "MAP Name": "Indian Territory 3",
+        "State": "Indian Territory 3",
+        "County": "OK",
+        "Tribe Named in Treaty": "Canadian",
+        "Present-Day Tribe": "Arapaho"
+    },
+    {
+        "MAP #": "525",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Canadian",
+        "Tribe Named in Treaty": "Cheyenne",
+        "Present-Day Tribe": "Cheyenne-Arapaho Tribes of Oklahoma"
+    },
+    {
+        "MAP #": "485",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Canadian",
+        "Tribe Named in Treaty": "Chickasaw",
+        "Present-Day Tribe": "Chickasaw Nation, Oklahoma"
+    },
+    {
+        "MAP #": "485",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Canadian",
+        "Tribe Named in Treaty": "Canadian",
+        "Present-Day Tribe": "Choctaw"
+    },
+    {
+        "MAP #": "485",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Canadian",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Jena Band of Choctaw Indians, Louisiana"
+    },
+    {
+        "MAP #": "485",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Canadian",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Choctaw"
+    },
+    {
+        "MAP #": "511",
+        "MAP Name": "Texas (portion of)",
+        "State": "OK",
+        "County": "Canadian",
+        "Tribe Named in Treaty": "Comanche",
+        "Present-Day Tribe": "Comanche Nation, Oklahoma"
+    },
+    {
+        "MAP #": "698",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Canadian",
+        "Tribe Named in Treaty": "Creek or Muscogee",
+        "Present-Day Tribe": "Muscogee (Creek) Nation, Oklahoma"
+    },
+    {
+        "MAP #": "698",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Canadian",
+        "Tribe Named in Treaty": "Creek or Muscogee",
+        "Present-Day Tribe": "Poarch Band of Creek Indians of Alabama"
+    },
+    {
+        "MAP #": "123",
+        "MAP Name": "Arkansas 1, Missouri 1, Kansas 1, Indian Territory 1",
+        "State": "OK",
+        "County": "Canadian",
+        "Tribe Named in Treaty": "Great and Little Osage",
+        "Present-Day Tribe": "Osage Tribe, Oklahoma"
+    },
+    {
+        "MAP #": "511",
+        "MAP Name": "Texas (portion of)",
+        "State": "Texas (portion of)",
+        "County": "OK",
+        "Tribe Named in Treaty": "Canadian",
+        "Present-Day Tribe": "Kiowa"
+    },
+    {
+        "MAP #": "94",
+        "MAP Name": "Louisiana, Arkansas 1, Indian Territory 1",
+        "State": "OK",
+        "County": "Canadian",
+        "Tribe Named in Treaty": "Quapaw",
+        "Present-Day Tribe": "Quapaw Tribe of Indians, Oklahoma"
+    },
+    {
+        "MAP #": "404",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Canadian",
+        "Tribe Named in Treaty": "Seminole",
+        "Present-Day Tribe": "Seminole Nation of Oklahoma"
+    },
+    {
+        "MAP #": "404",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Canadian",
+        "Tribe Named in Treaty": "Canadian",
+        "Present-Day Tribe": "Seminole"
+    },
+    {
+        "MAP #": "367",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Carter",
+        "Tribe Named in Treaty": "Chickasaw",
+        "Present-Day Tribe": "Chickasaw"
+    },
+    {
+        "MAP #": "367",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Carter",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Choctaw Nation of Oklahoma"
+    },
+    {
+        "MAP #": "367",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Carter",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Jena Band of Choctaw Indians, Louisiana"
+    },
+    {
+        "MAP #": "367",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Carter",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Mississippi Band of Choctaw Indians, Mississippi"
+    },
+    {
+        "MAP #": "94",
+        "MAP Name": "Louisiana, Arkansas 1, Indian Territory 1",
+        "State": "OK",
+        "County": "Carter",
+        "Tribe Named in Treaty": "Quapaw",
+        "Present-Day Tribe": "Quapaw Tribe of Indians, Oklahoma"
+    },
+    {
+        "MAP #": "123",
+        "MAP Name": "Arkansas 1, Missouri 1, Kansas 1, Indian Territory 1",
+        "State": "Arkansas 1, Missouri 1, Kansas 1, Indian Territory 1",
+        "County": "OK",
+        "Tribe Named in Treaty": "Cherokee",
+        "Present-Day Tribe": "Great and Little Osage"
+    },
+    {
+        "MAP #": "492",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Cherokee",
+        "Tribe Named in Treaty": "Santee Sioux",
+        "Present-Day Tribe": "Santee Sioux Nation, Nebraska"
+    },
+    {
+        "MAP #": "368",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Choctaw",
+        "Tribe Named in Treaty": "Chickasaw",
+        "Present-Day Tribe": "Chickasaw Nation, Oklahoma"
+    },
+    {
+        "MAP #": "368",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Choctaw",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Choctaw"
+    },
+    {
+        "MAP #": "368",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Choctaw",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Jena Band of Choctaw Indians, Louisiana"
+    },
+    {
+        "MAP #": "368",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Choctaw",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Choctaw"
+    },
+    {
+        "MAP #": "94",
+        "MAP Name": "Louisiana, Arkansas 1, Indian Territory 1",
+        "State": "OK",
+        "County": "Choctaw",
+        "Tribe Named in Treaty": "Quapaw",
+        "Present-Day Tribe": "Quapaw Tribe of Indians, Oklahoma"
+    },
+    {
+        "MAP #": "698",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Cleveland",
+        "Tribe Named in Treaty": "Creek or Muscogee",
+        "Present-Day Tribe": "Muscogee (Creek) Nation, Oklahoma"
+    },
+    {
+        "MAP #": "698",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Cleveland",
+        "Tribe Named in Treaty": "Creek or Muscogee",
+        "Present-Day Tribe": "Poarch Band of Creek Indians of Alabama"
+    },
+    {
+        "MAP #": "123",
+        "MAP Name": "Arkansas 1, Missouri 1, Kansas 1, Indian Territory 1",
+        "State": "OK",
+        "County": "Cleveland",
+        "Tribe Named in Treaty": "Great and Little Osage",
+        "Present-Day Tribe": "Osage Tribe, Oklahoma"
+    },
+    {
+        "MAP #": "650",
+        "MAP Name": "Indian Territory 3",
+        "State": "Indian Territory 3",
+        "County": "OK",
+        "Tribe Named in Treaty": "Cleveland",
+        "Present-Day Tribe": "Kickapoo"
+    },
+    {
+        "MAP #": "650",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Cleveland",
+        "Tribe Named in Treaty": "Kickapoo",
+        "Present-Day Tribe": "Kickapoo Tribe of Indians of the Kickapoo Reservation in Kansas"
+    },
+    {
+        "MAP #": "650",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Cleveland",
+        "Tribe Named in Treaty": "Kickapoo",
+        "Present-Day Tribe": "Kickapoo Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "506",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Cleveland",
+        "Tribe Named in Treaty": "Cleveland",
+        "Present-Day Tribe": "Potawatomi"
+    },
+    {
+        "MAP #": "506",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Cleveland",
+        "Tribe Named in Treaty": "Potawatomi",
+        "Present-Day Tribe": "Forest County Potawatomi Community, Wisconsin"
+    },
+    {
+        "MAP #": "506",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Cleveland",
+        "Tribe Named in Treaty": "Potawatomi",
+        "Present-Day Tribe": "Potawatomi"
+    },
+    {
+        "MAP #": "506",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Cleveland",
+        "Tribe Named in Treaty": "Potawatomi",
+        "Present-Day Tribe": "Huron Potawatomi, Inc., Michigan"
+    },
+    {
+        "MAP #": "506",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Cleveland",
+        "Tribe Named in Treaty": "Potawatomi",
+        "Present-Day Tribe": "Match-e-be-nash-she-wish Band of Pottawatomi Indians of Michigan"
+    },
+    {
+        "MAP #": "506",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Cleveland",
+        "Tribe Named in Treaty": "Potawatomi",
+        "Present-Day Tribe": "Pokagon Band of Potawatomi Indians, Michigan and Indiana"
+    },
+    {
+        "MAP #": "506",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Cleveland",
+        "Tribe Named in Treaty": "Potawatomi",
+        "Present-Day Tribe": "Prairie Band of Potawatomi Nation, Kansas"
+    },
+    {
+        "MAP #": "506",
+        "MAP Name": "Indian Territory 3",
+        "State": "Indian Territory 3",
+        "County": "OK",
+        "Tribe Named in Treaty": "Cleveland",
+        "Present-Day Tribe": "Potawatomi"
+    },
+    {
+        "MAP #": "480",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Cleveland",
+        "Tribe Named in Treaty": "Seminole",
+        "Present-Day Tribe": "Seminole Nation of Oklahoma"
+    },
+    {
+        "MAP #": "480",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Cleveland",
+        "Tribe Named in Treaty": "Seminole",
+        "Present-Day Tribe": "Seminole Tribe of Florida, Dania, Big Cypress, Brighton, Hollywood & Tampa Reservations"
+    },
+    {
+        "MAP #": "367",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Coal",
+        "Tribe Named in Treaty": "Coal",
+        "Present-Day Tribe": "Chickasaw"
+    },
+    {
+        "MAP #": "368",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Coal",
+        "Tribe Named in Treaty": "Chickasaw",
+        "Present-Day Tribe": "Chickasaw Nation, Oklahoma"
+    },
+    {
+        "MAP #": "367",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Coal",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Choctaw"
+    },
+    {
+        "MAP #": "368",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Coal",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Choctaw Nation of Oklahoma"
+    },
+    {
+        "MAP #": "367",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Coal",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Jena Band of Choctaw Indians, Louisiana"
+    },
+    {
+        "MAP #": "368",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Coal",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Jena Band of Choctaw Indians, Louisiana"
+    },
+    {
+        "MAP #": "367",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Coal",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Mississippi Band of Choctaw Indians, Mississippi"
+    },
+    {
+        "MAP #": "368",
+        "MAP Name": "Indian Territory 2",
+        "State": "Indian Territory 2",
+        "County": "OK",
+        "Tribe Named in Treaty": "Coal",
+        "Present-Day Tribe": "Choctaw"
+    },
+    {
+        "MAP #": "94",
+        "MAP Name": "Louisiana, Arkansas 1, Indian Territory 1",
+        "State": "OK",
+        "County": "Coal",
+        "Tribe Named in Treaty": "Quapaw",
+        "Present-Day Tribe": "Quapaw Tribe of Indians, Oklahoma"
+    },
+    {
+        "MAP #": "485",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Comanche",
+        "Tribe Named in Treaty": "Chickasaw",
+        "Present-Day Tribe": "Chickasaw Nation, Oklahoma"
+    },
+    {
+        "MAP #": "485",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Comanche",
+        "Tribe Named in Treaty": "Comanche",
+        "Present-Day Tribe": "Choctaw"
+    },
+    {
+        "MAP #": "485",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Comanche",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Jena Band of Choctaw Indians, Louisiana"
+    },
+    {
+        "MAP #": "485",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Comanche",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Choctaw"
+    },
+    {
+        "MAP #": "510",
+        "MAP Name": "Indian Territory 3, Texas (portion of)",
+        "State": "OK",
+        "County": "Comanche",
+        "Tribe Named in Treaty": "Comanche",
+        "Present-Day Tribe": "Comanche Nation, Oklahoma"
+    },
+    {
+        "MAP #": "511",
+        "MAP Name": "Texas (portion of)",
+        "State": "OK",
+        "County": "Comanche",
+        "Tribe Named in Treaty": "Comanche",
+        "Present-Day Tribe": "Comanche Nation, Oklahoma"
+    },
+    {
+        "MAP #": "510",
+        "MAP Name": "Indian Territory 3, Texas (portion of)",
+        "State": "OK",
+        "County": "Comanche",
+        "Tribe Named in Treaty": "Kiowa",
+        "Present-Day Tribe": "Kiowa Indian Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "511",
+        "MAP Name": "Texas (portion of)",
+        "State": "OK",
+        "County": "Comanche",
+        "Tribe Named in Treaty": "Kiowa",
+        "Present-Day Tribe": "Kiowa Indian Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "94",
+        "MAP Name": "Louisiana, Arkansas 1, Indian Territory 1",
+        "State": "Louisiana, Arkansas 1, Indian Territory 1",
+        "County": "OK",
+        "Tribe Named in Treaty": "Comanche",
+        "Present-Day Tribe": "Quapaw"
+    },
+    {
+        "MAP #": "485",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Cotton",
+        "Tribe Named in Treaty": "Chickasaw",
+        "Present-Day Tribe": "Chickasaw Nation, Oklahoma"
+    },
+    {
+        "MAP #": "485",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Cotton",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Choctaw Nation of Oklahoma"
+    },
+    {
+        "MAP #": "485",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Cotton",
+        "Tribe Named in Treaty": "Cotton",
+        "Present-Day Tribe": "Choctaw"
+    },
+    {
+        "MAP #": "485",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Cotton",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Mississippi Band of Choctaw Indians, Mississippi"
+    },
+    {
+        "MAP #": "510",
+        "MAP Name": "Indian Territory 3, Texas (portion of)",
+        "State": "OK",
+        "County": "Cotton",
+        "Tribe Named in Treaty": "Comanche",
+        "Present-Day Tribe": "Comanche"
+    },
+    {
+        "MAP #": "511",
+        "MAP Name": "Texas (portion of)",
+        "State": "OK",
+        "County": "Cotton",
+        "Tribe Named in Treaty": "Comanche",
+        "Present-Day Tribe": "Comanche Nation, Oklahoma"
+    },
+    {
+        "MAP #": "510",
+        "MAP Name": "Indian Territory 3, Texas (portion of)",
+        "State": "OK",
+        "County": "Cotton",
+        "Tribe Named in Treaty": "Kiowa",
+        "Present-Day Tribe": "Kiowa Indian Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "511",
+        "MAP Name": "Texas (portion of)",
+        "State": "OK",
+        "County": "Cotton",
+        "Tribe Named in Treaty": "Kiowa",
+        "Present-Day Tribe": "Kiowa Indian Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "94",
+        "MAP Name": "Louisiana, Arkansas 1, Indian Territory 1",
+        "State": "OK",
+        "County": "Cotton",
+        "Tribe Named in Treaty": "Quapaw",
+        "Present-Day Tribe": "Quapaw Tribe of Indians, Oklahoma"
+    },
+    {
+        "MAP #": "123",
+        "MAP Name": "Arkansas 1, Missouri 1, Kansas 1, Indian Territory 1",
+        "State": "Arkansas 1, Missouri 1, Kansas 1, Indian Territory 1",
+        "County": "OK",
+        "Tribe Named in Treaty": "Craig",
+        "Present-Day Tribe": "Great and Little Osage"
+    },
+    {
+        "MAP #": "492",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Craig",
+        "Tribe Named in Treaty": "Santee Sioux",
+        "Present-Day Tribe": "Santee Sioux Nation, Nebraska"
+    },
+    {
+        "MAP #": "123",
+        "MAP Name": "Arkansas 1, Missouri 1, Kansas 1, Indian Territory 1",
+        "State": "OK",
+        "County": "Creek",
+        "Tribe Named in Treaty": "Great and Little Osage",
+        "Present-Day Tribe": "Osage Tribe, Oklahoma"
+    },
+    {
+        "MAP #": "525",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Custer",
+        "Tribe Named in Treaty": "Custer",
+        "Present-Day Tribe": "Arapaho"
+    },
+    {
+        "MAP #": "525",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Custer",
+        "Tribe Named in Treaty": "Cheyenne",
+        "Present-Day Tribe": "Cheyenne-Arapaho Tribes of Oklahoma"
+    },
+    {
+        "MAP #": "485",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Custer",
+        "Tribe Named in Treaty": "Chickasaw",
+        "Present-Day Tribe": "Chickasaw"
+    },
+    {
+        "MAP #": "485",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Custer",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Choctaw Nation of Oklahoma"
+    },
+    {
+        "MAP #": "485",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Custer",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Jena Band of Choctaw Indians, Louisiana"
+    },
+    {
+        "MAP #": "485",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Custer",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Mississippi Band of Choctaw Indians, Mississippi"
+    },
+    {
+        "MAP #": "511",
+        "MAP Name": "Texas (portion of)",
+        "State": "OK",
+        "County": "Custer",
+        "Tribe Named in Treaty": "Comanche",
+        "Present-Day Tribe": "Comanche Nation, Oklahoma"
+    },
+    {
+        "MAP #": "511",
+        "MAP Name": "Texas (portion of)",
+        "State": "Texas (portion of)",
+        "County": "OK",
+        "Tribe Named in Treaty": "Custer",
+        "Present-Day Tribe": "Kiowa"
+    },
+    {
+        "MAP #": "94",
+        "MAP Name": "Louisiana, Arkansas 1, Indian Territory 1",
+        "State": "OK",
+        "County": "Custer",
+        "Tribe Named in Treaty": "Quapaw",
+        "Present-Day Tribe": "Quapaw Tribe of Indians, Oklahoma"
+    },
+    {
+        "MAP #": "404",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Custer",
+        "Tribe Named in Treaty": "Seminole",
+        "Present-Day Tribe": "Seminole Nation of Oklahoma"
+    },
+    {
+        "MAP #": "404",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Custer",
+        "Tribe Named in Treaty": "Custer",
+        "Present-Day Tribe": "Seminole"
+    },
+    {
+        "MAP #": "123",
+        "MAP Name": "Arkansas 1, Missouri 1, Kansas 1, Indian Territory 1",
+        "State": "OK",
+        "County": "Delaware",
+        "Tribe Named in Treaty": "Great and Little Osage",
+        "Present-Day Tribe": "Osage Tribe, Oklahoma"
+    },
+    {
+        "MAP #": "492",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Delaware",
+        "Tribe Named in Treaty": "Santee Sioux",
+        "Present-Day Tribe": "Santee Sioux"
+    },
+    {
+        "MAP #": "525",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Dewey",
+        "Tribe Named in Treaty": "Arapaho",
+        "Present-Day Tribe": "Arapaho Tribe of the Wind River Reservation, Wyoming"
+    },
+    {
+        "MAP #": "525",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Dewey",
+        "Tribe Named in Treaty": "Cheyenne",
+        "Present-Day Tribe": "Cheyenne-Arapaho Tribes of Oklahoma"
+    },
+    {
+        "MAP #": "485",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Dewey",
+        "Tribe Named in Treaty": "Chickasaw",
+        "Present-Day Tribe": "Chickasaw Nation, Oklahoma"
+    },
+    {
+        "MAP #": "485",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Dewey",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Choctaw Nation of Oklahoma"
+    },
+    {
+        "MAP #": "485",
+        "MAP Name": "Indian Territory 2",
+        "State": "Indian Territory 2",
+        "County": "OK",
+        "Tribe Named in Treaty": "Dewey",
+        "Present-Day Tribe": "Choctaw"
+    },
+    {
+        "MAP #": "485",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Dewey",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Mississippi Band of Choctaw Indians, Mississippi"
+    },
+    {
+        "MAP #": "511",
+        "MAP Name": "Texas (portion of)",
+        "State": "OK",
+        "County": "Dewey",
+        "Tribe Named in Treaty": "Comanche",
+        "Present-Day Tribe": "Comanche Nation, Oklahoma"
+    },
+    {
+        "MAP #": "123",
+        "MAP Name": "Arkansas 1, Missouri 1, Kansas 1, Indian Territory 1",
+        "State": "OK",
+        "County": "Dewey",
+        "Tribe Named in Treaty": "Dewey",
+        "Present-Day Tribe": "Great and Little Osage"
+    },
+    {
+        "MAP #": "511",
+        "MAP Name": "Texas (portion of)",
+        "State": "OK",
+        "County": "Dewey",
+        "Tribe Named in Treaty": "Kiowa",
+        "Present-Day Tribe": "Kiowa Indian Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "404",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Dewey",
+        "Tribe Named in Treaty": "Seminole",
+        "Present-Day Tribe": "Seminole"
+    },
+    {
+        "MAP #": "404",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Dewey",
+        "Tribe Named in Treaty": "Seminole",
+        "Present-Day Tribe": "Seminole Tribe of Florida, Dania, Big Cypress, Brighton, Hollywood & Tampa Reservations"
+    },
+    {
+        "MAP #": "525",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Ellis",
+        "Tribe Named in Treaty": "Arapaho",
+        "Present-Day Tribe": "Arapaho Tribe of the Wind River Reservation, Wyoming"
+    },
+    {
+        "MAP #": "489",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ellis",
+        "Tribe Named in Treaty": "Cherokee",
+        "Present-Day Tribe": "Cherokee Nation, Oklahoma"
+    },
+    {
+        "MAP #": "489",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ellis",
+        "Tribe Named in Treaty": "Cherokee",
+        "Present-Day Tribe": "Eastern Band of Cherokee Indians of North Carolina"
+    },
+    {
+        "MAP #": "489",
+        "MAP Name": "Indian Territory 2",
+        "State": "Indian Territory 2",
+        "County": "OK",
+        "Tribe Named in Treaty": "Ellis",
+        "Present-Day Tribe": "Cherokee"
+    },
+    {
+        "MAP #": "525",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Ellis",
+        "Tribe Named in Treaty": "Cheyenne",
+        "Present-Day Tribe": "Cheyenne-Arapaho Tribes of Oklahoma"
+    },
+    {
+        "MAP #": "511",
+        "MAP Name": "Texas (portion of)",
+        "State": "OK",
+        "County": "Ellis",
+        "Tribe Named in Treaty": "Comanche",
+        "Present-Day Tribe": "Comanche Nation, Oklahoma"
+    },
+    {
+        "MAP #": "123",
+        "MAP Name": "Arkansas 1, Missouri 1, Kansas 1, Indian Territory 1",
+        "State": "OK",
+        "County": "Ellis",
+        "Tribe Named in Treaty": "Ellis",
+        "Present-Day Tribe": "Great and Little Osage"
+    },
+    {
+        "MAP #": "511",
+        "MAP Name": "Texas (portion of)",
+        "State": "OK",
+        "County": "Ellis",
+        "Tribe Named in Treaty": "Kiowa",
+        "Present-Day Tribe": "Kiowa Indian Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "404",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ellis",
+        "Tribe Named in Treaty": "Seminole",
+        "Present-Day Tribe": "Seminole"
+    },
+    {
+        "MAP #": "404",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ellis",
+        "Tribe Named in Treaty": "Seminole",
+        "Present-Day Tribe": "Seminole Tribe of Florida, Dania, Big Cypress, Brighton, Hollywood & Tampa Reservations"
+    },
+    {
+        "MAP #": "489",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Garfield",
+        "Tribe Named in Treaty": "Cherokee",
+        "Present-Day Tribe": "Cherokee Nation, Oklahoma"
+    },
+    {
+        "MAP #": "489",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Garfield",
+        "Tribe Named in Treaty": "Cherokee",
+        "Present-Day Tribe": "Eastern Band of Cherokee Indians of North Carolina"
+    },
+    {
+        "MAP #": "489",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Garfield",
+        "Tribe Named in Treaty": "Cherokee",
+        "Present-Day Tribe": "United Keetoowah Band of Cherokee Indians in Oklahoma"
+    },
+    {
+        "MAP #": "123",
+        "MAP Name": "Arkansas 1, Missouri 1, Kansas 1, Indian Territory 1",
+        "State": "Arkansas 1, Missouri 1, Kansas 1, Indian Territory 1",
+        "County": "OK",
+        "Tribe Named in Treaty": "Garfield",
+        "Present-Day Tribe": "Great and Little Osage"
+    },
+    {
+        "MAP #": "627",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Garfield",
+        "Tribe Named in Treaty": "Missouri",
+        "Present-Day Tribe": "Otoe-Missouria Tribe of Indians, Oklahoma"
+    },
+    {
+        "MAP #": "627",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Garfield",
+        "Tribe Named in Treaty": "Oto",
+        "Present-Day Tribe": "Otoe-Missouria Tribe of Indians, Oklahoma"
+    },
+    {
+        "MAP #": "628",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Garfield",
+        "Tribe Named in Treaty": "Garfield",
+        "Present-Day Tribe": "Ponka"
+    },
+    {
+        "MAP #": "628",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Garfield",
+        "Tribe Named in Treaty": "Ponka",
+        "Present-Day Tribe": "Ponca Tribe of Nebraska"
+    },
+    {
+        "MAP #": "367",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Garvin",
+        "Tribe Named in Treaty": "Chickasaw",
+        "Present-Day Tribe": "Chickasaw"
+    },
+    {
+        "MAP #": "367",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Garvin",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Choctaw Nation of Oklahoma"
+    },
+    {
+        "MAP #": "367",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Garvin",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Jena Band of Choctaw Indians, Louisiana"
+    },
+    {
+        "MAP #": "367",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Garvin",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Mississippi Band of Choctaw Indians, Mississippi"
+    },
+    {
+        "MAP #": "94",
+        "MAP Name": "Louisiana, Arkansas 1, Indian Territory 1",
+        "State": "OK",
+        "County": "Garvin",
+        "Tribe Named in Treaty": "Quapaw",
+        "Present-Day Tribe": "Quapaw Tribe of Indians, Oklahoma"
+    },
+    {
+        "MAP #": "367",
+        "MAP Name": "Indian Territory 2",
+        "State": "Indian Territory 2",
+        "County": "OK",
+        "Tribe Named in Treaty": "Grady",
+        "Present-Day Tribe": "Chickasaw"
+    },
+    {
+        "MAP #": "485",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Grady",
+        "Tribe Named in Treaty": "Chickasaw",
+        "Present-Day Tribe": "Chickasaw Nation, Oklahoma"
+    },
+    {
+        "MAP #": "367",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Grady",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Choctaw Nation of Oklahoma"
+    },
+    {
+        "MAP #": "485",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Grady",
+        "Tribe Named in Treaty": "Grady",
+        "Present-Day Tribe": "Choctaw"
+    },
+    {
+        "MAP #": "367",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Grady",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Jena Band of Choctaw Indians, Louisiana"
+    },
+    {
+        "MAP #": "485",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Grady",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Choctaw"
+    },
+    {
+        "MAP #": "367",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Grady",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Mississippi Band of Choctaw Indians, Mississippi"
+    },
+    {
+        "MAP #": "485",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Grady",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Mississippi Band of Choctaw Indians, Mississippi"
+    },
+    {
+        "MAP #": "510",
+        "MAP Name": "Indian Territory 3, Texas (portion of)",
+        "State": "OK",
+        "County": "Grady",
+        "Tribe Named in Treaty": "Comanche",
+        "Present-Day Tribe": "Comanche Nation, Oklahoma"
+    },
+    {
+        "MAP #": "511",
+        "MAP Name": "Texas (portion of)",
+        "State": "OK",
+        "County": "Grady",
+        "Tribe Named in Treaty": "Comanche",
+        "Present-Day Tribe": "Comanche Nation, Oklahoma"
+    },
+    {
+        "MAP #": "510",
+        "MAP Name": "Indian Territory 3, Texas (portion of)",
+        "State": "Indian Territory 3, Texas (portion of)",
+        "County": "OK",
+        "Tribe Named in Treaty": "Grady",
+        "Present-Day Tribe": "Kiowa"
+    },
+    {
+        "MAP #": "511",
+        "MAP Name": "Texas (portion of)",
+        "State": "OK",
+        "County": "Grady",
+        "Tribe Named in Treaty": "Kiowa",
+        "Present-Day Tribe": "Kiowa Indian Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "94",
+        "MAP Name": "Louisiana, Arkansas 1, Indian Territory 1",
+        "State": "OK",
+        "County": "Grady",
+        "Tribe Named in Treaty": "Quapaw",
+        "Present-Day Tribe": "Quapaw Tribe of Indians, Oklahoma"
+    },
+    {
+        "MAP #": "489",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Cherokee",
+        "Present-Day Tribe": "Cherokee Nation, Oklahoma"
+    },
+    {
+        "MAP #": "489",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Cherokee",
+        "Present-Day Tribe": "Cherokee"
+    },
+    {
+        "MAP #": "489",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Cherokee",
+        "Present-Day Tribe": "United Keetoowah Band of Cherokee Indians in Oklahoma"
+    },
+    {
+        "MAP #": "123",
+        "MAP Name": "Arkansas 1, Missouri 1, Kansas 1, Indian Territory 1",
+        "State": "OK",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Great and Little Osage",
+        "Present-Day Tribe": "Osage Tribe, Oklahoma"
+    },
+    {
+        "MAP #": "606",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Nez Perc\u00e9 (Joseph's band)",
+        "Present-Day Tribe": "Nez Perce Tribe of Idaho"
+    },
+    {
+        "MAP #": "628",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Grant",
+        "Tribe Named in Treaty": "Ponka",
+        "Present-Day Tribe": "Ponca Tribe of Indians of Oklahoma"
+    },
+    {
+        "MAP #": "628",
+        "MAP Name": "Indian Territory 3",
+        "State": "Indian Territory 3",
+        "County": "OK",
+        "Tribe Named in Treaty": "Grant",
+        "Present-Day Tribe": "Ponka"
+    },
+    {
+        "MAP #": "485",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Greer",
+        "Tribe Named in Treaty": "Chickasaw",
+        "Present-Day Tribe": "Chickasaw Nation, Oklahoma"
+    },
+    {
+        "MAP #": "485",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Greer",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Choctaw Nation of Oklahoma"
+    },
+    {
+        "MAP #": "485",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Greer",
+        "Tribe Named in Treaty": "Greer",
+        "Present-Day Tribe": "Choctaw"
+    },
+    {
+        "MAP #": "485",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Greer",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Mississippi Band of Choctaw Indians, Mississippi"
+    },
+    {
+        "MAP #": "511",
+        "MAP Name": "Texas (portion of)",
+        "State": "OK",
+        "County": "Greer",
+        "Tribe Named in Treaty": "Comanche",
+        "Present-Day Tribe": "Comanche"
+    },
+    {
+        "MAP #": "511",
+        "MAP Name": "Texas (portion of)",
+        "State": "OK",
+        "County": "Greer",
+        "Tribe Named in Treaty": "Kiowa",
+        "Present-Day Tribe": "Kiowa Indian Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "94",
+        "MAP Name": "Louisiana, Arkansas 1, Indian Territory 1",
+        "State": "OK",
+        "County": "Greer",
+        "Tribe Named in Treaty": "Quapaw",
+        "Present-Day Tribe": "Quapaw Tribe of Indians, Oklahoma"
+    },
+    {
+        "MAP #": "485",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Harmon",
+        "Tribe Named in Treaty": "Chickasaw",
+        "Present-Day Tribe": "Chickasaw Nation, Oklahoma"
+    },
+    {
+        "MAP #": "485",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Harmon",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Choctaw Nation of Oklahoma"
+    },
+    {
+        "MAP #": "485",
+        "MAP Name": "Indian Territory 2",
+        "State": "Indian Territory 2",
+        "County": "OK",
+        "Tribe Named in Treaty": "Harmon",
+        "Present-Day Tribe": "Choctaw"
+    },
+    {
+        "MAP #": "485",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Harmon",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Mississippi Band of Choctaw Indians, Mississippi"
+    },
+    {
+        "MAP #": "511",
+        "MAP Name": "Texas (portion of)",
+        "State": "OK",
+        "County": "Harmon",
+        "Tribe Named in Treaty": "Comanche",
+        "Present-Day Tribe": "Comanche Nation, Oklahoma"
+    },
+    {
+        "MAP #": "511",
+        "MAP Name": "Texas (portion of)",
+        "State": "OK",
+        "County": "Harmon",
+        "Tribe Named in Treaty": "Harmon",
+        "Present-Day Tribe": "Kiowa"
+    },
+    {
+        "MAP #": "94",
+        "MAP Name": "Louisiana, Arkansas 1, Indian Territory 1",
+        "State": "OK",
+        "County": "Harmon",
+        "Tribe Named in Treaty": "Quapaw",
+        "Present-Day Tribe": "Quapaw Tribe of Indians, Oklahoma"
+    },
+    {
+        "MAP #": "489",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Harper",
+        "Tribe Named in Treaty": "Cherokee",
+        "Present-Day Tribe": "Cherokee"
+    },
+    {
+        "MAP #": "489",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Harper",
+        "Tribe Named in Treaty": "Cherokee",
+        "Present-Day Tribe": "Eastern Band of Cherokee Indians of North Carolina"
+    },
+    {
+        "MAP #": "489",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Harper",
+        "Tribe Named in Treaty": "Cherokee",
+        "Present-Day Tribe": "United Keetoowah Band of Cherokee Indians in Oklahoma"
+    },
+    {
+        "MAP #": "511",
+        "MAP Name": "Texas (portion of)",
+        "State": "OK",
+        "County": "Harper",
+        "Tribe Named in Treaty": "Comanche",
+        "Present-Day Tribe": "Comanche Nation, Oklahoma"
+    },
+    {
+        "MAP #": "123",
+        "MAP Name": "Arkansas 1, Missouri 1, Kansas 1, Indian Territory 1",
+        "State": "OK",
+        "County": "Harper",
+        "Tribe Named in Treaty": "Great and Little Osage",
+        "Present-Day Tribe": "Osage Tribe, Oklahoma"
+    },
+    {
+        "MAP #": "511",
+        "MAP Name": "Texas (portion of)",
+        "State": "Texas (portion of)",
+        "County": "OK",
+        "Tribe Named in Treaty": "Harper",
+        "Present-Day Tribe": "Kiowa"
+    },
+    {
+        "MAP #": "368",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Haskell",
+        "Tribe Named in Treaty": "Chickasaw",
+        "Present-Day Tribe": "Chickasaw Nation, Oklahoma"
+    },
+    {
+        "MAP #": "368",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Haskell",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Choctaw Nation of Oklahoma"
+    },
+    {
+        "MAP #": "368",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Haskell",
+        "Tribe Named in Treaty": "Haskell",
+        "Present-Day Tribe": "Choctaw"
+    },
+    {
+        "MAP #": "368",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Haskell",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Mississippi Band of Choctaw Indians, Mississippi"
+    },
+    {
+        "MAP #": "94",
+        "MAP Name": "Louisiana, Arkansas 1, Indian Territory 1",
+        "State": "OK",
+        "County": "Haskell",
+        "Tribe Named in Treaty": "Quapaw",
+        "Present-Day Tribe": "Quapaw"
+    },
+    {
+        "MAP #": "368",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Hughes",
+        "Tribe Named in Treaty": "Chickasaw",
+        "Present-Day Tribe": "Chickasaw Nation, Oklahoma"
+    },
+    {
+        "MAP #": "368",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Hughes",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Choctaw Nation of Oklahoma"
+    },
+    {
+        "MAP #": "368",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Hughes",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Jena Band of Choctaw Indians, Louisiana"
+    },
+    {
+        "MAP #": "368",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Hughes",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Mississippi Band of Choctaw Indians, Mississippi"
+    },
+    {
+        "MAP #": "123",
+        "MAP Name": "Arkansas 1, Missouri 1, Kansas 1, Indian Territory 1",
+        "State": "Arkansas 1, Missouri 1, Kansas 1, Indian Territory 1",
+        "County": "OK",
+        "Tribe Named in Treaty": "Hughes",
+        "Present-Day Tribe": "Great and Little Osage"
+    },
+    {
+        "MAP #": "94",
+        "MAP Name": "Louisiana, Arkansas 1, Indian Territory 1",
+        "State": "OK",
+        "County": "Hughes",
+        "Tribe Named in Treaty": "Quapaw",
+        "Present-Day Tribe": "Quapaw Tribe of Indians, Oklahoma"
+    },
+    {
+        "MAP #": "485",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Jackson",
+        "Tribe Named in Treaty": "Chickasaw",
+        "Present-Day Tribe": "Chickasaw Nation, Oklahoma"
+    },
+    {
+        "MAP #": "485",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Jackson",
+        "Tribe Named in Treaty": "Jackson",
+        "Present-Day Tribe": "Choctaw"
+    },
+    {
+        "MAP #": "485",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Jackson",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Jena Band of Choctaw Indians, Louisiana"
+    },
+    {
+        "MAP #": "485",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Jackson",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Choctaw"
+    },
+    {
+        "MAP #": "511",
+        "MAP Name": "Texas (portion of)",
+        "State": "OK",
+        "County": "Jackson",
+        "Tribe Named in Treaty": "Comanche",
+        "Present-Day Tribe": "Comanche Nation, Oklahoma"
+    },
+    {
+        "MAP #": "511",
+        "MAP Name": "Texas (portion of)",
+        "State": "OK",
+        "County": "Jackson",
+        "Tribe Named in Treaty": "Kiowa",
+        "Present-Day Tribe": "Kiowa Indian Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "94",
+        "MAP Name": "Louisiana, Arkansas 1, Indian Territory 1",
+        "State": "OK",
+        "County": "Jackson",
+        "Tribe Named in Treaty": "Quapaw",
+        "Present-Day Tribe": "Quapaw Tribe of Indians, Oklahoma"
+    },
+    {
+        "MAP #": "367",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Jefferson",
+        "Tribe Named in Treaty": "Chickasaw",
+        "Present-Day Tribe": "Chickasaw Nation, Oklahoma"
+    },
+    {
+        "MAP #": "485",
+        "MAP Name": "Indian Territory 2",
+        "State": "Indian Territory 2",
+        "County": "OK",
+        "Tribe Named in Treaty": "Jefferson",
+        "Present-Day Tribe": "Chickasaw"
+    },
+    {
+        "MAP #": "367",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Jefferson",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Choctaw Nation of Oklahoma"
+    },
+    {
+        "MAP #": "485",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Jefferson",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Choctaw Nation of Oklahoma"
+    },
+    {
+        "MAP #": "367",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Jefferson",
+        "Tribe Named in Treaty": "Jefferson",
+        "Present-Day Tribe": "Choctaw"
+    },
+    {
+        "MAP #": "485",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Jefferson",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Jena Band of Choctaw Indians, Louisiana"
+    },
+    {
+        "MAP #": "367",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Jefferson",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Choctaw"
+    },
+    {
+        "MAP #": "485",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Jefferson",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Mississippi Band of Choctaw Indians, Mississippi"
+    },
+    {
+        "MAP #": "510",
+        "MAP Name": "Indian Territory 3, Texas (portion of)",
+        "State": "OK",
+        "County": "Jefferson",
+        "Tribe Named in Treaty": "Comanche",
+        "Present-Day Tribe": "Comanche Nation, Oklahoma"
+    },
+    {
+        "MAP #": "511",
+        "MAP Name": "Texas (portion of)",
+        "State": "OK",
+        "County": "Jefferson",
+        "Tribe Named in Treaty": "Comanche",
+        "Present-Day Tribe": "Comanche Nation, Oklahoma"
+    },
+    {
+        "MAP #": "510",
+        "MAP Name": "Indian Territory 3, Texas (portion of)",
+        "State": "OK",
+        "County": "Jefferson",
+        "Tribe Named in Treaty": "Kiowa",
+        "Present-Day Tribe": "Kiowa Indian Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "511",
+        "MAP Name": "Texas (portion of)",
+        "State": "Texas (portion of)",
+        "County": "OK",
+        "Tribe Named in Treaty": "Jefferson",
+        "Present-Day Tribe": "Kiowa"
+    },
+    {
+        "MAP #": "94",
+        "MAP Name": "Louisiana, Arkansas 1, Indian Territory 1",
+        "State": "OK",
+        "County": "Jefferson",
+        "Tribe Named in Treaty": "Quapaw",
+        "Present-Day Tribe": "Quapaw Tribe of Indians, Oklahoma"
+    },
+    {
+        "MAP #": "94",
+        "MAP Name": "Louisiana, Arkansas 1, Indian Territory 1",
+        "State": "OK",
+        "County": "Johnson",
+        "Tribe Named in Treaty": "Quapaw",
+        "Present-Day Tribe": "Quapaw Tribe of Indians, Oklahoma"
+    },
+    {
+        "MAP #": "367",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Johnston",
+        "Tribe Named in Treaty": "Johnston",
+        "Present-Day Tribe": "Chickasaw"
+    },
+    {
+        "MAP #": "367",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Johnston",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Choctaw Nation of Oklahoma"
+    },
+    {
+        "MAP #": "367",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Johnston",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Choctaw"
+    },
+    {
+        "MAP #": "367",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Johnston",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Mississippi Band of Choctaw Indians, Mississippi"
+    },
+    {
+        "MAP #": "489",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Kay",
+        "Tribe Named in Treaty": "Cherokee",
+        "Present-Day Tribe": "Cherokee Nation, Oklahoma"
+    },
+    {
+        "MAP #": "489",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Kay",
+        "Tribe Named in Treaty": "Cherokee",
+        "Present-Day Tribe": "Eastern Band of Cherokee Indians of North Carolina"
+    },
+    {
+        "MAP #": "489",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Kay",
+        "Tribe Named in Treaty": "Cherokee",
+        "Present-Day Tribe": "United Keetoowah Band of Cherokee Indians in Oklahoma"
+    },
+    {
+        "MAP #": "123",
+        "MAP Name": "Arkansas 1, Missouri 1, Kansas 1, Indian Territory 1",
+        "State": "Arkansas 1, Missouri 1, Kansas 1, Indian Territory 1",
+        "County": "OK",
+        "Tribe Named in Treaty": "Kay",
+        "Present-Day Tribe": "Great and Little Osage"
+    },
+    {
+        "MAP #": "535",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Kay",
+        "Tribe Named in Treaty": "Kansa",
+        "Present-Day Tribe": "Kaw Nation, Oklahoma"
+    },
+    {
+        "MAP #": "525",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Kingfisher",
+        "Tribe Named in Treaty": "Arapaho",
+        "Present-Day Tribe": "Arapaho Tribe of the Wind River Reservation, Wyoming"
+    },
+    {
+        "MAP #": "525",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Kingfisher",
+        "Tribe Named in Treaty": "Kingfisher",
+        "Present-Day Tribe": "Cheyenne"
+    },
+    {
+        "MAP #": "511",
+        "MAP Name": "Texas (portion of)",
+        "State": "OK",
+        "County": "Kingfisher",
+        "Tribe Named in Treaty": "Comanche",
+        "Present-Day Tribe": "Comanche Nation, Oklahoma"
+    },
+    {
+        "MAP #": "698",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Kingfisher",
+        "Tribe Named in Treaty": "Creek or Muscogee",
+        "Present-Day Tribe": "Creek or Muscogee"
+    },
+    {
+        "MAP #": "698",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Kingfisher",
+        "Tribe Named in Treaty": "Creek or Muscogee",
+        "Present-Day Tribe": "Poarch Band of Creek Indians of Alabama"
+    },
+    {
+        "MAP #": "123",
+        "MAP Name": "Arkansas 1, Missouri 1, Kansas 1, Indian Territory 1",
+        "State": "OK",
+        "County": "Kingfisher",
+        "Tribe Named in Treaty": "Great and Little Osage",
+        "Present-Day Tribe": "Osage Tribe, Oklahoma"
+    },
+    {
+        "MAP #": "511",
+        "MAP Name": "Texas (portion of)",
+        "State": "OK",
+        "County": "Kingfisher",
+        "Tribe Named in Treaty": "Kiowa",
+        "Present-Day Tribe": "Kiowa Indian Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "485",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Kiowa",
+        "Tribe Named in Treaty": "Chickasaw",
+        "Present-Day Tribe": "Chickasaw Nation, Oklahoma"
+    },
+    {
+        "MAP #": "485",
+        "MAP Name": "Indian Territory 2",
+        "State": "Indian Territory 2",
+        "County": "OK",
+        "Tribe Named in Treaty": "Kiowa",
+        "Present-Day Tribe": "Choctaw"
+    },
+    {
+        "MAP #": "485",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Kiowa",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Jena Band of Choctaw Indians, Louisiana"
+    },
+    {
+        "MAP #": "485",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Kiowa",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Mississippi Band of Choctaw Indians, Mississippi"
+    },
+    {
+        "MAP #": "510",
+        "MAP Name": "Indian Territory 3, Texas (portion of)",
+        "State": "OK",
+        "County": "Kiowa",
+        "Tribe Named in Treaty": "Kiowa",
+        "Present-Day Tribe": "Comanche"
+    },
+    {
+        "MAP #": "511",
+        "MAP Name": "Texas (portion of)",
+        "State": "OK",
+        "County": "Kiowa",
+        "Tribe Named in Treaty": "Comanche",
+        "Present-Day Tribe": "Comanche Nation, Oklahoma"
+    },
+    {
+        "MAP #": "510",
+        "MAP Name": "Indian Territory 3, Texas (portion of)",
+        "State": "OK",
+        "County": "Kiowa",
+        "Tribe Named in Treaty": "Kiowa",
+        "Present-Day Tribe": "Kiowa"
+    },
+    {
+        "MAP #": "511",
+        "MAP Name": "Texas (portion of)",
+        "State": "OK",
+        "County": "Kiowa",
+        "Tribe Named in Treaty": "Kiowa",
+        "Present-Day Tribe": "Kiowa Indian Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "94",
+        "MAP Name": "Louisiana, Arkansas 1, Indian Territory 1",
+        "State": "OK",
+        "County": "Kiowa",
+        "Tribe Named in Treaty": "Quapaw",
+        "Present-Day Tribe": "Quapaw Tribe of Indians, Oklahoma"
+    },
+    {
+        "MAP #": "368",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Latimer",
+        "Tribe Named in Treaty": "Chickasaw",
+        "Present-Day Tribe": "Chickasaw Nation, Oklahoma"
+    },
+    {
+        "MAP #": "368",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Latimer",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Choctaw Nation of Oklahoma"
+    },
+    {
+        "MAP #": "368",
+        "MAP Name": "Indian Territory 2",
+        "State": "Indian Territory 2",
+        "County": "OK",
+        "Tribe Named in Treaty": "Latimer",
+        "Present-Day Tribe": "Choctaw"
+    },
+    {
+        "MAP #": "368",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Latimer",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Mississippi Band of Choctaw Indians, Mississippi"
+    },
+    {
+        "MAP #": "94",
+        "MAP Name": "Louisiana, Arkansas 1, Indian Territory 1",
+        "State": "OK",
+        "County": "Latimer",
+        "Tribe Named in Treaty": "Quapaw",
+        "Present-Day Tribe": "Quapaw Tribe of Indians, Oklahoma"
+    },
+    {
+        "MAP #": "368",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Le Flore",
+        "Tribe Named in Treaty": "Le Flore",
+        "Present-Day Tribe": "Chickasaw"
+    },
+    {
+        "MAP #": "368",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Le Flore",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Choctaw Nation of Oklahoma"
+    },
+    {
+        "MAP #": "368",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Le Flore",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Choctaw"
+    },
+    {
+        "MAP #": "368",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Le Flore",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Mississippi Band of Choctaw Indians, Mississippi"
+    },
+    {
+        "MAP #": "94",
+        "MAP Name": "Louisiana, Arkansas 1, Indian Territory 1",
+        "State": "OK",
+        "County": "Le Flore",
+        "Tribe Named in Treaty": "Quapaw",
+        "Present-Day Tribe": "Quapaw Tribe of Indians, Oklahoma"
+    },
+    {
+        "MAP #": "123",
+        "MAP Name": "Arkansas 1, Missouri 1, Kansas 1, Indian Territory 1",
+        "State": "OK",
+        "County": "Lincoln",
+        "Tribe Named in Treaty": "Great and Little Osage",
+        "Present-Day Tribe": "Osage Tribe, Oklahoma"
+    },
+    {
+        "MAP #": "495",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Lincoln",
+        "Tribe Named in Treaty": "Sauk and Fox of the Mississippi",
+        "Present-Day Tribe": "Sac & Fox Tribe of the Mississippi in Iowa"
+    },
+    {
+        "MAP #": "698",
+        "MAP Name": "Indian Territory 3",
+        "State": "Indian Territory 3",
+        "County": "OK",
+        "Tribe Named in Treaty": "Logan",
+        "Present-Day Tribe": "Creek or Muscogee"
+    },
+    {
+        "MAP #": "698",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Logan",
+        "Tribe Named in Treaty": "Creek or Muscogee",
+        "Present-Day Tribe": "Poarch Band of Creek Indians of Alabama"
+    },
+    {
+        "MAP #": "123",
+        "MAP Name": "Arkansas 1, Missouri 1, Kansas 1, Indian Territory 1",
+        "State": "OK",
+        "County": "Logan",
+        "Tribe Named in Treaty": "Great and Little Osage",
+        "Present-Day Tribe": "Osage Tribe, Oklahoma"
+    },
+    {
+        "MAP #": "649",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Logan",
+        "Tribe Named in Treaty": "Logan",
+        "Present-Day Tribe": "Iowa"
+    },
+    {
+        "MAP #": "649",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Logan",
+        "Tribe Named in Treaty": "Iowa",
+        "Present-Day Tribe": "Iowa Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "367",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Love",
+        "Tribe Named in Treaty": "Chickasaw",
+        "Present-Day Tribe": "Chickasaw"
+    },
+    {
+        "MAP #": "367",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Love",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Choctaw Nation of Oklahoma"
+    },
+    {
+        "MAP #": "367",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Love",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Jena Band of Choctaw Indians, Louisiana"
+    },
+    {
+        "MAP #": "367",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Love",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Mississippi Band of Choctaw Indians, Mississippi"
+    },
+    {
+        "MAP #": "94",
+        "MAP Name": "Louisiana, Arkansas 1, Indian Territory 1",
+        "State": "OK",
+        "County": "Love",
+        "Tribe Named in Treaty": "Quapaw",
+        "Present-Day Tribe": "Quapaw Tribe of Indians, Oklahoma"
+    },
+    {
+        "MAP #": "489",
+        "MAP Name": "Indian Territory 2",
+        "State": "Indian Territory 2",
+        "County": "OK",
+        "Tribe Named in Treaty": "Major",
+        "Present-Day Tribe": "Cherokee"
+    },
+    {
+        "MAP #": "489",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Major",
+        "Tribe Named in Treaty": "Cherokee",
+        "Present-Day Tribe": "Eastern Band of Cherokee Indians of North Carolina"
+    },
+    {
+        "MAP #": "489",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Major",
+        "Tribe Named in Treaty": "Cherokee",
+        "Present-Day Tribe": "United Keetoowah Band of Cherokee Indians in Oklahoma"
+    },
+    {
+        "MAP #": "511",
+        "MAP Name": "Texas (portion of)",
+        "State": "OK",
+        "County": "Major",
+        "Tribe Named in Treaty": "Major",
+        "Present-Day Tribe": "Comanche"
+    },
+    {
+        "MAP #": "123",
+        "MAP Name": "Arkansas 1, Missouri 1, Kansas 1, Indian Territory 1",
+        "State": "OK",
+        "County": "Major",
+        "Tribe Named in Treaty": "Great and Little Osage",
+        "Present-Day Tribe": "Osage Tribe, Oklahoma"
+    },
+    {
+        "MAP #": "511",
+        "MAP Name": "Texas (portion of)",
+        "State": "OK",
+        "County": "Major",
+        "Tribe Named in Treaty": "Kiowa",
+        "Present-Day Tribe": "Kiowa"
+    },
+    {
+        "MAP #": "367",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Marshall",
+        "Tribe Named in Treaty": "Chickasaw",
+        "Present-Day Tribe": "Chickasaw Nation, Oklahoma"
+    },
+    {
+        "MAP #": "367",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Marshall",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Choctaw Nation of Oklahoma"
+    },
+    {
+        "MAP #": "367",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Marshall",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Jena Band of Choctaw Indians, Louisiana"
+    },
+    {
+        "MAP #": "367",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Marshall",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Mississippi Band of Choctaw Indians, Mississippi"
+    },
+    {
+        "MAP #": "94",
+        "MAP Name": "Louisiana, Arkansas 1, Indian Territory 1",
+        "State": "Louisiana, Arkansas 1, Indian Territory 1",
+        "County": "OK",
+        "Tribe Named in Treaty": "Marshall",
+        "Present-Day Tribe": "Quapaw"
+    },
+    {
+        "MAP #": "123",
+        "MAP Name": "Arkansas 1, Missouri 1, Kansas 1, Indian Territory 1",
+        "State": "OK",
+        "County": "Mayes",
+        "Tribe Named in Treaty": "Great and Little Osage",
+        "Present-Day Tribe": "Osage Tribe, Oklahoma"
+    },
+    {
+        "MAP #": "492",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Mayes",
+        "Tribe Named in Treaty": "Santee Sioux",
+        "Present-Day Tribe": "Santee Sioux Nation, Nebraska"
+    },
+    {
+        "MAP #": "367",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "McClain",
+        "Tribe Named in Treaty": "McClain",
+        "Present-Day Tribe": "Chickasaw"
+    },
+    {
+        "MAP #": "367",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "McClain",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Choctaw Nation of Oklahoma"
+    },
+    {
+        "MAP #": "367",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "McClain",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Choctaw"
+    },
+    {
+        "MAP #": "367",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "McClain",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Mississippi Band of Choctaw Indians, Mississippi"
+    },
+    {
+        "MAP #": "94",
+        "MAP Name": "Louisiana, Arkansas 1, Indian Territory 1",
+        "State": "OK",
+        "County": "McClain",
+        "Tribe Named in Treaty": "Quapaw",
+        "Present-Day Tribe": "Quapaw Tribe of Indians, Oklahoma"
+    },
+    {
+        "MAP #": "368",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "McCurtain",
+        "Tribe Named in Treaty": "Chickasaw",
+        "Present-Day Tribe": "Chickasaw Nation, Oklahoma"
+    },
+    {
+        "MAP #": "368",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "McCurtain",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Choctaw Nation of Oklahoma"
+    },
+    {
+        "MAP #": "368",
+        "MAP Name": "Indian Territory 2",
+        "State": "Indian Territory 2",
+        "County": "OK",
+        "Tribe Named in Treaty": "McCurtain",
+        "Present-Day Tribe": "Choctaw"
+    },
+    {
+        "MAP #": "368",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "McCurtain",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Mississippi Band of Choctaw Indians, Mississippi"
+    },
+    {
+        "MAP #": "94",
+        "MAP Name": "Louisiana, Arkansas 1, Indian Territory 1",
+        "State": "OK",
+        "County": "McCurtain",
+        "Tribe Named in Treaty": "Quapaw",
+        "Present-Day Tribe": "Quapaw Tribe of Indians, Oklahoma"
+    },
+    {
+        "MAP #": "123",
+        "MAP Name": "Arkansas 1, Missouri 1, Kansas 1, Indian Territory 1",
+        "State": "OK",
+        "County": "McIntosh",
+        "Tribe Named in Treaty": "McIntosh",
+        "Present-Day Tribe": "Great and Little Osage"
+    },
+    {
+        "MAP #": "492",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "McIntosh",
+        "Tribe Named in Treaty": "Santee Sioux",
+        "Present-Day Tribe": "Santee Sioux Nation, Nebraska"
+    },
+    {
+        "MAP #": "367",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Murray",
+        "Tribe Named in Treaty": "Chickasaw",
+        "Present-Day Tribe": "Chickasaw"
+    },
+    {
+        "MAP #": "367",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Murray",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Choctaw Nation of Oklahoma"
+    },
+    {
+        "MAP #": "367",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Murray",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Jena Band of Choctaw Indians, Louisiana"
+    },
+    {
+        "MAP #": "367",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Murray",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Mississippi Band of Choctaw Indians, Mississippi"
+    },
+    {
+        "MAP #": "94",
+        "MAP Name": "Louisiana, Arkansas 1, Indian Territory 1",
+        "State": "OK",
+        "County": "Murray",
+        "Tribe Named in Treaty": "Quapaw",
+        "Present-Day Tribe": "Quapaw Tribe of Indians, Oklahoma"
+    },
+    {
+        "MAP #": "123",
+        "MAP Name": "Arkansas 1, Missouri 1, Kansas 1, Indian Territory 1",
+        "State": "Arkansas 1, Missouri 1, Kansas 1, Indian Territory 1",
+        "County": "OK",
+        "Tribe Named in Treaty": "Muskogee",
+        "Present-Day Tribe": "Great and Little Osage"
+    },
+    {
+        "MAP #": "97",
+        "MAP Name": "Arkansas 1, Indian Territory 1",
+        "State": "OK",
+        "County": "Muskogee",
+        "Tribe Named in Treaty": "Great and Little Osage",
+        "Present-Day Tribe": "Osage Tribe, Oklahoma"
+    },
+    {
+        "MAP #": "492",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Muskogee",
+        "Tribe Named in Treaty": "Santee Sioux",
+        "Present-Day Tribe": "Santee Sioux Nation, Nebraska"
+    },
+    {
+        "MAP #": "489",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Noble",
+        "Tribe Named in Treaty": "Noble",
+        "Present-Day Tribe": "Cherokee"
+    },
+    {
+        "MAP #": "489",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Noble",
+        "Tribe Named in Treaty": "Cherokee",
+        "Present-Day Tribe": "Eastern Band of Cherokee Indians of North Carolina"
+    },
+    {
+        "MAP #": "489",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Noble",
+        "Tribe Named in Treaty": "Cherokee",
+        "Present-Day Tribe": "Cherokee"
+    },
+    {
+        "MAP #": "123",
+        "MAP Name": "Arkansas 1, Missouri 1, Kansas 1, Indian Territory 1",
+        "State": "OK",
+        "County": "Noble",
+        "Tribe Named in Treaty": "Great and Little Osage",
+        "Present-Day Tribe": "Osage Tribe, Oklahoma"
+    },
+    {
+        "MAP #": "591",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Noble",
+        "Tribe Named in Treaty": "Pawnee",
+        "Present-Day Tribe": "Pawnee Nation of Oklahoma"
+    },
+    {
+        "MAP #": "123",
+        "MAP Name": "Arkansas 1, Missouri 1, Kansas 1, Indian Territory 1",
+        "State": "OK",
+        "County": "Nowata",
+        "Tribe Named in Treaty": "Great and Little Osage",
+        "Present-Day Tribe": "Osage Tribe, Oklahoma"
+    },
+    {
+        "MAP #": "492",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Nowata",
+        "Tribe Named in Treaty": "Santee Sioux",
+        "Present-Day Tribe": "Santee Sioux Nation, Nebraska"
+    },
+    {
+        "MAP #": "123",
+        "MAP Name": "Arkansas 1, Missouri 1, Kansas 1, Indian Territory 1",
+        "State": "Arkansas 1, Missouri 1, Kansas 1, Indian Territory 1",
+        "County": "OK",
+        "Tribe Named in Treaty": "Okfuskee",
+        "Present-Day Tribe": "Great and Little Osage"
+    },
+    {
+        "MAP #": "698",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Oklahoma",
+        "Tribe Named in Treaty": "Creek or Muscogee",
+        "Present-Day Tribe": "Muscogee (Creek) Nation, Oklahoma"
+    },
+    {
+        "MAP #": "698",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Oklahoma",
+        "Tribe Named in Treaty": "Creek or Muscogee",
+        "Present-Day Tribe": "Poarch Band of Creek Indians of Alabama"
+    },
+    {
+        "MAP #": "123",
+        "MAP Name": "Arkansas 1, Missouri 1, Kansas 1, Indian Territory 1",
+        "State": "OK",
+        "County": "Oklahoma",
+        "Tribe Named in Treaty": "Oklahoma",
+        "Present-Day Tribe": "Great and Little Osage"
+    },
+    {
+        "MAP #": "649",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Oklahoma",
+        "Tribe Named in Treaty": "Iowa",
+        "Present-Day Tribe": "Iowa Tribe of Kansas and Nebraska"
+    },
+    {
+        "MAP #": "649",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Oklahoma",
+        "Tribe Named in Treaty": "Iowa",
+        "Present-Day Tribe": "Iowa"
+    },
+    {
+        "MAP #": "650",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Oklahoma",
+        "Tribe Named in Treaty": "Kickapoo",
+        "Present-Day Tribe": "Kickapoo Traditional Tribe of Texas"
+    },
+    {
+        "MAP #": "650",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Oklahoma",
+        "Tribe Named in Treaty": "Kickapoo",
+        "Present-Day Tribe": "Kickapoo Tribe of Indians of the Kickapoo Reservation in Kansas"
+    },
+    {
+        "MAP #": "650",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Oklahoma",
+        "Tribe Named in Treaty": "Kickapoo",
+        "Present-Day Tribe": "Kickapoo Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "506",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Oklahoma",
+        "Tribe Named in Treaty": "Potawatomi",
+        "Present-Day Tribe": "Citizen Potawatomi Nation, Oklahoma"
+    },
+    {
+        "MAP #": "506",
+        "MAP Name": "Indian Territory 3",
+        "State": "Indian Territory 3",
+        "County": "OK",
+        "Tribe Named in Treaty": "Oklahoma",
+        "Present-Day Tribe": "Potawatomi"
+    },
+    {
+        "MAP #": "506",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Oklahoma",
+        "Tribe Named in Treaty": "Potawatomi",
+        "Present-Day Tribe": "Hannahville Indian Community, Michigan"
+    },
+    {
+        "MAP #": "506",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Oklahoma",
+        "Tribe Named in Treaty": "Potawatomi",
+        "Present-Day Tribe": "Huron Potawatomi, Inc., Michigan"
+    },
+    {
+        "MAP #": "506",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Oklahoma",
+        "Tribe Named in Treaty": "Oklahoma",
+        "Present-Day Tribe": "Potawatomi"
+    },
+    {
+        "MAP #": "506",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Oklahoma",
+        "Tribe Named in Treaty": "Potawatomi",
+        "Present-Day Tribe": "Pokagon Band of Potawatomi Indians, Michigan and Indiana"
+    },
+    {
+        "MAP #": "506",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Oklahoma",
+        "Tribe Named in Treaty": "Potawatomi",
+        "Present-Day Tribe": "Potawatomi"
+    },
+    {
+        "MAP #": "506",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Oklahoma",
+        "Tribe Named in Treaty": "Potawatomi",
+        "Present-Day Tribe": "Quechan Tribe of the Fort Yuma Indian Reservation, California & Arizona"
+    },
+    {
+        "MAP #": "480",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Oklahoma",
+        "Tribe Named in Treaty": "Seminole",
+        "Present-Day Tribe": "Seminole Nation of Oklahoma"
+    },
+    {
+        "MAP #": "480",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Oklahoma",
+        "Tribe Named in Treaty": "Seminole",
+        "Present-Day Tribe": "Seminole Tribe of Florida, Dania, Big Cypress, Brighton, Hollywood & Tampa Reservations"
+    },
+    {
+        "MAP #": "489",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Osage",
+        "Tribe Named in Treaty": "Cherokee",
+        "Present-Day Tribe": "Cherokee Nation, Oklahoma"
+    },
+    {
+        "MAP #": "489",
+        "MAP Name": "Indian Territory 2",
+        "State": "Indian Territory 2",
+        "County": "OK",
+        "Tribe Named in Treaty": "Osage",
+        "Present-Day Tribe": "Cherokee"
+    },
+    {
+        "MAP #": "489",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Osage",
+        "Tribe Named in Treaty": "Cherokee",
+        "Present-Day Tribe": "United Keetoowah Band of Cherokee Indians in Oklahoma"
+    },
+    {
+        "MAP #": "123",
+        "MAP Name": "Arkansas 1, Missouri 1, Kansas 1, Indian Territory 1",
+        "State": "OK",
+        "County": "Osage",
+        "Tribe Named in Treaty": "Great and Little Osage",
+        "Present-Day Tribe": "Osage Tribe, Oklahoma"
+    },
+    {
+        "MAP #": "534",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Osage",
+        "Tribe Named in Treaty": "Osage",
+        "Present-Day Tribe": "Great and Little Osage"
+    },
+    {
+        "MAP #": "571",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Eastern Shawnee",
+        "Present-Day Tribe": "Eastern Shawnee Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "123",
+        "MAP Name": "Arkansas 1, Missouri 1, Kansas 1, Indian Territory 1",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Great and Little Osage",
+        "Present-Day Tribe": "Great and Little Osage"
+    },
+    {
+        "MAP #": "498",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Kaskaskia",
+        "Present-Day Tribe": "Miami Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "499",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Kaskaskia",
+        "Present-Day Tribe": "Miami Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "500",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Kaskaskia",
+        "Present-Day Tribe": "Miami Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "501",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Kaskaskia",
+        "Present-Day Tribe": "Miami Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "504",
+        "MAP Name": "Indian Territory 2",
+        "State": "Indian Territory 2",
+        "County": "OK",
+        "Tribe Named in Treaty": "Ottawa",
+        "Present-Day Tribe": "Kaskaskia"
+    },
+    {
+        "MAP #": "505",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Kaskaskia",
+        "Present-Day Tribe": "Miami Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "498",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Kaskaskia",
+        "Present-Day Tribe": "Peoria Tribe of Indians of Oklahoma"
+    },
+    {
+        "MAP #": "499",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Ottawa",
+        "Present-Day Tribe": "Kaskaskia"
+    },
+    {
+        "MAP #": "500",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Kaskaskia",
+        "Present-Day Tribe": "Peoria Tribe of Indians of Oklahoma"
+    },
+    {
+        "MAP #": "501",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Kaskaskia",
+        "Present-Day Tribe": "Kaskaskia"
+    },
+    {
+        "MAP #": "504",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Kaskaskia",
+        "Present-Day Tribe": "Peoria Tribe of Indians of Oklahoma"
+    },
+    {
+        "MAP #": "505",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Kaskaskia",
+        "Present-Day Tribe": "Peoria Tribe of Indians of Oklahoma"
+    },
+    {
+        "MAP #": "498",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Mixed Seneka",
+        "Present-Day Tribe": "Seneca Nation of New York"
+    },
+    {
+        "MAP #": "499",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Mixed Seneka",
+        "Present-Day Tribe": "Seneca Nation of New York"
+    },
+    {
+        "MAP #": "500",
+        "MAP Name": "Indian Territory 2",
+        "State": "Indian Territory 2",
+        "County": "OK",
+        "Tribe Named in Treaty": "Ottawa",
+        "Present-Day Tribe": "Mixed Seneka"
+    },
+    {
+        "MAP #": "501",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Mixed Seneka",
+        "Present-Day Tribe": "Seneca Nation of New York"
+    },
+    {
+        "MAP #": "504",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Mixed Seneka",
+        "Present-Day Tribe": "Seneca Nation of New York"
+    },
+    {
+        "MAP #": "505",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Ottawa",
+        "Present-Day Tribe": "Mixed Seneka"
+    },
+    {
+        "MAP #": "498",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Mixed Seneka",
+        "Present-Day Tribe": "Seneca-Cayuga Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "499",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Mixed Seneka",
+        "Present-Day Tribe": "Mixed Seneka"
+    },
+    {
+        "MAP #": "500",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Mixed Seneka",
+        "Present-Day Tribe": "Seneca-Cayuga Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "501",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Mixed Seneka",
+        "Present-Day Tribe": "Seneca-Cayuga Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "504",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Mixed Seneka",
+        "Present-Day Tribe": "Seneca-Cayuga Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "505",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Mixed Seneka",
+        "Present-Day Tribe": "Seneca-Cayuga Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "498",
+        "MAP Name": "Indian Territory 2",
+        "State": "Indian Territory 2",
+        "County": "OK",
+        "Tribe Named in Treaty": "Ottawa",
+        "Present-Day Tribe": "Mixed Seneka"
+    },
+    {
+        "MAP #": "499",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Mixed Seneka",
+        "Present-Day Tribe": "Tonawanda Band of Seneca Indians of New York"
+    },
+    {
+        "MAP #": "500",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Mixed Seneka",
+        "Present-Day Tribe": "Tonawanda Band of Seneca Indians of New York"
+    },
+    {
+        "MAP #": "501",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Ottawa",
+        "Present-Day Tribe": "Mixed Seneka"
+    },
+    {
+        "MAP #": "504",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Mixed Seneka",
+        "Present-Day Tribe": "Tonawanda Band of Seneca Indians of New York"
+    },
+    {
+        "MAP #": "505",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Mixed Seneka",
+        "Present-Day Tribe": "Mixed Seneka"
+    },
+    {
+        "MAP #": "498",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Ottawa of Blanehard's fork and Roche de Boeuf",
+        "Present-Day Tribe": "Ottawa Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "499",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Ottawa of Blanehard's fork and Roche de Boeuf",
+        "Present-Day Tribe": "Ottawa Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "500",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Ottawa of Blanehard's fork and Roche de Boeuf",
+        "Present-Day Tribe": "Ottawa Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "501",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Ottawa of Blanehard's fork and Roche de Boeuf",
+        "Present-Day Tribe": "Ottawa Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "504",
+        "MAP Name": "Indian Territory 2",
+        "State": "Indian Territory 2",
+        "County": "OK",
+        "Tribe Named in Treaty": "Ottawa",
+        "Present-Day Tribe": "Ottawa of Blanehard's fork and Roche de Boeuf"
+    },
+    {
+        "MAP #": "505",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Ottawa of Blanehard's fork and Roche de Boeuf",
+        "Present-Day Tribe": "Ottawa Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "498",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Peoria",
+        "Present-Day Tribe": "Peoria Tribe of Indians of Oklahoma"
+    },
+    {
+        "MAP #": "499",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Ottawa",
+        "Present-Day Tribe": "Peoria"
+    },
+    {
+        "MAP #": "500",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Peoria",
+        "Present-Day Tribe": "Peoria Tribe of Indians of Oklahoma"
+    },
+    {
+        "MAP #": "501",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Peoria",
+        "Present-Day Tribe": "Peoria"
+    },
+    {
+        "MAP #": "504",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Peoria",
+        "Present-Day Tribe": "Peoria Tribe of Indians of Oklahoma"
+    },
+    {
+        "MAP #": "505",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Peoria",
+        "Present-Day Tribe": "Peoria Tribe of Indians of Oklahoma"
+    },
+    {
+        "MAP #": "498",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Piankishaw",
+        "Present-Day Tribe": "Miami Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "499",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Piankishaw",
+        "Present-Day Tribe": "Miami Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "500",
+        "MAP Name": "Indian Territory 2",
+        "State": "Indian Territory 2",
+        "County": "OK",
+        "Tribe Named in Treaty": "Ottawa",
+        "Present-Day Tribe": "Piankishaw"
+    },
+    {
+        "MAP #": "501",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Piankishaw",
+        "Present-Day Tribe": "Miami Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "504",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Piankishaw",
+        "Present-Day Tribe": "Miami Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "505",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Ottawa",
+        "Present-Day Tribe": "Piankishaw"
+    },
+    {
+        "MAP #": "498",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Piankishaw",
+        "Present-Day Tribe": "Peoria Tribe of Indians of Oklahoma"
+    },
+    {
+        "MAP #": "499",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Piankishaw",
+        "Present-Day Tribe": "Piankishaw"
+    },
+    {
+        "MAP #": "500",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Piankishaw",
+        "Present-Day Tribe": "Peoria Tribe of Indians of Oklahoma"
+    },
+    {
+        "MAP #": "501",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Piankishaw",
+        "Present-Day Tribe": "Peoria Tribe of Indians of Oklahoma"
+    },
+    {
+        "MAP #": "504",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Piankishaw",
+        "Present-Day Tribe": "Peoria Tribe of Indians of Oklahoma"
+    },
+    {
+        "MAP #": "505",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Piankishaw",
+        "Present-Day Tribe": "Peoria Tribe of Indians of Oklahoma"
+    },
+    {
+        "MAP #": "498",
+        "MAP Name": "Indian Territory 2",
+        "State": "Indian Territory 2",
+        "County": "OK",
+        "Tribe Named in Treaty": "Ottawa",
+        "Present-Day Tribe": "Quapaw"
+    },
+    {
+        "MAP #": "499",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Quapaw",
+        "Present-Day Tribe": "Quapaw Tribe of Indians, Oklahoma"
+    },
+    {
+        "MAP #": "500",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Quapaw",
+        "Present-Day Tribe": "Quapaw Tribe of Indians, Oklahoma"
+    },
+    {
+        "MAP #": "501",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Ottawa",
+        "Present-Day Tribe": "Quapaw"
+    },
+    {
+        "MAP #": "504",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Quapaw",
+        "Present-Day Tribe": "Quapaw Tribe of Indians, Oklahoma"
+    },
+    {
+        "MAP #": "505",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Quapaw",
+        "Present-Day Tribe": "Quapaw"
+    },
+    {
+        "MAP #": "492",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Santee Sioux",
+        "Present-Day Tribe": "Santee Sioux Nation, Nebraska"
+    },
+    {
+        "MAP #": "498",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Seneka",
+        "Present-Day Tribe": "Seneca Nation of New York"
+    },
+    {
+        "MAP #": "499",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Seneka",
+        "Present-Day Tribe": "Seneca Nation of New York"
+    },
+    {
+        "MAP #": "500",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Seneka",
+        "Present-Day Tribe": "Seneca Nation of New York"
+    },
+    {
+        "MAP #": "501",
+        "MAP Name": "Indian Territory 2",
+        "State": "Indian Territory 2",
+        "County": "OK",
+        "Tribe Named in Treaty": "Ottawa",
+        "Present-Day Tribe": "Seneka"
+    },
+    {
+        "MAP #": "504",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Seneka",
+        "Present-Day Tribe": "Seneca Nation of New York"
+    },
+    {
+        "MAP #": "505",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Seneka",
+        "Present-Day Tribe": "Seneca Nation of New York"
+    },
+    {
+        "MAP #": "498",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Ottawa",
+        "Present-Day Tribe": "Seneka"
+    },
+    {
+        "MAP #": "499",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Seneka",
+        "Present-Day Tribe": "Seneca-Cayuga Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "500",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Seneka",
+        "Present-Day Tribe": "Seneka"
+    },
+    {
+        "MAP #": "501",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Seneka",
+        "Present-Day Tribe": "Seneca-Cayuga Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "504",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Seneka",
+        "Present-Day Tribe": "Seneca-Cayuga Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "505",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Seneka",
+        "Present-Day Tribe": "Seneca-Cayuga Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "498",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Seneka",
+        "Present-Day Tribe": "Tonawanda Band of Seneca Indians of New York"
+    },
+    {
+        "MAP #": "499",
+        "MAP Name": "Indian Territory 2",
+        "State": "Indian Territory 2",
+        "County": "OK",
+        "Tribe Named in Treaty": "Ottawa",
+        "Present-Day Tribe": "Seneka"
+    },
+    {
+        "MAP #": "500",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Seneka",
+        "Present-Day Tribe": "Tonawanda Band of Seneca Indians of New York"
+    },
+    {
+        "MAP #": "501",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Seneka",
+        "Present-Day Tribe": "Tonawanda Band of Seneca Indians of New York"
+    },
+    {
+        "MAP #": "504",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Ottawa",
+        "Present-Day Tribe": "Seneka"
+    },
+    {
+        "MAP #": "505",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Seneka",
+        "Present-Day Tribe": "Tonawanda Band of Seneca Indians of New York"
+    },
+    {
+        "MAP #": "498",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Shawnee",
+        "Present-Day Tribe": "Shawnee"
+    },
+    {
+        "MAP #": "499",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Shawnee",
+        "Present-Day Tribe": "Absentee-Shawnee Tribe of Indians of Oklahoma"
+    },
+    {
+        "MAP #": "500",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Shawnee",
+        "Present-Day Tribe": "Absentee-Shawnee Tribe of Indians of Oklahoma"
+    },
+    {
+        "MAP #": "501",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Shawnee",
+        "Present-Day Tribe": "Absentee-Shawnee Tribe of Indians of Oklahoma"
+    },
+    {
+        "MAP #": "504",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Shawnee",
+        "Present-Day Tribe": "Absentee-Shawnee Tribe of Indians of Oklahoma"
+    },
+    {
+        "MAP #": "505",
+        "MAP Name": "Indian Territory 2",
+        "State": "Indian Territory 2",
+        "County": "OK",
+        "Tribe Named in Treaty": "Ottawa",
+        "Present-Day Tribe": "Shawnee"
+    },
+    {
+        "MAP #": "498",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Shawnee",
+        "Present-Day Tribe": "Shawnee Tribe, Oklahoma"
+    },
+    {
+        "MAP #": "499",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Shawnee",
+        "Present-Day Tribe": "Shawnee Tribe, Oklahoma"
+    },
+    {
+        "MAP #": "500",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Ottawa",
+        "Present-Day Tribe": "Shawnee"
+    },
+    {
+        "MAP #": "501",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Shawnee",
+        "Present-Day Tribe": "Shawnee Tribe, Oklahoma"
+    },
+    {
+        "MAP #": "504",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Shawnee",
+        "Present-Day Tribe": "Shawnee"
+    },
+    {
+        "MAP #": "505",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Shawnee",
+        "Present-Day Tribe": "Shawnee Tribe, Oklahoma"
+    },
+    {
+        "MAP #": "498",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Wea",
+        "Present-Day Tribe": "Peoria Tribe of Indians of Oklahoma"
+    },
+    {
+        "MAP #": "499",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Wea",
+        "Present-Day Tribe": "Peoria Tribe of Indians of Oklahoma"
+    },
+    {
+        "MAP #": "500",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Wea",
+        "Present-Day Tribe": "Peoria Tribe of Indians of Oklahoma"
+    },
+    {
+        "MAP #": "501",
+        "MAP Name": "Indian Territory 2",
+        "State": "Indian Territory 2",
+        "County": "OK",
+        "Tribe Named in Treaty": "Ottawa",
+        "Present-Day Tribe": "Wea"
+    },
+    {
+        "MAP #": "504",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Wea",
+        "Present-Day Tribe": "Peoria Tribe of Indians of Oklahoma"
+    },
+    {
+        "MAP #": "505",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Wea",
+        "Present-Day Tribe": "Peoria Tribe of Indians of Oklahoma"
+    },
+    {
+        "MAP #": "498",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Ottawa",
+        "Present-Day Tribe": "Wyandot"
+    },
+    {
+        "MAP #": "499",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Wyandot",
+        "Present-Day Tribe": "Wyandotte Nation, Oklahoma"
+    },
+    {
+        "MAP #": "500",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Wyandot",
+        "Present-Day Tribe": "Wyandot"
+    },
+    {
+        "MAP #": "501",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Wyandot",
+        "Present-Day Tribe": "Wyandotte Nation, Oklahoma"
+    },
+    {
+        "MAP #": "504",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Wyandot",
+        "Present-Day Tribe": "Wyandotte Nation, Oklahoma"
+    },
+    {
+        "MAP #": "505",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Ottawa",
+        "Tribe Named in Treaty": "Wyandot",
+        "Present-Day Tribe": "Wyandotte Nation, Oklahoma"
+    },
+    {
+        "MAP #": "123",
+        "MAP Name": "Arkansas 1, Missouri 1, Kansas 1, Indian Territory 1",
+        "State": "OK",
+        "County": "Pawnee",
+        "Tribe Named in Treaty": "Great and Little Osage",
+        "Present-Day Tribe": "Osage Tribe, Oklahoma"
+    },
+    {
+        "MAP #": "698",
+        "MAP Name": "Indian Territory 3",
+        "State": "Indian Territory 3",
+        "County": "OK",
+        "Tribe Named in Treaty": "Payne",
+        "Present-Day Tribe": "Creek or Muscogee"
+    },
+    {
+        "MAP #": "698",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Payne",
+        "Tribe Named in Treaty": "Creek or Muscogee",
+        "Present-Day Tribe": "Poarch Band of Creek Indians of Alabama"
+    },
+    {
+        "MAP #": "123",
+        "MAP Name": "Arkansas 1, Missouri 1, Kansas 1, Indian Territory 1",
+        "State": "OK",
+        "County": "Payne",
+        "Tribe Named in Treaty": "Great and Little Osage",
+        "Present-Day Tribe": "Osage Tribe, Oklahoma"
+    },
+    {
+        "MAP #": "649",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Payne",
+        "Tribe Named in Treaty": "Payne",
+        "Present-Day Tribe": "Iowa"
+    },
+    {
+        "MAP #": "649",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Payne",
+        "Tribe Named in Treaty": "Iowa",
+        "Present-Day Tribe": "Iowa Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "591",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Payne",
+        "Tribe Named in Treaty": "Pawnee",
+        "Present-Day Tribe": "Pawnee"
+    },
+    {
+        "MAP #": "495",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Payne",
+        "Tribe Named in Treaty": "Sauk and Fox of the Mississippi",
+        "Present-Day Tribe": "Sac & Fox Tribe of the Mississippi in Iowa"
+    },
+    {
+        "MAP #": "368",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Pittsburg",
+        "Tribe Named in Treaty": "Chickasaw",
+        "Present-Day Tribe": "Chickasaw Nation, Oklahoma"
+    },
+    {
+        "MAP #": "368",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Pittsburg",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Choctaw Nation of Oklahoma"
+    },
+    {
+        "MAP #": "368",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Pittsburg",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Jena Band of Choctaw Indians, Louisiana"
+    },
+    {
+        "MAP #": "368",
+        "MAP Name": "Indian Territory 2",
+        "State": "Indian Territory 2",
+        "County": "OK",
+        "Tribe Named in Treaty": "Pittsburg",
+        "Present-Day Tribe": "Choctaw"
+    },
+    {
+        "MAP #": "94",
+        "MAP Name": "Louisiana, Arkansas 1, Indian Territory 1",
+        "State": "OK",
+        "County": "Pittsburg",
+        "Tribe Named in Treaty": "Quapaw",
+        "Present-Day Tribe": "Quapaw Tribe of Indians, Oklahoma"
+    },
+    {
+        "MAP #": "367",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Pontotoc",
+        "Tribe Named in Treaty": "Chickasaw",
+        "Present-Day Tribe": "Chickasaw Nation, Oklahoma"
+    },
+    {
+        "MAP #": "367",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Pontotoc",
+        "Tribe Named in Treaty": "Pontotoc",
+        "Present-Day Tribe": "Choctaw"
+    },
+    {
+        "MAP #": "367",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Pontotoc",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Jena Band of Choctaw Indians, Louisiana"
+    },
+    {
+        "MAP #": "367",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Pontotoc",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Choctaw"
+    },
+    {
+        "MAP #": "94",
+        "MAP Name": "Louisiana, Arkansas 1, Indian Territory 1",
+        "State": "OK",
+        "County": "Pontotoc",
+        "Tribe Named in Treaty": "Quapaw",
+        "Present-Day Tribe": "Quapaw Tribe of Indians, Oklahoma"
+    },
+    {
+        "MAP #": "123",
+        "MAP Name": "Arkansas 1, Missouri 1, Kansas 1, Indian Territory 1",
+        "State": "OK",
+        "County": "Pottawattamie",
+        "Tribe Named in Treaty": "Great and Little Osage",
+        "Present-Day Tribe": "Osage Tribe, Oklahoma"
+    },
+    {
+        "MAP #": "506",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Pottawattamie",
+        "Tribe Named in Treaty": "Potawatomi",
+        "Present-Day Tribe": "Citizen Potawatomi Nation, Oklahoma"
+    },
+    {
+        "MAP #": "506",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Pottawattamie",
+        "Tribe Named in Treaty": "Potawatomi",
+        "Present-Day Tribe": "Forest County Potawatomi Community, Wisconsin"
+    },
+    {
+        "MAP #": "506",
+        "MAP Name": "Indian Territory 3",
+        "State": "Indian Territory 3",
+        "County": "OK",
+        "Tribe Named in Treaty": "Pottawattamie",
+        "Present-Day Tribe": "Potawatomi"
+    },
+    {
+        "MAP #": "506",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Pottawattamie",
+        "Tribe Named in Treaty": "Potawatomi",
+        "Present-Day Tribe": "Huron Potawatomi, Inc., Michigan"
+    },
+    {
+        "MAP #": "506",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Pottawattamie",
+        "Tribe Named in Treaty": "Potawatomi",
+        "Present-Day Tribe": "Match-e-be-nash-she-wish Band of Pottawatomi Indians of Michigan"
+    },
+    {
+        "MAP #": "506",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Pottawattamie",
+        "Tribe Named in Treaty": "Pottawattamie",
+        "Present-Day Tribe": "Potawatomi"
+    },
+    {
+        "MAP #": "506",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Pottawattamie",
+        "Tribe Named in Treaty": "Potawatomi",
+        "Present-Day Tribe": "Prairie Band of Potawatomi Nation, Kansas"
+    },
+    {
+        "MAP #": "506",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Pottawattamie",
+        "Tribe Named in Treaty": "Potawatomi",
+        "Present-Day Tribe": "Potawatomi"
+    },
+    {
+        "MAP #": "480",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Pottawattamie",
+        "Tribe Named in Treaty": "Seminole",
+        "Present-Day Tribe": "Seminole Nation of Oklahoma"
+    },
+    {
+        "MAP #": "480",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Pottawattamie",
+        "Tribe Named in Treaty": "Seminole",
+        "Present-Day Tribe": "Seminole Tribe of Florida, Dania, Big Cypress, Brighton, Hollywood & Tampa Reservations"
+    },
+    {
+        "MAP #": "368",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Pushmataha",
+        "Tribe Named in Treaty": "Chickasaw",
+        "Present-Day Tribe": "Chickasaw Nation, Oklahoma"
+    },
+    {
+        "MAP #": "368",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Pushmataha",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Choctaw Nation of Oklahoma"
+    },
+    {
+        "MAP #": "368",
+        "MAP Name": "Indian Territory 2",
+        "State": "Indian Territory 2",
+        "County": "OK",
+        "Tribe Named in Treaty": "Pushmataha",
+        "Present-Day Tribe": "Choctaw"
+    },
+    {
+        "MAP #": "368",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Pushmataha",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Mississippi Band of Choctaw Indians, Mississippi"
+    },
+    {
+        "MAP #": "94",
+        "MAP Name": "Louisiana, Arkansas 1, Indian Territory 1",
+        "State": "OK",
+        "County": "Pushmataha",
+        "Tribe Named in Treaty": "Quapaw",
+        "Present-Day Tribe": "Quapaw Tribe of Indians, Oklahoma"
+    },
+    {
+        "MAP #": "525",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Roger Mills",
+        "Tribe Named in Treaty": "Roger Mills",
+        "Present-Day Tribe": "Arapaho"
+    },
+    {
+        "MAP #": "525",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Roger Mills",
+        "Tribe Named in Treaty": "Cheyenne",
+        "Present-Day Tribe": "Cheyenne-Arapaho Tribes of Oklahoma"
+    },
+    {
+        "MAP #": "485",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Roger Mills",
+        "Tribe Named in Treaty": "Chickasaw",
+        "Present-Day Tribe": "Chickasaw"
+    },
+    {
+        "MAP #": "485",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Roger Mills",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Choctaw Nation of Oklahoma"
+    },
+    {
+        "MAP #": "485",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Roger Mills",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Jena Band of Choctaw Indians, Louisiana"
+    },
+    {
+        "MAP #": "485",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Roger Mills",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Mississippi Band of Choctaw Indians, Mississippi"
+    },
+    {
+        "MAP #": "511",
+        "MAP Name": "Texas (portion of)",
+        "State": "OK",
+        "County": "Roger Mills",
+        "Tribe Named in Treaty": "Comanche",
+        "Present-Day Tribe": "Comanche Nation, Oklahoma"
+    },
+    {
+        "MAP #": "511",
+        "MAP Name": "Texas (portion of)",
+        "State": "Texas (portion of)",
+        "County": "OK",
+        "Tribe Named in Treaty": "Roger Mills",
+        "Present-Day Tribe": "Kiowa"
+    },
+    {
+        "MAP #": "94",
+        "MAP Name": "Louisiana, Arkansas 1, Indian Territory 1",
+        "State": "OK",
+        "County": "Roger Mills",
+        "Tribe Named in Treaty": "Quapaw",
+        "Present-Day Tribe": "Quapaw Tribe of Indians, Oklahoma"
+    },
+    {
+        "MAP #": "123",
+        "MAP Name": "Arkansas 1, Missouri 1, Kansas 1, Indian Territory 1",
+        "State": "OK",
+        "County": "Rogers",
+        "Tribe Named in Treaty": "Great and Little Osage",
+        "Present-Day Tribe": "Osage Tribe, Oklahoma"
+    },
+    {
+        "MAP #": "492",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Rogers",
+        "Tribe Named in Treaty": "Rogers",
+        "Present-Day Tribe": "Santee Sioux"
+    },
+    {
+        "MAP #": "123",
+        "MAP Name": "Arkansas 1, Missouri 1, Kansas 1, Indian Territory 1",
+        "State": "OK",
+        "County": "Seminole",
+        "Tribe Named in Treaty": "Great and Little Osage",
+        "Present-Day Tribe": "Osage Tribe, Oklahoma"
+    },
+    {
+        "MAP #": "481",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Seminole",
+        "Tribe Named in Treaty": "Seminole",
+        "Present-Day Tribe": "Seminole"
+    },
+    {
+        "MAP #": "543",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Seminole",
+        "Tribe Named in Treaty": "Seminole",
+        "Present-Day Tribe": "Seminole Nation of Oklahoma"
+    },
+    {
+        "MAP #": "481",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Seminole",
+        "Tribe Named in Treaty": "Seminole",
+        "Present-Day Tribe": "Seminole Tribe of Florida, Dania, Big Cypress, Brighton, Hollywood & Tampa Reservations"
+    },
+    {
+        "MAP #": "543",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Seminole",
+        "Tribe Named in Treaty": "Seminole",
+        "Present-Day Tribe": "Seminole Tribe of Florida, Dania, Big Cypress, Brighton, Hollywood & Tampa Reservations"
+    },
+    {
+        "MAP #": "97",
+        "MAP Name": "Arkansas 1, Indian Territory 1",
+        "State": "OK",
+        "County": "Sequoyah",
+        "Tribe Named in Treaty": "Great and Little Osage",
+        "Present-Day Tribe": "Osage Tribe, Oklahoma"
+    },
+    {
+        "MAP #": "492",
+        "MAP Name": "Indian Territory 2",
+        "State": "Indian Territory 2",
+        "County": "OK",
+        "Tribe Named in Treaty": "Sequoyah",
+        "Present-Day Tribe": "Santee Sioux"
+    },
+    {
+        "MAP #": "367",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Stephens",
+        "Tribe Named in Treaty": "Chickasaw",
+        "Present-Day Tribe": "Chickasaw Nation, Oklahoma"
+    },
+    {
+        "MAP #": "485",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Stephens",
+        "Tribe Named in Treaty": "Chickasaw",
+        "Present-Day Tribe": "Chickasaw Nation, Oklahoma"
+    },
+    {
+        "MAP #": "367",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Stephens",
+        "Tribe Named in Treaty": "Stephens",
+        "Present-Day Tribe": "Choctaw"
+    },
+    {
+        "MAP #": "485",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Stephens",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Choctaw Nation of Oklahoma"
+    },
+    {
+        "MAP #": "367",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Stephens",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Choctaw"
+    },
+    {
+        "MAP #": "485",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Stephens",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Jena Band of Choctaw Indians, Louisiana"
+    },
+    {
+        "MAP #": "367",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Stephens",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Mississippi Band of Choctaw Indians, Mississippi"
+    },
+    {
+        "MAP #": "485",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Stephens",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Mississippi Band of Choctaw Indians, Mississippi"
+    },
+    {
+        "MAP #": "510",
+        "MAP Name": "Indian Territory 3, Texas (portion of)",
+        "State": "OK",
+        "County": "Stephens",
+        "Tribe Named in Treaty": "Comanche",
+        "Present-Day Tribe": "Comanche Nation, Oklahoma"
+    },
+    {
+        "MAP #": "511",
+        "MAP Name": "Texas (portion of)",
+        "State": "Texas (portion of)",
+        "County": "OK",
+        "Tribe Named in Treaty": "Stephens",
+        "Present-Day Tribe": "Comanche"
+    },
+    {
+        "MAP #": "510",
+        "MAP Name": "Indian Territory 3, Texas (portion of)",
+        "State": "OK",
+        "County": "Stephens",
+        "Tribe Named in Treaty": "Kiowa",
+        "Present-Day Tribe": "Kiowa Indian Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "511",
+        "MAP Name": "Texas (portion of)",
+        "State": "OK",
+        "County": "Stephens",
+        "Tribe Named in Treaty": "Kiowa",
+        "Present-Day Tribe": "Kiowa Indian Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "94",
+        "MAP Name": "Louisiana, Arkansas 1, Indian Territory 1",
+        "State": "OK",
+        "County": "Stephens",
+        "Tribe Named in Treaty": "Stephens",
+        "Present-Day Tribe": "Quapaw"
+    },
+    {
+        "MAP #": "485",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Tillman",
+        "Tribe Named in Treaty": "Chickasaw",
+        "Present-Day Tribe": "Chickasaw Nation, Oklahoma"
+    },
+    {
+        "MAP #": "485",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Tillman",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Choctaw"
+    },
+    {
+        "MAP #": "485",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Tillman",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Jena Band of Choctaw Indians, Louisiana"
+    },
+    {
+        "MAP #": "485",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Tillman",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Mississippi Band of Choctaw Indians, Mississippi"
+    },
+    {
+        "MAP #": "510",
+        "MAP Name": "Indian Territory 3, Texas (portion of)",
+        "State": "OK",
+        "County": "Tillman",
+        "Tribe Named in Treaty": "Comanche",
+        "Present-Day Tribe": "Comanche Nation, Oklahoma"
+    },
+    {
+        "MAP #": "511",
+        "MAP Name": "Texas (portion of)",
+        "State": "OK",
+        "County": "Tillman",
+        "Tribe Named in Treaty": "Comanche",
+        "Present-Day Tribe": "Comanche Nation, Oklahoma"
+    },
+    {
+        "MAP #": "510",
+        "MAP Name": "Indian Territory 3, Texas (portion of)",
+        "State": "Indian Territory 3, Texas (portion of)",
+        "County": "OK",
+        "Tribe Named in Treaty": "Tillman",
+        "Present-Day Tribe": "Kiowa"
+    },
+    {
+        "MAP #": "511",
+        "MAP Name": "Texas (portion of)",
+        "State": "OK",
+        "County": "Tillman",
+        "Tribe Named in Treaty": "Kiowa",
+        "Present-Day Tribe": "Kiowa Indian Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "94",
+        "MAP Name": "Louisiana, Arkansas 1, Indian Territory 1",
+        "State": "OK",
+        "County": "Tillman",
+        "Tribe Named in Treaty": "Quapaw",
+        "Present-Day Tribe": "Quapaw Tribe of Indians, Oklahoma"
+    },
+    {
+        "MAP #": "123",
+        "MAP Name": "Arkansas 1, Missouri 1, Kansas 1, Indian Territory 1",
+        "State": "OK",
+        "County": "Tulsa",
+        "Tribe Named in Treaty": "Tulsa",
+        "Present-Day Tribe": "Great and Little Osage"
+    },
+    {
+        "MAP #": "492",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Tulsa",
+        "Tribe Named in Treaty": "Santee Sioux",
+        "Present-Day Tribe": "Santee Sioux Nation, Nebraska"
+    },
+    {
+        "MAP #": "144",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Wagoner",
+        "Tribe Named in Treaty": "Cherokee nation west of Mississippi river",
+        "Present-Day Tribe": "Cherokee nation west of Mississippi river"
+    },
+    {
+        "MAP #": "144",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Wagoner",
+        "Tribe Named in Treaty": "Cherokee nation west of Mississippi river",
+        "Present-Day Tribe": "United Keetoowah Band of Cherokee Indians in Oklahoma"
+    },
+    {
+        "MAP #": "123",
+        "MAP Name": "Arkansas 1, Missouri 1, Kansas 1, Indian Territory 1",
+        "State": "OK",
+        "County": "Wagoner",
+        "Tribe Named in Treaty": "Great and Little Osage",
+        "Present-Day Tribe": "Osage Tribe, Oklahoma"
+    },
+    {
+        "MAP #": "97",
+        "MAP Name": "Arkansas 1, Indian Territory 1",
+        "State": "OK",
+        "County": "Wagoner",
+        "Tribe Named in Treaty": "Great and Little Osage",
+        "Present-Day Tribe": "Osage Tribe, Oklahoma"
+    },
+    {
+        "MAP #": "492",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Wagoner",
+        "Tribe Named in Treaty": "Santee Sioux",
+        "Present-Day Tribe": "Santee Sioux Nation, Nebraska"
+    },
+    {
+        "MAP #": "489",
+        "MAP Name": "Indian Territory 2",
+        "State": "Indian Territory 2",
+        "County": "OK",
+        "Tribe Named in Treaty": "Washington",
+        "Present-Day Tribe": "Cherokee"
+    },
+    {
+        "MAP #": "489",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Washington",
+        "Tribe Named in Treaty": "Cherokee",
+        "Present-Day Tribe": "Eastern Band of Cherokee Indians of North Carolina"
+    },
+    {
+        "MAP #": "489",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Washington",
+        "Tribe Named in Treaty": "Cherokee",
+        "Present-Day Tribe": "United Keetoowah Band of Cherokee Indians in Oklahoma"
+    },
+    {
+        "MAP #": "123",
+        "MAP Name": "Arkansas 1, Missouri 1, Kansas 1, Indian Territory 1",
+        "State": "OK",
+        "County": "Washington",
+        "Tribe Named in Treaty": "Washington",
+        "Present-Day Tribe": "Great and Little Osage"
+    },
+    {
+        "MAP #": "525",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Washita",
+        "Tribe Named in Treaty": "Arapaho",
+        "Present-Day Tribe": "Arapaho Tribe of the Wind River Reservation, Wyoming"
+    },
+    {
+        "MAP #": "525",
+        "MAP Name": "Indian Territory 3",
+        "State": "OK",
+        "County": "Washita",
+        "Tribe Named in Treaty": "Cheyenne",
+        "Present-Day Tribe": "Cheyenne"
+    },
+    {
+        "MAP #": "485",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Washita",
+        "Tribe Named in Treaty": "Chickasaw",
+        "Present-Day Tribe": "Chickasaw Nation, Oklahoma"
+    },
+    {
+        "MAP #": "485",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Washita",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Choctaw Nation of Oklahoma"
+    },
+    {
+        "MAP #": "485",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Washita",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Jena Band of Choctaw Indians, Louisiana"
+    },
+    {
+        "MAP #": "485",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Washita",
+        "Tribe Named in Treaty": "Choctaw",
+        "Present-Day Tribe": "Mississippi Band of Choctaw Indians, Mississippi"
+    },
+    {
+        "MAP #": "511",
+        "MAP Name": "Texas (portion of)",
+        "State": "Texas (portion of)",
+        "County": "OK",
+        "Tribe Named in Treaty": "Washita",
+        "Present-Day Tribe": "Comanche"
+    },
+    {
+        "MAP #": "511",
+        "MAP Name": "Texas (portion of)",
+        "State": "OK",
+        "County": "Washita",
+        "Tribe Named in Treaty": "Kiowa",
+        "Present-Day Tribe": "Kiowa Indian Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "94",
+        "MAP Name": "Louisiana, Arkansas 1, Indian Territory 1",
+        "State": "OK",
+        "County": "Washita",
+        "Tribe Named in Treaty": "Quapaw",
+        "Present-Day Tribe": "Quapaw Tribe of Indians, Oklahoma"
+    },
+    {
+        "MAP #": "489",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Woods",
+        "Tribe Named in Treaty": "Woods",
+        "Present-Day Tribe": "Cherokee"
+    },
+    {
+        "MAP #": "489",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Woods",
+        "Tribe Named in Treaty": "Cherokee",
+        "Present-Day Tribe": "Eastern Band of Cherokee Indians of North Carolina"
+    },
+    {
+        "MAP #": "489",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Woods",
+        "Tribe Named in Treaty": "Cherokee",
+        "Present-Day Tribe": "Cherokee"
+    },
+    {
+        "MAP #": "123",
+        "MAP Name": "Arkansas 1, Missouri 1, Kansas 1, Indian Territory 1",
+        "State": "OK",
+        "County": "Woods",
+        "Tribe Named in Treaty": "Great and Little Osage",
+        "Present-Day Tribe": "Osage Tribe, Oklahoma"
+    },
+    {
+        "MAP #": "489",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Woodward",
+        "Tribe Named in Treaty": "Cherokee",
+        "Present-Day Tribe": "Cherokee Nation, Oklahoma"
+    },
+    {
+        "MAP #": "489",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Woodward",
+        "Tribe Named in Treaty": "Cherokee",
+        "Present-Day Tribe": "Eastern Band of Cherokee Indians of North Carolina"
+    },
+    {
+        "MAP #": "489",
+        "MAP Name": "Indian Territory 2",
+        "State": "OK",
+        "County": "Woodward",
+        "Tribe Named in Treaty": "Cherokee",
+        "Present-Day Tribe": "United Keetoowah Band of Cherokee Indians in Oklahoma"
+    },
+    {
+        "MAP #": "511",
+        "MAP Name": "Texas (portion of)",
+        "State": "Texas (portion of)",
+        "County": "OK",
+        "Tribe Named in Treaty": "Woodward",
+        "Present-Day Tribe": "Comanche"
+    },
+    {
+        "MAP #": "123",
+        "MAP Name": "Arkansas 1, Missouri 1, Kansas 1, Indian Territory 1",
+        "State": "OK",
+        "County": "Woodward",
+        "Tribe Named in Treaty": "Great and Little Osage",
+        "Present-Day Tribe": "Osage Tribe, Oklahoma"
+    },
+    {
+        "MAP #": "511",
+        "MAP Name": "Texas (portion of)",
+        "State": "OK",
+        "County": "Woodward",
+        "Tribe Named in Treaty": "Kiowa",
+        "Present-Day Tribe": "Kiowa Indian Tribe of Oklahoma"
+    }
+]

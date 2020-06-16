@@ -1,0 +1,2594 @@
+[
+    {
+        "MAP #": "573",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Apache",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Apache Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "601",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Apache",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Apache Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "603",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Apache",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Apache Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "573",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Apache",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Fort Sill Apache Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "601",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Apache",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Fort Sill Apache Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "603",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Apache",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Fort Sill Apache Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "573",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Apache",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Jicarilla Apache Nation, New Mexico"
+    },
+    {
+        "MAP #": "601",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Apache",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Jicarilla Apache Nation, New Mexico"
+    },
+    {
+        "MAP #": "603",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Apache",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Jicarilla Apache Nation, New Mexico"
+    },
+    {
+        "MAP #": "573",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Apache",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Mescalero Apache Tribe of the Mescalero Reservation, New Mexico"
+    },
+    {
+        "MAP #": "601",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Apache",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Mescalero Apache Tribe of the Mescalero Reservation, New Mexico"
+    },
+    {
+        "MAP #": "603",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Apache",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Mescalero Apache Tribe of the Mescalero Reservation, New Mexico"
+    },
+    {
+        "MAP #": "573",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Apache",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "San Carlos Apache Tribe of the San Carlos Reservation, Arizona"
+    },
+    {
+        "MAP #": "601",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Apache",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "San Carlos Apache Tribe of the San Carlos Reservation, Arizona"
+    },
+    {
+        "MAP #": "603",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Apache",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "San Carlos Apache Tribe of the San Carlos Reservation, Arizona"
+    },
+    {
+        "MAP #": "573",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Apache",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Tonto Apache Tribe of Arizona"
+    },
+    {
+        "MAP #": "601",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Apache",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Tonto Apache Tribe of Arizona"
+    },
+    {
+        "MAP #": "603",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Apache",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Tonto Apache Tribe of Arizona"
+    },
+    {
+        "MAP #": "573",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Apache",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "White Mountain Apache Tribe of the Fort Apache Reservation, Arizona"
+    },
+    {
+        "MAP #": "601",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Apache",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "White Mountain Apache Tribe of the Fort Apache Reservation, Arizona"
+    },
+    {
+        "MAP #": "603",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Apache",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "White Mountain Apache Tribe of the Fort Apache Reservation, Arizona"
+    },
+    {
+        "MAP #": "689",
+        "MAP Name": "Arizona 1, New Mexico 1",
+        "State": "AZ",
+        "County": "Apache",
+        "Tribe Named in Treaty": "Apache (western bands)",
+        "Present-Day Tribe": "San Carlos Apache Tribe of the San Carlos Reservation, Arizona"
+    },
+    {
+        "MAP #": "689",
+        "MAP Name": "Arizona 1, New Mexico 1",
+        "State": "AZ",
+        "County": "Apache",
+        "Tribe Named in Treaty": "Apache (western bands)",
+        "Present-Day Tribe": "Tonto Apache Tribe of Arizona"
+    },
+    {
+        "MAP #": "689",
+        "MAP Name": "Arizona 1, New Mexico 1",
+        "State": "AZ",
+        "County": "Apache",
+        "Tribe Named in Treaty": "Apache (western bands)",
+        "Present-Day Tribe": "White Mountain Apache Tribe of the Fort Apache Reservation, Arizona"
+    },
+    {
+        "MAP #": "518",
+        "MAP Name": "Arizona 1, New Mexico 1",
+        "State": "AZ",
+        "County": "Apache",
+        "Tribe Named in Treaty": "Arapaho (Northern bands)",
+        "Present-Day Tribe": "Arapaho Tribe of the Wind River Reservation, Wyoming"
+    },
+    {
+        "MAP #": "518",
+        "MAP Name": "Arizona 1, New Mexico 1",
+        "State": "AZ",
+        "County": "Apache",
+        "Tribe Named in Treaty": "Cheyenne",
+        "Present-Day Tribe": "Cheyenne-Arapaho Tribes of Oklahoma"
+    },
+    {
+        "MAP #": "519",
+        "MAP Name": "Utah 1, Arizona 1, New Mexico 1",
+        "State": "AZ",
+        "County": "Apache",
+        "Tribe Named in Treaty": "Navaho",
+        "Present-Day Tribe": "Navajo Nation, Arizona, New Mexico & Utah"
+    },
+    {
+        "MAP #": "608",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Apache",
+        "Tribe Named in Treaty": "Navaho",
+        "Present-Day Tribe": "Navajo Nation, Arizona, New Mexico & Utah"
+    },
+    {
+        "MAP #": "615",
+        "MAP Name": "Arizona 2, New Mexico 2",
+        "State": "AZ",
+        "County": "Apache",
+        "Tribe Named in Treaty": "Navaho",
+        "Present-Day Tribe": "Navajo Nation, Arizona, New Mexico & Utah"
+    },
+    {
+        "MAP #": "600",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Cochise",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Apache Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "600",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Cochise",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Fort Sill Apache Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "600",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Cochise",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Jicarilla Apache Nation, New Mexico"
+    },
+    {
+        "MAP #": "600",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Cochise",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Mescalero Apache Tribe of the Mescalero Reservation, New Mexico"
+    },
+    {
+        "MAP #": "600",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Cochise",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "San Carlos Apache Tribe of the San Carlos Reservation, Arizona"
+    },
+    {
+        "MAP #": "600",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Cochise",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Tonto Apache Tribe of Arizona"
+    },
+    {
+        "MAP #": "600",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Cochise",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "White Mountain Apache Tribe of the Fort Apache Reservation, Arizona"
+    },
+    {
+        "MAP #": "689",
+        "MAP Name": "Arizona 1, New Mexico 1",
+        "State": "AZ",
+        "County": "Cochise",
+        "Tribe Named in Treaty": "Apache (western bands)",
+        "Present-Day Tribe": "San Carlos Apache Tribe of the San Carlos Reservation, Arizona"
+    },
+    {
+        "MAP #": "689",
+        "MAP Name": "Arizona 1, New Mexico 1",
+        "State": "AZ",
+        "County": "Cochise",
+        "Tribe Named in Treaty": "Apache (western bands)",
+        "Present-Day Tribe": "Tonto Apache Tribe of Arizona"
+    },
+    {
+        "MAP #": "689",
+        "MAP Name": "Arizona 1, New Mexico 1",
+        "State": "AZ",
+        "County": "Cochise",
+        "Tribe Named in Treaty": "Apache (western bands)",
+        "Present-Day Tribe": "White Mountain Apache Tribe of the Fort Apache Reservation, Arizona"
+    },
+    {
+        "MAP #": "582",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Coconino",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Apache Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "582",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Coconino",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Fort Sill Apache Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "582",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Coconino",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Jicarilla Apache Nation, New Mexico"
+    },
+    {
+        "MAP #": "582",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Coconino",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Mescalero Apache Tribe of the Mescalero Reservation, New Mexico"
+    },
+    {
+        "MAP #": "582",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Coconino",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "San Carlos Apache Tribe of the San Carlos Reservation, Arizona"
+    },
+    {
+        "MAP #": "582",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Coconino",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Tonto Apache Tribe of Arizona"
+    },
+    {
+        "MAP #": "582",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Coconino",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "White Mountain Apache Tribe of the Fort Apache Reservation, Arizona"
+    },
+    {
+        "MAP #": "689",
+        "MAP Name": "Arizona 1, New Mexico 1",
+        "State": "AZ",
+        "County": "Coconino",
+        "Tribe Named in Treaty": "Apache (western bands)",
+        "Present-Day Tribe": "San Carlos Apache Tribe of the San Carlos Reservation, Arizona"
+    },
+    {
+        "MAP #": "689",
+        "MAP Name": "Arizona 1, New Mexico 1",
+        "State": "AZ",
+        "County": "Coconino",
+        "Tribe Named in Treaty": "Apache (western bands)",
+        "Present-Day Tribe": "Tonto Apache Tribe of Arizona"
+    },
+    {
+        "MAP #": "689",
+        "MAP Name": "Arizona 1, New Mexico 1",
+        "State": "AZ",
+        "County": "Coconino",
+        "Tribe Named in Treaty": "Apache (western bands)",
+        "Present-Day Tribe": "White Mountain Apache Tribe of the Fort Apache Reservation, Arizona"
+    },
+    {
+        "MAP #": "633",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Coconino",
+        "Tribe Named in Treaty": "Havasupai",
+        "Present-Day Tribe": "Havasupai Tribe of the Havasupai Reservation, Arizona"
+    },
+    {
+        "MAP #": "640",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Coconino",
+        "Tribe Named in Treaty": "Moki",
+        "Present-Day Tribe": "Hopi Tribe of Arizona"
+    },
+    {
+        "MAP #": "682",
+        "MAP Name": "Arizona 1",
+        "State": "AZ",
+        "County": "Coconino",
+        "Tribe Named in Treaty": "Moki",
+        "Present-Day Tribe": "Hopi Tribe of Arizona"
+    },
+    {
+        "MAP #": "519",
+        "MAP Name": "Utah 1, Arizona 1, New Mexico 1",
+        "State": "AZ",
+        "County": "Coconino",
+        "Tribe Named in Treaty": "Navaho",
+        "Present-Day Tribe": "Navajo Nation, Arizona, New Mexico & Utah"
+    },
+    {
+        "MAP #": "655",
+        "MAP Name": "Arizona 2, Utah 2",
+        "State": "AZ",
+        "County": "Coconino",
+        "Tribe Named in Treaty": "Navaho",
+        "Present-Day Tribe": "Navajo Nation, Arizona, New Mexico & Utah"
+    },
+    {
+        "MAP #": "558",
+        "MAP Name": "Utah 1, Arizona 1, Nevada, California 2",
+        "State": "AZ",
+        "County": "Coconino",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Big Pine Band of Owens Valley Paiute Shoshone Indians of the Big Pine Reservation, California"
+    },
+    {
+        "MAP #": "558",
+        "MAP Name": "Utah 1, Arizona 1, Nevada, California 2",
+        "State": "AZ",
+        "County": "Coconino",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Bridgeport Paiute Indian Colony of California"
+    },
+    {
+        "MAP #": "558",
+        "MAP Name": "Utah 1, Arizona 1, Nevada, California 2",
+        "State": "AZ",
+        "County": "Coconino",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Burns Paiute Tribe of the Burns Paiute Indian Colony of Oregon"
+    },
+    {
+        "MAP #": "558",
+        "MAP Name": "Utah 1, Arizona 1, Nevada, California 2",
+        "State": "AZ",
+        "County": "Coconino",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Fort Independence Indian Community of Paiute Indians of the Fort Independence Reservation, California"
+    },
+    {
+        "MAP #": "558",
+        "MAP Name": "Utah 1, Arizona 1, Nevada, California 2",
+        "State": "AZ",
+        "County": "Coconino",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Fort McDermitt Paiute and Shoshone Tribes of the Fort McDermitt Indian Reservation, Nevada and Oregon"
+    },
+    {
+        "MAP #": "558",
+        "MAP Name": "Utah 1, Arizona 1, Nevada, California 2",
+        "State": "AZ",
+        "County": "Coconino",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Kaibab Band of Paiute Indians of the Kaibab Indian Reservation, Arizona"
+    },
+    {
+        "MAP #": "558",
+        "MAP Name": "Utah 1, Arizona 1, Nevada, California 2",
+        "State": "AZ",
+        "County": "Coconino",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Las Vegas Tribe of Paiute Indians of the Las Vegas Indian Colony, Nevada"
+    },
+    {
+        "MAP #": "558",
+        "MAP Name": "Utah 1, Arizona 1, Nevada, California 2",
+        "State": "AZ",
+        "County": "Coconino",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Lovelock Paiute Tribe of the Lovelock Indian Colony, Nevada"
+    },
+    {
+        "MAP #": "558",
+        "MAP Name": "Utah 1, Arizona 1, Nevada, California 2",
+        "State": "AZ",
+        "County": "Coconino",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Moapa Band of Paiute Indians of the Moapa River Indian Reservation, Nevada"
+    },
+    {
+        "MAP #": "558",
+        "MAP Name": "Utah 1, Arizona 1, Nevada, California 2",
+        "State": "AZ",
+        "County": "Coconino",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Paiute Indian Tribe of Utah"
+    },
+    {
+        "MAP #": "558",
+        "MAP Name": "Utah 1, Arizona 1, Nevada, California 2",
+        "State": "AZ",
+        "County": "Coconino",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Paiute-Shoshone Indians of the Bishop Community of the Bishop Colony, California"
+    },
+    {
+        "MAP #": "558",
+        "MAP Name": "Utah 1, Arizona 1, Nevada, California 2",
+        "State": "AZ",
+        "County": "Coconino",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Paiute-Shoshone Indians of the Lone Pine Community of the Lone Pine Reservation, California"
+    },
+    {
+        "MAP #": "558",
+        "MAP Name": "Utah 1, Arizona 1, Nevada, California 2",
+        "State": "AZ",
+        "County": "Coconino",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Paiute-Shoshone Tribe of the Fallon Reservation and Colony, Nevada"
+    },
+    {
+        "MAP #": "558",
+        "MAP Name": "Utah 1, Arizona 1, Nevada, California 2",
+        "State": "AZ",
+        "County": "Coconino",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Pyramid Lake Paiute Tribe of the Pyramid Lake Reservation, Nevada"
+    },
+    {
+        "MAP #": "558",
+        "MAP Name": "Utah 1, Arizona 1, Nevada, California 2",
+        "State": "AZ",
+        "County": "Coconino",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "San Juan Southern Paiute Tribe of Arizona"
+    },
+    {
+        "MAP #": "558",
+        "MAP Name": "Utah 1, Arizona 1, Nevada, California 2",
+        "State": "AZ",
+        "County": "Coconino",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Shoshone-Paiute Tribes of the Duck Valley Reservation, Nevada"
+    },
+    {
+        "MAP #": "558",
+        "MAP Name": "Utah 1, Arizona 1, Nevada, California 2",
+        "State": "AZ",
+        "County": "Coconino",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Summit Lake Paiute Tribe of Nevada"
+    },
+    {
+        "MAP #": "558",
+        "MAP Name": "Utah 1, Arizona 1, Nevada, California 2",
+        "State": "AZ",
+        "County": "Coconino",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Utu Utu Gwaitu Paiute Tribe of the Benton Paiute Reservation, California"
+    },
+    {
+        "MAP #": "558",
+        "MAP Name": "Utah 1, Arizona 1, Nevada, California 2",
+        "State": "AZ",
+        "County": "Coconino",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Walker River Paiute Tribe of the Walker River Reservation, Nevada"
+    },
+    {
+        "MAP #": "558",
+        "MAP Name": "Utah 1, Arizona 1, Nevada, California 2",
+        "State": "AZ",
+        "County": "Coconino",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Yerington Paiute Tribe of the Yerington Colony & Campbell Ranch, Nevada"
+    },
+    {
+        "MAP #": "432",
+        "MAP Name": "Arizona 1, Utah 1, Nevada, Colorado 1",
+        "State": "AZ",
+        "County": "Coconino",
+        "Tribe Named in Treaty": "Uintah Uta",
+        "Present-Day Tribe": "Ute Indian Tribe of the Uintah & Ouray Reservation, Utah"
+    },
+    {
+        "MAP #": "641",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Coconino",
+        "Tribe Named in Treaty": "Walapai",
+        "Present-Day Tribe": "Hualapai Indian Tribe of the Hualapai Indian Reservation, Arizona"
+    },
+    {
+        "MAP #": "592",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Gila",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Apache Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "603",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Gila",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Apache Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "592",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Gila",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Fort Sill Apache Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "603",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Gila",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Fort Sill Apache Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "592",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Gila",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Jicarilla Apache Nation, New Mexico"
+    },
+    {
+        "MAP #": "603",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Gila",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Jicarilla Apache Nation, New Mexico"
+    },
+    {
+        "MAP #": "592",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Gila",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Mescalero Apache Tribe of the Mescalero Reservation, New Mexico"
+    },
+    {
+        "MAP #": "603",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Gila",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Mescalero Apache Tribe of the Mescalero Reservation, New Mexico"
+    },
+    {
+        "MAP #": "592",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Gila",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "San Carlos Apache Tribe of the San Carlos Reservation, Arizona"
+    },
+    {
+        "MAP #": "603",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Gila",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "San Carlos Apache Tribe of the San Carlos Reservation, Arizona"
+    },
+    {
+        "MAP #": "592",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Gila",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Tonto Apache Tribe of Arizona"
+    },
+    {
+        "MAP #": "603",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Gila",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Tonto Apache Tribe of Arizona"
+    },
+    {
+        "MAP #": "592",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Gila",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "White Mountain Apache Tribe of the Fort Apache Reservation, Arizona"
+    },
+    {
+        "MAP #": "603",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Gila",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "White Mountain Apache Tribe of the Fort Apache Reservation, Arizona"
+    },
+    {
+        "MAP #": "689",
+        "MAP Name": "Arizona 1, New Mexico 1",
+        "State": "AZ",
+        "County": "Gila",
+        "Tribe Named in Treaty": "Apache (western bands)",
+        "Present-Day Tribe": "San Carlos Apache Tribe of the San Carlos Reservation, Arizona"
+    },
+    {
+        "MAP #": "689",
+        "MAP Name": "Arizona 1, New Mexico 1",
+        "State": "AZ",
+        "County": "Gila",
+        "Tribe Named in Treaty": "Apache (western bands)",
+        "Present-Day Tribe": "Tonto Apache Tribe of Arizona"
+    },
+    {
+        "MAP #": "689",
+        "MAP Name": "Arizona 1, New Mexico 1",
+        "State": "AZ",
+        "County": "Gila",
+        "Tribe Named in Treaty": "Apache (western bands)",
+        "Present-Day Tribe": "White Mountain Apache Tribe of the Fort Apache Reservation, Arizona"
+    },
+    {
+        "MAP #": "720",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Gila",
+        "Tribe Named in Treaty": "Apache, White Mountain",
+        "Present-Day Tribe": "White Mountain Apache Tribe of the Fort Apache Reservation, Arizona"
+    },
+    {
+        "MAP #": "541",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Graham",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Apache Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "546",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Graham",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Apache Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "600",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Graham",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Apache Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "602",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Graham",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Apache Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "603",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Graham",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Apache Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "541",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Graham",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Fort Sill Apache Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "546",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Graham",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Fort Sill Apache Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "600",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Graham",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Fort Sill Apache Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "602",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Graham",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Fort Sill Apache Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "603",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Graham",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Fort Sill Apache Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "541",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Graham",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Jicarilla Apache Nation, New Mexico"
+    },
+    {
+        "MAP #": "546",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Graham",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Jicarilla Apache Nation, New Mexico"
+    },
+    {
+        "MAP #": "600",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Graham",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Jicarilla Apache Nation, New Mexico"
+    },
+    {
+        "MAP #": "602",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Graham",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Jicarilla Apache Nation, New Mexico"
+    },
+    {
+        "MAP #": "603",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Graham",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Jicarilla Apache Nation, New Mexico"
+    },
+    {
+        "MAP #": "541",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Graham",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Mescalero Apache Tribe of the Mescalero Reservation, New Mexico"
+    },
+    {
+        "MAP #": "546",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Graham",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Mescalero Apache Tribe of the Mescalero Reservation, New Mexico"
+    },
+    {
+        "MAP #": "600",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Graham",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Mescalero Apache Tribe of the Mescalero Reservation, New Mexico"
+    },
+    {
+        "MAP #": "602",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Graham",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Mescalero Apache Tribe of the Mescalero Reservation, New Mexico"
+    },
+    {
+        "MAP #": "603",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Graham",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Mescalero Apache Tribe of the Mescalero Reservation, New Mexico"
+    },
+    {
+        "MAP #": "541",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Graham",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "San Carlos Apache Tribe of the San Carlos Reservation, Arizona"
+    },
+    {
+        "MAP #": "546",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Graham",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "San Carlos Apache Tribe of the San Carlos Reservation, Arizona"
+    },
+    {
+        "MAP #": "600",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Graham",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "San Carlos Apache Tribe of the San Carlos Reservation, Arizona"
+    },
+    {
+        "MAP #": "602",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Graham",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "San Carlos Apache Tribe of the San Carlos Reservation, Arizona"
+    },
+    {
+        "MAP #": "603",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Graham",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "San Carlos Apache Tribe of the San Carlos Reservation, Arizona"
+    },
+    {
+        "MAP #": "541",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Graham",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Tonto Apache Tribe of Arizona"
+    },
+    {
+        "MAP #": "546",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Graham",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Tonto Apache Tribe of Arizona"
+    },
+    {
+        "MAP #": "600",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Graham",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Tonto Apache Tribe of Arizona"
+    },
+    {
+        "MAP #": "602",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Graham",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Tonto Apache Tribe of Arizona"
+    },
+    {
+        "MAP #": "603",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Graham",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Tonto Apache Tribe of Arizona"
+    },
+    {
+        "MAP #": "541",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Graham",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "White Mountain Apache Tribe of the Fort Apache Reservation, Arizona"
+    },
+    {
+        "MAP #": "546",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Graham",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "White Mountain Apache Tribe of the Fort Apache Reservation, Arizona"
+    },
+    {
+        "MAP #": "600",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Graham",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "White Mountain Apache Tribe of the Fort Apache Reservation, Arizona"
+    },
+    {
+        "MAP #": "602",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Graham",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "White Mountain Apache Tribe of the Fort Apache Reservation, Arizona"
+    },
+    {
+        "MAP #": "603",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Graham",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "White Mountain Apache Tribe of the Fort Apache Reservation, Arizona"
+    },
+    {
+        "MAP #": "689",
+        "MAP Name": "Arizona 1, New Mexico 1",
+        "State": "AZ",
+        "County": "Graham",
+        "Tribe Named in Treaty": "Apache (western bands)",
+        "Present-Day Tribe": "San Carlos Apache Tribe of the San Carlos Reservation, Arizona"
+    },
+    {
+        "MAP #": "689",
+        "MAP Name": "Arizona 1, New Mexico 1",
+        "State": "AZ",
+        "County": "Graham",
+        "Tribe Named in Treaty": "Apache (western bands)",
+        "Present-Day Tribe": "Tonto Apache Tribe of Arizona"
+    },
+    {
+        "MAP #": "689",
+        "MAP Name": "Arizona 1, New Mexico 1",
+        "State": "AZ",
+        "County": "Graham",
+        "Tribe Named in Treaty": "Apache (western bands)",
+        "Present-Day Tribe": "White Mountain Apache Tribe of the Fort Apache Reservation, Arizona"
+    },
+    {
+        "MAP #": "546",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Greenlee",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Apache Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "573",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Greenlee",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Apache Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "546",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Greenlee",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Fort Sill Apache Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "573",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Greenlee",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Fort Sill Apache Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "546",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Greenlee",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Jicarilla Apache Nation, New Mexico"
+    },
+    {
+        "MAP #": "573",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Greenlee",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Jicarilla Apache Nation, New Mexico"
+    },
+    {
+        "MAP #": "546",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Greenlee",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Mescalero Apache Tribe of the Mescalero Reservation, New Mexico"
+    },
+    {
+        "MAP #": "573",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Greenlee",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Mescalero Apache Tribe of the Mescalero Reservation, New Mexico"
+    },
+    {
+        "MAP #": "546",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Greenlee",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "San Carlos Apache Tribe of the San Carlos Reservation, Arizona"
+    },
+    {
+        "MAP #": "573",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Greenlee",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "San Carlos Apache Tribe of the San Carlos Reservation, Arizona"
+    },
+    {
+        "MAP #": "546",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Greenlee",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Tonto Apache Tribe of Arizona"
+    },
+    {
+        "MAP #": "573",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Greenlee",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Tonto Apache Tribe of Arizona"
+    },
+    {
+        "MAP #": "546",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Greenlee",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "White Mountain Apache Tribe of the Fort Apache Reservation, Arizona"
+    },
+    {
+        "MAP #": "573",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Greenlee",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "White Mountain Apache Tribe of the Fort Apache Reservation, Arizona"
+    },
+    {
+        "MAP #": "689",
+        "MAP Name": "Arizona 1, New Mexico 1",
+        "State": "AZ",
+        "County": "Greenlee",
+        "Tribe Named in Treaty": "Apache (western bands)",
+        "Present-Day Tribe": "San Carlos Apache Tribe of the San Carlos Reservation, Arizona"
+    },
+    {
+        "MAP #": "689",
+        "MAP Name": "Arizona 1, New Mexico 1",
+        "State": "AZ",
+        "County": "Greenlee",
+        "Tribe Named in Treaty": "Apache (western bands)",
+        "Present-Day Tribe": "Tonto Apache Tribe of Arizona"
+    },
+    {
+        "MAP #": "689",
+        "MAP Name": "Arizona 1, New Mexico 1",
+        "State": "AZ",
+        "County": "Greenlee",
+        "Tribe Named in Treaty": "Apache (western bands)",
+        "Present-Day Tribe": "White Mountain Apache Tribe of the Fort Apache Reservation, Arizona"
+    },
+    {
+        "MAP #": "689",
+        "MAP Name": "Arizona 1, New Mexico 1",
+        "State": "AZ",
+        "County": "La Paz",
+        "Tribe Named in Treaty": "Apache (western bands)",
+        "Present-Day Tribe": "San Carlos Apache Tribe of the San Carlos Reservation, Arizona"
+    },
+    {
+        "MAP #": "689",
+        "MAP Name": "Arizona 1, New Mexico 1",
+        "State": "AZ",
+        "County": "La Paz",
+        "Tribe Named in Treaty": "Apache (western bands)",
+        "Present-Day Tribe": "Tonto Apache Tribe of Arizona"
+    },
+    {
+        "MAP #": "689",
+        "MAP Name": "Arizona 1, New Mexico 1",
+        "State": "AZ",
+        "County": "La Paz",
+        "Tribe Named in Treaty": "Apache (western bands)",
+        "Present-Day Tribe": "White Mountain Apache Tribe of the Fort Apache Reservation, Arizona"
+    },
+    {
+        "MAP #": "593",
+        "MAP Name": "Arizona 2, California 2",
+        "State": "AZ",
+        "County": "La Paz",
+        "Tribe Named in Treaty": "Colorado River",
+        "Present-Day Tribe": "Colorado River Indian Tribes of the Colorado River Indian Reservation, Arizona and California"
+    },
+    {
+        "MAP #": "685",
+        "MAP Name": "Arizona 1",
+        "State": "AZ",
+        "County": "La Paz",
+        "Tribe Named in Treaty": "Yuma",
+        "Present-Day Tribe": "California Valley Miwok Tribe, California"
+    },
+    {
+        "MAP #": "415",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Maricopa",
+        "Tribe Named in Treaty": "Maricopa",
+        "Present-Day Tribe": "Ak Chin Indian Community of the Maricopa (Ak Chin) Indian Reservation, Arizona"
+    },
+    {
+        "MAP #": "611",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Maricopa",
+        "Tribe Named in Treaty": "Maricopa",
+        "Present-Day Tribe": "Ak Chin Indian Community of the Maricopa (Ak Chin) Indian Reservation, Arizona"
+    },
+    {
+        "MAP #": "612",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Maricopa",
+        "Tribe Named in Treaty": "Maricopa",
+        "Present-Day Tribe": "Ak Chin Indian Community of the Maricopa (Ak Chin) Indian Reservation, Arizona"
+    },
+    {
+        "MAP #": "634",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Maricopa",
+        "Tribe Named in Treaty": "Maricopa",
+        "Present-Day Tribe": "Ak Chin Indian Community of the Maricopa (Ak Chin) Indian Reservation, Arizona"
+    },
+    {
+        "MAP #": "651",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Maricopa",
+        "Tribe Named in Treaty": "Maricopa",
+        "Present-Day Tribe": "Ak Chin Indian Community of the Maricopa (Ak Chin) Indian Reservation, Arizona"
+    },
+    {
+        "MAP #": "687",
+        "MAP Name": "Arizona 1",
+        "State": "AZ",
+        "County": "Maricopa",
+        "Tribe Named in Treaty": "Maricopa",
+        "Present-Day Tribe": "Ak Chin Indian Community of the Maricopa (Ak Chin) Indian Reservation, Arizona"
+    },
+    {
+        "MAP #": "415",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Maricopa",
+        "Tribe Named in Treaty": "Maricopa",
+        "Present-Day Tribe": "Salt River Pima-Maricopa Indian Community of the Salt River Reservation, Arizona"
+    },
+    {
+        "MAP #": "611",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Maricopa",
+        "Tribe Named in Treaty": "Maricopa",
+        "Present-Day Tribe": "Salt River Pima-Maricopa Indian Community of the Salt River Reservation, Arizona"
+    },
+    {
+        "MAP #": "612",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Maricopa",
+        "Tribe Named in Treaty": "Maricopa",
+        "Present-Day Tribe": "Salt River Pima-Maricopa Indian Community of the Salt River Reservation, Arizona"
+    },
+    {
+        "MAP #": "634",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Maricopa",
+        "Tribe Named in Treaty": "Maricopa",
+        "Present-Day Tribe": "Salt River Pima-Maricopa Indian Community of the Salt River Reservation, Arizona"
+    },
+    {
+        "MAP #": "651",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Maricopa",
+        "Tribe Named in Treaty": "Maricopa",
+        "Present-Day Tribe": "Salt River Pima-Maricopa Indian Community of the Salt River Reservation, Arizona"
+    },
+    {
+        "MAP #": "687",
+        "MAP Name": "Arizona 1",
+        "State": "AZ",
+        "County": "Maricopa",
+        "Tribe Named in Treaty": "Maricopa",
+        "Present-Day Tribe": "Salt River Pima-Maricopa Indian Community of the Salt River Reservation, Arizona"
+    },
+    {
+        "MAP #": "639",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Maricopa",
+        "Tribe Named in Treaty": "Papago",
+        "Present-Day Tribe": "Tohono O'odham Nation of Arizona"
+    },
+    {
+        "MAP #": "687",
+        "MAP Name": "Arizona 1",
+        "State": "AZ",
+        "County": "Maricopa",
+        "Tribe Named in Treaty": "Papago",
+        "Present-Day Tribe": "Tohono O'odham Nation of Arizona"
+    },
+    {
+        "MAP #": "415",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Maricopa",
+        "Tribe Named in Treaty": "Pima",
+        "Present-Day Tribe": "Salt River Pima-Maricopa Indian Community of the Salt River Reservation, Arizona"
+    },
+    {
+        "MAP #": "611",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Maricopa",
+        "Tribe Named in Treaty": "Pima",
+        "Present-Day Tribe": "Salt River Pima-Maricopa Indian Community of the Salt River Reservation, Arizona"
+    },
+    {
+        "MAP #": "612",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Maricopa",
+        "Tribe Named in Treaty": "Pima",
+        "Present-Day Tribe": "Salt River Pima-Maricopa Indian Community of the Salt River Reservation, Arizona"
+    },
+    {
+        "MAP #": "634",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Maricopa",
+        "Tribe Named in Treaty": "Pima",
+        "Present-Day Tribe": "Salt River Pima-Maricopa Indian Community of the Salt River Reservation, Arizona"
+    },
+    {
+        "MAP #": "651",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Maricopa",
+        "Tribe Named in Treaty": "Pima",
+        "Present-Day Tribe": "Salt River Pima-Maricopa Indian Community of the Salt River Reservation, Arizona"
+    },
+    {
+        "MAP #": "687",
+        "MAP Name": "Arizona 1",
+        "State": "AZ",
+        "County": "Maricopa",
+        "Tribe Named in Treaty": "Pima",
+        "Present-Day Tribe": "Salt River Pima-Maricopa Indian Community of the Salt River Reservation, Arizona"
+    },
+    {
+        "MAP #": "689",
+        "MAP Name": "Arizona 1, New Mexico 1",
+        "State": "AZ",
+        "County": "Mohave",
+        "Tribe Named in Treaty": "Apache (western bands)",
+        "Present-Day Tribe": "San Carlos Apache Tribe of the San Carlos Reservation, Arizona"
+    },
+    {
+        "MAP #": "689",
+        "MAP Name": "Arizona 1, New Mexico 1",
+        "State": "AZ",
+        "County": "Mohave",
+        "Tribe Named in Treaty": "Apache (western bands)",
+        "Present-Day Tribe": "Tonto Apache Tribe of Arizona"
+    },
+    {
+        "MAP #": "689",
+        "MAP Name": "Arizona 1, New Mexico 1",
+        "State": "AZ",
+        "County": "Mohave",
+        "Tribe Named in Treaty": "Apache (western bands)",
+        "Present-Day Tribe": "White Mountain Apache Tribe of the Fort Apache Reservation, Arizona"
+    },
+    {
+        "MAP #": "684",
+        "MAP Name": "Arizona 1",
+        "State": "AZ",
+        "County": "Mohave",
+        "Tribe Named in Treaty": "Mohave",
+        "Present-Day Tribe": "Colorado River Indian Tribes of the Colorado River Indian Reservation, Arizona and California"
+    },
+    {
+        "MAP #": "558",
+        "MAP Name": "Utah 1, Arizona 1, Nevada, California 2",
+        "State": "AZ",
+        "County": "Mohave",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Big Pine Band of Owens Valley Paiute Shoshone Indians of the Big Pine Reservation, California"
+    },
+    {
+        "MAP #": "576",
+        "MAP Name": "Nevada, Arizona 1",
+        "State": "AZ",
+        "County": "Mohave",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Big Pine Band of Owens Valley Paiute Shoshone Indians of the Big Pine Reservation, California"
+    },
+    {
+        "MAP #": "558",
+        "MAP Name": "Utah 1, Arizona 1, Nevada, California 2",
+        "State": "AZ",
+        "County": "Mohave",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Bridgeport Paiute Indian Colony of California"
+    },
+    {
+        "MAP #": "576",
+        "MAP Name": "Nevada, Arizona 1",
+        "State": "AZ",
+        "County": "Mohave",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Bridgeport Paiute Indian Colony of California"
+    },
+    {
+        "MAP #": "558",
+        "MAP Name": "Utah 1, Arizona 1, Nevada, California 2",
+        "State": "AZ",
+        "County": "Mohave",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Burns Paiute Tribe of the Burns Paiute Indian Colony of Oregon"
+    },
+    {
+        "MAP #": "576",
+        "MAP Name": "Nevada, Arizona 1",
+        "State": "AZ",
+        "County": "Mohave",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Burns Paiute Tribe of the Burns Paiute Indian Colony of Oregon"
+    },
+    {
+        "MAP #": "558",
+        "MAP Name": "Utah 1, Arizona 1, Nevada, California 2",
+        "State": "AZ",
+        "County": "Mohave",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Fort Independence Indian Community of Paiute Indians of the Fort Independence Reservation, California"
+    },
+    {
+        "MAP #": "576",
+        "MAP Name": "Nevada, Arizona 1",
+        "State": "AZ",
+        "County": "Mohave",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Fort Independence Indian Community of Paiute Indians of the Fort Independence Reservation, California"
+    },
+    {
+        "MAP #": "558",
+        "MAP Name": "Utah 1, Arizona 1, Nevada, California 2",
+        "State": "AZ",
+        "County": "Mohave",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Fort McDermitt Paiute and Shoshone Tribes of the Fort McDermitt Indian Reservation, Nevada and Oregon"
+    },
+    {
+        "MAP #": "576",
+        "MAP Name": "Nevada, Arizona 1",
+        "State": "AZ",
+        "County": "Mohave",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Fort McDermitt Paiute and Shoshone Tribes of the Fort McDermitt Indian Reservation, Nevada and Oregon"
+    },
+    {
+        "MAP #": "558",
+        "MAP Name": "Utah 1, Arizona 1, Nevada, California 2",
+        "State": "AZ",
+        "County": "Mohave",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Kaibab Band of Paiute Indians of the Kaibab Indian Reservation, Arizona"
+    },
+    {
+        "MAP #": "576",
+        "MAP Name": "Nevada, Arizona 1",
+        "State": "AZ",
+        "County": "Mohave",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Kaibab Band of Paiute Indians of the Kaibab Indian Reservation, Arizona"
+    },
+    {
+        "MAP #": "558",
+        "MAP Name": "Utah 1, Arizona 1, Nevada, California 2",
+        "State": "AZ",
+        "County": "Mohave",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Las Vegas Tribe of Paiute Indians of the Las Vegas Indian Colony, Nevada"
+    },
+    {
+        "MAP #": "576",
+        "MAP Name": "Nevada, Arizona 1",
+        "State": "AZ",
+        "County": "Mohave",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Las Vegas Tribe of Paiute Indians of the Las Vegas Indian Colony, Nevada"
+    },
+    {
+        "MAP #": "558",
+        "MAP Name": "Utah 1, Arizona 1, Nevada, California 2",
+        "State": "AZ",
+        "County": "Mohave",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Lovelock Paiute Tribe of the Lovelock Indian Colony, Nevada"
+    },
+    {
+        "MAP #": "576",
+        "MAP Name": "Nevada, Arizona 1",
+        "State": "AZ",
+        "County": "Mohave",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Lovelock Paiute Tribe of the Lovelock Indian Colony, Nevada"
+    },
+    {
+        "MAP #": "558",
+        "MAP Name": "Utah 1, Arizona 1, Nevada, California 2",
+        "State": "AZ",
+        "County": "Mohave",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Moapa Band of Paiute Indians of the Moapa River Indian Reservation, Nevada"
+    },
+    {
+        "MAP #": "576",
+        "MAP Name": "Nevada, Arizona 1",
+        "State": "AZ",
+        "County": "Mohave",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Moapa Band of Paiute Indians of the Moapa River Indian Reservation, Nevada"
+    },
+    {
+        "MAP #": "558",
+        "MAP Name": "Utah 1, Arizona 1, Nevada, California 2",
+        "State": "AZ",
+        "County": "Mohave",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Paiute Indian Tribe of Utah"
+    },
+    {
+        "MAP #": "576",
+        "MAP Name": "Nevada, Arizona 1",
+        "State": "AZ",
+        "County": "Mohave",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Paiute Indian Tribe of Utah"
+    },
+    {
+        "MAP #": "558",
+        "MAP Name": "Utah 1, Arizona 1, Nevada, California 2",
+        "State": "AZ",
+        "County": "Mohave",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Paiute-Shoshone Indians of the Bishop Community of the Bishop Colony, California"
+    },
+    {
+        "MAP #": "576",
+        "MAP Name": "Nevada, Arizona 1",
+        "State": "AZ",
+        "County": "Mohave",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Paiute-Shoshone Indians of the Bishop Community of the Bishop Colony, California"
+    },
+    {
+        "MAP #": "558",
+        "MAP Name": "Utah 1, Arizona 1, Nevada, California 2",
+        "State": "AZ",
+        "County": "Mohave",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Paiute-Shoshone Indians of the Lone Pine Community of the Lone Pine Reservation, California"
+    },
+    {
+        "MAP #": "576",
+        "MAP Name": "Nevada, Arizona 1",
+        "State": "AZ",
+        "County": "Mohave",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Paiute-Shoshone Indians of the Lone Pine Community of the Lone Pine Reservation, California"
+    },
+    {
+        "MAP #": "558",
+        "MAP Name": "Utah 1, Arizona 1, Nevada, California 2",
+        "State": "AZ",
+        "County": "Mohave",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Paiute-Shoshone Tribe of the Fallon Reservation and Colony, Nevada"
+    },
+    {
+        "MAP #": "576",
+        "MAP Name": "Nevada, Arizona 1",
+        "State": "AZ",
+        "County": "Mohave",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Paiute-Shoshone Tribe of the Fallon Reservation and Colony, Nevada"
+    },
+    {
+        "MAP #": "558",
+        "MAP Name": "Utah 1, Arizona 1, Nevada, California 2",
+        "State": "AZ",
+        "County": "Mohave",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Pyramid Lake Paiute Tribe of the Pyramid Lake Reservation, Nevada"
+    },
+    {
+        "MAP #": "576",
+        "MAP Name": "Nevada, Arizona 1",
+        "State": "AZ",
+        "County": "Mohave",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Pyramid Lake Paiute Tribe of the Pyramid Lake Reservation, Nevada"
+    },
+    {
+        "MAP #": "558",
+        "MAP Name": "Utah 1, Arizona 1, Nevada, California 2",
+        "State": "AZ",
+        "County": "Mohave",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "San Juan Southern Paiute Tribe of Arizona"
+    },
+    {
+        "MAP #": "576",
+        "MAP Name": "Nevada, Arizona 1",
+        "State": "AZ",
+        "County": "Mohave",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "San Juan Southern Paiute Tribe of Arizona"
+    },
+    {
+        "MAP #": "558",
+        "MAP Name": "Utah 1, Arizona 1, Nevada, California 2",
+        "State": "AZ",
+        "County": "Mohave",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Shoshone-Paiute Tribes of the Duck Valley Reservation, Nevada"
+    },
+    {
+        "MAP #": "576",
+        "MAP Name": "Nevada, Arizona 1",
+        "State": "AZ",
+        "County": "Mohave",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Shoshone-Paiute Tribes of the Duck Valley Reservation, Nevada"
+    },
+    {
+        "MAP #": "558",
+        "MAP Name": "Utah 1, Arizona 1, Nevada, California 2",
+        "State": "AZ",
+        "County": "Mohave",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Summit Lake Paiute Tribe of Nevada"
+    },
+    {
+        "MAP #": "576",
+        "MAP Name": "Nevada, Arizona 1",
+        "State": "AZ",
+        "County": "Mohave",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Summit Lake Paiute Tribe of Nevada"
+    },
+    {
+        "MAP #": "558",
+        "MAP Name": "Utah 1, Arizona 1, Nevada, California 2",
+        "State": "AZ",
+        "County": "Mohave",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Utu Utu Gwaitu Paiute Tribe of the Benton Paiute Reservation, California"
+    },
+    {
+        "MAP #": "576",
+        "MAP Name": "Nevada, Arizona 1",
+        "State": "AZ",
+        "County": "Mohave",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Utu Utu Gwaitu Paiute Tribe of the Benton Paiute Reservation, California"
+    },
+    {
+        "MAP #": "558",
+        "MAP Name": "Utah 1, Arizona 1, Nevada, California 2",
+        "State": "AZ",
+        "County": "Mohave",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Walker River Paiute Tribe of the Walker River Reservation, Nevada"
+    },
+    {
+        "MAP #": "576",
+        "MAP Name": "Nevada, Arizona 1",
+        "State": "AZ",
+        "County": "Mohave",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Walker River Paiute Tribe of the Walker River Reservation, Nevada"
+    },
+    {
+        "MAP #": "558",
+        "MAP Name": "Utah 1, Arizona 1, Nevada, California 2",
+        "State": "AZ",
+        "County": "Mohave",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Yerington Paiute Tribe of the Yerington Colony & Campbell Ranch, Nevada"
+    },
+    {
+        "MAP #": "576",
+        "MAP Name": "Nevada, Arizona 1",
+        "State": "AZ",
+        "County": "Mohave",
+        "Tribe Named in Treaty": "Paiute",
+        "Present-Day Tribe": "Yerington Paiute Tribe of the Yerington Colony & Campbell Ranch, Nevada"
+    },
+    {
+        "MAP #": "641",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Mohave",
+        "Tribe Named in Treaty": "Walapai",
+        "Present-Day Tribe": "Hualapai Indian Tribe of the Hualapai Indian Reservation, Arizona"
+    },
+    {
+        "MAP #": "683",
+        "MAP Name": "Arizona 1",
+        "State": "AZ",
+        "County": "Mohave",
+        "Tribe Named in Treaty": "Walapai",
+        "Present-Day Tribe": "Hualapai Indian Tribe of the Hualapai Indian Reservation, Arizona"
+    },
+    {
+        "MAP #": "601",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Navajo",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Apache Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "603",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Navajo",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Apache Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "601",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Navajo",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Fort Sill Apache Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "603",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Navajo",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Fort Sill Apache Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "601",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Navajo",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Jicarilla Apache Nation, New Mexico"
+    },
+    {
+        "MAP #": "603",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Navajo",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Jicarilla Apache Nation, New Mexico"
+    },
+    {
+        "MAP #": "601",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Navajo",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Mescalero Apache Tribe of the Mescalero Reservation, New Mexico"
+    },
+    {
+        "MAP #": "603",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Navajo",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Mescalero Apache Tribe of the Mescalero Reservation, New Mexico"
+    },
+    {
+        "MAP #": "601",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Navajo",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "San Carlos Apache Tribe of the San Carlos Reservation, Arizona"
+    },
+    {
+        "MAP #": "603",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Navajo",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "San Carlos Apache Tribe of the San Carlos Reservation, Arizona"
+    },
+    {
+        "MAP #": "601",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Navajo",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Tonto Apache Tribe of Arizona"
+    },
+    {
+        "MAP #": "603",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Navajo",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Tonto Apache Tribe of Arizona"
+    },
+    {
+        "MAP #": "601",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Navajo",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "White Mountain Apache Tribe of the Fort Apache Reservation, Arizona"
+    },
+    {
+        "MAP #": "603",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Navajo",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "White Mountain Apache Tribe of the Fort Apache Reservation, Arizona"
+    },
+    {
+        "MAP #": "689",
+        "MAP Name": "Arizona 1, New Mexico 1",
+        "State": "AZ",
+        "County": "Navajo",
+        "Tribe Named in Treaty": "Apache (western bands)",
+        "Present-Day Tribe": "San Carlos Apache Tribe of the San Carlos Reservation, Arizona"
+    },
+    {
+        "MAP #": "689",
+        "MAP Name": "Arizona 1, New Mexico 1",
+        "State": "AZ",
+        "County": "Navajo",
+        "Tribe Named in Treaty": "Apache (western bands)",
+        "Present-Day Tribe": "Tonto Apache Tribe of Arizona"
+    },
+    {
+        "MAP #": "689",
+        "MAP Name": "Arizona 1, New Mexico 1",
+        "State": "AZ",
+        "County": "Navajo",
+        "Tribe Named in Treaty": "Apache (western bands)",
+        "Present-Day Tribe": "White Mountain Apache Tribe of the Fort Apache Reservation, Arizona"
+    },
+    {
+        "MAP #": "640",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Navajo",
+        "Tribe Named in Treaty": "Moki",
+        "Present-Day Tribe": "Hopi Tribe of Arizona"
+    },
+    {
+        "MAP #": "682",
+        "MAP Name": "Arizona 1",
+        "State": "AZ",
+        "County": "Navajo",
+        "Tribe Named in Treaty": "Moki",
+        "Present-Day Tribe": "Hopi Tribe of Arizona"
+    },
+    {
+        "MAP #": "519",
+        "MAP Name": "Utah 1, Arizona 1, New Mexico 1",
+        "State": "AZ",
+        "County": "Navajo",
+        "Tribe Named in Treaty": "Navaho",
+        "Present-Day Tribe": "Navajo Nation, Arizona, New Mexico & Utah"
+    },
+    {
+        "MAP #": "655",
+        "MAP Name": "Arizona 2, Utah 2",
+        "State": "AZ",
+        "County": "Navajo",
+        "Tribe Named in Treaty": "Navaho",
+        "Present-Day Tribe": "Navajo Nation, Arizona, New Mexico & Utah"
+    },
+    {
+        "MAP #": "689",
+        "MAP Name": "Arizona 1, New Mexico 1",
+        "State": "AZ",
+        "County": "Pima",
+        "Tribe Named in Treaty": "Apache (western bands)",
+        "Present-Day Tribe": "San Carlos Apache Tribe of the San Carlos Reservation, Arizona"
+    },
+    {
+        "MAP #": "689",
+        "MAP Name": "Arizona 1, New Mexico 1",
+        "State": "AZ",
+        "County": "Pima",
+        "Tribe Named in Treaty": "Apache (western bands)",
+        "Present-Day Tribe": "Tonto Apache Tribe of Arizona"
+    },
+    {
+        "MAP #": "689",
+        "MAP Name": "Arizona 1, New Mexico 1",
+        "State": "AZ",
+        "County": "Pima",
+        "Tribe Named in Treaty": "Apache (western bands)",
+        "Present-Day Tribe": "White Mountain Apache Tribe of the Fort Apache Reservation, Arizona"
+    },
+    {
+        "MAP #": "687",
+        "MAP Name": "Arizona 1",
+        "State": "AZ",
+        "County": "Pima",
+        "Tribe Named in Treaty": "Maricopa",
+        "Present-Day Tribe": "Ak Chin Indian Community of the Maricopa (Ak Chin) Indian Reservation, Arizona"
+    },
+    {
+        "MAP #": "687",
+        "MAP Name": "Arizona 1",
+        "State": "AZ",
+        "County": "Pima",
+        "Tribe Named in Treaty": "Maricopa",
+        "Present-Day Tribe": "Salt River Pima-Maricopa Indian Community of the Salt River Reservation, Arizona"
+    },
+    {
+        "MAP #": "572",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Pima",
+        "Tribe Named in Treaty": "Papago",
+        "Present-Day Tribe": "Tohono O'odham Nation of Arizona"
+    },
+    {
+        "MAP #": "687",
+        "MAP Name": "Arizona 1",
+        "State": "AZ",
+        "County": "Pima",
+        "Tribe Named in Treaty": "Papago",
+        "Present-Day Tribe": "Tohono O'odham Nation of Arizona"
+    },
+    {
+        "MAP #": "687",
+        "MAP Name": "Arizona 1",
+        "State": "AZ",
+        "County": "Pima",
+        "Tribe Named in Treaty": "Pima",
+        "Present-Day Tribe": "Salt River Pima-Maricopa Indian Community of the Salt River Reservation, Arizona"
+    },
+    {
+        "MAP #": "541",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Pinal",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Apache Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "592",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Pinal",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Apache Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "602",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Pinal",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Apache Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "603",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Pinal",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Apache Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "541",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Pinal",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Fort Sill Apache Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "592",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Pinal",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Fort Sill Apache Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "602",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Pinal",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Fort Sill Apache Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "603",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Pinal",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Fort Sill Apache Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "541",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Pinal",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Jicarilla Apache Nation, New Mexico"
+    },
+    {
+        "MAP #": "592",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Pinal",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Jicarilla Apache Nation, New Mexico"
+    },
+    {
+        "MAP #": "602",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Pinal",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Jicarilla Apache Nation, New Mexico"
+    },
+    {
+        "MAP #": "603",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Pinal",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Jicarilla Apache Nation, New Mexico"
+    },
+    {
+        "MAP #": "541",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Pinal",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Mescalero Apache Tribe of the Mescalero Reservation, New Mexico"
+    },
+    {
+        "MAP #": "592",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Pinal",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Mescalero Apache Tribe of the Mescalero Reservation, New Mexico"
+    },
+    {
+        "MAP #": "602",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Pinal",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Mescalero Apache Tribe of the Mescalero Reservation, New Mexico"
+    },
+    {
+        "MAP #": "603",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Pinal",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Mescalero Apache Tribe of the Mescalero Reservation, New Mexico"
+    },
+    {
+        "MAP #": "541",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Pinal",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "San Carlos Apache Tribe of the San Carlos Reservation, Arizona"
+    },
+    {
+        "MAP #": "592",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Pinal",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "San Carlos Apache Tribe of the San Carlos Reservation, Arizona"
+    },
+    {
+        "MAP #": "602",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Pinal",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "San Carlos Apache Tribe of the San Carlos Reservation, Arizona"
+    },
+    {
+        "MAP #": "603",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Pinal",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "San Carlos Apache Tribe of the San Carlos Reservation, Arizona"
+    },
+    {
+        "MAP #": "541",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Pinal",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Tonto Apache Tribe of Arizona"
+    },
+    {
+        "MAP #": "592",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Pinal",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Tonto Apache Tribe of Arizona"
+    },
+    {
+        "MAP #": "602",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Pinal",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Tonto Apache Tribe of Arizona"
+    },
+    {
+        "MAP #": "603",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Pinal",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Tonto Apache Tribe of Arizona"
+    },
+    {
+        "MAP #": "541",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Pinal",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "White Mountain Apache Tribe of the Fort Apache Reservation, Arizona"
+    },
+    {
+        "MAP #": "592",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Pinal",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "White Mountain Apache Tribe of the Fort Apache Reservation, Arizona"
+    },
+    {
+        "MAP #": "602",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Pinal",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "White Mountain Apache Tribe of the Fort Apache Reservation, Arizona"
+    },
+    {
+        "MAP #": "603",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Pinal",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "White Mountain Apache Tribe of the Fort Apache Reservation, Arizona"
+    },
+    {
+        "MAP #": "689",
+        "MAP Name": "Arizona 1, New Mexico 1",
+        "State": "AZ",
+        "County": "Pinal",
+        "Tribe Named in Treaty": "Apache (western bands)",
+        "Present-Day Tribe": "San Carlos Apache Tribe of the San Carlos Reservation, Arizona"
+    },
+    {
+        "MAP #": "689",
+        "MAP Name": "Arizona 1, New Mexico 1",
+        "State": "AZ",
+        "County": "Pinal",
+        "Tribe Named in Treaty": "Apache (western bands)",
+        "Present-Day Tribe": "Tonto Apache Tribe of Arizona"
+    },
+    {
+        "MAP #": "689",
+        "MAP Name": "Arizona 1, New Mexico 1",
+        "State": "AZ",
+        "County": "Pinal",
+        "Tribe Named in Treaty": "Apache (western bands)",
+        "Present-Day Tribe": "White Mountain Apache Tribe of the Fort Apache Reservation, Arizona"
+    },
+    {
+        "MAP #": "415",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Pinal",
+        "Tribe Named in Treaty": "Maricopa",
+        "Present-Day Tribe": "Ak Chin Indian Community of the Maricopa (Ak Chin) Indian Reservation, Arizona"
+    },
+    {
+        "MAP #": "596",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Pinal",
+        "Tribe Named in Treaty": "Maricopa",
+        "Present-Day Tribe": "Ak Chin Indian Community of the Maricopa (Ak Chin) Indian Reservation, Arizona"
+    },
+    {
+        "MAP #": "634",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Pinal",
+        "Tribe Named in Treaty": "Maricopa",
+        "Present-Day Tribe": "Ak Chin Indian Community of the Maricopa (Ak Chin) Indian Reservation, Arizona"
+    },
+    {
+        "MAP #": "651",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Pinal",
+        "Tribe Named in Treaty": "Maricopa",
+        "Present-Day Tribe": "Ak Chin Indian Community of the Maricopa (Ak Chin) Indian Reservation, Arizona"
+    },
+    {
+        "MAP #": "687",
+        "MAP Name": "Arizona 1",
+        "State": "AZ",
+        "County": "Pinal",
+        "Tribe Named in Treaty": "Maricopa",
+        "Present-Day Tribe": "Ak Chin Indian Community of the Maricopa (Ak Chin) Indian Reservation, Arizona"
+    },
+    {
+        "MAP #": "415",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Pinal",
+        "Tribe Named in Treaty": "Maricopa",
+        "Present-Day Tribe": "Salt River Pima-Maricopa Indian Community of the Salt River Reservation, Arizona"
+    },
+    {
+        "MAP #": "596",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Pinal",
+        "Tribe Named in Treaty": "Maricopa",
+        "Present-Day Tribe": "Salt River Pima-Maricopa Indian Community of the Salt River Reservation, Arizona"
+    },
+    {
+        "MAP #": "634",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Pinal",
+        "Tribe Named in Treaty": "Maricopa",
+        "Present-Day Tribe": "Salt River Pima-Maricopa Indian Community of the Salt River Reservation, Arizona"
+    },
+    {
+        "MAP #": "651",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Pinal",
+        "Tribe Named in Treaty": "Maricopa",
+        "Present-Day Tribe": "Salt River Pima-Maricopa Indian Community of the Salt River Reservation, Arizona"
+    },
+    {
+        "MAP #": "687",
+        "MAP Name": "Arizona 1",
+        "State": "AZ",
+        "County": "Pinal",
+        "Tribe Named in Treaty": "Maricopa",
+        "Present-Day Tribe": "Salt River Pima-Maricopa Indian Community of the Salt River Reservation, Arizona"
+    },
+    {
+        "MAP #": "687",
+        "MAP Name": "Arizona 1",
+        "State": "AZ",
+        "County": "Pinal",
+        "Tribe Named in Treaty": "Papago",
+        "Present-Day Tribe": "Tohono O'odham Nation of Arizona"
+    },
+    {
+        "MAP #": "415",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Pinal",
+        "Tribe Named in Treaty": "Pima",
+        "Present-Day Tribe": "Salt River Pima-Maricopa Indian Community of the Salt River Reservation, Arizona"
+    },
+    {
+        "MAP #": "596",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Pinal",
+        "Tribe Named in Treaty": "Pima",
+        "Present-Day Tribe": "Salt River Pima-Maricopa Indian Community of the Salt River Reservation, Arizona"
+    },
+    {
+        "MAP #": "634",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Pinal",
+        "Tribe Named in Treaty": "Pima",
+        "Present-Day Tribe": "Salt River Pima-Maricopa Indian Community of the Salt River Reservation, Arizona"
+    },
+    {
+        "MAP #": "651",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Pinal",
+        "Tribe Named in Treaty": "Pima",
+        "Present-Day Tribe": "Salt River Pima-Maricopa Indian Community of the Salt River Reservation, Arizona"
+    },
+    {
+        "MAP #": "687",
+        "MAP Name": "Arizona 1",
+        "State": "AZ",
+        "County": "Pinal",
+        "Tribe Named in Treaty": "Pima",
+        "Present-Day Tribe": "Salt River Pima-Maricopa Indian Community of the Salt River Reservation, Arizona"
+    },
+    {
+        "MAP #": "689",
+        "MAP Name": "Arizona 1, New Mexico 1",
+        "State": "AZ",
+        "County": "Santa Cruz",
+        "Tribe Named in Treaty": "Apache (western bands)",
+        "Present-Day Tribe": "San Carlos Apache Tribe of the San Carlos Reservation, Arizona"
+    },
+    {
+        "MAP #": "689",
+        "MAP Name": "Arizona 1, New Mexico 1",
+        "State": "AZ",
+        "County": "Santa Cruz",
+        "Tribe Named in Treaty": "Apache (western bands)",
+        "Present-Day Tribe": "Tonto Apache Tribe of Arizona"
+    },
+    {
+        "MAP #": "689",
+        "MAP Name": "Arizona 1, New Mexico 1",
+        "State": "AZ",
+        "County": "Santa Cruz",
+        "Tribe Named in Treaty": "Apache (western bands)",
+        "Present-Day Tribe": "White Mountain Apache Tribe of the Fort Apache Reservation, Arizona"
+    },
+    {
+        "MAP #": "687",
+        "MAP Name": "Arizona 1",
+        "State": "AZ",
+        "County": "Santa Cruz",
+        "Tribe Named in Treaty": "Maricopa",
+        "Present-Day Tribe": "Ak Chin Indian Community of the Maricopa (Ak Chin) Indian Reservation, Arizona"
+    },
+    {
+        "MAP #": "687",
+        "MAP Name": "Arizona 1",
+        "State": "AZ",
+        "County": "Santa Cruz",
+        "Tribe Named in Treaty": "Maricopa",
+        "Present-Day Tribe": "Salt River Pima-Maricopa Indian Community of the Salt River Reservation, Arizona"
+    },
+    {
+        "MAP #": "687",
+        "MAP Name": "Arizona 1",
+        "State": "AZ",
+        "County": "Santa Cruz",
+        "Tribe Named in Treaty": "Papago",
+        "Present-Day Tribe": "Tohono O'odham Nation of Arizona"
+    },
+    {
+        "MAP #": "687",
+        "MAP Name": "Arizona 1",
+        "State": "AZ",
+        "County": "Santa Cruz",
+        "Tribe Named in Treaty": "Pima",
+        "Present-Day Tribe": "Salt River Pima-Maricopa Indian Community of the Salt River Reservation, Arizona"
+    },
+    {
+        "MAP #": "582",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Yavapai",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Apache Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "582",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Yavapai",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Fort Sill Apache Tribe of Oklahoma"
+    },
+    {
+        "MAP #": "582",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Yavapai",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Jicarilla Apache Nation, New Mexico"
+    },
+    {
+        "MAP #": "582",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Yavapai",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Mescalero Apache Tribe of the Mescalero Reservation, New Mexico"
+    },
+    {
+        "MAP #": "582",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Yavapai",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "San Carlos Apache Tribe of the San Carlos Reservation, Arizona"
+    },
+    {
+        "MAP #": "582",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Yavapai",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "Tonto Apache Tribe of Arizona"
+    },
+    {
+        "MAP #": "582",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Yavapai",
+        "Tribe Named in Treaty": "Apache",
+        "Present-Day Tribe": "White Mountain Apache Tribe of the Fort Apache Reservation, Arizona"
+    },
+    {
+        "MAP #": "689",
+        "MAP Name": "Arizona 1, New Mexico 1",
+        "State": "AZ",
+        "County": "Yavapai",
+        "Tribe Named in Treaty": "Apache (western bands)",
+        "Present-Day Tribe": "San Carlos Apache Tribe of the San Carlos Reservation, Arizona"
+    },
+    {
+        "MAP #": "689",
+        "MAP Name": "Arizona 1, New Mexico 1",
+        "State": "AZ",
+        "County": "Yavapai",
+        "Tribe Named in Treaty": "Apache (western bands)",
+        "Present-Day Tribe": "Tonto Apache Tribe of Arizona"
+    },
+    {
+        "MAP #": "689",
+        "MAP Name": "Arizona 1, New Mexico 1",
+        "State": "AZ",
+        "County": "Yavapai",
+        "Tribe Named in Treaty": "Apache (western bands)",
+        "Present-Day Tribe": "White Mountain Apache Tribe of the Fort Apache Reservation, Arizona"
+    },
+    {
+        "MAP #": "683",
+        "MAP Name": "Arizona 1",
+        "State": "AZ",
+        "County": "Yavapai",
+        "Tribe Named in Treaty": "Walapai",
+        "Present-Day Tribe": "Hualapai Indian Tribe of the Hualapai Indian Reservation, Arizona"
+    },
+    {
+        "MAP #": "689",
+        "MAP Name": "Arizona 1, New Mexico 1",
+        "State": "AZ",
+        "County": "Yuma",
+        "Tribe Named in Treaty": "Apache (western bands)",
+        "Present-Day Tribe": "San Carlos Apache Tribe of the San Carlos Reservation, Arizona"
+    },
+    {
+        "MAP #": "689",
+        "MAP Name": "Arizona 1, New Mexico 1",
+        "State": "AZ",
+        "County": "Yuma",
+        "Tribe Named in Treaty": "Apache (western bands)",
+        "Present-Day Tribe": "Tonto Apache Tribe of Arizona"
+    },
+    {
+        "MAP #": "689",
+        "MAP Name": "Arizona 1, New Mexico 1",
+        "State": "AZ",
+        "County": "Yuma",
+        "Tribe Named in Treaty": "Apache (western bands)",
+        "Present-Day Tribe": "White Mountain Apache Tribe of the Fort Apache Reservation, Arizona"
+    },
+    {
+        "MAP #": "686",
+        "MAP Name": "Arizona 1",
+        "State": "AZ",
+        "County": "Yuma",
+        "Tribe Named in Treaty": "Cocopa",
+        "Present-Day Tribe": "Cocopah Tribe of Arizona"
+    },
+    {
+        "MAP #": "687",
+        "MAP Name": "Arizona 1",
+        "State": "AZ",
+        "County": "Yuma",
+        "Tribe Named in Treaty": "Maricopa",
+        "Present-Day Tribe": "Ak Chin Indian Community of the Maricopa (Ak Chin) Indian Reservation, Arizona"
+    },
+    {
+        "MAP #": "687",
+        "MAP Name": "Arizona 1",
+        "State": "AZ",
+        "County": "Yuma",
+        "Tribe Named in Treaty": "Maricopa",
+        "Present-Day Tribe": "Salt River Pima-Maricopa Indian Community of the Salt River Reservation, Arizona"
+    },
+    {
+        "MAP #": "687",
+        "MAP Name": "Arizona 1",
+        "State": "AZ",
+        "County": "Yuma",
+        "Tribe Named in Treaty": "Papago",
+        "Present-Day Tribe": "Tohono O'odham Nation of Arizona"
+    },
+    {
+        "MAP #": "687",
+        "MAP Name": "Arizona 1",
+        "State": "AZ",
+        "County": "Yuma",
+        "Tribe Named in Treaty": "Pima",
+        "Present-Day Tribe": "Salt River Pima-Maricopa Indian Community of the Salt River Reservation, Arizona"
+    },
+    {
+        "MAP #": "648",
+        "MAP Name": "Arizona 2",
+        "State": "AZ",
+        "County": "Yuma",
+        "Tribe Named in Treaty": "Yuma",
+        "Present-Day Tribe": "California Valley Miwok Tribe, California"
+    },
+    {
+        "MAP #": "685",
+        "MAP Name": "Arizona 1",
+        "State": "AZ",
+        "County": "Yuma",
+        "Tribe Named in Treaty": "Yuma",
+        "Present-Day Tribe": "California Valley Miwok Tribe, California"
+    }
+]
