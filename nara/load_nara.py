@@ -36,9 +36,8 @@ def survey(nara_file=None):
     :return:
     """
     if not nara_file:
-        nara_file =  os.path.abspath(os.path.join(
-                os.path.dirname(__file__), "nara-export-86625.json"
-            )
+        nara_file = os.path.abspath(
+            os.path.join(os.path.dirname(__file__), "nara-export-latest.json")
         )
     with open(nara_file, "r") as f:
         nara_json = json.load(f)
@@ -80,19 +79,19 @@ def survey(nara_file=None):
             elif type(v) == dict:
                 dicts[k] = summarise(v)
         if record.get("objects"):
-            digitised.append({"documentIndex": record.get("documentIndex"),
-                              "title": record.get("title"),
-                              "url": record.get("url"),
-                              "date": record.get("productionDates")})
+            digitised.append(
+                {
+                    "documentIndex": record.get("documentIndex"),
+                    "title": record.get("title"),
+                    "url": record.get("url"),
+                    "date": record.get("productionDates"),
+                }
+            )
     summary = {"strings": strings, "lists": lists, "dicts": dicts}
-    nara_summary = os.path.abspath(os.path.join(
-                os.path.dirname(__file__), "nara-summary.json"
-            )
-        )
-    nara_digitised = os.path.abspath(os.path.join(
-                os.path.dirname(__file__), "nara-digitised.json"
-            )
-        )
+    nara_summary = os.path.abspath(os.path.join(os.path.dirname(__file__), "nara-summary.json"))
+    nara_digitised = os.path.abspath(
+        os.path.join(os.path.dirname(__file__), "nara-digitised.json")
+    )
     with open(nara_summary, "w") as f:
         json.dump(summary, f, indent=4, sort_keys=True)
     with open(nara_digitised, "w") as d:
@@ -109,9 +108,8 @@ def run(nara_file=None):
     """
     nlp = en_core_web_sm.load()
     if not nara_file:
-        nara_file =  os.path.abspath(os.path.join(
-                os.path.dirname(__file__), "nara-export-86625.json"
-            )
+        nara_file = os.path.abspath(
+            os.path.join(os.path.dirname(__file__), "nara-export-latest.json")
         )
     with open(nara_file, "r") as f:
         nara_json = json.load(f)
@@ -122,7 +120,7 @@ def run(nara_file=None):
             na_id=record.get("naId"),
             restrictions=record.get("useRestrictions")[0],
             arc_identifier=record.get("arcIdentifier"),
-            date_note = record.get("dateNote")
+            date_note=record.get("dateNote"),
         )
         level = record.get("levelOfDescription")
         if record.get("otherTitles"):
@@ -147,7 +145,7 @@ def run(nara_file=None):
                 if len(d[0]) == 4:
                     # if it's a year, make the range the whole year
                     start_date = datetime.datetime(int(d[0]), 1, 1)
-                    end_date = datetime.datetime(int(d[0])+1, 1, 1)
+                    end_date = datetime.datetime(int(d[0]) + 1, 1, 1)
                 else:
                     # just make the start and end of the range the same date
                     start_date = dateparser.parse(d[0])
@@ -163,9 +161,8 @@ def run(nara_file=None):
 
 def run_iiif(nara_file):
     if not nara_file:
-        nara_file = os.path.abspath(os.path.join(
-            os.path.dirname(__file__), "nara-export-86625.json"
-        )
+        nara_file = os.path.abspath(
+            os.path.join(os.path.dirname(__file__), "nara-export-latest.json")
         )
     with open(nara_file, "r") as f:
         nara_json = json.load(f)
@@ -175,11 +172,18 @@ def run_iiif(nara_file):
         if record.get("objects"):
             objects = record.get("objects")
             item_objects = objects["object"]
-            r["jpegs"] = [x["file"]["@url"] for x in item_objects if ".jpg" in x["file"][
-                "@url"].lower() and "thumb" not in x["file"]["@url"].lower() and ".tif" not
-                in x["file"]["@url"].lower()]
-            r["gifs"] = [x["file"]["@url"] for x in item_objects if ".gif" in x["file"][
-                "@url"].lower() and "thumb" not in x["file"]["@url"].lower()]
+            r["jpegs"] = [
+                x["file"]["@url"]
+                for x in item_objects
+                if ".jpg" in x["file"]["@url"].lower()
+                and "thumb" not in x["file"]["@url"].lower()
+                and ".tif" not in x["file"]["@url"].lower()
+            ]
+            r["gifs"] = [
+                x["file"]["@url"]
+                for x in item_objects
+                if ".gif" in x["file"]["@url"].lower() and "thumb" not in x["file"]["@url"].lower()
+            ]
             # if r["arc_id"] == "299799":
             #     print(json.dumps(item_objects, indent=2))
             digitised_objects.append(r)
@@ -191,20 +195,20 @@ def gen_csvs(digitised):
         # print(json.dumps(d, indent=3))
         series = "ratified-indian-treaties"
         origins = []
-        if len(d["jpegs"])>0:
+        if len(d["jpegs"]) > 0:
             for c, j in enumerate(d["jpegs"]):
                 number_reference = None
+                url = j.lower().replace(
+                    "https://catalog.archives.gov/catalogmedia",
+                    "https://s3.amazonaws.com/NARAprodstorage",
+                )
                 if "_ac.jpg" in j:
-                    url = j.lower()
                     number_reference = url.replace("_ac.jpg", "").split("-")[-1]
                 elif "-ac.jpg" in j:
-                    url = j.lower()
                     number_reference = url.replace("-ac.jpg", "").split("-")[-1]
                 elif "AC.jpg" in j:
-                    url = j.lower()
                     number_reference = url.replace("_ac.jpg", "").split("_")[-1]
                 elif "PR.jpg" in j:
-                    url = j.lower()
                     number_reference = url.replace("_pr.jpg", "").split("_")[-1]
                 if number_reference:
                     origins.append(
@@ -217,34 +221,67 @@ def gen_csvs(digitised):
                             "Space": 1,
                             "Line": int(c),
                             "Type": "Image",
-                            "MaxUnauthorised": -1
+                            "MaxUnauthorised": -1,
                         }
                     )
             origins.sort(key=lambda result: result["Line"])
+            print(origins)
+            members = [
+                    {
+                        "space": 1,
+                        "origin": o["Origin"].replace("https://catalog.archives.gov/catalogmedia",
+                                                      "https://s3.amazonaws.com/NARAprodstorage"),
+                        "string1": o["Reference1"],
+                        "string2": o["Reference2"],
+                        "number1": o["NumberReference1"],
+                    }
+                    for o in origins
+                ]
+            new_origins = {
+                "@type": "Collection",
+                "member": members
+            }
             print(json.dumps(origins, indent=2))
             csv_file = series + "_" + d["arc_id"] + ".csv"
-            with open(csv_file, 'w') as csvfile:
-                fieldnames = ['Type', 'Line', 'Space', 'ID', 'Origin', 'InitialOrigin',
-                              'Reference1', 'Reference2', 'Reference3', 'Tags', 'Roles',
-                              'MaxUnauthorised',
-                              'NumberReference1', 'NumberReference2', 'NumberReference3']
-                writer = csv.DictWriter(csvfile, fieldnames=fieldnames, quotechar='"',
-                                        quoting=csv.QUOTE_ALL)
+            if os.path.exists(
+                os.path.join(
+                    "/Users/matt.mcgrattan/Documents/Github/ida-treaty-explorer-data/nara/csvs_not_in_dlcs/",
+                    csv_file
+
+                )
+            ):
+                with open(
+                    os.path.join(
+                        "/Users/matt.mcgrattan/Documents/Github/ida-treaty-explorer-data/nara/json_not_in_dlcs",
+                        csv_file.replace(".csv", ".json"),
+                    ),
+                    "w",
+                ) as jf:
+                    json.dump(new_origins, jf)
+            with open(csv_file, "w") as csvfile:
+                fieldnames = [
+                    "Type",
+                    "Line",
+                    "Space",
+                    "ID",
+                    "Origin",
+                    "InitialOrigin",
+                    "Reference1",
+                    "Reference2",
+                    "Reference3",
+                    "Tags",
+                    "Roles",
+                    "MaxUnauthorised",
+                    "NumberReference1",
+                    "NumberReference2",
+                    "NumberReference3",
+                ]
+                writer = csv.DictWriter(
+                    csvfile, fieldnames=fieldnames, quotechar='"', quoting=csv.QUOTE_ALL
+                )
                 writer.writeheader()
                 for origin in origins:
                     writer.writerow(origin)
 
 
-
-
-
-gen_csvs(digitised=run_iiif(nara_file="/Users/mmcg/Documents/Work/Github/ida-treaty-explorer-data/nara/nara-export"
-                  "-86625.json"))
-
-
-
-
-
-
-
-
+gen_csvs(digitised=run_iiif(nara_file="nara-export-latest.json"))

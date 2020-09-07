@@ -1,0 +1,1223 @@
+Files old_csvs/ratified-indian-treaties_100220624.csv and new_csvs/ratified-indian-treaties_100220624.csv differ
+Files old_csvs/ratified-indian-treaties_100220626.csv and new_csvs/ratified-indian-treaties_100220626.csv differ
+Files old_csvs/ratified-indian-treaties_100220628.csv and new_csvs/ratified-indian-treaties_100220628.csv differ
+Files old_csvs/ratified-indian-treaties_100220629.csv and new_csvs/ratified-indian-treaties_100220629.csv differ
+Files old_csvs/ratified-indian-treaties_100220630.csv and new_csvs/ratified-indian-treaties_100220630.csv differ
+Files old_csvs/ratified-indian-treaties_100220631.csv and new_csvs/ratified-indian-treaties_100220631.csv differ
+Files old_csvs/ratified-indian-treaties_100220635.csv and new_csvs/ratified-indian-treaties_100220635.csv differ
+Files old_csvs/ratified-indian-treaties_100220637.csv and new_csvs/ratified-indian-treaties_100220637.csv differ
+Files old_csvs/ratified-indian-treaties_100220646.csv and new_csvs/ratified-indian-treaties_100220646.csv differ
+Files old_csvs/ratified-indian-treaties_100220764.csv and new_csvs/ratified-indian-treaties_100220764.csv differ
+Files old_csvs/ratified-indian-treaties_100220785.csv and new_csvs/ratified-indian-treaties_100220785.csv differ
+Files old_csvs/ratified-indian-treaties_100249112.csv and new_csvs/ratified-indian-treaties_100249112.csv differ
+Files old_csvs/ratified-indian-treaties_100297371.csv and new_csvs/ratified-indian-treaties_100297371.csv differ
+Files old_csvs/ratified-indian-treaties_100305632.csv and new_csvs/ratified-indian-treaties_100305632.csv differ
+Files old_csvs/ratified-indian-treaties_100305646.csv and new_csvs/ratified-indian-treaties_100305646.csv differ
+Files old_csvs/ratified-indian-treaties_100306346.csv and new_csvs/ratified-indian-treaties_100306346.csv differ
+Files old_csvs/ratified-indian-treaties_100306347.csv and new_csvs/ratified-indian-treaties_100306347.csv differ
+Files old_csvs/ratified-indian-treaties_100307432.csv and new_csvs/ratified-indian-treaties_100307432.csv differ
+Files old_csvs/ratified-indian-treaties_100309276.csv and new_csvs/ratified-indian-treaties_100309276.csv differ
+Files old_csvs/ratified-indian-treaties_100309321.csv and new_csvs/ratified-indian-treaties_100309321.csv differ
+Files old_csvs/ratified-indian-treaties_100309325.csv and new_csvs/ratified-indian-treaties_100309325.csv differ
+Files old_csvs/ratified-indian-treaties_100310235.csv and new_csvs/ratified-indian-treaties_100310235.csv differ
+Files old_csvs/ratified-indian-treaties_100311142.csv and new_csvs/ratified-indian-treaties_100311142.csv differ
+Files old_csvs/ratified-indian-treaties_100311143.csv and new_csvs/ratified-indian-treaties_100311143.csv differ
+Files old_csvs/ratified-indian-treaties_100311144.csv and new_csvs/ratified-indian-treaties_100311144.csv differ
+Files old_csvs/ratified-indian-treaties_100358199.csv and new_csvs/ratified-indian-treaties_100358199.csv differ
+Files old_csvs/ratified-indian-treaties_100358200.csv and new_csvs/ratified-indian-treaties_100358200.csv differ
+Files old_csvs/ratified-indian-treaties_100360252.csv and new_csvs/ratified-indian-treaties_100360252.csv differ
+Files old_csvs/ratified-indian-treaties_100360298.csv and new_csvs/ratified-indian-treaties_100360298.csv differ
+Files old_csvs/ratified-indian-treaties_100360341.csv and new_csvs/ratified-indian-treaties_100360341.csv differ
+Files old_csvs/ratified-indian-treaties_100361002.csv and new_csvs/ratified-indian-treaties_100361002.csv differ
+Files old_csvs/ratified-indian-treaties_100361231.csv and new_csvs/ratified-indian-treaties_100361231.csv differ
+Files old_csvs/ratified-indian-treaties_100361592.csv and new_csvs/ratified-indian-treaties_100361592.csv differ
+Files old_csvs/ratified-indian-treaties_100361593.csv and new_csvs/ratified-indian-treaties_100361593.csv differ
+Files old_csvs/ratified-indian-treaties_100361594.csv and new_csvs/ratified-indian-treaties_100361594.csv differ
+Files old_csvs/ratified-indian-treaties_100361598.csv and new_csvs/ratified-indian-treaties_100361598.csv differ
+Files old_csvs/ratified-indian-treaties_100377992.csv and new_csvs/ratified-indian-treaties_100377992.csv differ
+Files old_csvs/ratified-indian-treaties_100378017.csv and new_csvs/ratified-indian-treaties_100378017.csv differ
+Files old_csvs/ratified-indian-treaties_100378072.csv and new_csvs/ratified-indian-treaties_100378072.csv differ
+Files old_csvs/ratified-indian-treaties_100378077.csv and new_csvs/ratified-indian-treaties_100378077.csv differ
+Files old_csvs/ratified-indian-treaties_100378116.csv and new_csvs/ratified-indian-treaties_100378116.csv differ
+Files old_csvs/ratified-indian-treaties_100378123.csv and new_csvs/ratified-indian-treaties_100378123.csv differ
+Files old_csvs/ratified-indian-treaties_100378140.csv and new_csvs/ratified-indian-treaties_100378140.csv differ
+Files old_csvs/ratified-indian-treaties_100378155.csv and new_csvs/ratified-indian-treaties_100378155.csv differ
+Files old_csvs/ratified-indian-treaties_100463679.csv and new_csvs/ratified-indian-treaties_100463679.csv differ
+Files old_csvs/ratified-indian-treaties_100463681.csv and new_csvs/ratified-indian-treaties_100463681.csv differ
+Files old_csvs/ratified-indian-treaties_100463686.csv and new_csvs/ratified-indian-treaties_100463686.csv differ
+Files old_csvs/ratified-indian-treaties_100463687.csv and new_csvs/ratified-indian-treaties_100463687.csv differ
+Files old_csvs/ratified-indian-treaties_100463689.csv and new_csvs/ratified-indian-treaties_100463689.csv differ
+Files old_csvs/ratified-indian-treaties_100463693.csv and new_csvs/ratified-indian-treaties_100463693.csv differ
+Files old_csvs/ratified-indian-treaties_100463729.csv and new_csvs/ratified-indian-treaties_100463729.csv differ
+Files old_csvs/ratified-indian-treaties_100463730.csv and new_csvs/ratified-indian-treaties_100463730.csv differ
+Files old_csvs/ratified-indian-treaties_100463748.csv and new_csvs/ratified-indian-treaties_100463748.csv differ
+Files old_csvs/ratified-indian-treaties_100463750.csv and new_csvs/ratified-indian-treaties_100463750.csv differ
+Files old_csvs/ratified-indian-treaties_100463765.csv and new_csvs/ratified-indian-treaties_100463765.csv differ
+Files old_csvs/ratified-indian-treaties_100463766.csv and new_csvs/ratified-indian-treaties_100463766.csv differ
+Files old_csvs/ratified-indian-treaties_100463801.csv and new_csvs/ratified-indian-treaties_100463801.csv differ
+Files old_csvs/ratified-indian-treaties_100463812.csv and new_csvs/ratified-indian-treaties_100463812.csv differ
+Files old_csvs/ratified-indian-treaties_100463819.csv and new_csvs/ratified-indian-treaties_100463819.csv differ
+Files old_csvs/ratified-indian-treaties_100463833.csv and new_csvs/ratified-indian-treaties_100463833.csv differ
+Files old_csvs/ratified-indian-treaties_100463847.csv and new_csvs/ratified-indian-treaties_100463847.csv differ
+Only in new_csvs: ratified-indian-treaties_100463857.csv
+Files old_csvs/ratified-indian-treaties_100464152.csv and new_csvs/ratified-indian-treaties_100464152.csv differ
+Only in new_csvs: ratified-indian-treaties_100464210.csv
+Files old_csvs/ratified-indian-treaties_100464211.csv and new_csvs/ratified-indian-treaties_100464211.csv differ
+Files old_csvs/ratified-indian-treaties_100464214.csv and new_csvs/ratified-indian-treaties_100464214.csv differ
+Files old_csvs/ratified-indian-treaties_100565145.csv and new_csvs/ratified-indian-treaties_100565145.csv differ
+Files old_csvs/ratified-indian-treaties_100565148.csv and new_csvs/ratified-indian-treaties_100565148.csv differ
+Files old_csvs/ratified-indian-treaties_100565174.csv and new_csvs/ratified-indian-treaties_100565174.csv differ
+Files old_csvs/ratified-indian-treaties_100565180.csv and new_csvs/ratified-indian-treaties_100565180.csv differ
+Files old_csvs/ratified-indian-treaties_100565185.csv and new_csvs/ratified-indian-treaties_100565185.csv differ
+Files old_csvs/ratified-indian-treaties_100595140.csv and new_csvs/ratified-indian-treaties_100595140.csv differ
+Files old_csvs/ratified-indian-treaties_100595161.csv and new_csvs/ratified-indian-treaties_100595161.csv differ
+Files old_csvs/ratified-indian-treaties_100651954.csv and new_csvs/ratified-indian-treaties_100651954.csv differ
+Files old_csvs/ratified-indian-treaties_100679091.csv and new_csvs/ratified-indian-treaties_100679091.csv differ
+Files old_csvs/ratified-indian-treaties_100929505.csv and new_csvs/ratified-indian-treaties_100929505.csv differ
+Files old_csvs/ratified-indian-treaties_100953082.csv and new_csvs/ratified-indian-treaties_100953082.csv differ
+Files old_csvs/ratified-indian-treaties_100994541.csv and new_csvs/ratified-indian-treaties_100994541.csv differ
+Files old_csvs/ratified-indian-treaties_101181216.csv and new_csvs/ratified-indian-treaties_101181216.csv differ
+Files old_csvs/ratified-indian-treaties_101784373.csv and new_csvs/ratified-indian-treaties_101784373.csv differ
+Files old_csvs/ratified-indian-treaties_101784571.csv and new_csvs/ratified-indian-treaties_101784571.csv differ
+Files old_csvs/ratified-indian-treaties_101784585.csv and new_csvs/ratified-indian-treaties_101784585.csv differ
+Files old_csvs/ratified-indian-treaties_101784589.csv and new_csvs/ratified-indian-treaties_101784589.csv differ
+Files old_csvs/ratified-indian-treaties_101784625.csv and new_csvs/ratified-indian-treaties_101784625.csv differ
+Files old_csvs/ratified-indian-treaties_101784642.csv and new_csvs/ratified-indian-treaties_101784642.csv differ
+Files old_csvs/ratified-indian-treaties_101784647.csv and new_csvs/ratified-indian-treaties_101784647.csv differ
+Files old_csvs/ratified-indian-treaties_101784656.csv and new_csvs/ratified-indian-treaties_101784656.csv differ
+Files old_csvs/ratified-indian-treaties_101784671.csv and new_csvs/ratified-indian-treaties_101784671.csv differ
+Files old_csvs/ratified-indian-treaties_101957797.csv and new_csvs/ratified-indian-treaties_101957797.csv differ
+Files old_csvs/ratified-indian-treaties_102035701.csv and new_csvs/ratified-indian-treaties_102035701.csv differ
+Files old_csvs/ratified-indian-treaties_102035706.csv and new_csvs/ratified-indian-treaties_102035706.csv differ
+Files old_csvs/ratified-indian-treaties_102035712.csv and new_csvs/ratified-indian-treaties_102035712.csv differ
+Files old_csvs/ratified-indian-treaties_102038455.csv and new_csvs/ratified-indian-treaties_102038455.csv differ
+Files old_csvs/ratified-indian-treaties_102042738.csv and new_csvs/ratified-indian-treaties_102042738.csv differ
+Files old_csvs/ratified-indian-treaties_102073679.csv and new_csvs/ratified-indian-treaties_102073679.csv differ
+Files old_csvs/ratified-indian-treaties_102075725.csv and new_csvs/ratified-indian-treaties_102075725.csv differ
+Files old_csvs/ratified-indian-treaties_102075736.csv and new_csvs/ratified-indian-treaties_102075736.csv differ
+Files old_csvs/ratified-indian-treaties_102075737.csv and new_csvs/ratified-indian-treaties_102075737.csv differ
+Files old_csvs/ratified-indian-treaties_102075738.csv and new_csvs/ratified-indian-treaties_102075738.csv differ
+Files old_csvs/ratified-indian-treaties_102075739.csv and new_csvs/ratified-indian-treaties_102075739.csv differ
+Files old_csvs/ratified-indian-treaties_102075740.csv and new_csvs/ratified-indian-treaties_102075740.csv differ
+Files old_csvs/ratified-indian-treaties_102226473.csv and new_csvs/ratified-indian-treaties_102226473.csv differ
+Files old_csvs/ratified-indian-treaties_102248598.csv and new_csvs/ratified-indian-treaties_102248598.csv differ
+Files old_csvs/ratified-indian-treaties_102248631.csv and new_csvs/ratified-indian-treaties_102248631.csv differ
+Files old_csvs/ratified-indian-treaties_102248645.csv and new_csvs/ratified-indian-treaties_102248645.csv differ
+Files old_csvs/ratified-indian-treaties_102248682.csv and new_csvs/ratified-indian-treaties_102248682.csv differ
+Files old_csvs/ratified-indian-treaties_102248695.csv and new_csvs/ratified-indian-treaties_102248695.csv differ
+Files old_csvs/ratified-indian-treaties_102248703.csv and new_csvs/ratified-indian-treaties_102248703.csv differ
+Files old_csvs/ratified-indian-treaties_102248714.csv and new_csvs/ratified-indian-treaties_102248714.csv differ
+Files old_csvs/ratified-indian-treaties_102248715.csv and new_csvs/ratified-indian-treaties_102248715.csv differ
+Files old_csvs/ratified-indian-treaties_102248720.csv and new_csvs/ratified-indian-treaties_102248720.csv differ
+Files old_csvs/ratified-indian-treaties_102248724.csv and new_csvs/ratified-indian-treaties_102248724.csv differ
+Files old_csvs/ratified-indian-treaties_102251471.csv and new_csvs/ratified-indian-treaties_102251471.csv differ
+Files old_csvs/ratified-indian-treaties_102251522.csv and new_csvs/ratified-indian-treaties_102251522.csv differ
+Files old_csvs/ratified-indian-treaties_102251573.csv and new_csvs/ratified-indian-treaties_102251573.csv differ
+Files old_csvs/ratified-indian-treaties_102251589.csv and new_csvs/ratified-indian-treaties_102251589.csv differ
+Files old_csvs/ratified-indian-treaties_102251823.csv and new_csvs/ratified-indian-treaties_102251823.csv differ
+Files old_csvs/ratified-indian-treaties_102251846.csv and new_csvs/ratified-indian-treaties_102251846.csv differ
+Files old_csvs/ratified-indian-treaties_102251857.csv and new_csvs/ratified-indian-treaties_102251857.csv differ
+Files old_csvs/ratified-indian-treaties_102251867.csv and new_csvs/ratified-indian-treaties_102251867.csv differ
+Files old_csvs/ratified-indian-treaties_102251883.csv and new_csvs/ratified-indian-treaties_102251883.csv differ
+Files old_csvs/ratified-indian-treaties_102251890.csv and new_csvs/ratified-indian-treaties_102251890.csv differ
+Files old_csvs/ratified-indian-treaties_102251891.csv and new_csvs/ratified-indian-treaties_102251891.csv differ
+Files old_csvs/ratified-indian-treaties_102251906.csv and new_csvs/ratified-indian-treaties_102251906.csv differ
+Files old_csvs/ratified-indian-treaties_102251914.csv and new_csvs/ratified-indian-treaties_102251914.csv differ
+Files old_csvs/ratified-indian-treaties_102251917.csv and new_csvs/ratified-indian-treaties_102251917.csv differ
+Files old_csvs/ratified-indian-treaties_102251949.csv and new_csvs/ratified-indian-treaties_102251949.csv differ
+Files old_csvs/ratified-indian-treaties_102251958.csv and new_csvs/ratified-indian-treaties_102251958.csv differ
+Files old_csvs/ratified-indian-treaties_102251963.csv and new_csvs/ratified-indian-treaties_102251963.csv differ
+Files old_csvs/ratified-indian-treaties_102251997.csv and new_csvs/ratified-indian-treaties_102251997.csv differ
+Files old_csvs/ratified-indian-treaties_102252001.csv and new_csvs/ratified-indian-treaties_102252001.csv differ
+Files old_csvs/ratified-indian-treaties_102252007.csv and new_csvs/ratified-indian-treaties_102252007.csv differ
+Files old_csvs/ratified-indian-treaties_102252023.csv and new_csvs/ratified-indian-treaties_102252023.csv differ
+Files old_csvs/ratified-indian-treaties_102252034.csv and new_csvs/ratified-indian-treaties_102252034.csv differ
+Files old_csvs/ratified-indian-treaties_102252107.csv and new_csvs/ratified-indian-treaties_102252107.csv differ
+Files old_csvs/ratified-indian-treaties_102278225.csv and new_csvs/ratified-indian-treaties_102278225.csv differ
+Files old_csvs/ratified-indian-treaties_102278396.csv and new_csvs/ratified-indian-treaties_102278396.csv differ
+Files old_csvs/ratified-indian-treaties_102278397.csv and new_csvs/ratified-indian-treaties_102278397.csv differ
+Files old_csvs/ratified-indian-treaties_102278398.csv and new_csvs/ratified-indian-treaties_102278398.csv differ
+Files old_csvs/ratified-indian-treaties_102278399.csv and new_csvs/ratified-indian-treaties_102278399.csv differ
+Files old_csvs/ratified-indian-treaties_102278409.csv and new_csvs/ratified-indian-treaties_102278409.csv differ
+Files old_csvs/ratified-indian-treaties_102702319.csv and new_csvs/ratified-indian-treaties_102702319.csv differ
+Files old_csvs/ratified-indian-treaties_102702320.csv and new_csvs/ratified-indian-treaties_102702320.csv differ
+Files old_csvs/ratified-indian-treaties_102702321.csv and new_csvs/ratified-indian-treaties_102702321.csv differ
+Files old_csvs/ratified-indian-treaties_102702322.csv and new_csvs/ratified-indian-treaties_102702322.csv differ
+Files old_csvs/ratified-indian-treaties_102702323.csv and new_csvs/ratified-indian-treaties_102702323.csv differ
+Files old_csvs/ratified-indian-treaties_102702325.csv and new_csvs/ratified-indian-treaties_102702325.csv differ
+Files old_csvs/ratified-indian-treaties_102702327.csv and new_csvs/ratified-indian-treaties_102702327.csv differ
+Files old_csvs/ratified-indian-treaties_102702328.csv and new_csvs/ratified-indian-treaties_102702328.csv differ
+Files old_csvs/ratified-indian-treaties_102702329.csv and new_csvs/ratified-indian-treaties_102702329.csv differ
+Files old_csvs/ratified-indian-treaties_102702433.csv and new_csvs/ratified-indian-treaties_102702433.csv differ
+Files old_csvs/ratified-indian-treaties_102702444.csv and new_csvs/ratified-indian-treaties_102702444.csv differ
+Files old_csvs/ratified-indian-treaties_102702447.csv and new_csvs/ratified-indian-treaties_102702447.csv differ
+Files old_csvs/ratified-indian-treaties_102705310.csv and new_csvs/ratified-indian-treaties_102705310.csv differ
+Files old_csvs/ratified-indian-treaties_102705338.csv and new_csvs/ratified-indian-treaties_102705338.csv differ
+Files old_csvs/ratified-indian-treaties_102705343.csv and new_csvs/ratified-indian-treaties_102705343.csv differ
+Files old_csvs/ratified-indian-treaties_105244379.csv and new_csvs/ratified-indian-treaties_105244379.csv differ
+Files old_csvs/ratified-indian-treaties_106772471.csv and new_csvs/ratified-indian-treaties_106772471.csv differ
+Files old_csvs/ratified-indian-treaties_106772472.csv and new_csvs/ratified-indian-treaties_106772472.csv differ
+Files old_csvs/ratified-indian-treaties_109567131.csv and new_csvs/ratified-indian-treaties_109567131.csv differ
+Files old_csvs/ratified-indian-treaties_119654273.csv and new_csvs/ratified-indian-treaties_119654273.csv differ
+Files old_csvs/ratified-indian-treaties_119654300.csv and new_csvs/ratified-indian-treaties_119654300.csv differ
+Files old_csvs/ratified-indian-treaties_119654537.csv and new_csvs/ratified-indian-treaties_119654537.csv differ
+Files old_csvs/ratified-indian-treaties_119866704.csv and new_csvs/ratified-indian-treaties_119866704.csv differ
+Files old_csvs/ratified-indian-treaties_120090423.csv and new_csvs/ratified-indian-treaties_120090423.csv differ
+Files old_csvs/ratified-indian-treaties_120090431.csv and new_csvs/ratified-indian-treaties_120090431.csv differ
+Files old_csvs/ratified-indian-treaties_120090434.csv and new_csvs/ratified-indian-treaties_120090434.csv differ
+Files old_csvs/ratified-indian-treaties_120091455.csv and new_csvs/ratified-indian-treaties_120091455.csv differ
+Files old_csvs/ratified-indian-treaties_120091472.csv and new_csvs/ratified-indian-treaties_120091472.csv differ
+Only in new_csvs: ratified-indian-treaties_12013172.csv
+Only in new_csvs: ratified-indian-treaties_12013177.csv
+Files old_csvs/ratified-indian-treaties_12013184.csv and new_csvs/ratified-indian-treaties_12013184.csv differ
+Files old_csvs/ratified-indian-treaties_12013254.csv and new_csvs/ratified-indian-treaties_12013254.csv differ
+Files old_csvs/ratified-indian-treaties_12013259.csv and new_csvs/ratified-indian-treaties_12013259.csv differ
+Files old_csvs/ratified-indian-treaties_12013260.csv and new_csvs/ratified-indian-treaties_12013260.csv differ
+Files old_csvs/ratified-indian-treaties_12013261.csv and new_csvs/ratified-indian-treaties_12013261.csv differ
+Files old_csvs/ratified-indian-treaties_12013684.csv and new_csvs/ratified-indian-treaties_12013684.csv differ
+Files old_csvs/ratified-indian-treaties_120548803.csv and new_csvs/ratified-indian-treaties_120548803.csv differ
+Files old_csvs/ratified-indian-treaties_120688237.csv and new_csvs/ratified-indian-treaties_120688237.csv differ
+Files old_csvs/ratified-indian-treaties_120688242.csv and new_csvs/ratified-indian-treaties_120688242.csv differ
+Files old_csvs/ratified-indian-treaties_120827449.csv and new_csvs/ratified-indian-treaties_120827449.csv differ
+Files old_csvs/ratified-indian-treaties_120942046.csv and new_csvs/ratified-indian-treaties_120942046.csv differ
+Files old_csvs/ratified-indian-treaties_120942069.csv and new_csvs/ratified-indian-treaties_120942069.csv differ
+Files old_csvs/ratified-indian-treaties_120942082.csv and new_csvs/ratified-indian-treaties_120942082.csv differ
+Files old_csvs/ratified-indian-treaties_120942092.csv and new_csvs/ratified-indian-treaties_120942092.csv differ
+Files old_csvs/ratified-indian-treaties_120942098.csv and new_csvs/ratified-indian-treaties_120942098.csv differ
+Files old_csvs/ratified-indian-treaties_120942111.csv and new_csvs/ratified-indian-treaties_120942111.csv differ
+Files old_csvs/ratified-indian-treaties_120942119.csv and new_csvs/ratified-indian-treaties_120942119.csv differ
+Files old_csvs/ratified-indian-treaties_120942211.csv and new_csvs/ratified-indian-treaties_120942211.csv differ
+Files old_csvs/ratified-indian-treaties_120942212.csv and new_csvs/ratified-indian-treaties_120942212.csv differ
+Files old_csvs/ratified-indian-treaties_120942215.csv and new_csvs/ratified-indian-treaties_120942215.csv differ
+Files old_csvs/ratified-indian-treaties_120942221.csv and new_csvs/ratified-indian-treaties_120942221.csv differ
+Files old_csvs/ratified-indian-treaties_120981832.csv and new_csvs/ratified-indian-treaties_120981832.csv differ
+Files old_csvs/ratified-indian-treaties_121122193.csv and new_csvs/ratified-indian-treaties_121122193.csv differ
+Files old_csvs/ratified-indian-treaties_121122194.csv and new_csvs/ratified-indian-treaties_121122194.csv differ
+Files old_csvs/ratified-indian-treaties_121122213.csv and new_csvs/ratified-indian-treaties_121122213.csv differ
+Files old_csvs/ratified-indian-treaties_121122216.csv and new_csvs/ratified-indian-treaties_121122216.csv differ
+Files old_csvs/ratified-indian-treaties_121122239.csv and new_csvs/ratified-indian-treaties_121122239.csv differ
+Files old_csvs/ratified-indian-treaties_121146025.csv and new_csvs/ratified-indian-treaties_121146025.csv differ
+Files old_csvs/ratified-indian-treaties_121159203.csv and new_csvs/ratified-indian-treaties_121159203.csv differ
+Files old_csvs/ratified-indian-treaties_121182947.csv and new_csvs/ratified-indian-treaties_121182947.csv differ
+Files old_csvs/ratified-indian-treaties_121182953.csv and new_csvs/ratified-indian-treaties_121182953.csv differ
+Files old_csvs/ratified-indian-treaties_121182955.csv and new_csvs/ratified-indian-treaties_121182955.csv differ
+Files old_csvs/ratified-indian-treaties_121564835.csv and new_csvs/ratified-indian-treaties_121564835.csv differ
+Files old_csvs/ratified-indian-treaties_121613641.csv and new_csvs/ratified-indian-treaties_121613641.csv differ
+Files old_csvs/ratified-indian-treaties_121633774.csv and new_csvs/ratified-indian-treaties_121633774.csv differ
+Files old_csvs/ratified-indian-treaties_121636739.csv and new_csvs/ratified-indian-treaties_121636739.csv differ
+Files old_csvs/ratified-indian-treaties_121638577.csv and new_csvs/ratified-indian-treaties_121638577.csv differ
+Files old_csvs/ratified-indian-treaties_121640792.csv and new_csvs/ratified-indian-treaties_121640792.csv differ
+Files old_csvs/ratified-indian-treaties_121651578.csv and new_csvs/ratified-indian-treaties_121651578.csv differ
+Files old_csvs/ratified-indian-treaties_121651582.csv and new_csvs/ratified-indian-treaties_121651582.csv differ
+Files old_csvs/ratified-indian-treaties_121651583.csv and new_csvs/ratified-indian-treaties_121651583.csv differ
+Files old_csvs/ratified-indian-treaties_121651589.csv and new_csvs/ratified-indian-treaties_121651589.csv differ
+Files old_csvs/ratified-indian-treaties_121651597.csv and new_csvs/ratified-indian-treaties_121651597.csv differ
+Files old_csvs/ratified-indian-treaties_121651599.csv and new_csvs/ratified-indian-treaties_121651599.csv differ
+Files old_csvs/ratified-indian-treaties_121651600.csv and new_csvs/ratified-indian-treaties_121651600.csv differ
+Files old_csvs/ratified-indian-treaties_121651602.csv and new_csvs/ratified-indian-treaties_121651602.csv differ
+Files old_csvs/ratified-indian-treaties_121651621.csv and new_csvs/ratified-indian-treaties_121651621.csv differ
+Files old_csvs/ratified-indian-treaties_121651623.csv and new_csvs/ratified-indian-treaties_121651623.csv differ
+Files old_csvs/ratified-indian-treaties_121651624.csv and new_csvs/ratified-indian-treaties_121651624.csv differ
+Files old_csvs/ratified-indian-treaties_121651625.csv and new_csvs/ratified-indian-treaties_121651625.csv differ
+Files old_csvs/ratified-indian-treaties_121651643.csv and new_csvs/ratified-indian-treaties_121651643.csv differ
+Files old_csvs/ratified-indian-treaties_121651648.csv and new_csvs/ratified-indian-treaties_121651648.csv differ
+Files old_csvs/ratified-indian-treaties_121651655.csv and new_csvs/ratified-indian-treaties_121651655.csv differ
+Files old_csvs/ratified-indian-treaties_121651716.csv and new_csvs/ratified-indian-treaties_121651716.csv differ
+Files old_csvs/ratified-indian-treaties_121651717.csv and new_csvs/ratified-indian-treaties_121651717.csv differ
+Files old_csvs/ratified-indian-treaties_121651718.csv and new_csvs/ratified-indian-treaties_121651718.csv differ
+Files old_csvs/ratified-indian-treaties_122213806.csv and new_csvs/ratified-indian-treaties_122213806.csv differ
+Files old_csvs/ratified-indian-treaties_122213807.csv and new_csvs/ratified-indian-treaties_122213807.csv differ
+Files old_csvs/ratified-indian-treaties_122213808.csv and new_csvs/ratified-indian-treaties_122213808.csv differ
+Files old_csvs/ratified-indian-treaties_122213811.csv and new_csvs/ratified-indian-treaties_122213811.csv differ
+Files old_csvs/ratified-indian-treaties_122213812.csv and new_csvs/ratified-indian-treaties_122213812.csv differ
+Files old_csvs/ratified-indian-treaties_122214124.csv and new_csvs/ratified-indian-treaties_122214124.csv differ
+Files old_csvs/ratified-indian-treaties_122214129.csv and new_csvs/ratified-indian-treaties_122214129.csv differ
+Files old_csvs/ratified-indian-treaties_122214130.csv and new_csvs/ratified-indian-treaties_122214130.csv differ
+Files old_csvs/ratified-indian-treaties_122214132.csv and new_csvs/ratified-indian-treaties_122214132.csv differ
+Files old_csvs/ratified-indian-treaties_122214178.csv and new_csvs/ratified-indian-treaties_122214178.csv differ
+Files old_csvs/ratified-indian-treaties_122225033.csv and new_csvs/ratified-indian-treaties_122225033.csv differ
+Files old_csvs/ratified-indian-treaties_122642976.csv and new_csvs/ratified-indian-treaties_122642976.csv differ
+Files old_csvs/ratified-indian-treaties_122642977.csv and new_csvs/ratified-indian-treaties_122642977.csv differ
+Files old_csvs/ratified-indian-treaties_122643081.csv and new_csvs/ratified-indian-treaties_122643081.csv differ
+Files old_csvs/ratified-indian-treaties_122643085.csv and new_csvs/ratified-indian-treaties_122643085.csv differ
+Files old_csvs/ratified-indian-treaties_122643086.csv and new_csvs/ratified-indian-treaties_122643086.csv differ
+Files old_csvs/ratified-indian-treaties_122643087.csv and new_csvs/ratified-indian-treaties_122643087.csv differ
+Files old_csvs/ratified-indian-treaties_122668238.csv and new_csvs/ratified-indian-treaties_122668238.csv differ
+Files old_csvs/ratified-indian-treaties_122668240.csv and new_csvs/ratified-indian-treaties_122668240.csv differ
+Files old_csvs/ratified-indian-treaties_122668243.csv and new_csvs/ratified-indian-treaties_122668243.csv differ
+Files old_csvs/ratified-indian-treaties_122668329.csv and new_csvs/ratified-indian-treaties_122668329.csv differ
+Files old_csvs/ratified-indian-treaties_122668335.csv and new_csvs/ratified-indian-treaties_122668335.csv differ
+Files old_csvs/ratified-indian-treaties_122668340.csv and new_csvs/ratified-indian-treaties_122668340.csv differ
+Files old_csvs/ratified-indian-treaties_122674003.csv and new_csvs/ratified-indian-treaties_122674003.csv differ
+Files old_csvs/ratified-indian-treaties_122674012.csv and new_csvs/ratified-indian-treaties_122674012.csv differ
+Files old_csvs/ratified-indian-treaties_122681359.csv and new_csvs/ratified-indian-treaties_122681359.csv differ
+Files old_csvs/ratified-indian-treaties_122681360.csv and new_csvs/ratified-indian-treaties_122681360.csv differ
+Files old_csvs/ratified-indian-treaties_122681361.csv and new_csvs/ratified-indian-treaties_122681361.csv differ
+Files old_csvs/ratified-indian-treaties_122681362.csv and new_csvs/ratified-indian-treaties_122681362.csv differ
+Files old_csvs/ratified-indian-treaties_122681363.csv and new_csvs/ratified-indian-treaties_122681363.csv differ
+Files old_csvs/ratified-indian-treaties_122681364.csv and new_csvs/ratified-indian-treaties_122681364.csv differ
+Files old_csvs/ratified-indian-treaties_122681365.csv and new_csvs/ratified-indian-treaties_122681365.csv differ
+Files old_csvs/ratified-indian-treaties_122681366.csv and new_csvs/ratified-indian-treaties_122681366.csv differ
+Files old_csvs/ratified-indian-treaties_124046816.csv and new_csvs/ratified-indian-treaties_124046816.csv differ
+Files old_csvs/ratified-indian-treaties_124046817.csv and new_csvs/ratified-indian-treaties_124046817.csv differ
+Files old_csvs/ratified-indian-treaties_124046818.csv and new_csvs/ratified-indian-treaties_124046818.csv differ
+Files old_csvs/ratified-indian-treaties_124046819.csv and new_csvs/ratified-indian-treaties_124046819.csv differ
+Files old_csvs/ratified-indian-treaties_124046820.csv and new_csvs/ratified-indian-treaties_124046820.csv differ
+Files old_csvs/ratified-indian-treaties_124046821.csv and new_csvs/ratified-indian-treaties_124046821.csv differ
+Files old_csvs/ratified-indian-treaties_124046822.csv and new_csvs/ratified-indian-treaties_124046822.csv differ
+Files old_csvs/ratified-indian-treaties_124046823.csv and new_csvs/ratified-indian-treaties_124046823.csv differ
+Files old_csvs/ratified-indian-treaties_124046824.csv and new_csvs/ratified-indian-treaties_124046824.csv differ
+Files old_csvs/ratified-indian-treaties_124046825.csv and new_csvs/ratified-indian-treaties_124046825.csv differ
+Files old_csvs/ratified-indian-treaties_124046826.csv and new_csvs/ratified-indian-treaties_124046826.csv differ
+Files old_csvs/ratified-indian-treaties_124046827.csv and new_csvs/ratified-indian-treaties_124046827.csv differ
+Files old_csvs/ratified-indian-treaties_124046828.csv and new_csvs/ratified-indian-treaties_124046828.csv differ
+Files old_csvs/ratified-indian-treaties_124046829.csv and new_csvs/ratified-indian-treaties_124046829.csv differ
+Files old_csvs/ratified-indian-treaties_124046830.csv and new_csvs/ratified-indian-treaties_124046830.csv differ
+Files old_csvs/ratified-indian-treaties_124046831.csv and new_csvs/ratified-indian-treaties_124046831.csv differ
+Files old_csvs/ratified-indian-treaties_124046832.csv and new_csvs/ratified-indian-treaties_124046832.csv differ
+Files old_csvs/ratified-indian-treaties_124046931.csv and new_csvs/ratified-indian-treaties_124046931.csv differ
+Files old_csvs/ratified-indian-treaties_124046946.csv and new_csvs/ratified-indian-treaties_124046946.csv differ
+Files old_csvs/ratified-indian-treaties_124046955.csv and new_csvs/ratified-indian-treaties_124046955.csv differ
+Files old_csvs/ratified-indian-treaties_124046985.csv and new_csvs/ratified-indian-treaties_124046985.csv differ
+Files old_csvs/ratified-indian-treaties_124047002.csv and new_csvs/ratified-indian-treaties_124047002.csv differ
+Files old_csvs/ratified-indian-treaties_124047003.csv and new_csvs/ratified-indian-treaties_124047003.csv differ
+Files old_csvs/ratified-indian-treaties_124047004.csv and new_csvs/ratified-indian-treaties_124047004.csv differ
+Files old_csvs/ratified-indian-treaties_124047005.csv and new_csvs/ratified-indian-treaties_124047005.csv differ
+Files old_csvs/ratified-indian-treaties_124047006.csv and new_csvs/ratified-indian-treaties_124047006.csv differ
+Files old_csvs/ratified-indian-treaties_124047007.csv and new_csvs/ratified-indian-treaties_124047007.csv differ
+Files old_csvs/ratified-indian-treaties_124047008.csv and new_csvs/ratified-indian-treaties_124047008.csv differ
+Files old_csvs/ratified-indian-treaties_124047094.csv and new_csvs/ratified-indian-treaties_124047094.csv differ
+Files old_csvs/ratified-indian-treaties_124047118.csv and new_csvs/ratified-indian-treaties_124047118.csv differ
+Files old_csvs/ratified-indian-treaties_124047123.csv and new_csvs/ratified-indian-treaties_124047123.csv differ
+Files old_csvs/ratified-indian-treaties_124047125.csv and new_csvs/ratified-indian-treaties_124047125.csv differ
+Files old_csvs/ratified-indian-treaties_124059051.csv and new_csvs/ratified-indian-treaties_124059051.csv differ
+Files old_csvs/ratified-indian-treaties_124059052.csv and new_csvs/ratified-indian-treaties_124059052.csv differ
+Files old_csvs/ratified-indian-treaties_124059054.csv and new_csvs/ratified-indian-treaties_124059054.csv differ
+Files old_csvs/ratified-indian-treaties_124059070.csv and new_csvs/ratified-indian-treaties_124059070.csv differ
+Files old_csvs/ratified-indian-treaties_124059071.csv and new_csvs/ratified-indian-treaties_124059071.csv differ
+Files old_csvs/ratified-indian-treaties_124059072.csv and new_csvs/ratified-indian-treaties_124059072.csv differ
+Files old_csvs/ratified-indian-treaties_124059073.csv and new_csvs/ratified-indian-treaties_124059073.csv differ
+Files old_csvs/ratified-indian-treaties_124059118.csv and new_csvs/ratified-indian-treaties_124059118.csv differ
+Files old_csvs/ratified-indian-treaties_124059128.csv and new_csvs/ratified-indian-treaties_124059128.csv differ
+Files old_csvs/ratified-indian-treaties_124059181.csv and new_csvs/ratified-indian-treaties_124059181.csv differ
+Files old_csvs/ratified-indian-treaties_124063342.csv and new_csvs/ratified-indian-treaties_124063342.csv differ
+Files old_csvs/ratified-indian-treaties_124067505.csv and new_csvs/ratified-indian-treaties_124067505.csv differ
+Files old_csvs/ratified-indian-treaties_124067510.csv and new_csvs/ratified-indian-treaties_124067510.csv differ
+Files old_csvs/ratified-indian-treaties_124072862.csv and new_csvs/ratified-indian-treaties_124072862.csv differ
+Files old_csvs/ratified-indian-treaties_124072863.csv and new_csvs/ratified-indian-treaties_124072863.csv differ
+Files old_csvs/ratified-indian-treaties_124072864.csv and new_csvs/ratified-indian-treaties_124072864.csv differ
+Files old_csvs/ratified-indian-treaties_124072865.csv and new_csvs/ratified-indian-treaties_124072865.csv differ
+Files old_csvs/ratified-indian-treaties_124072866.csv and new_csvs/ratified-indian-treaties_124072866.csv differ
+Files old_csvs/ratified-indian-treaties_124072867.csv and new_csvs/ratified-indian-treaties_124072867.csv differ
+Files old_csvs/ratified-indian-treaties_124072868.csv and new_csvs/ratified-indian-treaties_124072868.csv differ
+Files old_csvs/ratified-indian-treaties_124087226.csv and new_csvs/ratified-indian-treaties_124087226.csv differ
+Files old_csvs/ratified-indian-treaties_124087234.csv and new_csvs/ratified-indian-treaties_124087234.csv differ
+Files old_csvs/ratified-indian-treaties_124087237.csv and new_csvs/ratified-indian-treaties_124087237.csv differ
+Files old_csvs/ratified-indian-treaties_124087240.csv and new_csvs/ratified-indian-treaties_124087240.csv differ
+Files old_csvs/ratified-indian-treaties_124087246.csv and new_csvs/ratified-indian-treaties_124087246.csv differ
+Files old_csvs/ratified-indian-treaties_124087252.csv and new_csvs/ratified-indian-treaties_124087252.csv differ
+Files old_csvs/ratified-indian-treaties_124087259.csv and new_csvs/ratified-indian-treaties_124087259.csv differ
+Files old_csvs/ratified-indian-treaties_124087264.csv and new_csvs/ratified-indian-treaties_124087264.csv differ
+Files old_csvs/ratified-indian-treaties_124087267.csv and new_csvs/ratified-indian-treaties_124087267.csv differ
+Files old_csvs/ratified-indian-treaties_124087268.csv and new_csvs/ratified-indian-treaties_124087268.csv differ
+Files old_csvs/ratified-indian-treaties_124218402.csv and new_csvs/ratified-indian-treaties_124218402.csv differ
+Files old_csvs/ratified-indian-treaties_124218406.csv and new_csvs/ratified-indian-treaties_124218406.csv differ
+Files old_csvs/ratified-indian-treaties_124218429.csv and new_csvs/ratified-indian-treaties_124218429.csv differ
+Files old_csvs/ratified-indian-treaties_124218430.csv and new_csvs/ratified-indian-treaties_124218430.csv differ
+Files old_csvs/ratified-indian-treaties_124218431.csv and new_csvs/ratified-indian-treaties_124218431.csv differ
+Files old_csvs/ratified-indian-treaties_124218432.csv and new_csvs/ratified-indian-treaties_124218432.csv differ
+Files old_csvs/ratified-indian-treaties_124218433.csv and new_csvs/ratified-indian-treaties_124218433.csv differ
+Files old_csvs/ratified-indian-treaties_124218434.csv and new_csvs/ratified-indian-treaties_124218434.csv differ
+Files old_csvs/ratified-indian-treaties_124218435.csv and new_csvs/ratified-indian-treaties_124218435.csv differ
+Files old_csvs/ratified-indian-treaties_124218436.csv and new_csvs/ratified-indian-treaties_124218436.csv differ
+Files old_csvs/ratified-indian-treaties_124218437.csv and new_csvs/ratified-indian-treaties_124218437.csv differ
+Files old_csvs/ratified-indian-treaties_124218438.csv and new_csvs/ratified-indian-treaties_124218438.csv differ
+Files old_csvs/ratified-indian-treaties_124218439.csv and new_csvs/ratified-indian-treaties_124218439.csv differ
+Files old_csvs/ratified-indian-treaties_124218453.csv and new_csvs/ratified-indian-treaties_124218453.csv differ
+Files old_csvs/ratified-indian-treaties_124218454.csv and new_csvs/ratified-indian-treaties_124218454.csv differ
+Files old_csvs/ratified-indian-treaties_124218455.csv and new_csvs/ratified-indian-treaties_124218455.csv differ
+Files old_csvs/ratified-indian-treaties_124218456.csv and new_csvs/ratified-indian-treaties_124218456.csv differ
+Files old_csvs/ratified-indian-treaties_124218457.csv and new_csvs/ratified-indian-treaties_124218457.csv differ
+Files old_csvs/ratified-indian-treaties_124218460.csv and new_csvs/ratified-indian-treaties_124218460.csv differ
+Files old_csvs/ratified-indian-treaties_124218461.csv and new_csvs/ratified-indian-treaties_124218461.csv differ
+Files old_csvs/ratified-indian-treaties_124218462.csv and new_csvs/ratified-indian-treaties_124218462.csv differ
+Files old_csvs/ratified-indian-treaties_124218463.csv and new_csvs/ratified-indian-treaties_124218463.csv differ
+Files old_csvs/ratified-indian-treaties_124218464.csv and new_csvs/ratified-indian-treaties_124218464.csv differ
+Files old_csvs/ratified-indian-treaties_124218465.csv and new_csvs/ratified-indian-treaties_124218465.csv differ
+Files old_csvs/ratified-indian-treaties_124218468.csv and new_csvs/ratified-indian-treaties_124218468.csv differ
+Files old_csvs/ratified-indian-treaties_124218469.csv and new_csvs/ratified-indian-treaties_124218469.csv differ
+Files old_csvs/ratified-indian-treaties_124218470.csv and new_csvs/ratified-indian-treaties_124218470.csv differ
+Files old_csvs/ratified-indian-treaties_124450584.csv and new_csvs/ratified-indian-treaties_124450584.csv differ
+Files old_csvs/ratified-indian-treaties_124450585.csv and new_csvs/ratified-indian-treaties_124450585.csv differ
+Files old_csvs/ratified-indian-treaties_124450586.csv and new_csvs/ratified-indian-treaties_124450586.csv differ
+Files old_csvs/ratified-indian-treaties_124450587.csv and new_csvs/ratified-indian-treaties_124450587.csv differ
+Files old_csvs/ratified-indian-treaties_124450588.csv and new_csvs/ratified-indian-treaties_124450588.csv differ
+Files old_csvs/ratified-indian-treaties_124450589.csv and new_csvs/ratified-indian-treaties_124450589.csv differ
+Files old_csvs/ratified-indian-treaties_124450590.csv and new_csvs/ratified-indian-treaties_124450590.csv differ
+Files old_csvs/ratified-indian-treaties_124450591.csv and new_csvs/ratified-indian-treaties_124450591.csv differ
+Files old_csvs/ratified-indian-treaties_124450592.csv and new_csvs/ratified-indian-treaties_124450592.csv differ
+Files old_csvs/ratified-indian-treaties_124450593.csv and new_csvs/ratified-indian-treaties_124450593.csv differ
+Files old_csvs/ratified-indian-treaties_124450594.csv and new_csvs/ratified-indian-treaties_124450594.csv differ
+Files old_csvs/ratified-indian-treaties_124450595.csv and new_csvs/ratified-indian-treaties_124450595.csv differ
+Files old_csvs/ratified-indian-treaties_124450596.csv and new_csvs/ratified-indian-treaties_124450596.csv differ
+Files old_csvs/ratified-indian-treaties_124450597.csv and new_csvs/ratified-indian-treaties_124450597.csv differ
+Files old_csvs/ratified-indian-treaties_124450598.csv and new_csvs/ratified-indian-treaties_124450598.csv differ
+Files old_csvs/ratified-indian-treaties_124450599.csv and new_csvs/ratified-indian-treaties_124450599.csv differ
+Files old_csvs/ratified-indian-treaties_124450600.csv and new_csvs/ratified-indian-treaties_124450600.csv differ
+Files old_csvs/ratified-indian-treaties_124450601.csv and new_csvs/ratified-indian-treaties_124450601.csv differ
+Files old_csvs/ratified-indian-treaties_124450734.csv and new_csvs/ratified-indian-treaties_124450734.csv differ
+Files old_csvs/ratified-indian-treaties_124450752.csv and new_csvs/ratified-indian-treaties_124450752.csv differ
+Files old_csvs/ratified-indian-treaties_124450756.csv and new_csvs/ratified-indian-treaties_124450756.csv differ
+Files old_csvs/ratified-indian-treaties_124450769.csv and new_csvs/ratified-indian-treaties_124450769.csv differ
+Files old_csvs/ratified-indian-treaties_124450770.csv and new_csvs/ratified-indian-treaties_124450770.csv differ
+Files old_csvs/ratified-indian-treaties_124450826.csv and new_csvs/ratified-indian-treaties_124450826.csv differ
+Files old_csvs/ratified-indian-treaties_124450856.csv and new_csvs/ratified-indian-treaties_124450856.csv differ
+Only in new_csvs: ratified-indian-treaties_131516479.csv
+Only in new_csvs: ratified-indian-treaties_132015565.csv
+Only in new_csvs: ratified-indian-treaties_132015576.csv
+Only in new_csvs: ratified-indian-treaties_132015577.csv
+Only in new_csvs: ratified-indian-treaties_142236217.csv
+Only in new_csvs: ratified-indian-treaties_142699239.csv
+Only in new_csvs: ratified-indian-treaties_142699642.csv
+Only in new_csvs: ratified-indian-treaties_142699664.csv
+Only in new_csvs: ratified-indian-treaties_142770122.csv
+Only in new_csvs: ratified-indian-treaties_142770143.csv
+Only in new_csvs: ratified-indian-treaties_143162400.csv
+Only in new_csvs: ratified-indian-treaties_143605691.csv
+Only in new_csvs: ratified-indian-treaties_143675266.csv
+Only in new_csvs: ratified-indian-treaties_143675309.csv
+Only in new_csvs: ratified-indian-treaties_144002731.csv
+Only in new_csvs: ratified-indian-treaties_144012834.csv
+Only in new_csvs: ratified-indian-treaties_146161980.csv
+Only in new_csvs: ratified-indian-treaties_146161982.csv
+Only in new_csvs: ratified-indian-treaties_146161986.csv
+Only in new_csvs: ratified-indian-treaties_146161989.csv
+Only in new_csvs: ratified-indian-treaties_146162003.csv
+Only in new_csvs: ratified-indian-treaties_146187491.csv
+Only in new_csvs: ratified-indian-treaties_146213769.csv
+Only in new_csvs: ratified-indian-treaties_146213794.csv
+Only in new_csvs: ratified-indian-treaties_146213803.csv
+Only in new_csvs: ratified-indian-treaties_146241648.csv
+Only in new_csvs: ratified-indian-treaties_146290592.csv
+Only in new_csvs: ratified-indian-treaties_146290634.csv
+Only in new_csvs: ratified-indian-treaties_146290774.csv
+Only in new_csvs: ratified-indian-treaties_146290778.csv
+Only in new_csvs: ratified-indian-treaties_146290786.csv
+Only in new_csvs: ratified-indian-treaties_146290788.csv
+Only in new_csvs: ratified-indian-treaties_146290790.csv
+Only in new_csvs: ratified-indian-treaties_146290832.csv
+Only in new_csvs: ratified-indian-treaties_146290843.csv
+Only in new_csvs: ratified-indian-treaties_146293686.csv
+Only in new_csvs: ratified-indian-treaties_146293737.csv
+Only in new_csvs: ratified-indian-treaties_146446430.csv
+Only in new_csvs: ratified-indian-treaties_146451513.csv
+Only in new_csvs: ratified-indian-treaties_146756261.csv
+Only in new_csvs: ratified-indian-treaties_146756264.csv
+Only in new_csvs: ratified-indian-treaties_146756272.csv
+Only in new_csvs: ratified-indian-treaties_146760254.csv
+Only in new_csvs: ratified-indian-treaties_146762759.csv
+Only in new_csvs: ratified-indian-treaties_146765238.csv
+Only in new_csvs: ratified-indian-treaties_146765241.csv
+Only in new_csvs: ratified-indian-treaties_146901475.csv
+Only in new_csvs: ratified-indian-treaties_146919906.csv
+Only in new_csvs: ratified-indian-treaties_146919931.csv
+Only in new_csvs: ratified-indian-treaties_146925188.csv
+Only in new_csvs: ratified-indian-treaties_146925191.csv
+Only in new_csvs: ratified-indian-treaties_146925192.csv
+Only in new_csvs: ratified-indian-treaties_146925193.csv
+Only in new_csvs: ratified-indian-treaties_146925194.csv
+Only in new_csvs: ratified-indian-treaties_146925195.csv
+Only in new_csvs: ratified-indian-treaties_146925340.csv
+Only in new_csvs: ratified-indian-treaties_146925346.csv
+Only in new_csvs: ratified-indian-treaties_146925351.csv
+Only in new_csvs: ratified-indian-treaties_146925366.csv
+Only in new_csvs: ratified-indian-treaties_146925370.csv
+Only in new_csvs: ratified-indian-treaties_146925376.csv
+Only in new_csvs: ratified-indian-treaties_146925378.csv
+Only in new_csvs: ratified-indian-treaties_146925453.csv
+Only in new_csvs: ratified-indian-treaties_146925462.csv
+Only in new_csvs: ratified-indian-treaties_146928140.csv
+Only in new_csvs: ratified-indian-treaties_146928142.csv
+Only in new_csvs: ratified-indian-treaties_146928143.csv
+Only in new_csvs: ratified-indian-treaties_146928144.csv
+Only in new_csvs: ratified-indian-treaties_146928287.csv
+Only in new_csvs: ratified-indian-treaties_146928305.csv
+Only in new_csvs: ratified-indian-treaties_147868907.csv
+Only in new_csvs: ratified-indian-treaties_147868912.csv
+Only in new_csvs: ratified-indian-treaties_147868925.csv
+Only in new_csvs: ratified-indian-treaties_147870657.csv
+Only in new_csvs: ratified-indian-treaties_147870683.csv
+Only in new_csvs: ratified-indian-treaties_147870724.csv
+Only in new_csvs: ratified-indian-treaties_147873736.csv
+Only in new_csvs: ratified-indian-treaties_147873747.csv
+Only in new_csvs: ratified-indian-treaties_147873776.csv
+Only in new_csvs: ratified-indian-treaties_147873780.csv
+Only in new_csvs: ratified-indian-treaties_147873783.csv
+Only in new_csvs: ratified-indian-treaties_147873786.csv
+Only in new_csvs: ratified-indian-treaties_147873787.csv
+Only in new_csvs: ratified-indian-treaties_147873788.csv
+Only in new_csvs: ratified-indian-treaties_147967704.csv
+Only in new_csvs: ratified-indian-treaties_147967710.csv
+Only in new_csvs: ratified-indian-treaties_147967734.csv
+Only in new_csvs: ratified-indian-treaties_147967760.csv
+Only in new_csvs: ratified-indian-treaties_147967766.csv
+Only in new_csvs: ratified-indian-treaties_147967770.csv
+Only in new_csvs: ratified-indian-treaties_147968011.csv
+Only in new_csvs: ratified-indian-treaties_147968027.csv
+Only in new_csvs: ratified-indian-treaties_147968039.csv
+Only in new_csvs: ratified-indian-treaties_147968042.csv
+Only in new_csvs: ratified-indian-treaties_147968047.csv
+Only in new_csvs: ratified-indian-treaties_147968049.csv
+Only in new_csvs: ratified-indian-treaties_147968106.csv
+Only in new_csvs: ratified-indian-treaties_147968116.csv
+Only in new_csvs: ratified-indian-treaties_147968151.csv
+Only in new_csvs: ratified-indian-treaties_147968155.csv
+Only in new_csvs: ratified-indian-treaties_147968163.csv
+Only in new_csvs: ratified-indian-treaties_147968166.csv
+Only in new_csvs: ratified-indian-treaties_147968167.csv
+Only in new_csvs: ratified-indian-treaties_147968168.csv
+Only in new_csvs: ratified-indian-treaties_147968169.csv
+Only in new_csvs: ratified-indian-treaties_147968171.csv
+Only in new_csvs: ratified-indian-treaties_147968172.csv
+Only in new_csvs: ratified-indian-treaties_147968173.csv
+Only in new_csvs: ratified-indian-treaties_147968177.csv
+Only in new_csvs: ratified-indian-treaties_147968190.csv
+Only in new_csvs: ratified-indian-treaties_147968205.csv
+Only in new_csvs: ratified-indian-treaties_148017243.csv
+Only in new_csvs: ratified-indian-treaties_148017309.csv
+Only in new_csvs: ratified-indian-treaties_148017340.csv
+Only in new_csvs: ratified-indian-treaties_148017343.csv
+Only in new_csvs: ratified-indian-treaties_148017347.csv
+Only in new_csvs: ratified-indian-treaties_148017349.csv
+Only in new_csvs: ratified-indian-treaties_148017350.csv
+Only in new_csvs: ratified-indian-treaties_148017351.csv
+Only in new_csvs: ratified-indian-treaties_148026068.csv
+Only in new_csvs: ratified-indian-treaties_148026435.csv
+Only in new_csvs: ratified-indian-treaties_148026533.csv
+Only in new_csvs: ratified-indian-treaties_148026534.csv
+Only in new_csvs: ratified-indian-treaties_148026535.csv
+Only in new_csvs: ratified-indian-treaties_148026536.csv
+Only in new_csvs: ratified-indian-treaties_148026684.csv
+Only in new_csvs: ratified-indian-treaties_148026694.csv
+Only in new_csvs: ratified-indian-treaties_148026696.csv
+Only in new_csvs: ratified-indian-treaties_148026698.csv
+Only in new_csvs: ratified-indian-treaties_148026708.csv
+Only in new_csvs: ratified-indian-treaties_148026727.csv
+Only in new_csvs: ratified-indian-treaties_148027176.csv
+Only in new_csvs: ratified-indian-treaties_148027180.csv
+Only in new_csvs: ratified-indian-treaties_148027181.csv
+Only in new_csvs: ratified-indian-treaties_148027182.csv
+Only in new_csvs: ratified-indian-treaties_148027183.csv
+Only in new_csvs: ratified-indian-treaties_148027254.csv
+Only in new_csvs: ratified-indian-treaties_148027459.csv
+Only in new_csvs: ratified-indian-treaties_148027460.csv
+Only in new_csvs: ratified-indian-treaties_148028035.csv
+Only in new_csvs: ratified-indian-treaties_148028049.csv
+Only in new_csvs: ratified-indian-treaties_148028053.csv
+Only in new_csvs: ratified-indian-treaties_148028054.csv
+Only in new_csvs: ratified-indian-treaties_148028055.csv
+Only in new_csvs: ratified-indian-treaties_148028061.csv
+Only in new_csvs: ratified-indian-treaties_148028072.csv
+Only in new_csvs: ratified-indian-treaties_148028074.csv
+Only in new_csvs: ratified-indian-treaties_148028075.csv
+Only in new_csvs: ratified-indian-treaties_148028086.csv
+Only in new_csvs: ratified-indian-treaties_148028102.csv
+Only in new_csvs: ratified-indian-treaties_148028115.csv
+Only in new_csvs: ratified-indian-treaties_148028116.csv
+Only in new_csvs: ratified-indian-treaties_148028117.csv
+Only in new_csvs: ratified-indian-treaties_148028120.csv
+Only in new_csvs: ratified-indian-treaties_148028121.csv
+Only in new_csvs: ratified-indian-treaties_148028122.csv
+Only in new_csvs: ratified-indian-treaties_148028123.csv
+Only in new_csvs: ratified-indian-treaties_148028124.csv
+Only in new_csvs: ratified-indian-treaties_148028125.csv
+Only in new_csvs: ratified-indian-treaties_148028126.csv
+Only in new_csvs: ratified-indian-treaties_148028127.csv
+Only in new_csvs: ratified-indian-treaties_148028198.csv
+Only in new_csvs: ratified-indian-treaties_148028209.csv
+Only in new_csvs: ratified-indian-treaties_148028212.csv
+Only in new_csvs: ratified-indian-treaties_148029689.csv
+Only in new_csvs: ratified-indian-treaties_148029693.csv
+Only in new_csvs: ratified-indian-treaties_148029700.csv
+Only in new_csvs: ratified-indian-treaties_148029705.csv
+Only in new_csvs: ratified-indian-treaties_148029706.csv
+Only in new_csvs: ratified-indian-treaties_148029710.csv
+Only in new_csvs: ratified-indian-treaties_148029712.csv
+Only in new_csvs: ratified-indian-treaties_148029717.csv
+Only in new_csvs: ratified-indian-treaties_148029731.csv
+Only in new_csvs: ratified-indian-treaties_148029742.csv
+Only in new_csvs: ratified-indian-treaties_148029764.csv
+Only in new_csvs: ratified-indian-treaties_148029772.csv
+Only in new_csvs: ratified-indian-treaties_148029774.csv
+Only in new_csvs: ratified-indian-treaties_148029778.csv
+Only in new_csvs: ratified-indian-treaties_148029788.csv
+Only in new_csvs: ratified-indian-treaties_148029791.csv
+Only in new_csvs: ratified-indian-treaties_148029794.csv
+Only in new_csvs: ratified-indian-treaties_148030064.csv
+Only in new_csvs: ratified-indian-treaties_148030071.csv
+Only in new_csvs: ratified-indian-treaties_148030077.csv
+Only in new_csvs: ratified-indian-treaties_148030118.csv
+Only in new_csvs: ratified-indian-treaties_148030335.csv
+Only in new_csvs: ratified-indian-treaties_148030336.csv
+Only in new_csvs: ratified-indian-treaties_148030342.csv
+Only in new_csvs: ratified-indian-treaties_148030343.csv
+Only in new_csvs: ratified-indian-treaties_148030344.csv
+Only in new_csvs: ratified-indian-treaties_148030345.csv
+Only in new_csvs: ratified-indian-treaties_148030346.csv
+Only in new_csvs: ratified-indian-treaties_148030347.csv
+Only in new_csvs: ratified-indian-treaties_148030351.csv
+Only in new_csvs: ratified-indian-treaties_148030471.csv
+Only in new_csvs: ratified-indian-treaties_148030476.csv
+Only in new_csvs: ratified-indian-treaties_148030477.csv
+Only in new_csvs: ratified-indian-treaties_148030480.csv
+Only in new_csvs: ratified-indian-treaties_148030493.csv
+Only in new_csvs: ratified-indian-treaties_148030503.csv
+Only in new_csvs: ratified-indian-treaties_148030520.csv
+Only in new_csvs: ratified-indian-treaties_148030537.csv
+Only in new_csvs: ratified-indian-treaties_148030544.csv
+Only in new_csvs: ratified-indian-treaties_148030768.csv
+Only in new_csvs: ratified-indian-treaties_148031220.csv
+Only in new_csvs: ratified-indian-treaties_148031223.csv
+Only in new_csvs: ratified-indian-treaties_148031227.csv
+Only in new_csvs: ratified-indian-treaties_148031230.csv
+Only in new_csvs: ratified-indian-treaties_148031724.csv
+Only in new_csvs: ratified-indian-treaties_148031754.csv
+Only in new_csvs: ratified-indian-treaties_148032456.csv
+Only in new_csvs: ratified-indian-treaties_148032457.csv
+Only in new_csvs: ratified-indian-treaties_148032458.csv
+Only in new_csvs: ratified-indian-treaties_148032459.csv
+Only in new_csvs: ratified-indian-treaties_148032460.csv
+Only in new_csvs: ratified-indian-treaties_148032462.csv
+Only in new_csvs: ratified-indian-treaties_148032463.csv
+Only in new_csvs: ratified-indian-treaties_148032464.csv
+Only in new_csvs: ratified-indian-treaties_148032465.csv
+Only in new_csvs: ratified-indian-treaties_148032466.csv
+Only in new_csvs: ratified-indian-treaties_148032467.csv
+Only in new_csvs: ratified-indian-treaties_148032468.csv
+Only in new_csvs: ratified-indian-treaties_148032469.csv
+Only in new_csvs: ratified-indian-treaties_148032470.csv
+Only in new_csvs: ratified-indian-treaties_148032641.csv
+Only in new_csvs: ratified-indian-treaties_148032642.csv
+Only in new_csvs: ratified-indian-treaties_148032646.csv
+Only in new_csvs: ratified-indian-treaties_148032657.csv
+Only in new_csvs: ratified-indian-treaties_148032669.csv
+Only in new_csvs: ratified-indian-treaties_148032673.csv
+Only in new_csvs: ratified-indian-treaties_148032676.csv
+Only in new_csvs: ratified-indian-treaties_148032682.csv
+Only in new_csvs: ratified-indian-treaties_148032698.csv
+Only in new_csvs: ratified-indian-treaties_148033811.csv
+Only in new_csvs: ratified-indian-treaties_148033812.csv
+Only in new_csvs: ratified-indian-treaties_148033813.csv
+Only in new_csvs: ratified-indian-treaties_148033814.csv
+Only in new_csvs: ratified-indian-treaties_148033815.csv
+Only in new_csvs: ratified-indian-treaties_148033816.csv
+Only in new_csvs: ratified-indian-treaties_148062874.csv
+Only in new_csvs: ratified-indian-treaties_148062877.csv
+Only in new_csvs: ratified-indian-treaties_148068977.csv
+Only in new_csvs: ratified-indian-treaties_148068978.csv
+Only in new_csvs: ratified-indian-treaties_148068979.csv
+Only in new_csvs: ratified-indian-treaties_148068982.csv
+Only in new_csvs: ratified-indian-treaties_148068984.csv
+Only in new_csvs: ratified-indian-treaties_155390860.csv
+Only in new_csvs: ratified-indian-treaties_155390881.csv
+Only in new_csvs: ratified-indian-treaties_155390893.csv
+Only in new_csvs: ratified-indian-treaties_155390900.csv
+Only in new_csvs: ratified-indian-treaties_155390904.csv
+Only in new_csvs: ratified-indian-treaties_155390906.csv
+Only in new_csvs: ratified-indian-treaties_155390909.csv
+Only in new_csvs: ratified-indian-treaties_155390911.csv
+Only in new_csvs: ratified-indian-treaties_158703681.csv
+Only in new_csvs: ratified-indian-treaties_158704311.csv
+Only in new_csvs: ratified-indian-treaties_159085187.csv
+Only in new_csvs: ratified-indian-treaties_159085530.csv
+Only in new_csvs: ratified-indian-treaties_159085540.csv
+Only in new_csvs: ratified-indian-treaties_160903547.csv
+Only in new_csvs: ratified-indian-treaties_160903563.csv
+Only in new_csvs: ratified-indian-treaties_160913322.csv
+Only in new_csvs: ratified-indian-treaties_160919121.csv
+Only in new_csvs: ratified-indian-treaties_160919123.csv
+Only in new_csvs: ratified-indian-treaties_161303978.csv
+Only in new_csvs: ratified-indian-treaties_161303993.csv
+Only in new_csvs: ratified-indian-treaties_161303994.csv
+Only in new_csvs: ratified-indian-treaties_161303995.csv
+Only in new_csvs: ratified-indian-treaties_161303996.csv
+Only in new_csvs: ratified-indian-treaties_161378322.csv
+Only in new_csvs: ratified-indian-treaties_161378330.csv
+Only in new_csvs: ratified-indian-treaties_161378331.csv
+Only in new_csvs: ratified-indian-treaties_161378332.csv
+Only in new_csvs: ratified-indian-treaties_161378333.csv
+Only in new_csvs: ratified-indian-treaties_161378334.csv
+Only in new_csvs: ratified-indian-treaties_161378335.csv
+Only in new_csvs: ratified-indian-treaties_161378336.csv
+Only in new_csvs: ratified-indian-treaties_161378337.csv
+Only in new_csvs: ratified-indian-treaties_161378338.csv
+Only in new_csvs: ratified-indian-treaties_161378339.csv
+Only in new_csvs: ratified-indian-treaties_161378340.csv
+Only in new_csvs: ratified-indian-treaties_161378341.csv
+Only in new_csvs: ratified-indian-treaties_162121216.csv
+Only in new_csvs: ratified-indian-treaties_162186175.csv
+Only in new_csvs: ratified-indian-treaties_162246292.csv
+Only in new_csvs: ratified-indian-treaties_162246299.csv
+Only in new_csvs: ratified-indian-treaties_162246300.csv
+Only in new_csvs: ratified-indian-treaties_162246305.csv
+Only in new_csvs: ratified-indian-treaties_162246447.csv
+Only in new_csvs: ratified-indian-treaties_162246501.csv
+Only in new_csvs: ratified-indian-treaties_162246502.csv
+Only in new_csvs: ratified-indian-treaties_162312148.csv
+Only in new_csvs: ratified-indian-treaties_162373083.csv
+Only in new_csvs: ratified-indian-treaties_162373086.csv
+Only in new_csvs: ratified-indian-treaties_162373163.csv
+Only in new_csvs: ratified-indian-treaties_162432916.csv
+Only in new_csvs: ratified-indian-treaties_162496358.csv
+Only in new_csvs: ratified-indian-treaties_162496363.csv
+Only in new_csvs: ratified-indian-treaties_162497031.csv
+Only in new_csvs: ratified-indian-treaties_162559362.csv
+Only in new_csvs: ratified-indian-treaties_162619764.csv
+Only in new_csvs: ratified-indian-treaties_162619765.csv
+Only in new_csvs: ratified-indian-treaties_162682358.csv
+Only in new_csvs: ratified-indian-treaties_162682359.csv
+Only in new_csvs: ratified-indian-treaties_162742242.csv
+Only in new_csvs: ratified-indian-treaties_162742245.csv
+Only in new_csvs: ratified-indian-treaties_162742247.csv
+Only in new_csvs: ratified-indian-treaties_162742253.csv
+Only in new_csvs: ratified-indian-treaties_162742906.csv
+Only in new_csvs: ratified-indian-treaties_162880134.csv
+Only in new_csvs: ratified-indian-treaties_162880229.csv
+Only in new_csvs: ratified-indian-treaties_162880729.csv
+Only in new_csvs: ratified-indian-treaties_162880731.csv
+Only in new_csvs: ratified-indian-treaties_162905721.csv
+Only in new_csvs: ratified-indian-treaties_162912854.csv
+Only in new_csvs: ratified-indian-treaties_163023807.csv
+Only in new_csvs: ratified-indian-treaties_163545480.csv
+Only in new_csvs: ratified-indian-treaties_163545499.csv
+Only in new_csvs: ratified-indian-treaties_163545500.csv
+Only in new_csvs: ratified-indian-treaties_163545503.csv
+Only in new_csvs: ratified-indian-treaties_163545509.csv
+Only in new_csvs: ratified-indian-treaties_163545510.csv
+Only in new_csvs: ratified-indian-treaties_165042184.csv
+Only in new_csvs: ratified-indian-treaties_165042725.csv
+Only in new_csvs: ratified-indian-treaties_165042734.csv
+Only in new_csvs: ratified-indian-treaties_165042741.csv
+Only in new_csvs: ratified-indian-treaties_165042744.csv
+Only in new_csvs: ratified-indian-treaties_165042746.csv
+Only in new_csvs: ratified-indian-treaties_165042747.csv
+Only in new_csvs: ratified-indian-treaties_165042748.csv
+Only in new_csvs: ratified-indian-treaties_165042749.csv
+Only in new_csvs: ratified-indian-treaties_165042750.csv
+Only in new_csvs: ratified-indian-treaties_165042761.csv
+Only in new_csvs: ratified-indian-treaties_165042762.csv
+Only in new_csvs: ratified-indian-treaties_165042763.csv
+Only in new_csvs: ratified-indian-treaties_165319465.csv
+Only in new_csvs: ratified-indian-treaties_166002471.csv
+Only in new_csvs: ratified-indian-treaties_166002503.csv
+Only in new_csvs: ratified-indian-treaties_166002510.csv
+Only in new_csvs: ratified-indian-treaties_166002511.csv
+Only in new_csvs: ratified-indian-treaties_166002512.csv
+Only in new_csvs: ratified-indian-treaties_167222360.csv
+Only in new_csvs: ratified-indian-treaties_167222361.csv
+Only in new_csvs: ratified-indian-treaties_167222384.csv
+Only in new_csvs: ratified-indian-treaties_167222390.csv
+Only in new_csvs: ratified-indian-treaties_167222392.csv
+Only in new_csvs: ratified-indian-treaties_167235560.csv
+Only in new_csvs: ratified-indian-treaties_167247058.csv
+Only in new_csvs: ratified-indian-treaties_167247064.csv
+Only in new_csvs: ratified-indian-treaties_167247065.csv
+Only in new_csvs: ratified-indian-treaties_167247066.csv
+Only in new_csvs: ratified-indian-treaties_167247072.csv
+Only in new_csvs: ratified-indian-treaties_167247091.csv
+Only in new_csvs: ratified-indian-treaties_167772509.csv
+Only in new_csvs: ratified-indian-treaties_167772510.csv
+Only in new_csvs: ratified-indian-treaties_167772518.csv
+Only in new_csvs: ratified-indian-treaties_167772527.csv
+Only in new_csvs: ratified-indian-treaties_167774328.csv
+Only in new_csvs: ratified-indian-treaties_167774334.csv
+Only in new_csvs: ratified-indian-treaties_167774361.csv
+Only in new_csvs: ratified-indian-treaties_167774362.csv
+Only in new_csvs: ratified-indian-treaties_167774363.csv
+Only in new_csvs: ratified-indian-treaties_167774364.csv
+Only in new_csvs: ratified-indian-treaties_167780631.csv
+Only in new_csvs: ratified-indian-treaties_167780632.csv
+Only in new_csvs: ratified-indian-treaties_167780633.csv
+Only in new_csvs: ratified-indian-treaties_167780634.csv
+Only in new_csvs: ratified-indian-treaties_167780635.csv
+Only in new_csvs: ratified-indian-treaties_167780636.csv
+Only in new_csvs: ratified-indian-treaties_167780637.csv
+Only in new_csvs: ratified-indian-treaties_169161530.csv
+Only in new_csvs: ratified-indian-treaties_169162326.csv
+Only in new_csvs: ratified-indian-treaties_169162340.csv
+Only in new_csvs: ratified-indian-treaties_169164548.csv
+Only in new_csvs: ratified-indian-treaties_169164555.csv
+Only in new_csvs: ratified-indian-treaties_169164556.csv
+Only in new_csvs: ratified-indian-treaties_169164557.csv
+Only in new_csvs: ratified-indian-treaties_169164707.csv
+Only in new_csvs: ratified-indian-treaties_169164709.csv
+Only in new_csvs: ratified-indian-treaties_169164710.csv
+Only in new_csvs: ratified-indian-treaties_169165590.csv
+Only in new_csvs: ratified-indian-treaties_169165607.csv
+Only in new_csvs: ratified-indian-treaties_169165608.csv
+Only in new_csvs: ratified-indian-treaties_169165609.csv
+Only in new_csvs: ratified-indian-treaties_169165612.csv
+Only in new_csvs: ratified-indian-treaties_169165620.csv
+Only in new_csvs: ratified-indian-treaties_169165624.csv
+Only in new_csvs: ratified-indian-treaties_169167362.csv
+Only in new_csvs: ratified-indian-treaties_169312055.csv
+Only in new_csvs: ratified-indian-treaties_169371352.csv
+Only in new_csvs: ratified-indian-treaties_169371353.csv
+Only in new_csvs: ratified-indian-treaties_169371354.csv
+Only in new_csvs: ratified-indian-treaties_169371356.csv
+Only in new_csvs: ratified-indian-treaties_169371357.csv
+Only in new_csvs: ratified-indian-treaties_169371358.csv
+Only in new_csvs: ratified-indian-treaties_169371359.csv
+Only in new_csvs: ratified-indian-treaties_169371360.csv
+Only in new_csvs: ratified-indian-treaties_169371361.csv
+Only in new_csvs: ratified-indian-treaties_169371362.csv
+Only in new_csvs: ratified-indian-treaties_169371363.csv
+Only in new_csvs: ratified-indian-treaties_169389944.csv
+Only in new_csvs: ratified-indian-treaties_169389945.csv
+Only in new_csvs: ratified-indian-treaties_169390391.csv
+Only in new_csvs: ratified-indian-treaties_169486914.csv
+Only in new_csvs: ratified-indian-treaties_169486915.csv
+Only in new_csvs: ratified-indian-treaties_169512353.csv
+Only in new_csvs: ratified-indian-treaties_169512364.csv
+Only in new_csvs: ratified-indian-treaties_169512373.csv
+Only in new_csvs: ratified-indian-treaties_169606626.csv
+Only in new_csvs: ratified-indian-treaties_169606627.csv
+Only in new_csvs: ratified-indian-treaties_169606641.csv
+Only in new_csvs: ratified-indian-treaties_169606646.csv
+Only in new_csvs: ratified-indian-treaties_169606647.csv
+Only in new_csvs: ratified-indian-treaties_169606648.csv
+Only in new_csvs: ratified-indian-treaties_169606649.csv
+Only in new_csvs: ratified-indian-treaties_169692034.csv
+Only in new_csvs: ratified-indian-treaties_169753472.csv
+Only in new_csvs: ratified-indian-treaties_169753480.csv
+Only in new_csvs: ratified-indian-treaties_169814949.csv
+Only in new_csvs: ratified-indian-treaties_169814951.csv
+Only in new_csvs: ratified-indian-treaties_169814952.csv
+Only in new_csvs: ratified-indian-treaties_169814967.csv
+Only in new_csvs: ratified-indian-treaties_169814968.csv
+Only in new_csvs: ratified-indian-treaties_169820367.csv
+Only in new_csvs: ratified-indian-treaties_169820369.csv
+Only in new_csvs: ratified-indian-treaties_169820512.csv
+Only in new_csvs: ratified-indian-treaties_169820597.csv
+Only in new_csvs: ratified-indian-treaties_169820663.csv
+Only in new_csvs: ratified-indian-treaties_169820680.csv
+Only in new_csvs: ratified-indian-treaties_169820682.csv
+Only in new_csvs: ratified-indian-treaties_169820683.csv
+Only in new_csvs: ratified-indian-treaties_169820690.csv
+Only in new_csvs: ratified-indian-treaties_169820691.csv
+Only in new_csvs: ratified-indian-treaties_169820692.csv
+Only in new_csvs: ratified-indian-treaties_169820693.csv
+Only in new_csvs: ratified-indian-treaties_169820715.csv
+Only in new_csvs: ratified-indian-treaties_169820716.csv
+Only in new_csvs: ratified-indian-treaties_169820717.csv
+Only in new_csvs: ratified-indian-treaties_169820718.csv
+Only in new_csvs: ratified-indian-treaties_169820719.csv
+Only in new_csvs: ratified-indian-treaties_169820720.csv
+Only in new_csvs: ratified-indian-treaties_169820721.csv
+Only in new_csvs: ratified-indian-treaties_169820741.csv
+Only in new_csvs: ratified-indian-treaties_169820743.csv
+Only in new_csvs: ratified-indian-treaties_169820745.csv
+Only in new_csvs: ratified-indian-treaties_169820746.csv
+Only in new_csvs: ratified-indian-treaties_169820747.csv
+Only in new_csvs: ratified-indian-treaties_169820748.csv
+Only in new_csvs: ratified-indian-treaties_169820749.csv
+Only in new_csvs: ratified-indian-treaties_169820753.csv
+Only in new_csvs: ratified-indian-treaties_169820754.csv
+Only in new_csvs: ratified-indian-treaties_169820755.csv
+Only in new_csvs: ratified-indian-treaties_169820756.csv
+Only in new_csvs: ratified-indian-treaties_169820757.csv
+Only in new_csvs: ratified-indian-treaties_169820758.csv
+Only in new_csvs: ratified-indian-treaties_169820759.csv
+Only in new_csvs: ratified-indian-treaties_169820763.csv
+Only in new_csvs: ratified-indian-treaties_169820764.csv
+Only in new_csvs: ratified-indian-treaties_169993774.csv
+Only in new_csvs: ratified-indian-treaties_169993775.csv
+Only in new_csvs: ratified-indian-treaties_170011278.csv
+Only in new_csvs: ratified-indian-treaties_170011283.csv
+Only in new_csvs: ratified-indian-treaties_170109744.csv
+Only in new_csvs: ratified-indian-treaties_170109800.csv
+Only in new_csvs: ratified-indian-treaties_170109805.csv
+Only in new_csvs: ratified-indian-treaties_170109806.csv
+Only in new_csvs: ratified-indian-treaties_170109807.csv
+Only in new_csvs: ratified-indian-treaties_170109809.csv
+Only in new_csvs: ratified-indian-treaties_170231456.csv
+Only in new_csvs: ratified-indian-treaties_170232450.csv
+Only in new_csvs: ratified-indian-treaties_170281417.csv
+Only in new_csvs: ratified-indian-treaties_170281420.csv
+Only in new_csvs: ratified-indian-treaties_170281421.csv
+Only in new_csvs: ratified-indian-treaties_170281423.csv
+Only in new_csvs: ratified-indian-treaties_170281429.csv
+Only in new_csvs: ratified-indian-treaties_170281433.csv
+Only in new_csvs: ratified-indian-treaties_170281434.csv
+Only in new_csvs: ratified-indian-treaties_170281435.csv
+Only in new_csvs: ratified-indian-treaties_170281436.csv
+Only in new_csvs: ratified-indian-treaties_170281437.csv
+Only in new_csvs: ratified-indian-treaties_170281438.csv
+Only in new_csvs: ratified-indian-treaties_170281458.csv
+Only in new_csvs: ratified-indian-treaties_170281459.csv
+Only in new_csvs: ratified-indian-treaties_170281460.csv
+Only in new_csvs: ratified-indian-treaties_170281461.csv
+Only in new_csvs: ratified-indian-treaties_170281477.csv
+Only in new_csvs: ratified-indian-treaties_170281478.csv
+Only in new_csvs: ratified-indian-treaties_170281479.csv
+Only in new_csvs: ratified-indian-treaties_170281480.csv
+Only in new_csvs: ratified-indian-treaties_170281481.csv
+Only in new_csvs: ratified-indian-treaties_170281482.csv
+Only in new_csvs: ratified-indian-treaties_170281483.csv
+Only in new_csvs: ratified-indian-treaties_170281484.csv
+Only in new_csvs: ratified-indian-treaties_170281485.csv
+Only in new_csvs: ratified-indian-treaties_170281486.csv
+Only in new_csvs: ratified-indian-treaties_170281487.csv
+Only in new_csvs: ratified-indian-treaties_170281488.csv
+Only in new_csvs: ratified-indian-treaties_170281489.csv
+Only in new_csvs: ratified-indian-treaties_170281490.csv
+Only in new_csvs: ratified-indian-treaties_170281491.csv
+Only in new_csvs: ratified-indian-treaties_170281492.csv
+Only in new_csvs: ratified-indian-treaties_170281493.csv
+Only in new_csvs: ratified-indian-treaties_170281494.csv
+Only in new_csvs: ratified-indian-treaties_170281495.csv
+Only in new_csvs: ratified-indian-treaties_170281496.csv
+Files old_csvs/ratified-indian-treaties_299800.csv and new_csvs/ratified-indian-treaties_299800.csv differ
+Files old_csvs/ratified-indian-treaties_299801.csv and new_csvs/ratified-indian-treaties_299801.csv differ
+Files old_csvs/ratified-indian-treaties_299802.csv and new_csvs/ratified-indian-treaties_299802.csv differ
+Files old_csvs/ratified-indian-treaties_299803.csv and new_csvs/ratified-indian-treaties_299803.csv differ
+Files old_csvs/ratified-indian-treaties_57698865.csv and new_csvs/ratified-indian-treaties_57698865.csv differ
+Files old_csvs/ratified-indian-treaties_57756662.csv and new_csvs/ratified-indian-treaties_57756662.csv differ
+Files old_csvs/ratified-indian-treaties_57973322.csv and new_csvs/ratified-indian-treaties_57973322.csv differ
+Files old_csvs/ratified-indian-treaties_57973332.csv and new_csvs/ratified-indian-treaties_57973332.csv differ
+Files old_csvs/ratified-indian-treaties_58234673.csv and new_csvs/ratified-indian-treaties_58234673.csv differ
+Files old_csvs/ratified-indian-treaties_58305372.csv and new_csvs/ratified-indian-treaties_58305372.csv differ
+Files old_csvs/ratified-indian-treaties_58328187.csv and new_csvs/ratified-indian-treaties_58328187.csv differ
+Files old_csvs/ratified-indian-treaties_596331.csv and new_csvs/ratified-indian-treaties_596331.csv differ
+Files old_csvs/ratified-indian-treaties_60582354.csv and new_csvs/ratified-indian-treaties_60582354.csv differ
+Files old_csvs/ratified-indian-treaties_60595667.csv and new_csvs/ratified-indian-treaties_60595667.csv differ
+Files old_csvs/ratified-indian-treaties_60630177.csv and new_csvs/ratified-indian-treaties_60630177.csv differ
+Files old_csvs/ratified-indian-treaties_60646161.csv and new_csvs/ratified-indian-treaties_60646161.csv differ
+Files old_csvs/ratified-indian-treaties_60659853.csv and new_csvs/ratified-indian-treaties_60659853.csv differ
+Files old_csvs/ratified-indian-treaties_60664580.csv and new_csvs/ratified-indian-treaties_60664580.csv differ
+Files old_csvs/ratified-indian-treaties_60667718.csv and new_csvs/ratified-indian-treaties_60667718.csv differ
+Files old_csvs/ratified-indian-treaties_60675424.csv and new_csvs/ratified-indian-treaties_60675424.csv differ
+Files old_csvs/ratified-indian-treaties_60677736.csv and new_csvs/ratified-indian-treaties_60677736.csv differ
+Files old_csvs/ratified-indian-treaties_60679874.csv and new_csvs/ratified-indian-treaties_60679874.csv differ
+Files old_csvs/ratified-indian-treaties_6173067.csv and new_csvs/ratified-indian-treaties_6173067.csv differ
+Files old_csvs/ratified-indian-treaties_68144559.csv and new_csvs/ratified-indian-treaties_68144559.csv differ
+Files old_csvs/ratified-indian-treaties_68161617.csv and new_csvs/ratified-indian-treaties_68161617.csv differ
+Files old_csvs/ratified-indian-treaties_68161618.csv and new_csvs/ratified-indian-treaties_68161618.csv differ
+Files old_csvs/ratified-indian-treaties_70156292.csv and new_csvs/ratified-indian-treaties_70156292.csv differ
+Files old_csvs/ratified-indian-treaties_70156314.csv and new_csvs/ratified-indian-treaties_70156314.csv differ
+Files old_csvs/ratified-indian-treaties_70156315.csv and new_csvs/ratified-indian-treaties_70156315.csv differ
+Files old_csvs/ratified-indian-treaties_70156316.csv and new_csvs/ratified-indian-treaties_70156316.csv differ
+Files old_csvs/ratified-indian-treaties_70156338.csv and new_csvs/ratified-indian-treaties_70156338.csv differ
+Files old_csvs/ratified-indian-treaties_70168714.csv and new_csvs/ratified-indian-treaties_70168714.csv differ
+Files old_csvs/ratified-indian-treaties_70168718.csv and new_csvs/ratified-indian-treaties_70168718.csv differ
+Files old_csvs/ratified-indian-treaties_70168724.csv and new_csvs/ratified-indian-treaties_70168724.csv differ
+Files old_csvs/ratified-indian-treaties_70168729.csv and new_csvs/ratified-indian-treaties_70168729.csv differ
+Files old_csvs/ratified-indian-treaties_70168731.csv and new_csvs/ratified-indian-treaties_70168731.csv differ
+Files old_csvs/ratified-indian-treaties_70168734.csv and new_csvs/ratified-indian-treaties_70168734.csv differ
+Files old_csvs/ratified-indian-treaties_70168735.csv and new_csvs/ratified-indian-treaties_70168735.csv differ
+Files old_csvs/ratified-indian-treaties_70168736.csv and new_csvs/ratified-indian-treaties_70168736.csv differ
+Files old_csvs/ratified-indian-treaties_74798746.csv and new_csvs/ratified-indian-treaties_74798746.csv differ
+Files old_csvs/ratified-indian-treaties_74799191.csv and new_csvs/ratified-indian-treaties_74799191.csv differ
+Files old_csvs/ratified-indian-treaties_74799192.csv and new_csvs/ratified-indian-treaties_74799192.csv differ
+Files old_csvs/ratified-indian-treaties_74799193.csv and new_csvs/ratified-indian-treaties_74799193.csv differ
+Files old_csvs/ratified-indian-treaties_74859370.csv and new_csvs/ratified-indian-treaties_74859370.csv differ
+Files old_csvs/ratified-indian-treaties_74859379.csv and new_csvs/ratified-indian-treaties_74859379.csv differ
+Files old_csvs/ratified-indian-treaties_74859408.csv and new_csvs/ratified-indian-treaties_74859408.csv differ
+Files old_csvs/ratified-indian-treaties_74859409.csv and new_csvs/ratified-indian-treaties_74859409.csv differ
+Files old_csvs/ratified-indian-treaties_74859411.csv and new_csvs/ratified-indian-treaties_74859411.csv differ
+Files old_csvs/ratified-indian-treaties_74859412.csv and new_csvs/ratified-indian-treaties_74859412.csv differ
+Files old_csvs/ratified-indian-treaties_74859416.csv and new_csvs/ratified-indian-treaties_74859416.csv differ
+Files old_csvs/ratified-indian-treaties_74859417.csv and new_csvs/ratified-indian-treaties_74859417.csv differ
+Files old_csvs/ratified-indian-treaties_74859421.csv and new_csvs/ratified-indian-treaties_74859421.csv differ
+Files old_csvs/ratified-indian-treaties_74859423.csv and new_csvs/ratified-indian-treaties_74859423.csv differ
+Files old_csvs/ratified-indian-treaties_74859424.csv and new_csvs/ratified-indian-treaties_74859424.csv differ
+Files old_csvs/ratified-indian-treaties_74884689.csv and new_csvs/ratified-indian-treaties_74884689.csv differ
+Files old_csvs/ratified-indian-treaties_74895921.csv and new_csvs/ratified-indian-treaties_74895921.csv differ
+Files old_csvs/ratified-indian-treaties_74895974.csv and new_csvs/ratified-indian-treaties_74895974.csv differ
+Files old_csvs/ratified-indian-treaties_74895979.csv and new_csvs/ratified-indian-treaties_74895979.csv differ
+Files old_csvs/ratified-indian-treaties_74899651.csv and new_csvs/ratified-indian-treaties_74899651.csv differ
+Files old_csvs/ratified-indian-treaties_75105737.csv and new_csvs/ratified-indian-treaties_75105737.csv differ
+Files old_csvs/ratified-indian-treaties_75271377.csv and new_csvs/ratified-indian-treaties_75271377.csv differ
+Files old_csvs/ratified-indian-treaties_75295959.csv and new_csvs/ratified-indian-treaties_75295959.csv differ
+Files old_csvs/ratified-indian-treaties_75295970.csv and new_csvs/ratified-indian-treaties_75295970.csv differ
+Files old_csvs/ratified-indian-treaties_75300884.csv and new_csvs/ratified-indian-treaties_75300884.csv differ
+Files old_csvs/ratified-indian-treaties_75300888.csv and new_csvs/ratified-indian-treaties_75300888.csv differ
+Files old_csvs/ratified-indian-treaties_75304018.csv and new_csvs/ratified-indian-treaties_75304018.csv differ
+Files old_csvs/ratified-indian-treaties_75311885.csv and new_csvs/ratified-indian-treaties_75311885.csv differ
+Files old_csvs/ratified-indian-treaties_75311897.csv and new_csvs/ratified-indian-treaties_75311897.csv differ
+Files old_csvs/ratified-indian-treaties_75311905.csv and new_csvs/ratified-indian-treaties_75311905.csv differ
+Files old_csvs/ratified-indian-treaties_75311934.csv and new_csvs/ratified-indian-treaties_75311934.csv differ
+Files old_csvs/ratified-indian-treaties_75340478.csv and new_csvs/ratified-indian-treaties_75340478.csv differ
+Files old_csvs/ratified-indian-treaties_75429335.csv and new_csvs/ratified-indian-treaties_75429335.csv differ
+Files old_csvs/ratified-indian-treaties_75429339.csv and new_csvs/ratified-indian-treaties_75429339.csv differ
+Files old_csvs/ratified-indian-treaties_75429340.csv and new_csvs/ratified-indian-treaties_75429340.csv differ
+Files old_csvs/ratified-indian-treaties_75430921.csv and new_csvs/ratified-indian-treaties_75430921.csv differ
+Files old_csvs/ratified-indian-treaties_75433483.csv and new_csvs/ratified-indian-treaties_75433483.csv differ
+Files old_csvs/ratified-indian-treaties_75433487.csv and new_csvs/ratified-indian-treaties_75433487.csv differ
+Files old_csvs/ratified-indian-treaties_75435684.csv and new_csvs/ratified-indian-treaties_75435684.csv differ
+Files old_csvs/ratified-indian-treaties_75435706.csv and new_csvs/ratified-indian-treaties_75435706.csv differ
+Files old_csvs/ratified-indian-treaties_75435726.csv and new_csvs/ratified-indian-treaties_75435726.csv differ
+Files old_csvs/ratified-indian-treaties_75435757.csv and new_csvs/ratified-indian-treaties_75435757.csv differ
+Files old_csvs/ratified-indian-treaties_75435791.csv and new_csvs/ratified-indian-treaties_75435791.csv differ
+Files old_csvs/ratified-indian-treaties_75435813.csv and new_csvs/ratified-indian-treaties_75435813.csv differ
+Files old_csvs/ratified-indian-treaties_75435831.csv and new_csvs/ratified-indian-treaties_75435831.csv differ
+Files old_csvs/ratified-indian-treaties_75435852.csv and new_csvs/ratified-indian-treaties_75435852.csv differ
+Files old_csvs/ratified-indian-treaties_75435912.csv and new_csvs/ratified-indian-treaties_75435912.csv differ
+Files old_csvs/ratified-indian-treaties_75439812.csv and new_csvs/ratified-indian-treaties_75439812.csv differ
+Files old_csvs/ratified-indian-treaties_75440009.csv and new_csvs/ratified-indian-treaties_75440009.csv differ
+Files old_csvs/ratified-indian-treaties_75440010.csv and new_csvs/ratified-indian-treaties_75440010.csv differ
+Files old_csvs/ratified-indian-treaties_75440014.csv and new_csvs/ratified-indian-treaties_75440014.csv differ
+Files old_csvs/ratified-indian-treaties_75440102.csv and new_csvs/ratified-indian-treaties_75440102.csv differ
+Files old_csvs/ratified-indian-treaties_75495416.csv and new_csvs/ratified-indian-treaties_75495416.csv differ
+Files old_csvs/ratified-indian-treaties_75495441.csv and new_csvs/ratified-indian-treaties_75495441.csv differ
+Files old_csvs/ratified-indian-treaties_75495483.csv and new_csvs/ratified-indian-treaties_75495483.csv differ
+Files old_csvs/ratified-indian-treaties_75495522.csv and new_csvs/ratified-indian-treaties_75495522.csv differ
+Files old_csvs/ratified-indian-treaties_75495543.csv and new_csvs/ratified-indian-treaties_75495543.csv differ
+Files old_csvs/ratified-indian-treaties_75495657.csv and new_csvs/ratified-indian-treaties_75495657.csv differ
+Files old_csvs/ratified-indian-treaties_75495847.csv and new_csvs/ratified-indian-treaties_75495847.csv differ
+Files old_csvs/ratified-indian-treaties_75495850.csv and new_csvs/ratified-indian-treaties_75495850.csv differ
+Files old_csvs/ratified-indian-treaties_75501942.csv and new_csvs/ratified-indian-treaties_75501942.csv differ
+Files old_csvs/ratified-indian-treaties_75502744.csv and new_csvs/ratified-indian-treaties_75502744.csv differ
+Files old_csvs/ratified-indian-treaties_75502862.csv and new_csvs/ratified-indian-treaties_75502862.csv differ
+Files old_csvs/ratified-indian-treaties_75502872.csv and new_csvs/ratified-indian-treaties_75502872.csv differ
+Files old_csvs/ratified-indian-treaties_75502923.csv and new_csvs/ratified-indian-treaties_75502923.csv differ
+Files old_csvs/ratified-indian-treaties_75625393.csv and new_csvs/ratified-indian-treaties_75625393.csv differ
+Files old_csvs/ratified-indian-treaties_75625709.csv and new_csvs/ratified-indian-treaties_75625709.csv differ
+Files old_csvs/ratified-indian-treaties_75625875.csv and new_csvs/ratified-indian-treaties_75625875.csv differ
+Files old_csvs/ratified-indian-treaties_75625876.csv and new_csvs/ratified-indian-treaties_75625876.csv differ
+Files old_csvs/ratified-indian-treaties_75626178.csv and new_csvs/ratified-indian-treaties_75626178.csv differ
+Files old_csvs/ratified-indian-treaties_75626185.csv and new_csvs/ratified-indian-treaties_75626185.csv differ
+Files old_csvs/ratified-indian-treaties_75626189.csv and new_csvs/ratified-indian-treaties_75626189.csv differ
+Files old_csvs/ratified-indian-treaties_75626352.csv and new_csvs/ratified-indian-treaties_75626352.csv differ
+Files old_csvs/ratified-indian-treaties_75639129.csv and new_csvs/ratified-indian-treaties_75639129.csv differ
+Files old_csvs/ratified-indian-treaties_75642724.csv and new_csvs/ratified-indian-treaties_75642724.csv differ
+Files old_csvs/ratified-indian-treaties_75642728.csv and new_csvs/ratified-indian-treaties_75642728.csv differ
+Files old_csvs/ratified-indian-treaties_75642729.csv and new_csvs/ratified-indian-treaties_75642729.csv differ
+Files old_csvs/ratified-indian-treaties_75642730.csv and new_csvs/ratified-indian-treaties_75642730.csv differ
+Files old_csvs/ratified-indian-treaties_75642731.csv and new_csvs/ratified-indian-treaties_75642731.csv differ
+Files old_csvs/ratified-indian-treaties_75642740.csv and new_csvs/ratified-indian-treaties_75642740.csv differ
+Files old_csvs/ratified-indian-treaties_75646359.csv and new_csvs/ratified-indian-treaties_75646359.csv differ
+Files old_csvs/ratified-indian-treaties_75646360.csv and new_csvs/ratified-indian-treaties_75646360.csv differ
+Files old_csvs/ratified-indian-treaties_75646361.csv and new_csvs/ratified-indian-treaties_75646361.csv differ
+Files old_csvs/ratified-indian-treaties_75646362.csv and new_csvs/ratified-indian-treaties_75646362.csv differ
+Files old_csvs/ratified-indian-treaties_75646364.csv and new_csvs/ratified-indian-treaties_75646364.csv differ
+Files old_csvs/ratified-indian-treaties_75646365.csv and new_csvs/ratified-indian-treaties_75646365.csv differ
+Files old_csvs/ratified-indian-treaties_75646404.csv and new_csvs/ratified-indian-treaties_75646404.csv differ
+Files old_csvs/ratified-indian-treaties_75646407.csv and new_csvs/ratified-indian-treaties_75646407.csv differ
+Files old_csvs/ratified-indian-treaties_75646439.csv and new_csvs/ratified-indian-treaties_75646439.csv differ
+Files old_csvs/ratified-indian-treaties_75646451.csv and new_csvs/ratified-indian-treaties_75646451.csv differ
+Files old_csvs/ratified-indian-treaties_75646453.csv and new_csvs/ratified-indian-treaties_75646453.csv differ
+Files old_csvs/ratified-indian-treaties_75646454.csv and new_csvs/ratified-indian-treaties_75646454.csv differ
+Files old_csvs/ratified-indian-treaties_75646455.csv and new_csvs/ratified-indian-treaties_75646455.csv differ
+Files old_csvs/ratified-indian-treaties_75646456.csv and new_csvs/ratified-indian-treaties_75646456.csv differ
+Files old_csvs/ratified-indian-treaties_75646457.csv and new_csvs/ratified-indian-treaties_75646457.csv differ
+Files old_csvs/ratified-indian-treaties_75646463.csv and new_csvs/ratified-indian-treaties_75646463.csv differ
+Files old_csvs/ratified-indian-treaties_75646479.csv and new_csvs/ratified-indian-treaties_75646479.csv differ
+Files old_csvs/ratified-indian-treaties_75646489.csv and new_csvs/ratified-indian-treaties_75646489.csv differ
+Files old_csvs/ratified-indian-treaties_75646554.csv and new_csvs/ratified-indian-treaties_75646554.csv differ
+Files old_csvs/ratified-indian-treaties_75646556.csv and new_csvs/ratified-indian-treaties_75646556.csv differ
+Files old_csvs/ratified-indian-treaties_75646561.csv and new_csvs/ratified-indian-treaties_75646561.csv differ
+Files old_csvs/ratified-indian-treaties_75646564.csv and new_csvs/ratified-indian-treaties_75646564.csv differ
+Files old_csvs/ratified-indian-treaties_75646575.csv and new_csvs/ratified-indian-treaties_75646575.csv differ
+Files old_csvs/ratified-indian-treaties_75646577.csv and new_csvs/ratified-indian-treaties_75646577.csv differ
+Files old_csvs/ratified-indian-treaties_75646581.csv and new_csvs/ratified-indian-treaties_75646581.csv differ
+Files old_csvs/ratified-indian-treaties_75646641.csv and new_csvs/ratified-indian-treaties_75646641.csv differ
+Files old_csvs/ratified-indian-treaties_75667221.csv and new_csvs/ratified-indian-treaties_75667221.csv differ
+Files old_csvs/ratified-indian-treaties_75667238.csv and new_csvs/ratified-indian-treaties_75667238.csv differ
+Files old_csvs/ratified-indian-treaties_75667247.csv and new_csvs/ratified-indian-treaties_75667247.csv differ
+Files old_csvs/ratified-indian-treaties_75677472.csv and new_csvs/ratified-indian-treaties_75677472.csv differ
+Files old_csvs/ratified-indian-treaties_75677485.csv and new_csvs/ratified-indian-treaties_75677485.csv differ
+Files old_csvs/ratified-indian-treaties_75677503.csv and new_csvs/ratified-indian-treaties_75677503.csv differ
+Files old_csvs/ratified-indian-treaties_75677510.csv and new_csvs/ratified-indian-treaties_75677510.csv differ
+Files old_csvs/ratified-indian-treaties_75677522.csv and new_csvs/ratified-indian-treaties_75677522.csv differ
+Files old_csvs/ratified-indian-treaties_75696628.csv and new_csvs/ratified-indian-treaties_75696628.csv differ
+Files old_csvs/ratified-indian-treaties_75696630.csv and new_csvs/ratified-indian-treaties_75696630.csv differ
+Files old_csvs/ratified-indian-treaties_75696632.csv and new_csvs/ratified-indian-treaties_75696632.csv differ
+Files old_csvs/ratified-indian-treaties_75696633.csv and new_csvs/ratified-indian-treaties_75696633.csv differ
+Files old_csvs/ratified-indian-treaties_75696637.csv and new_csvs/ratified-indian-treaties_75696637.csv differ
+Files old_csvs/ratified-indian-treaties_75696662.csv and new_csvs/ratified-indian-treaties_75696662.csv differ
+Files old_csvs/ratified-indian-treaties_75697017.csv and new_csvs/ratified-indian-treaties_75697017.csv differ
+Files old_csvs/ratified-indian-treaties_75697039.csv and new_csvs/ratified-indian-treaties_75697039.csv differ
+Files old_csvs/ratified-indian-treaties_75697052.csv and new_csvs/ratified-indian-treaties_75697052.csv differ
+Files old_csvs/ratified-indian-treaties_75697065.csv and new_csvs/ratified-indian-treaties_75697065.csv differ
+Files old_csvs/ratified-indian-treaties_75702713.csv and new_csvs/ratified-indian-treaties_75702713.csv differ
+Files old_csvs/ratified-indian-treaties_75710629.csv and new_csvs/ratified-indian-treaties_75710629.csv differ
+Files old_csvs/ratified-indian-treaties_75710630.csv and new_csvs/ratified-indian-treaties_75710630.csv differ
+Files old_csvs/ratified-indian-treaties_75710636.csv and new_csvs/ratified-indian-treaties_75710636.csv differ
+Files old_csvs/ratified-indian-treaties_75718179.csv and new_csvs/ratified-indian-treaties_75718179.csv differ
+Files old_csvs/ratified-indian-treaties_75718217.csv and new_csvs/ratified-indian-treaties_75718217.csv differ
+Files old_csvs/ratified-indian-treaties_75731199.csv and new_csvs/ratified-indian-treaties_75731199.csv differ
+Files old_csvs/ratified-indian-treaties_75731202.csv and new_csvs/ratified-indian-treaties_75731202.csv differ
+Files old_csvs/ratified-indian-treaties_75731203.csv and new_csvs/ratified-indian-treaties_75731203.csv differ
+Files old_csvs/ratified-indian-treaties_75731204.csv and new_csvs/ratified-indian-treaties_75731204.csv differ
+Files old_csvs/ratified-indian-treaties_75747464.csv and new_csvs/ratified-indian-treaties_75747464.csv differ
+Files old_csvs/ratified-indian-treaties_75748328.csv and new_csvs/ratified-indian-treaties_75748328.csv differ
+Files old_csvs/ratified-indian-treaties_75748329.csv and new_csvs/ratified-indian-treaties_75748329.csv differ
+Files old_csvs/ratified-indian-treaties_75748365.csv and new_csvs/ratified-indian-treaties_75748365.csv differ
+Files old_csvs/ratified-indian-treaties_75748382.csv and new_csvs/ratified-indian-treaties_75748382.csv differ
+Files old_csvs/ratified-indian-treaties_75748386.csv and new_csvs/ratified-indian-treaties_75748386.csv differ
+Files old_csvs/ratified-indian-treaties_77165396.csv and new_csvs/ratified-indian-treaties_77165396.csv differ
+Files old_csvs/ratified-indian-treaties_77165444.csv and new_csvs/ratified-indian-treaties_77165444.csv differ
+Files old_csvs/ratified-indian-treaties_77165459.csv and new_csvs/ratified-indian-treaties_77165459.csv differ
+Files old_csvs/ratified-indian-treaties_77165997.csv and new_csvs/ratified-indian-treaties_77165997.csv differ
+Files old_csvs/ratified-indian-treaties_77166044.csv and new_csvs/ratified-indian-treaties_77166044.csv differ
+Files old_csvs/ratified-indian-treaties_77166045.csv and new_csvs/ratified-indian-treaties_77166045.csv differ
+Files old_csvs/ratified-indian-treaties_77166047.csv and new_csvs/ratified-indian-treaties_77166047.csv differ
+Files old_csvs/ratified-indian-treaties_77431085.csv and new_csvs/ratified-indian-treaties_77431085.csv differ
+Files old_csvs/ratified-indian-treaties_77433419.csv and new_csvs/ratified-indian-treaties_77433419.csv differ
+Files old_csvs/ratified-indian-treaties_77433899.csv and new_csvs/ratified-indian-treaties_77433899.csv differ
+Files old_csvs/ratified-indian-treaties_77433926.csv and new_csvs/ratified-indian-treaties_77433926.csv differ
+Files old_csvs/ratified-indian-treaties_77434176.csv and new_csvs/ratified-indian-treaties_77434176.csv differ
+Files old_csvs/ratified-indian-treaties_77820196.csv and new_csvs/ratified-indian-treaties_77820196.csv differ
+Files old_csvs/ratified-indian-treaties_77820200.csv and new_csvs/ratified-indian-treaties_77820200.csv differ
+Files old_csvs/ratified-indian-treaties_77820211.csv and new_csvs/ratified-indian-treaties_77820211.csv differ
+Files old_csvs/ratified-indian-treaties_77820215.csv and new_csvs/ratified-indian-treaties_77820215.csv differ
+Files old_csvs/ratified-indian-treaties_77820287.csv and new_csvs/ratified-indian-treaties_77820287.csv differ
+Files old_csvs/ratified-indian-treaties_77820712.csv and new_csvs/ratified-indian-treaties_77820712.csv differ
+Files old_csvs/ratified-indian-treaties_77820716.csv and new_csvs/ratified-indian-treaties_77820716.csv differ
+Files old_csvs/ratified-indian-treaties_77820720.csv and new_csvs/ratified-indian-treaties_77820720.csv differ
+Files old_csvs/ratified-indian-treaties_77820725.csv and new_csvs/ratified-indian-treaties_77820725.csv differ
+Files old_csvs/ratified-indian-treaties_77820736.csv and new_csvs/ratified-indian-treaties_77820736.csv differ
+Files old_csvs/ratified-indian-treaties_77820750.csv and new_csvs/ratified-indian-treaties_77820750.csv differ
+Files old_csvs/ratified-indian-treaties_77828875.csv and new_csvs/ratified-indian-treaties_77828875.csv differ
+Only in old_csvs: ratified-indian-treaties_7891103.csv
+Files old_csvs/ratified-indian-treaties_81131943.csv and new_csvs/ratified-indian-treaties_81131943.csv differ
+Files old_csvs/ratified-indian-treaties_81131944.csv and new_csvs/ratified-indian-treaties_81131944.csv differ
+Files old_csvs/ratified-indian-treaties_81131945.csv and new_csvs/ratified-indian-treaties_81131945.csv differ
+Files old_csvs/ratified-indian-treaties_81131946.csv and new_csvs/ratified-indian-treaties_81131946.csv differ
+Files old_csvs/ratified-indian-treaties_81145643.csv and new_csvs/ratified-indian-treaties_81145643.csv differ
+Files old_csvs/ratified-indian-treaties_81145645.csv and new_csvs/ratified-indian-treaties_81145645.csv differ
+Files old_csvs/ratified-indian-treaties_81147473.csv and new_csvs/ratified-indian-treaties_81147473.csv differ
+Files old_csvs/ratified-indian-treaties_81150171.csv and new_csvs/ratified-indian-treaties_81150171.csv differ
+Files old_csvs/ratified-indian-treaties_81152505.csv and new_csvs/ratified-indian-treaties_81152505.csv differ
+Files old_csvs/ratified-indian-treaties_81152508.csv and new_csvs/ratified-indian-treaties_81152508.csv differ
+Files old_csvs/ratified-indian-treaties_81152513.csv and new_csvs/ratified-indian-treaties_81152513.csv differ
+Files old_csvs/ratified-indian-treaties_81152552.csv and new_csvs/ratified-indian-treaties_81152552.csv differ
+Files old_csvs/ratified-indian-treaties_81152554.csv and new_csvs/ratified-indian-treaties_81152554.csv differ
+Files old_csvs/ratified-indian-treaties_81228136.csv and new_csvs/ratified-indian-treaties_81228136.csv differ
+Files old_csvs/ratified-indian-treaties_81556980.csv and new_csvs/ratified-indian-treaties_81556980.csv differ
+Files old_csvs/ratified-indian-treaties_81556982.csv and new_csvs/ratified-indian-treaties_81556982.csv differ
+Files old_csvs/ratified-indian-treaties_82510611.csv and new_csvs/ratified-indian-treaties_82510611.csv differ
+Files old_csvs/ratified-indian-treaties_82510612.csv and new_csvs/ratified-indian-treaties_82510612.csv differ
+Files old_csvs/ratified-indian-treaties_82570131.csv and new_csvs/ratified-indian-treaties_82570131.csv differ
+Files old_csvs/ratified-indian-treaties_82571665.csv and new_csvs/ratified-indian-treaties_82571665.csv differ
+Files old_csvs/ratified-indian-treaties_82573069.csv and new_csvs/ratified-indian-treaties_82573069.csv differ
+Files old_csvs/ratified-indian-treaties_82573468.csv and new_csvs/ratified-indian-treaties_82573468.csv differ
+Files old_csvs/ratified-indian-treaties_82573535.csv and new_csvs/ratified-indian-treaties_82573535.csv differ
+Files old_csvs/ratified-indian-treaties_82573536.csv and new_csvs/ratified-indian-treaties_82573536.csv differ
+Files old_csvs/ratified-indian-treaties_82573544.csv and new_csvs/ratified-indian-treaties_82573544.csv differ
+Files old_csvs/ratified-indian-treaties_82573546.csv and new_csvs/ratified-indian-treaties_82573546.csv differ
+Files old_csvs/ratified-indian-treaties_82579641.csv and new_csvs/ratified-indian-treaties_82579641.csv differ
+Files old_csvs/ratified-indian-treaties_83090181.csv and new_csvs/ratified-indian-treaties_83090181.csv differ
+Files old_csvs/ratified-indian-treaties_83090183.csv and new_csvs/ratified-indian-treaties_83090183.csv differ
+Files old_csvs/ratified-indian-treaties_83226167.csv and new_csvs/ratified-indian-treaties_83226167.csv differ
+Files old_csvs/ratified-indian-treaties_83317519.csv and new_csvs/ratified-indian-treaties_83317519.csv differ
+Files old_csvs/ratified-indian-treaties_83443580.csv and new_csvs/ratified-indian-treaties_83443580.csv differ
+Files old_csvs/ratified-indian-treaties_83740154.csv and new_csvs/ratified-indian-treaties_83740154.csv differ
+Files old_csvs/ratified-indian-treaties_83740158.csv and new_csvs/ratified-indian-treaties_83740158.csv differ
+Files old_csvs/ratified-indian-treaties_83860056.csv and new_csvs/ratified-indian-treaties_83860056.csv differ
+Files old_csvs/ratified-indian-treaties_83860059.csv and new_csvs/ratified-indian-treaties_83860059.csv differ
+Files old_csvs/ratified-indian-treaties_83860079.csv and new_csvs/ratified-indian-treaties_83860079.csv differ
+Files old_csvs/ratified-indian-treaties_84286231.csv and new_csvs/ratified-indian-treaties_84286231.csv differ
+Files old_csvs/ratified-indian-treaties_84286242.csv and new_csvs/ratified-indian-treaties_84286242.csv differ
+Files old_csvs/ratified-indian-treaties_84288939.csv and new_csvs/ratified-indian-treaties_84288939.csv differ
+Files old_csvs/ratified-indian-treaties_84473178.csv and new_csvs/ratified-indian-treaties_84473178.csv differ
+Files old_csvs/ratified-indian-treaties_84473180.csv and new_csvs/ratified-indian-treaties_84473180.csv differ
+Files old_csvs/ratified-indian-treaties_84564886.csv and new_csvs/ratified-indian-treaties_84564886.csv differ
+Files old_csvs/ratified-indian-treaties_84565041.csv and new_csvs/ratified-indian-treaties_84565041.csv differ
+Files old_csvs/ratified-indian-treaties_84565042.csv and new_csvs/ratified-indian-treaties_84565042.csv differ
+Files old_csvs/ratified-indian-treaties_84565084.csv and new_csvs/ratified-indian-treaties_84565084.csv differ
+Files old_csvs/ratified-indian-treaties_84565085.csv and new_csvs/ratified-indian-treaties_84565085.csv differ
+Files old_csvs/ratified-indian-treaties_84565089.csv and new_csvs/ratified-indian-treaties_84565089.csv differ
+Files old_csvs/ratified-indian-treaties_84767647.csv and new_csvs/ratified-indian-treaties_84767647.csv differ
+Files old_csvs/ratified-indian-treaties_85149413.csv and new_csvs/ratified-indian-treaties_85149413.csv differ
+Files old_csvs/ratified-indian-treaties_85418675.csv and new_csvs/ratified-indian-treaties_85418675.csv differ
+Files old_csvs/ratified-indian-treaties_86672493.csv and new_csvs/ratified-indian-treaties_86672493.csv differ
+Files old_csvs/ratified-indian-treaties_86696028.csv and new_csvs/ratified-indian-treaties_86696028.csv differ
+Files old_csvs/ratified-indian-treaties_86696041.csv and new_csvs/ratified-indian-treaties_86696041.csv differ
+Files old_csvs/ratified-indian-treaties_86696057.csv and new_csvs/ratified-indian-treaties_86696057.csv differ
+Files old_csvs/ratified-indian-treaties_86744172.csv and new_csvs/ratified-indian-treaties_86744172.csv differ
+Files old_csvs/ratified-indian-treaties_86752368.csv and new_csvs/ratified-indian-treaties_86752368.csv differ
+Files old_csvs/ratified-indian-treaties_86753138.csv and new_csvs/ratified-indian-treaties_86753138.csv differ
+Files old_csvs/ratified-indian-treaties_86753148.csv and new_csvs/ratified-indian-treaties_86753148.csv differ
+Files old_csvs/ratified-indian-treaties_86753387.csv and new_csvs/ratified-indian-treaties_86753387.csv differ
+Files old_csvs/ratified-indian-treaties_86753392.csv and new_csvs/ratified-indian-treaties_86753392.csv differ
+Files old_csvs/ratified-indian-treaties_86753393.csv and new_csvs/ratified-indian-treaties_86753393.csv differ
+Files old_csvs/ratified-indian-treaties_86753394.csv and new_csvs/ratified-indian-treaties_86753394.csv differ
+Files old_csvs/ratified-indian-treaties_86753409.csv and new_csvs/ratified-indian-treaties_86753409.csv differ
+Files old_csvs/ratified-indian-treaties_86753412.csv and new_csvs/ratified-indian-treaties_86753412.csv differ
+Files old_csvs/ratified-indian-treaties_86763027.csv and new_csvs/ratified-indian-treaties_86763027.csv differ
+Files old_csvs/ratified-indian-treaties_86763036.csv and new_csvs/ratified-indian-treaties_86763036.csv differ
+Files old_csvs/ratified-indian-treaties_86770250.csv and new_csvs/ratified-indian-treaties_86770250.csv differ
+Files old_csvs/ratified-indian-treaties_86770254.csv and new_csvs/ratified-indian-treaties_86770254.csv differ
+Files old_csvs/ratified-indian-treaties_86852362.csv and new_csvs/ratified-indian-treaties_86852362.csv differ
+Files old_csvs/ratified-indian-treaties_86852369.csv and new_csvs/ratified-indian-treaties_86852369.csv differ
+Files old_csvs/ratified-indian-treaties_86853260.csv and new_csvs/ratified-indian-treaties_86853260.csv differ
+Files old_csvs/ratified-indian-treaties_88692200.csv and new_csvs/ratified-indian-treaties_88692200.csv differ
+Files old_csvs/ratified-indian-treaties_88692345.csv and new_csvs/ratified-indian-treaties_88692345.csv differ
+Files old_csvs/ratified-indian-treaties_88692355.csv and new_csvs/ratified-indian-treaties_88692355.csv differ
+Files old_csvs/ratified-indian-treaties_88692357.csv and new_csvs/ratified-indian-treaties_88692357.csv differ
+Files old_csvs/ratified-indian-treaties_88692359.csv and new_csvs/ratified-indian-treaties_88692359.csv differ
+Files old_csvs/ratified-indian-treaties_88697242.csv and new_csvs/ratified-indian-treaties_88697242.csv differ
+Files old_csvs/ratified-indian-treaties_88697848.csv and new_csvs/ratified-indian-treaties_88697848.csv differ
+Files old_csvs/ratified-indian-treaties_88697867.csv and new_csvs/ratified-indian-treaties_88697867.csv differ
+Files old_csvs/ratified-indian-treaties_88697868.csv and new_csvs/ratified-indian-treaties_88697868.csv differ
+Files old_csvs/ratified-indian-treaties_88697877.csv and new_csvs/ratified-indian-treaties_88697877.csv differ
+Files old_csvs/ratified-indian-treaties_88697907.csv and new_csvs/ratified-indian-treaties_88697907.csv differ
+Files old_csvs/ratified-indian-treaties_88697916.csv and new_csvs/ratified-indian-treaties_88697916.csv differ
+Files old_csvs/ratified-indian-treaties_88697919.csv and new_csvs/ratified-indian-treaties_88697919.csv differ
+Files old_csvs/ratified-indian-treaties_88819873.csv and new_csvs/ratified-indian-treaties_88819873.csv differ
+Files old_csvs/ratified-indian-treaties_88819889.csv and new_csvs/ratified-indian-treaties_88819889.csv differ
+Files old_csvs/ratified-indian-treaties_89570768.csv and new_csvs/ratified-indian-treaties_89570768.csv differ
+Files old_csvs/ratified-indian-treaties_89680569.csv and new_csvs/ratified-indian-treaties_89680569.csv differ
+Files old_csvs/ratified-indian-treaties_89681984.csv and new_csvs/ratified-indian-treaties_89681984.csv differ
+Files old_csvs/ratified-indian-treaties_89726031.csv and new_csvs/ratified-indian-treaties_89726031.csv differ
+Files old_csvs/ratified-indian-treaties_89726032.csv and new_csvs/ratified-indian-treaties_89726032.csv differ
+Files old_csvs/ratified-indian-treaties_89726036.csv and new_csvs/ratified-indian-treaties_89726036.csv differ
+Files old_csvs/ratified-indian-treaties_90029845.csv and new_csvs/ratified-indian-treaties_90029845.csv differ
+Files old_csvs/ratified-indian-treaties_90183545.csv and new_csvs/ratified-indian-treaties_90183545.csv differ
+Files old_csvs/ratified-indian-treaties_90183557.csv and new_csvs/ratified-indian-treaties_90183557.csv differ
+Files old_csvs/ratified-indian-treaties_90183558.csv and new_csvs/ratified-indian-treaties_90183558.csv differ
+Files old_csvs/ratified-indian-treaties_90183559.csv and new_csvs/ratified-indian-treaties_90183559.csv differ
+Files old_csvs/ratified-indian-treaties_90183560.csv and new_csvs/ratified-indian-treaties_90183560.csv differ
+Files old_csvs/ratified-indian-treaties_90280357.csv and new_csvs/ratified-indian-treaties_90280357.csv differ
+Files old_csvs/ratified-indian-treaties_93210098.csv and new_csvs/ratified-indian-treaties_93210098.csv differ
+Files old_csvs/ratified-indian-treaties_93210099.csv and new_csvs/ratified-indian-treaties_93210099.csv differ
+Files old_csvs/ratified-indian-treaties_93210101.csv and new_csvs/ratified-indian-treaties_93210101.csv differ
+Files old_csvs/ratified-indian-treaties_93210105.csv and new_csvs/ratified-indian-treaties_93210105.csv differ
+Files old_csvs/ratified-indian-treaties_93210114.csv and new_csvs/ratified-indian-treaties_93210114.csv differ
+Files old_csvs/ratified-indian-treaties_93210119.csv and new_csvs/ratified-indian-treaties_93210119.csv differ
+Files old_csvs/ratified-indian-treaties_93210121.csv and new_csvs/ratified-indian-treaties_93210121.csv differ
+Files old_csvs/ratified-indian-treaties_93210133.csv and new_csvs/ratified-indian-treaties_93210133.csv differ
+Files old_csvs/ratified-indian-treaties_93210139.csv and new_csvs/ratified-indian-treaties_93210139.csv differ
+Files old_csvs/ratified-indian-treaties_93210166.csv and new_csvs/ratified-indian-treaties_93210166.csv differ
+Files old_csvs/ratified-indian-treaties_93210170.csv and new_csvs/ratified-indian-treaties_93210170.csv differ
+Files old_csvs/ratified-indian-treaties_93210201.csv and new_csvs/ratified-indian-treaties_93210201.csv differ
+Files old_csvs/ratified-indian-treaties_93210205.csv and new_csvs/ratified-indian-treaties_93210205.csv differ
+Files old_csvs/ratified-indian-treaties_93210221.csv and new_csvs/ratified-indian-treaties_93210221.csv differ
+Files old_csvs/ratified-indian-treaties_93392339.csv and new_csvs/ratified-indian-treaties_93392339.csv differ
+Files old_csvs/ratified-indian-treaties_93394004.csv and new_csvs/ratified-indian-treaties_93394004.csv differ
+Files old_csvs/ratified-indian-treaties_93961883.csv and new_csvs/ratified-indian-treaties_93961883.csv differ
+Files old_csvs/ratified-indian-treaties_93961891.csv and new_csvs/ratified-indian-treaties_93961891.csv differ
+Files old_csvs/ratified-indian-treaties_93961897.csv and new_csvs/ratified-indian-treaties_93961897.csv differ
+Files old_csvs/ratified-indian-treaties_93961929.csv and new_csvs/ratified-indian-treaties_93961929.csv differ
+Files old_csvs/ratified-indian-treaties_93961932.csv and new_csvs/ratified-indian-treaties_93961932.csv differ
+Files old_csvs/ratified-indian-treaties_93961950.csv and new_csvs/ratified-indian-treaties_93961950.csv differ
+Files old_csvs/ratified-indian-treaties_93961959.csv and new_csvs/ratified-indian-treaties_93961959.csv differ
+Files old_csvs/ratified-indian-treaties_93962027.csv and new_csvs/ratified-indian-treaties_93962027.csv differ
+Files old_csvs/ratified-indian-treaties_93962031.csv and new_csvs/ratified-indian-treaties_93962031.csv differ
+Files old_csvs/ratified-indian-treaties_93962038.csv and new_csvs/ratified-indian-treaties_93962038.csv differ
+Files old_csvs/ratified-indian-treaties_93962040.csv and new_csvs/ratified-indian-treaties_93962040.csv differ
+Files old_csvs/ratified-indian-treaties_93962064.csv and new_csvs/ratified-indian-treaties_93962064.csv differ
+Files old_csvs/ratified-indian-treaties_93964902.csv and new_csvs/ratified-indian-treaties_93964902.csv differ
+Files old_csvs/ratified-indian-treaties_93968521.csv and new_csvs/ratified-indian-treaties_93968521.csv differ
+Files old_csvs/ratified-indian-treaties_93971061.csv and new_csvs/ratified-indian-treaties_93971061.csv differ
+Files old_csvs/ratified-indian-treaties_94278486.csv and new_csvs/ratified-indian-treaties_94278486.csv differ
+Files old_csvs/ratified-indian-treaties_94278495.csv and new_csvs/ratified-indian-treaties_94278495.csv differ
+Files old_csvs/ratified-indian-treaties_94278511.csv and new_csvs/ratified-indian-treaties_94278511.csv differ
+Files old_csvs/ratified-indian-treaties_94278516.csv and new_csvs/ratified-indian-treaties_94278516.csv differ
+Files old_csvs/ratified-indian-treaties_94278527.csv and new_csvs/ratified-indian-treaties_94278527.csv differ
+Files old_csvs/ratified-indian-treaties_94278532.csv and new_csvs/ratified-indian-treaties_94278532.csv differ
+Files old_csvs/ratified-indian-treaties_94278547.csv and new_csvs/ratified-indian-treaties_94278547.csv differ
+Files old_csvs/ratified-indian-treaties_94278563.csv and new_csvs/ratified-indian-treaties_94278563.csv differ
+Files old_csvs/ratified-indian-treaties_99904360.csv and new_csvs/ratified-indian-treaties_99904360.csv differ
