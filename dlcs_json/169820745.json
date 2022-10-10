@@ -1,0 +1,68 @@
+{
+    "@type": "Collection",
+    "member": [
+        {
+            "space": 7,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT_March_2020/169820745/169820745-009_ac.jpg",
+            "string1": "chapterday",
+            "string2": "169820745",
+            "number1": 9
+        },
+        {
+            "space": 7,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT_March_2020/169820745/169820745-001_ma.jpg",
+            "string1": "chapterday",
+            "string2": "169820745",
+            "number1": 10
+        },
+        {
+            "space": 7,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT_March_2020/169820745/169820745-002_ma.jpg",
+            "string1": "chapterday",
+            "string2": "169820745",
+            "number1": 11
+        },
+        {
+            "space": 7,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT_March_2020/169820745/169820745-003_ma.jpg",
+            "string1": "chapterday",
+            "string2": "169820745",
+            "number1": 12
+        },
+        {
+            "space": 7,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT_March_2020/169820745/169820745-004_ma.jpg",
+            "string1": "chapterday",
+            "string2": "169820745",
+            "number1": 13
+        },
+        {
+            "space": 7,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT_March_2020/169820745/169820745-005_ma.jpg",
+            "string1": "chapterday",
+            "string2": "169820745",
+            "number1": 14
+        },
+        {
+            "space": 7,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT_March_2020/169820745/169820745-006_ma.jpg",
+            "string1": "chapterday",
+            "string2": "169820745",
+            "number1": 15
+        },
+        {
+            "space": 7,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT_March_2020/169820745/169820745-007_ma.jpg",
+            "string1": "chapterday",
+            "string2": "169820745",
+            "number1": 16
+        },
+        {
+            "space": 7,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT_March_2020/169820745/169820745-008_ma.jpg",
+            "string1": "chapterday",
+            "string2": "169820745",
+            "number1": 17
+        }
+    ]
+}

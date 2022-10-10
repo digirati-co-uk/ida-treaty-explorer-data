@@ -1,0 +1,54 @@
+{
+    "@type": "Collection",
+    "member": [
+        {
+            "space": 7,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT-Batch23/178331154/178331154-002_ma.jpg",
+            "string1": "chapterday",
+            "string2": "178331154",
+            "number1": 12
+        },
+        {
+            "space": 7,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT-Batch23/178331154/178331154-003_ma.jpg",
+            "string1": "chapterday",
+            "string2": "178331154",
+            "number1": 13
+        },
+        {
+            "space": 7,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT-Batch23/178331154/178331154-004_ma.jpg",
+            "string1": "chapterday",
+            "string2": "178331154",
+            "number1": 14
+        },
+        {
+            "space": 7,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT-Batch23/178331154/178331154-005_ma.jpg",
+            "string1": "chapterday",
+            "string2": "178331154",
+            "number1": 15
+        },
+        {
+            "space": 7,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT-Batch23/178331154/178331154-007_ma.jpg",
+            "string1": "chapterday",
+            "string2": "178331154",
+            "number1": 17
+        },
+        {
+            "space": 7,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT-Batch23/178331154/178331154-008_ma.jpg",
+            "string1": "chapterday",
+            "string2": "178331154",
+            "number1": 18
+        },
+        {
+            "space": 7,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT-Batch23/178331154/178331154-010_ma.jpg",
+            "string1": "chapterday",
+            "string2": "178331154",
+            "number1": 20
+        }
+    ]
+}

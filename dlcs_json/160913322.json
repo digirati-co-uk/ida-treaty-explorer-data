@@ -1,0 +1,61 @@
+{
+    "@type": "Collection",
+    "member": [
+        {
+            "space": 7,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/160913322/160913322-001_ac.jpg",
+            "string1": "chapterday",
+            "string2": "160913322",
+            "number1": 1
+        },
+        {
+            "space": 7,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/160913322/160913322-002_ma.jpg",
+            "string1": "chapterday",
+            "string2": "160913322",
+            "number1": 4
+        },
+        {
+            "space": 7,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/160913322/160913322-003_ma.jpg",
+            "string1": "chapterday",
+            "string2": "160913322",
+            "number1": 6
+        },
+        {
+            "space": 7,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/160913322/160913322-004_ma.jpg",
+            "string1": "chapterday",
+            "string2": "160913322",
+            "number1": 8
+        },
+        {
+            "space": 7,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/160913322/160913322-005_ma.jpg",
+            "string1": "chapterday",
+            "string2": "160913322",
+            "number1": 10
+        },
+        {
+            "space": 7,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/160913322/160913322-006_ma.jpg",
+            "string1": "chapterday",
+            "string2": "160913322",
+            "number1": 12
+        },
+        {
+            "space": 7,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/160913322/160913322-007_ma.jpg",
+            "string1": "chapterday",
+            "string2": "160913322",
+            "number1": 14
+        },
+        {
+            "space": 7,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/160913322/160913322-008_ac.jpg",
+            "string1": "chapterday",
+            "string2": "160913322",
+            "number1": 15
+        }
+    ]
+}

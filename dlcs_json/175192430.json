@@ -1,0 +1,12 @@
+{
+    "@type": "Collection",
+    "member": [
+        {
+            "space": 7,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT_June_2020/175192430/175192430-001_ma.jpg",
+            "string1": "chapterday",
+            "string2": "175192430",
+            "number1": 2
+        }
+    ]
+}

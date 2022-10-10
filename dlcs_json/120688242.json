@@ -1,0 +1,12 @@
+{
+    "@type": "Collection",
+    "member": [
+        {
+            "space": 7,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/120688242/120688242-001-ma.jpg",
+            "string1": "chapterday",
+            "string2": "120688242",
+            "number1": 2
+        }
+    ]
+}

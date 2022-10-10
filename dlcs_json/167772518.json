@@ -1,0 +1,54 @@
+{
+    "@type": "Collection",
+    "member": [
+        {
+            "space": 7,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT_March_2020/167772518/167772518-001_ma.jpg",
+            "string1": "chapterday",
+            "string2": "167772518",
+            "number1": 8
+        },
+        {
+            "space": 7,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT_March_2020/167772518/167772518-002_ma.jpg",
+            "string1": "chapterday",
+            "string2": "167772518",
+            "number1": 9
+        },
+        {
+            "space": 7,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT_March_2020/167772518/167772518-003_ma.jpg",
+            "string1": "chapterday",
+            "string2": "167772518",
+            "number1": 10
+        },
+        {
+            "space": 7,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT_March_2020/167772518/167772518-004_ma.jpg",
+            "string1": "chapterday",
+            "string2": "167772518",
+            "number1": 11
+        },
+        {
+            "space": 7,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT_March_2020/167772518/167772518-005_ma.jpg",
+            "string1": "chapterday",
+            "string2": "167772518",
+            "number1": 12
+        },
+        {
+            "space": 7,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT_March_2020/167772518/167772518-006_ma.jpg",
+            "string1": "chapterday",
+            "string2": "167772518",
+            "number1": 13
+        },
+        {
+            "space": 7,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT_March_2020/167772518/167772518-007_ma.jpg",
+            "string1": "chapterday",
+            "string2": "167772518",
+            "number1": 14
+        }
+    ]
+}

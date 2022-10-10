@@ -1,0 +1,26 @@
+{
+    "@type": "Collection",
+    "member": [
+        {
+            "space": 7,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/124059054/124059054-001-ac.jpg",
+            "string1": "chapterday",
+            "string2": "124059054",
+            "number1": 1
+        },
+        {
+            "space": 7,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/124059054/124059054-003-ac.jpg",
+            "string1": "chapterday",
+            "string2": "124059054",
+            "number1": 3
+        },
+        {
+            "space": 7,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/124059054/124059054-002-ma.jpg",
+            "string1": "chapterday",
+            "string2": "124059054",
+            "number1": 5
+        }
+    ]
+}
