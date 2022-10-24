@@ -2,16 +2,16 @@
     "@type": "Collection",
     "member": [
         {
-            "space": 7,
+            "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/148028116/148028116-002-ac.jpg",
-            "string1": "chapterday",
+            "string1": "digitreaties",
             "string2": "148028116",
             "number1": 2
         },
         {
-            "space": 7,
+            "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/148028116/148028116-001-ma.jpg",
-            "string1": "chapterday",
+            "string1": "digitreaties",
             "string2": "148028116",
             "number1": 3
         }

@@ -2,23 +2,23 @@
     "@type": "Collection",
     "member": [
         {
-            "space": 7,
+            "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT_May_2020/174690868/174690868-001_ma.jpg",
-            "string1": "chapterday",
+            "string1": "digitreaties",
             "string2": "174690868",
             "number1": 4
         },
         {
-            "space": 7,
+            "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT_May_2020/174690868/174690868-002_ma.jpg",
-            "string1": "chapterday",
+            "string1": "digitreaties",
             "string2": "174690868",
             "number1": 5
         },
         {
-            "space": 7,
+            "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT_May_2020/174690868/174690868-003_ma.jpg",
-            "string1": "chapterday",
+            "string1": "digitreaties",
             "string2": "174690868",
             "number1": 6
         }

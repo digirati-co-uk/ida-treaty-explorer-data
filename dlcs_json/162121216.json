@@ -2,44 +2,44 @@
     "@type": "Collection",
     "member": [
         {
-            "space": 7,
+            "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT_March_2020/162121216/Batch0002/162121216-001_ac.jpg",
-            "string1": "chapterday",
+            "string1": "digitreaties",
             "string2": "162121216",
             "number1": 1
         },
         {
-            "space": 7,
+            "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT_March_2020/162121216/Batch0002/162121216-002_ac.jpg",
-            "string1": "chapterday",
+            "string1": "digitreaties",
             "string2": "162121216",
             "number1": 2
         },
         {
-            "space": 7,
+            "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT_March_2020/162121216/Batch0002/162121216-003_ac.jpg",
-            "string1": "chapterday",
+            "string1": "digitreaties",
             "string2": "162121216",
             "number1": 3
         },
         {
-            "space": 7,
+            "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT_March_2020/162121216/Batch0002/162121216-004_ac.jpg",
-            "string1": "chapterday",
+            "string1": "digitreaties",
             "string2": "162121216",
             "number1": 4
         },
         {
-            "space": 7,
+            "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT_March_2020/162121216/Batch0002/162121216-005_ac.jpg",
-            "string1": "chapterday",
+            "string1": "digitreaties",
             "string2": "162121216",
             "number1": 5
         },
         {
-            "space": 7,
+            "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT_March_2020/162121216/Batch0002/162121216-006_ac.jpg",
-            "string1": "chapterday",
+            "string1": "digitreaties",
             "string2": "162121216",
             "number1": 6
         }

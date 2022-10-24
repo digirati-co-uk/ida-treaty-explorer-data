@@ -2,44 +2,44 @@
     "@type": "Collection",
     "member": [
         {
-            "space": 7,
+            "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/161378337/161378337-001_ma.jpg",
-            "string1": "chapterday",
+            "string1": "digitreaties",
             "string2": "161378337",
             "number1": 2
         },
         {
-            "space": 7,
+            "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/161378337/161378337-002_ma.jpg",
-            "string1": "chapterday",
+            "string1": "digitreaties",
             "string2": "161378337",
             "number1": 4
         },
         {
-            "space": 7,
+            "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/161378337/161378337-003_ma.jpg",
-            "string1": "chapterday",
+            "string1": "digitreaties",
             "string2": "161378337",
             "number1": 6
         },
         {
-            "space": 7,
+            "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/161378337/161378337-004_ma.jpg",
-            "string1": "chapterday",
+            "string1": "digitreaties",
             "string2": "161378337",
             "number1": 8
         },
         {
-            "space": 7,
+            "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/161378337/161378337-005_ma.jpg",
-            "string1": "chapterday",
+            "string1": "digitreaties",
             "string2": "161378337",
             "number1": 10
         },
         {
-            "space": 7,
+            "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/161378337/161378337-006_ma.jpg",
-            "string1": "chapterday",
+            "string1": "digitreaties",
             "string2": "161378337",
             "number1": 12
         }

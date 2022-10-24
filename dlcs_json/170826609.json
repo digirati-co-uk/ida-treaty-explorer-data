@@ -2,9 +2,9 @@
     "@type": "Collection",
     "member": [
         {
-            "space": 7,
+            "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT_May_2020/170826609/170826609-001_ma.jpg",
-            "string1": "chapterday",
+            "string1": "digitreaties",
             "string2": "170826609",
             "number1": 2
         }

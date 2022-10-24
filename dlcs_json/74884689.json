@@ -2,44 +2,44 @@
     "@type": "Collection",
     "member": [
         {
-            "space": 7,
+            "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/74884689/74884689-001.ac.jpg",
-            "string1": "chapterday",
+            "string1": "digitreaties",
             "string2": "74884689",
             "number1": 1
         },
         {
-            "space": 7,
+            "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/74884689/74884689-002.ac.jpg",
-            "string1": "chapterday",
+            "string1": "digitreaties",
             "string2": "74884689",
             "number1": 2
         },
         {
-            "space": 7,
+            "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/74884689/74884689-003.ac.jpg",
-            "string1": "chapterday",
+            "string1": "digitreaties",
             "string2": "74884689",
             "number1": 3
         },
         {
-            "space": 7,
+            "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/74884689/74884689-001.ma.jpg",
-            "string1": "chapterday",
+            "string1": "digitreaties",
             "string2": "74884689",
             "number1": 4
         },
         {
-            "space": 7,
+            "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/74884689/74884689-002.ma.jpg",
-            "string1": "chapterday",
+            "string1": "digitreaties",
             "string2": "74884689",
             "number1": 5
         },
         {
-            "space": 7,
+            "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/74884689/74884689-003.ma.jpg",
-            "string1": "chapterday",
+            "string1": "digitreaties",
             "string2": "74884689",
             "number1": 6
         }

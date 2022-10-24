@@ -2,9 +2,9 @@
     "@type": "Collection",
     "member": [
         {
-            "space": 7,
+            "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT-Batch23/178309343/178309343-001_ma.jpg",
-            "string1": "chapterday",
+            "string1": "digitreaties",
             "string2": "178309343",
             "number1": 2
         }
