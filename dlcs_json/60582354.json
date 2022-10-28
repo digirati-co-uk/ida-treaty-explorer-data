@@ -1,4 +1,40 @@
 {
     "@type": "Collection",
-    "member": []
+    "member": [
+        {
+            "space": 8,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/60582354/60582354-001-ac.jpg",
+            "string1": "digitreaties",
+            "string2": "60582354",
+            "number1": 1
+        },
+        {
+            "space": 8,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/60582354/60582354-002-ac.jpg",
+            "string1": "digitreaties",
+            "string2": "60582354",
+            "number1": 2
+        },
+        {
+            "space": 8,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/60582354/60582354-003-ac.jpg",
+            "string1": "digitreaties",
+            "string2": "60582354",
+            "number1": 3
+        },
+        {
+            "space": 8,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/60582354/60582354-004-ac.jpg",
+            "string1": "digitreaties",
+            "string2": "60582354",
+            "number1": 4
+        },
+        {
+            "space": 8,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/60582354/60582354-005-ac.jpg",
+            "string1": "digitreaties",
+            "string2": "60582354",
+            "number1": 5
+        }
+    ]
 }

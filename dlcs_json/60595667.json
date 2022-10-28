@@ -1,4 +1,12 @@
 {
     "@type": "Collection",
-    "member": []
+    "member": [
+        {
+            "space": 8,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/60595667/60595667-001-ac.jpg",
+            "string1": "digitreaties",
+            "string2": "60595667",
+            "number1": 1
+        }
+    ]
 }
