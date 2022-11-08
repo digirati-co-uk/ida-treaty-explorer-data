@@ -3,6 +3,20 @@
     "member": [
         {
             "space": 8,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT-Batch-24/178739674/178739674-006_ac.jpg",
+            "string1": "digitreaties",
+            "string2": "178739674",
+            "number1": 6
+        },
+        {
+            "space": 8,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT-Batch-24/178739674/178739674-007_ac.jpg",
+            "string1": "digitreaties",
+            "string2": "178739674",
+            "number1": 7
+        },
+        {
+            "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT-Batch-24/178739674/178739674-001_ma.jpg",
             "string1": "digitreaties",
             "string2": "178739674",

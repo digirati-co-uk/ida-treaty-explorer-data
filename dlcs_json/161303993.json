@@ -3,10 +3,66 @@
     "member": [
         {
             "space": 8,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/161303993/161303993-001_ac.jpg",
+            "string1": "digitreaties",
+            "string2": "161303993",
+            "number1": 1
+        },
+        {
+            "space": 8,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/161303993/161303993-002_ac.jpg",
+            "string1": "digitreaties",
+            "string2": "161303993",
+            "number1": 3
+        },
+        {
+            "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/161303993/161303993-003_ma.jpg",
             "string1": "digitreaties",
             "string2": "161303993",
             "number1": 6
+        },
+        {
+            "space": 8,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/161303993/161303993-004_ac.jpg",
+            "string1": "digitreaties",
+            "string2": "161303993",
+            "number1": 7
+        },
+        {
+            "space": 8,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/161303993/161303993-005_ac.jpg",
+            "string1": "digitreaties",
+            "string2": "161303993",
+            "number1": 9
+        },
+        {
+            "space": 8,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/161303993/161303993-006_ac.jpg",
+            "string1": "digitreaties",
+            "string2": "161303993",
+            "number1": 11
+        },
+        {
+            "space": 8,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/161303993/161303993-007_ac.jpg",
+            "string1": "digitreaties",
+            "string2": "161303993",
+            "number1": 13
+        },
+        {
+            "space": 8,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/161303993/161303993-008_ac.jpg",
+            "string1": "digitreaties",
+            "string2": "161303993",
+            "number1": 15
+        },
+        {
+            "space": 8,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/161303993/161303993-009_ac.jpg",
+            "string1": "digitreaties",
+            "string2": "161303993",
+            "number1": 17
         },
         {
             "space": 8,

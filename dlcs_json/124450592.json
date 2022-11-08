@@ -3,6 +3,13 @@
     "member": [
         {
             "space": 8,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/124450592/124450592-002-ac.jpg",
+            "string1": "digitreaties",
+            "string2": "124450592",
+            "number1": 2
+        },
+        {
+            "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/124450592/124450592-001-ma.jpg",
             "string1": "digitreaties",
             "string2": "124450592",

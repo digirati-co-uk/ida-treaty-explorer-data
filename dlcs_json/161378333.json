@@ -14,6 +14,13 @@
             "string1": "digitreaties",
             "string2": "161378333",
             "number1": 4
+        },
+        {
+            "space": 8,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/161378333/161378333-003_ac.jpg",
+            "string1": "digitreaties",
+            "string2": "161378333",
+            "number1": 5
         }
     ]
 }

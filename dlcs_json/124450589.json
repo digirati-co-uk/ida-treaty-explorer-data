@@ -3,6 +3,27 @@
     "member": [
         {
             "space": 8,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/124450589/124450589-001-ac.jpg",
+            "string1": "digitreaties",
+            "string2": "124450589",
+            "number1": 1
+        },
+        {
+            "space": 8,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/124450589/124450589-005-ac.jpg",
+            "string1": "digitreaties",
+            "string2": "124450589",
+            "number1": 5
+        },
+        {
+            "space": 8,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/124450589/124450589-006-ac.jpg",
+            "string1": "digitreaties",
+            "string2": "124450589",
+            "number1": 6
+        },
+        {
+            "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/124450589/124450589-002-ma.jpg",
             "string1": "digitreaties",
             "string2": "124450589",

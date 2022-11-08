@@ -1,4 +1,19 @@
 {
     "@type": "Collection",
-    "member": []
+    "member": [
+        {
+            "space": 8,
+            "origin": "https://catalog.archives.gov/OpaAPI/media/17368382/content/00019/M668-IndianTreaties_1722-1869_data/M668__0001/images/0000.jpg",
+            "string1": "digitreaties",
+            "string2": "17368382",
+            "number1": 1
+        },
+        {
+            "space": 8,
+            "origin": "https://catalog.archives.gov/OpaAPI/media/17368382/content/00019/M668-IndianTreaties_1722-1869_data/M668__0001/images/0001.jpg",
+            "string1": "digitreaties",
+            "string2": "17368382",
+            "number1": 2
+        }
+    ]
 }

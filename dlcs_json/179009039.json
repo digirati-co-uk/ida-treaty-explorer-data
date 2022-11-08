@@ -3,6 +3,55 @@
     "member": [
         {
             "space": 8,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT-Batch-24/179009039/179009039-001_ac.jpg",
+            "string1": "digitreaties",
+            "string2": "179009039",
+            "number1": 1
+        },
+        {
+            "space": 8,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT-Batch-24/179009039/179009039-004_ac.jpg",
+            "string1": "digitreaties",
+            "string2": "179009039",
+            "number1": 4
+        },
+        {
+            "space": 8,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT-Batch-24/179009039/179009039-005_ac.jpg",
+            "string1": "digitreaties",
+            "string2": "179009039",
+            "number1": 5
+        },
+        {
+            "space": 8,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT-Batch-24/179009039/179009039-006_ac.jpg",
+            "string1": "digitreaties",
+            "string2": "179009039",
+            "number1": 6
+        },
+        {
+            "space": 8,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT-Batch-24/179009039/179009039-008_ac.jpg",
+            "string1": "digitreaties",
+            "string2": "179009039",
+            "number1": 8
+        },
+        {
+            "space": 8,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT-Batch-24/179009039/179009039-009_ac.jpg",
+            "string1": "digitreaties",
+            "string2": "179009039",
+            "number1": 9
+        },
+        {
+            "space": 8,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT-Batch-24/179009039/179009039-010_ac.jpg",
+            "string1": "digitreaties",
+            "string2": "179009039",
+            "number1": 10
+        },
+        {
+            "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT-Batch-24/179009039/179009039-002_ma.jpg",
             "string1": "digitreaties",
             "string2": "179009039",

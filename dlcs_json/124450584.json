@@ -10,6 +10,13 @@
         },
         {
             "space": 8,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/124450584/124450584-003-ac.jpg",
+            "string1": "digitreaties",
+            "string2": "124450584",
+            "number1": 3
+        },
+        {
+            "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/124450584/124450584-002-ma.jpg",
             "string1": "digitreaties",
             "string2": "124450584",

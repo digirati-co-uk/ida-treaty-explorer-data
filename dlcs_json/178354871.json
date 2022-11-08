@@ -3,6 +3,13 @@
     "member": [
         {
             "space": 8,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT-Batch23/178354871/178354871-004_ac.jpg",
+            "string1": "digitreaties",
+            "string2": "178354871",
+            "number1": 4
+        },
+        {
+            "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT-Batch23/178354871/178354871-001_ma.jpg",
             "string1": "digitreaties",
             "string2": "178354871",

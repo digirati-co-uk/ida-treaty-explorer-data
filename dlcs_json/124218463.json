@@ -1,4 +1,19 @@
 {
     "@type": "Collection",
-    "member": []
+    "member": [
+        {
+            "space": 8,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/124218463/124218463-001-ac.jpg",
+            "string1": "digitreaties",
+            "string2": "124218463",
+            "number1": 1
+        },
+        {
+            "space": 8,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/124218463/124218463-002-ac.jpg",
+            "string1": "digitreaties",
+            "string2": "124218463",
+            "number1": 2
+        }
+    ]
 }
