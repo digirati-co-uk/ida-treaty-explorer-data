@@ -3,6 +3,20 @@
     "member": [
         {
             "space": 8,
+            "origin": "https://catalog.archives.gov/OpaAPI/media/12013684/content/arcmedia/dc-metro/rg-011/299798/08021-2014-001-ac.jpg",
+            "string1": "digitreaties",
+            "string2": "12013684",
+            "number1": 1
+        },
+        {
+            "space": 8,
+            "origin": "https://catalog.archives.gov/OpaAPI/media/12013684/content/arcmedia/dc-metro/rg-011/299798/08021-2014-002-ac.jpg",
+            "string1": "digitreaties",
+            "string2": "12013684",
+            "number1": 2
+        },
+        {
+            "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/12013684/12013684-001-ma.jpg",
             "string1": "digitreaties",
             "string2": "12013684",
