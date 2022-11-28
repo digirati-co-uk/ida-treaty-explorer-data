@@ -6,14 +6,16 @@
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT-Batch-24/178931100/178931100-001_ma.jpg",
             "string1": "digitreaties",
             "string2": "178931100",
-            "number1": 3
+            "number1": 3,
+            "@id": "https://api.dlc.services/customers/2/spaces/8/images/3f8dadb7-68e2-45a0-b809-34ad77a9e13a"
         },
         {
             "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT-Batch-24/178931100/178931100-002_ma.jpg",
             "string1": "digitreaties",
             "string2": "178931100",
-            "number1": 4
+            "number1": 4,
+            "@id": "https://api.dlc.services/customers/2/spaces/8/images/bc5dcd82-3c95-4ee0-859f-dcc7bf143bd9"
         }
     ]
 }

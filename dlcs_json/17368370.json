@@ -6,7 +6,8 @@
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/eisenhower/dde-epres/186477/186477_0019_01.jpg",
             "string1": "digitreaties",
             "string2": "17368370",
-            "number1": 1
+            "number1": 1,
+            "@id": "https://api.dlc.services/customers/2/spaces/8/images/fe93a337-0ddf-4255-a8a1-94ee99b000be"
         }
     ]
 }

@@ -6,35 +6,40 @@
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT_June_2020/175516211/175516211-005_ac.jpg",
             "string1": "digitreaties",
             "string2": "175516211",
-            "number1": 5
+            "number1": 5,
+            "@id": "https://api.dlc.services/customers/2/spaces/8/images/2e5b4224-e149-4192-b145-bcf7625c1e1c"
         },
         {
             "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT_June_2020/175516211/175516211-001_ma.jpg",
             "string1": "digitreaties",
             "string2": "175516211",
-            "number1": 6
+            "number1": 6,
+            "@id": "https://api.dlc.services/customers/2/spaces/8/images/8d82901a-655d-4ba9-a02c-d01c671fb0ed"
         },
         {
             "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT_June_2020/175516211/175516211-002_ma.jpg",
             "string1": "digitreaties",
             "string2": "175516211",
-            "number1": 7
+            "number1": 7,
+            "@id": "https://api.dlc.services/customers/2/spaces/8/images/5527e35a-c29b-4729-8006-4237b3711dae"
         },
         {
             "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT_June_2020/175516211/175516211-003_ma.jpg",
             "string1": "digitreaties",
             "string2": "175516211",
-            "number1": 8
+            "number1": 8,
+            "@id": "https://api.dlc.services/customers/2/spaces/8/images/148d38e8-c7d5-499d-8cc7-01715d0dd11c"
         },
         {
             "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT_June_2020/175516211/175516211-004_ma.jpg",
             "string1": "digitreaties",
             "string2": "175516211",
-            "number1": 9
+            "number1": 9,
+            "@id": "https://api.dlc.services/customers/2/spaces/8/images/de0f4a54-c32d-485a-96bb-28efe6444410"
         }
     ]
 }

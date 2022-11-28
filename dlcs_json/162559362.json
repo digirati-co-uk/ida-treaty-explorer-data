@@ -6,35 +6,40 @@
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT_March_2020/162559362/162559362-001_ma.jpg",
             "string1": "digitreaties",
             "string2": "162559362",
-            "number1": 6
+            "number1": 6,
+            "@id": "https://api.dlc.services/customers/2/spaces/8/images/5e42190b-62af-4693-888a-3ade4e63764d"
         },
         {
             "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT_March_2020/162559362/162559362-002_ma.jpg",
             "string1": "digitreaties",
             "string2": "162559362",
-            "number1": 7
+            "number1": 7,
+            "@id": "https://api.dlc.services/customers/2/spaces/8/images/acbc2358-0242-4918-b323-47971e3a0d01"
         },
         {
             "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT_March_2020/162559362/162559362-003_ma.jpg",
             "string1": "digitreaties",
             "string2": "162559362",
-            "number1": 8
+            "number1": 8,
+            "@id": "https://api.dlc.services/customers/2/spaces/8/images/747246b4-f72d-4d0b-8bbc-a84920f166cb"
         },
         {
             "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT_March_2020/162559362/162559362-004_ma.jpg",
             "string1": "digitreaties",
             "string2": "162559362",
-            "number1": 9
+            "number1": 9,
+            "@id": "https://api.dlc.services/customers/2/spaces/8/images/4b251ee3-080a-46e1-b090-24fe90fa0c69"
         },
         {
             "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT_March_2020/162559362/162559362-005_ma.jpg",
             "string1": "digitreaties",
             "string2": "162559362",
-            "number1": 10
+            "number1": 10,
+            "@id": "https://api.dlc.services/customers/2/spaces/8/images/6448b95f-8b7b-4398-aa30-88eef829f035"
         }
     ]
 }

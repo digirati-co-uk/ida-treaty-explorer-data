@@ -6,14 +6,16 @@
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/57756662/57756662-001_ma.jpg",
             "string1": "digitreaties",
             "string2": "57756662",
-            "number1": 3
+            "number1": 3,
+            "@id": "https://api.dlc.services/customers/2/spaces/8/images/96fdb0e9-29a1-431c-a2b8-63a4f59e1797"
         },
         {
             "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/57756662/57756662-002_ma.jpg",
             "string1": "digitreaties",
             "string2": "57756662",
-            "number1": 4
+            "number1": 4,
+            "@id": "https://api.dlc.services/customers/2/spaces/8/images/1d28e4cb-de13-43dd-bfb7-8ceda39b8960"
         }
     ]
 }

@@ -3,31 +3,19 @@
     "member": [
         {
             "space": 8,
-            "origin": "https://catalog.archives.gov/OpaAPI/media/12013684/content/arcmedia/dc-metro/rg-011/299798/08021-2014-001-ac.jpg",
-            "string1": "digitreaties",
-            "string2": "12013684",
-            "number1": 1
-        },
-        {
-            "space": 8,
-            "origin": "https://catalog.archives.gov/OpaAPI/media/12013684/content/arcmedia/dc-metro/rg-011/299798/08021-2014-002-ac.jpg",
-            "string1": "digitreaties",
-            "string2": "12013684",
-            "number1": 2
-        },
-        {
-            "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/12013684/12013684-001-ma.jpg",
             "string1": "digitreaties",
             "string2": "12013684",
-            "number1": 5
+            "number1": 5,
+            "@id": "https://api.dlc.services/customers/2/spaces/8/images/59f6abd9-ebb9-42fa-933b-768c3acac126"
         },
         {
             "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/12013684/12013684-002-ma.jpg",
             "string1": "digitreaties",
             "string2": "12013684",
-            "number1": 6
+            "number1": 6,
+            "@id": "https://api.dlc.services/customers/2/spaces/8/images/c708e396-7146-4cb4-9a9e-5c8e49872446"
         }
     ]
 }

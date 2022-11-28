@@ -6,28 +6,32 @@
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/100378072/100378072-001_ma.jpg",
             "string1": "digitreaties",
             "string2": "100378072",
-            "number1": 5
+            "number1": 5,
+            "@id": "https://api.dlc.services/customers/2/spaces/8/images/64477bd4-fc26-41b2-9b9b-0ed196a187a6"
         },
         {
             "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/100378072/100378072-002_ma.jpg",
             "string1": "digitreaties",
             "string2": "100378072",
-            "number1": 6
+            "number1": 6,
+            "@id": "https://api.dlc.services/customers/2/spaces/8/images/ddb29db2-b505-4568-9893-699406743196"
         },
         {
             "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/100378072/100378072-003_ma.jpg",
             "string1": "digitreaties",
             "string2": "100378072",
-            "number1": 7
+            "number1": 7,
+            "@id": "https://api.dlc.services/customers/2/spaces/8/images/581469ac-f94b-4a38-b3b0-363842d5eefb"
         },
         {
             "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/100378072/100378072-004_ma.jpg",
             "string1": "digitreaties",
             "string2": "100378072",
-            "number1": 8
+            "number1": 8,
+            "@id": "https://api.dlc.services/customers/2/spaces/8/images/349d2912-3c75-40d8-bee2-b381ca559941"
         }
     ]
 }

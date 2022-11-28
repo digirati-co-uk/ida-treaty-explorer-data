@@ -3,66 +3,27 @@
     "member": [
         {
             "space": 8,
-            "origin": "https://catalog.archives.gov/OpaAPI/media/12013260/content/arcmedia/dc-metro/rg-011/299798/26704-2014-001-ac.jpg",
-            "string1": "digitreaties",
-            "string2": "12013260",
-            "number1": 1
-        },
-        {
-            "space": 8,
-            "origin": "https://catalog.archives.gov/OpaAPI/media/12013260/content/arcmedia/dc-metro/rg-011/299798/26704-2014-002-ac.jpg",
-            "string1": "digitreaties",
-            "string2": "12013260",
-            "number1": 2
-        },
-        {
-            "space": 8,
-            "origin": "https://catalog.archives.gov/OpaAPI/media/12013260/content/arcmedia/dc-metro/rg-011/299798/26704-2014-003-ac.jpg",
-            "string1": "digitreaties",
-            "string2": "12013260",
-            "number1": 3
-        },
-        {
-            "space": 8,
-            "origin": "https://catalog.archives.gov/OpaAPI/media/12013260/content/arcmedia/dc-metro/rg-011/299798/26704-2014-004-ac.jpg",
-            "string1": "digitreaties",
-            "string2": "12013260",
-            "number1": 4
-        },
-        {
-            "space": 8,
-            "origin": "https://catalog.archives.gov/OpaAPI/media/12013260/content/arcmedia/dc-metro/rg-011/299798/26704-2014-005-ac.jpg",
-            "string1": "digitreaties",
-            "string2": "12013260",
-            "number1": 5
-        },
-        {
-            "space": 8,
-            "origin": "https://catalog.archives.gov/OpaAPI/media/12013260/content/arcmedia/dc-metro/rg-011/299798/26704-2014-006-ac.jpg",
-            "string1": "digitreaties",
-            "string2": "12013260",
-            "number1": 6
-        },
-        {
-            "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/12013260/12013260-001-ma.jpg",
             "string1": "digitreaties",
             "string2": "12013260",
-            "number1": 10
+            "number1": 10,
+            "@id": "https://api.dlc.services/customers/2/spaces/8/images/7c6eb6b9-d5d8-4d56-bb7f-d0b9ebe7415f"
         },
         {
             "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/12013260/12013260-002-ma.jpg",
             "string1": "digitreaties",
             "string2": "12013260",
-            "number1": 11
+            "number1": 11,
+            "@id": "https://api.dlc.services/customers/2/spaces/8/images/ac32fbc4-ffa8-4627-a2cf-cf4fd4d49a91"
         },
         {
             "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/12013260/12013260-003-ma.jpg",
             "string1": "digitreaties",
             "string2": "12013260",
-            "number1": 12
+            "number1": 12,
+            "@id": "https://api.dlc.services/customers/2/spaces/8/images/9315c1d5-cee4-4e27-b471-d4ca6371e11e"
         }
     ]
 }

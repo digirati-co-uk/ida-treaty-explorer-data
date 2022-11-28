@@ -6,35 +6,40 @@
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT-Batch23/178331390/178331390-001_ma.jpg",
             "string1": "digitreaties",
             "string2": "178331390",
-            "number1": 6
+            "number1": 6,
+            "@id": "https://api.dlc.services/customers/2/spaces/8/images/c602daf7-d463-439c-a56d-14037f10d30d"
         },
         {
             "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT-Batch23/178331390/178331390-002_ma.jpg",
             "string1": "digitreaties",
             "string2": "178331390",
-            "number1": 7
+            "number1": 7,
+            "@id": "https://api.dlc.services/customers/2/spaces/8/images/fbae868e-8d18-4f95-ab72-514b23f303c1"
         },
         {
             "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT-Batch23/178331390/178331390-003_ma.jpg",
             "string1": "digitreaties",
             "string2": "178331390",
-            "number1": 8
+            "number1": 8,
+            "@id": "https://api.dlc.services/customers/2/spaces/8/images/65edf76d-ae27-4d01-be39-1cafc96a91b2"
         },
         {
             "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT-Batch23/178331390/178331390-004_ma.jpg",
             "string1": "digitreaties",
             "string2": "178331390",
-            "number1": 9
+            "number1": 9,
+            "@id": "https://api.dlc.services/customers/2/spaces/8/images/55fc5e07-3c4d-49d1-9cee-cd16ddf3a525"
         },
         {
             "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT-Batch23/178331390/178331390-005_ma.jpg",
             "string1": "digitreaties",
             "string2": "178331390",
-            "number1": 10
+            "number1": 10,
+            "@id": "https://api.dlc.services/customers/2/spaces/8/images/33d7170c-e4e3-4703-ad92-b1f1ce140122"
         }
     ]
 }

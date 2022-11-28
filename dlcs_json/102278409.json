@@ -6,7 +6,8 @@
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/102278409/102278409-001_ma.jpg",
             "string1": "digitreaties",
             "string2": "102278409",
-            "number1": 2
+            "number1": 2,
+            "@id": "https://api.dlc.services/customers/2/spaces/8/images/7fc155f6-a226-4f0f-b550-6580f3347d84"
         }
     ]
 }

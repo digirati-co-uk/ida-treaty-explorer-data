@@ -6,35 +6,40 @@
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT_June_2020/176561427/176561427-001_ma.jpg",
             "string1": "digitreaties",
             "string2": "176561427",
-            "number1": 6
+            "number1": 6,
+            "@id": "https://api.dlc.services/customers/2/spaces/8/images/73338d4d-da0e-4214-8fba-67c9365dc10f"
         },
         {
             "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT_June_2020/176561427/176561427-002_ma.jpg",
             "string1": "digitreaties",
             "string2": "176561427",
-            "number1": 7
+            "number1": 7,
+            "@id": "https://api.dlc.services/customers/2/spaces/8/images/f082046f-7cd9-4403-992c-6db6aac44e58"
         },
         {
             "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT_June_2020/176561427/176561427-003_ma.jpg",
             "string1": "digitreaties",
             "string2": "176561427",
-            "number1": 8
+            "number1": 8,
+            "@id": "https://api.dlc.services/customers/2/spaces/8/images/160bdfa3-9dd6-483a-a170-35f1394c97ea"
         },
         {
             "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT_June_2020/176561427/176561427-004_ma.jpg",
             "string1": "digitreaties",
             "string2": "176561427",
-            "number1": 9
+            "number1": 9,
+            "@id": "https://api.dlc.services/customers/2/spaces/8/images/9ab16a49-f30d-4ea5-a291-b58e59b65b8d"
         },
         {
             "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT_June_2020/176561427/176561427-005_ma.jpg",
             "string1": "digitreaties",
             "string2": "176561427",
-            "number1": 10
+            "number1": 10,
+            "@id": "https://api.dlc.services/customers/2/spaces/8/images/a474ce6d-ff69-43c8-9a45-f3d209aaa955"
         }
     ]
 }

@@ -6,7 +6,8 @@
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT-374/200192682/200192682-001_ma.jpg",
             "string1": "digitreaties",
             "string2": "200192682",
-            "number1": 2
+            "number1": 2,
+            "@id": "https://api.dlc.services/customers/2/spaces/8/images/33ba6611-d2a8-4743-a41e-742969883908"
         }
     ]
 }

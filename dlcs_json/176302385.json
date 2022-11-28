@@ -6,7 +6,8 @@
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT_June_2020/176302385/176302385-001_ma.jpg",
             "string1": "digitreaties",
             "string2": "176302385",
-            "number1": 2
+            "number1": 2,
+            "@id": "https://api.dlc.services/customers/2/spaces/8/images/188debc8-4ee1-472f-b657-b092b237acb6"
         }
     ]
 }

@@ -6,7 +6,8 @@
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT-Batch-24/178739592/178739592-001_ma.jpg",
             "string1": "digitreaties",
             "string2": "178739592",
-            "number1": 2
+            "number1": 2,
+            "@id": "https://api.dlc.services/customers/2/spaces/8/images/ad8d1bf9-f38d-48e4-bede-334e13e24ccb"
         }
     ]
 }

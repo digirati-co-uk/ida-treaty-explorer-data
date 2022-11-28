@@ -6,35 +6,40 @@
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT-Batch-24/179036075/179036075-001_ac.jpg",
             "string1": "digitreaties",
             "string2": "179036075",
-            "number1": 1
+            "number1": 1,
+            "@id": "https://api.dlc.services/customers/2/spaces/8/images/371a8ece-44b4-4433-99dd-7ae214320656"
         },
         {
             "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT-Batch-24/179036075/179036075-002_ac.jpg",
             "string1": "digitreaties",
             "string2": "179036075",
-            "number1": 2
+            "number1": 2,
+            "@id": "https://api.dlc.services/customers/2/spaces/8/images/03b6d154-9832-42b8-8bec-6707b0c2ea8d"
         },
         {
             "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT-Batch-24/179036075/179036075-003_ac.jpg",
             "string1": "digitreaties",
             "string2": "179036075",
-            "number1": 3
+            "number1": 3,
+            "@id": "https://api.dlc.services/customers/2/spaces/8/images/95a1af05-2d80-437b-a853-3333ec5921e2"
         },
         {
             "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT-Batch-24/179036075/179036075-004_ac.jpg",
             "string1": "digitreaties",
             "string2": "179036075",
-            "number1": 4
+            "number1": 4,
+            "@id": "https://api.dlc.services/customers/2/spaces/8/images/023f3e8e-a629-4aa1-9f01-aacb73c37fcb"
         },
         {
             "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT-Batch-24/179036075/179036075-005_ac.jpg",
             "string1": "digitreaties",
             "string2": "179036075",
-            "number1": 5
+            "number1": 5,
+            "@id": "https://api.dlc.services/customers/2/spaces/8/images/109c18c6-0fe1-4f8f-8723-6f9098f8eb07"
         }
     ]
 }
