@@ -3,17 +3,19 @@
     "member": [
         {
             "space": 8,
-            "origin": "https://catalog.archives.gov/OpaAPI/media/17368382/content/00019/M668-IndianTreaties_1722-1869_data/M668__0001/images/0000.jpg",
+            "origin": "https://legacy.catalog.archives.gov/OpaAPI/media/17368382/content/00019/M668-IndianTreaties_1722-1869_data/M668__0001/images/0000.jpg",
             "string1": "digitreaties",
             "string2": "17368382",
-            "number1": 1
+            "number1": 1,
+			"@id": "https://api.dlc.services/customers/2/spaces/8/images/5b9cd29e-9c07-4031-9183-522bff6d00d9"
         },
         {
             "space": 8,
-            "origin": "https://catalog.archives.gov/OpaAPI/media/17368382/content/00019/M668-IndianTreaties_1722-1869_data/M668__0001/images/0001.jpg",
+            "origin": "https://legacy.catalog.archives.gov/OpaAPI/media/17368382/content/00019/M668-IndianTreaties_1722-1869_data/M668__0001/images/0001.jpg",
             "string1": "digitreaties",
             "string2": "17368382",
-            "number1": 2
+            "number1": 2,
+			"@id": "https://api.dlc.services/customers/2/spaces/8/images/4b6d3b58-336b-4002-b893-8f02c385f8b1"
         }
     ]
 }
