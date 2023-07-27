@@ -2,11 +2,12 @@
     "@type": "Collection",
     "member": [
         {
-            "space": 7,
+            "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT_June_2020/176961115/176961115-001_ma.jpg",
-            "string1": "chapterday",
+            "string1": "digitreaties",
             "string2": "176961115",
-            "number1": 2
+            "number1": 2,
+            "@id": "https://api.dlc.services/customers/2/spaces/8/images/9587183b-3f0f-4b59-a80d-a6c6cd283294"
         }
     ]
 }

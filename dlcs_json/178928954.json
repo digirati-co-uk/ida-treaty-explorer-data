@@ -2,39 +2,44 @@
     "@type": "Collection",
     "member": [
         {
-            "space": 7,
+            "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT-Batch-24/178928954/178928954-001_ma.jpg",
-            "string1": "chapterday",
+            "string1": "digitreaties",
             "string2": "178928954",
-            "number1": 6
+            "number1": 6,
+            "@id": "https://api.dlc.services/customers/2/spaces/8/images/060e413e-b220-4300-9a08-9a44bee04a50"
         },
         {
-            "space": 7,
+            "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT-Batch-24/178928954/178928954-002_ma.jpg",
-            "string1": "chapterday",
+            "string1": "digitreaties",
             "string2": "178928954",
-            "number1": 7
+            "number1": 7,
+            "@id": "https://api.dlc.services/customers/2/spaces/8/images/2c051c77-4d54-4572-a4f9-e5dfedf4daef"
         },
         {
-            "space": 7,
+            "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT-Batch-24/178928954/178928954-003_ma.jpg",
-            "string1": "chapterday",
+            "string1": "digitreaties",
             "string2": "178928954",
-            "number1": 8
+            "number1": 8,
+            "@id": "https://api.dlc.services/customers/2/spaces/8/images/49eed6e4-6008-4e9a-8e1e-29354a8317d9"
         },
         {
-            "space": 7,
+            "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT-Batch-24/178928954/178928954-004_ma.jpg",
-            "string1": "chapterday",
+            "string1": "digitreaties",
             "string2": "178928954",
-            "number1": 9
+            "number1": 9,
+            "@id": "https://api.dlc.services/customers/2/spaces/8/images/908c8f40-3750-44ea-827e-41c8d1d87ff8"
         },
         {
-            "space": 7,
+            "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT-Batch-24/178928954/178928954-005_ma.jpg",
-            "string1": "chapterday",
+            "string1": "digitreaties",
             "string2": "178928954",
-            "number1": 10
+            "number1": 10,
+            "@id": "https://api.dlc.services/customers/2/spaces/8/images/2763a3ff-0a45-4758-a3a2-884d62dd1308"
         }
     ]
 }

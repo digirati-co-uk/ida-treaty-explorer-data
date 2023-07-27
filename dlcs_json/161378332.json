@@ -2,11 +2,20 @@
     "@type": "Collection",
     "member": [
         {
-            "space": 7,
-            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/161378332/161378332-002_ma.jpg",
-            "string1": "chapterday",
+            "space": 8,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/161378332/161378332-001_ac.jpg",
+            "string1": "digitreaties",
             "string2": "161378332",
-            "number1": 4
+            "number1": 1,
+            "@id": "https://api.dlc.services/customers/2/spaces/8/images/181daf39-00c9-469a-8128-04ceccddbc87"
+        },
+        {
+            "space": 8,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/161378332/161378332-002_ma.jpg",
+            "string1": "digitreaties",
+            "string2": "161378332",
+            "number1": 4,
+            "@id": "https://api.dlc.services/customers/2/spaces/8/images/8080cc01-2fe7-4741-98d4-b803c48fe0cb"
         }
     ]
 }

@@ -2,11 +2,12 @@
     "@type": "Collection",
     "member": [
         {
-            "space": 7,
+            "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT-374/200192685/200192685-001_ma.jpg",
-            "string1": "chapterday",
+            "string1": "digitreaties",
             "string2": "200192685",
-            "number1": 2
+            "number1": 2,
+            "@id": "https://api.dlc.services/customers/2/spaces/8/images/dc639904-5039-4b2f-97ac-28b0ebc7b74a"
         }
     ]
 }

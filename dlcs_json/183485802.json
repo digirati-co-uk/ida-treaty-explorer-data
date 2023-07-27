@@ -2,11 +2,12 @@
     "@type": "Collection",
     "member": [
         {
-            "space": 7,
+            "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT-Batch-25/183485802/183485802-001_ma.jpg",
-            "string1": "chapterday",
+            "string1": "digitreaties",
             "string2": "183485802",
-            "number1": 2
+            "number1": 2,
+            "@id": "https://api.dlc.services/customers/2/spaces/8/images/a3e7e7e0-ad59-4ccb-95b9-3504908c7f81"
         }
     ]
 }

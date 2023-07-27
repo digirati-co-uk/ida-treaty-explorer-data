@@ -1,4 +1,13 @@
 {
     "@type": "Collection",
-    "member": []
+    "member": [
+        {
+            "space": 8,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/124450588/124450588-001-ac.jpg",
+            "string1": "digitreaties",
+            "string2": "124450588",
+            "number1": 1,
+            "@id": "https://api.dlc.services/customers/2/spaces/8/images/2c024da2-9534-4c63-a67e-160e35852210"
+        }
+    ]
 }

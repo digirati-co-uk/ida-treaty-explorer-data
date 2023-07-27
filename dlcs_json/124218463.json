@@ -1,4 +1,21 @@
 {
     "@type": "Collection",
-    "member": []
+    "member": [
+        {
+            "space": 8,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/124218463/124218463-001-ac.jpg",
+            "string1": "digitreaties",
+            "string2": "124218463",
+            "number1": 1,
+            "@id": "https://api.dlc.services/customers/2/spaces/8/images/8a85f00e-9a48-4571-b282-cd15fc76e7b3"
+        },
+        {
+            "space": 8,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/124218463/124218463-002-ac.jpg",
+            "string1": "digitreaties",
+            "string2": "124218463",
+            "number1": 2,
+            "@id": "https://api.dlc.services/customers/2/spaces/8/images/5acb91a9-4303-443d-8f73-aefa19d3581f"
+        }
+    ]
 }

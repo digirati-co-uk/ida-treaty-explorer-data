@@ -2,11 +2,44 @@
     "@type": "Collection",
     "member": [
         {
-            "space": 7,
-            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT-Batch-24/179018967/179018967-004_ma.jpg",
-            "string1": "chapterday",
+            "space": 8,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT-Batch-24/179018967/179018967-001_ac.jpg",
+            "string1": "digitreaties",
             "string2": "179018967",
-            "number1": 9
+            "number1": 1,
+            "@id": "https://api.dlc.services/customers/2/spaces/8/images/cbd2775b-8f0e-4abb-9b97-5f1ec7c38011"
+        },
+        {
+            "space": 8,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT-Batch-24/179018967/179018967-002_ac.jpg",
+            "string1": "digitreaties",
+            "string2": "179018967",
+            "number1": 2,
+            "@id": "https://api.dlc.services/customers/2/spaces/8/images/79f2e3cd-28f4-4eaf-9586-994793255ee8"
+        },
+        {
+            "space": 8,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT-Batch-24/179018967/179018967-003_ac.jpg",
+            "string1": "digitreaties",
+            "string2": "179018967",
+            "number1": 3,
+            "@id": "https://api.dlc.services/customers/2/spaces/8/images/7583762b-df94-40ca-8473-49113e845645"
+        },
+        {
+            "space": 8,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT-Batch-24/179018967/179018967-005_ac.jpg",
+            "string1": "digitreaties",
+            "string2": "179018967",
+            "number1": 5,
+            "@id": "https://api.dlc.services/customers/2/spaces/8/images/4d3057da-25cb-48d4-8a82-3dbcfd1fdf55"
+        },
+        {
+            "space": 8,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT-Batch-24/179018967/179018967-004_ma.jpg",
+            "string1": "digitreaties",
+            "string2": "179018967",
+            "number1": 9,
+            "@id": "https://api.dlc.services/customers/2/spaces/8/images/c152cd7a-2db1-4cad-8ea6-6f679230153d"
         }
     ]
 }

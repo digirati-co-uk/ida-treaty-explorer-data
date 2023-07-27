@@ -2,32 +2,44 @@
     "@type": "Collection",
     "member": [
         {
-            "space": 7,
+            "space": 8,
+            "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/161378335/161378335-001_ac.jpg",
+            "string1": "digitreaties",
+            "string2": "161378335",
+            "number1": 1,
+            "@id": "https://api.dlc.services/customers/2/spaces/8/images/41a765c5-800d-4ca4-b300-543ad59cf3e3"
+        },
+        {
+            "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/161378335/161378335-002_ma.jpg",
-            "string1": "chapterday",
+            "string1": "digitreaties",
             "string2": "161378335",
-            "number1": 4
+            "number1": 4,
+            "@id": "https://api.dlc.services/customers/2/spaces/8/images/f21f0d25-249e-4977-bdc0-1f4ce2605c94"
         },
         {
-            "space": 7,
+            "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/161378335/161378335-003_ma.jpg",
-            "string1": "chapterday",
+            "string1": "digitreaties",
             "string2": "161378335",
-            "number1": 6
+            "number1": 6,
+            "@id": "https://api.dlc.services/customers/2/spaces/8/images/244182b4-78f3-402f-8604-f2f93f7951a7"
         },
         {
-            "space": 7,
+            "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/161378335/161378335-004_ma.jpg",
-            "string1": "chapterday",
+            "string1": "digitreaties",
             "string2": "161378335",
-            "number1": 8
+            "number1": 8,
+            "@id": "https://api.dlc.services/customers/2/spaces/8/images/b3373f28-8ccb-4f0e-9cac-fc28618e2290"
         },
         {
-            "space": 7,
+            "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/161378335/161378335-005_ma.jpg",
-            "string1": "chapterday",
+            "string1": "digitreaties",
             "string2": "161378335",
-            "number1": 10
+            "number1": 10,
+            "@id": "https://api.dlc.services/customers/2/spaces/8/images/2ec6ec27-dd54-4bc5-85fe-b6717da8ed61"
         }
     ]
 }

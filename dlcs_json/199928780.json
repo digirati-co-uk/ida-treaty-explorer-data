@@ -2,18 +2,20 @@
     "@type": "Collection",
     "member": [
         {
-            "space": 7,
+            "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT-Batch-26/199928780/199928780-001_ma.jpg",
-            "string1": "chapterday",
+            "string1": "digitreaties",
             "string2": "199928780",
-            "number1": 3
+            "number1": 3,
+            "@id": "https://api.dlc.services/customers/2/spaces/8/images/0cdd261e-1a77-44fb-be31-c39de310e1ea"
         },
         {
-            "space": 7,
+            "space": 8,
             "origin": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-011/299798/RIT-Batch-26/199928780/199928780-002_ma.jpg",
-            "string1": "chapterday",
+            "string1": "digitreaties",
             "string2": "199928780",
-            "number1": 4
+            "number1": 4,
+            "@id": "https://api.dlc.services/customers/2/spaces/8/images/9fdf2a95-6403-4588-9d4c-ece57cd85138"
         }
     ]
 }
